@@ -1,0 +1,1292 @@
+{
+  "fourth": {
+    "definition": "num. 第四",
+    "phonetic": {
+      "uk": "/fɔːθ/",
+      "us": "/fɔːrθ/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": ["the fourth floor"],
+    "examples": ["This is the fourth time I've called you.", "February is the fourth month."]
+  },
+  "free": {
+    "definition": "adj. 自由的,空闲的,免费的; v. 释放",
+    "phonetic": {
+      "uk": "/friː/",
+      "us": "/friː/"
+    },
+    "partOfSpeech": "adj., v.",
+    "phrases": ["free time", "set free"],
+    "examples": ["Are you free tonight?", "The prisoners were set free."]
+  },
+  "freedom": {
+    "definition": "n. 自由",
+    "phonetic": {
+      "uk": "/ˈfriːdəm/",
+      "us": "/ˈfriːdəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["freedom of speech", "religious freedom"],
+    "examples": ["Freedom is precious.", "They fought for their freedom."]
+  },
+  "freight": {
+    "definition": "n. 货物,运费",
+    "phonetic": {
+      "uk": "/freɪt/",
+      "us": "/freɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["freight train", "air freight"],
+    "examples": ["The freight cost is too high.", "This train carries freight only."]
+  },
+  "freeze": {
+    "definition": "v. 结冰,冷冻",
+    "phonetic": {
+      "uk": "/friːz/",
+      "us": "/friːz/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["freeze to death", "freeze over"],
+    "examples": ["The lake freezes in winter.", "Don't freeze the food too long."]
+  },
+  "frequent": {
+    "definition": "adj. 频繁的,经常的",
+    "phonetic": {
+      "uk": "/ˈfriːkwənt/",
+      "us": "/ˈfriːkwənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["frequent visitor", "frequent meetings"],
+    "examples": ["He makes frequent trips to London.", "Frequent exercise is good for health."]
+  },
+  "fresh": {
+    "definition": "adj. 新鲜的,新颖的",
+    "phonetic": {
+      "uk": "/freʃ/",
+      "us": "/freʃ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["fresh air", "fresh water"],
+    "examples": ["I bought some fresh fruit today.", "We need fresh ideas."]
+  },
+  "friendship": {
+    "definition": "n. 友谊",
+    "phonetic": {
+      "uk": "/ˈfrendʃɪp/",
+      "us": "/ˈfrendʃɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["true friendship", "build friendship"],
+    "examples": ["Their friendship lasted for years.", "Friendship is important in life."]
+  },
+  "frighten": {
+    "definition": "v. 使惊吓,吓唬",
+    "phonetic": {
+      "uk": "/ˈfraɪtn/",
+      "us": "/ˈfraɪtn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["frighten away", "be frightened"],
+    "examples": ["Don't frighten the children.", "The loud noise frightened me."]
+  },
+  "from": {
+    "definition": "prep. 从...来,来自",
+    "phonetic": {
+      "uk": "/frɒm/",
+      "us": "/frʌm/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": ["come from", "far from"],
+    "examples": ["I'm from China.", "Where are you from?"]
+  },
+  "front": {
+    "definition": "n. 前面,正面; adj. 前面的",
+    "phonetic": {
+      "uk": "/frʌnt/",
+      "us": "/frʌnt/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["in front of", "front page"],
+    "examples": ["The front of the house needs painting.", "Sit in the front row."]
+  },
+  "frontier": {
+    "definition": "n. 边境,边疆",
+    "phonetic": {
+      "uk": "/ˈfrʌntɪə(r)/",
+      "us": "/frʌnˈtɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["frontier town", "cross the frontier"],
+    "examples": ["They live near the frontier.", "The frontier is well guarded."]
+  },
+  "frost": {
+    "definition": "n. 霜",
+    "phonetic": {
+      "uk": "/frɒst/",
+      "us": "/frɔːst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["frost bite", "heavy frost"],
+    "examples": ["There was frost on the ground.", "The frost killed the plants."]
+  },
+  "fruit": {
+    "definition": "n. 水果,果实",
+    "phonetic": {
+      "uk": "/fruːt/",
+      "us": "/fruːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["fresh fruit", "fruit tree"],
+    "examples": ["Eat more fruit for health.", "Apples are my favorite fruit."]
+  },
+  "fry": {
+    "definition": "v. 油煎,油炸",
+    "phonetic": {
+      "uk": "/fraɪ/",
+      "us": "/fraɪ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["deep fry", "fry pan"],
+    "examples": ["I'll fry some eggs for breakfast.", "Don't fry food in too much oil."]
+  },
+  "fuel": {
+    "definition": "n. 燃料",
+    "phonetic": {
+      "uk": "/fjuːəl/",
+      "us": "/ˈfjuːəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["fossil fuel", "fuel tank"],
+    "examples": ["The car ran out of fuel.", "Wood is a common fuel."]
+  },
+  "full": {
+    "definition": "adj. 满的,完全的",
+    "phonetic": {
+      "uk": "/fʊl/",
+      "us": "/fʊl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["full time", "be full of"],
+    "examples": ["The glass is full.", "He gave me his full attention."]
+  },
+  "fun": {
+    "definition": "n. 乐趣,有趣的事; adj. 有趣的",
+    "phonetic": {
+      "uk": "/fʌn/",
+      "us": "/fʌn/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["have fun", "make fun of"],
+    "examples": ["We had fun at the party.", "It was a fun game."]
+  },
+  "function": {
+    "definition": "n. 功能,函数; v. 运行,起作用",
+    "phonetic": {
+      "uk": "/ˈfʌŋkʃn/",
+      "us": "/ˈfʌŋkʃn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["main function", "social function"],
+    "examples": ["The heart functions to pump blood.", "What is the function of this button?"]
+  },
+  "fund": {
+    "definition": "n. 资金,基金; v. 提供资金",
+    "phonetic": {
+      "uk": "/fʌnd/",
+      "us": "/fʌnd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["raise funds", "welfare fund"],
+    "examples": ["The project needs more funds.", "They funded the research."]
+  },
+  "fundamental": {
+    "definition": "adj. 基本的,根本的",
+    "phonetic": {
+      "uk": "/ˌfʌndəˈmentl/",
+      "us": "/ˌfʌndəˈmentl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["fundamental right", "fundamental change"],
+    "examples": ["Trust is fundamental to any relationship.", "We made a fundamental error."]
+  },
+  "funny": {
+    "definition": "adj. 有趣的,滑稽的",
+    "phonetic": {
+      "uk": "/ˈfʌni/",
+      "us": "/ˈfʌni/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["funny story", "look funny"],
+    "examples": ["That joke was really funny.", "You look funny in that hat."]
+  },
+  "furniture": {
+    "definition": "n. 家具",
+    "phonetic": {
+      "uk": "/ˈfɜːnɪtʃə(r)/",
+      "us": "/ˈfɜːrnɪtʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["piece of furniture", "office furniture"],
+    "examples": ["We bought new furniture.", "The furniture is comfortable."]
+  },
+  "future": {
+    "definition": "n. 未来; adj. 未来的",
+    "phonetic": {
+      "uk": "/ˈfjuːtʃə(r)/",
+      "us": "/ˈfjuːtʃər/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["in the future", "future plans"],
+    "examples": ["The future is uncertain.", "She has a bright future ahead."]
+  },
+  "gain": {
+    "definition": "v. 获得,增加; n. 收益",
+    "phonetic": {
+      "uk": "/ɡeɪn/",
+      "us": "/ɡeɪn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["gain weight", "gain experience"],
+    "examples": ["He gained confidence over time.", "The company made a gain this year."]
+  },
+  "game": {
+    "definition": "n. 游戏,比赛",
+    "phonetic": {
+      "uk": "/ɡeɪm/",
+      "us": "/ɡeɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["play games", "video game"],
+    "examples": ["Football is a popular game.", "Let's play a game."]
+  },
+  "gap": {
+    "definition": "n. 缺口,差距",
+    "phonetic": {
+      "uk": "/ɡæp/",
+      "us": "/ɡæp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["generation gap", "fill the gap"],
+    "examples": ["There's a gap in the fence.", "We need to bridge the gap."]
+  },
+  "garage": {
+    "definition": "n. 车库,汽车修理厂",
+    "phonetic": {
+      "uk": "/ˈɡærɑːʒ/",
+      "us": "/ɡəˈrɑːʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["park in the garage", "garage sale"],
+    "examples": ["The car is in the garage.", "He works at a garage."]
+  },
+  "gas": {
+    "definition": "n. 气体,煤气,汽油",
+    "phonetic": {
+      "uk": "/ɡæs/",
+      "us": "/ɡæs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["natural gas", "gas station"],
+    "examples": ["Turn off the gas.", "The car needs gas."]
+  },
+  "gate": {
+    "definition": "n. 大门",
+    "phonetic": {
+      "uk": "/ɡeɪt/",
+      "us": "/ɡeɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["front gate", "gate keeper"],
+    "examples": ["Close the gate behind you.", "We met at the gate."]
+  },
+  "gather": {
+    "definition": "v. 聚集,收集",
+    "phonetic": {
+      "uk": "/ˈɡæðə(r)/",
+      "us": "/ˈɡæðər/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["gather together", "gather information"],
+    "examples": ["The children gathered around the teacher.", "We need to gather more data."]
+  },
+  "gay": {
+    "definition": "adj. 快乐的,同性恋的",
+    "phonetic": {
+      "uk": "/ɡeɪ/",
+      "us": "/ɡeɪ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["gay rights", "gay marriage"],
+    "examples": ["She has a gay personality.", "They support gay rights."]
+  },
+  "gear": {
+    "definition": "n. 齿轮,装备; v. 调整",
+    "phonetic": {
+      "uk": "/ɡɪə(r)/",
+      "us": "/ɡɪr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["gear up", "change gear"],
+    "examples": ["The car has five gears.", "We geared up for the challenge."]
+  },
+  "general": {
+    "definition": "adj. 一般的,总的; n. 将军",
+    "phonetic": {
+      "uk": "/ˈdʒenrəl/",
+      "us": "/ˈdʒenrəl/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": ["general public", "in general"],
+    "examples": ["This is a general rule.", "The general led the army."]
+  },
+  "generate": {
+    "definition": "v. 产生,发生",
+    "phonetic": {
+      "uk": "/ˈdʒenəreɪt/",
+      "us": "/ˈdʒenəreɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["generate electricity", "generate income"],
+    "examples": ["The power plant generates electricity.", "This idea generated great interest."]
+  },
+  "generation": {
+    "definition": "n. 一代,产生",
+    "phonetic": {
+      "uk": "/ˌdʒenəˈreɪʃn/",
+      "us": "/ˌdʒenəˈreɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["younger generation", "next generation"],
+    "examples": ["Our generation is different.", "The new generation of computers is faster."]
+  },
+  "generous": {
+    "definition": "adj. 慷慨的,大方的",
+    "phonetic": {
+      "uk": "/ˈdʒenərəs/",
+      "us": "/ˈdʒenərəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["generous donation", "generous offer"],
+    "examples": ["He is generous with his time.", "Thank you for your generous help."]
+  },
+  "genius": {
+    "definition": "n. 天才",
+    "phonetic": {
+      "uk": "/ˈdʒiːniəs/",
+      "us": "/ˈdʒiːniəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["musical genius", "scientific genius"],
+    "examples": ["Einstein was a genius.", "She has a genius for mathematics."]
+  },
+  "gentle": {
+    "definition": "adj. 温柔的,轻柔的",
+    "phonetic": {
+      "uk": "/ˈdʒentl/",
+      "us": "/ˈdʒentl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["gentle breeze", "gentle voice"],
+    "examples": ["Be gentle with the baby.", "She has a gentle nature."]
+  },
+  "gentleman": {
+    "definition": "n. 绅士,先生",
+    "phonetic": {
+      "uk": "/ˈdʒentlmən/",
+      "us": "/ˈdʒentlmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["ladies and gentlemen", "true gentleman"],
+    "examples": ["He is a true gentleman.", "Ladies and gentlemen, welcome."]
+  },
+  "gently": {
+    "definition": "adv. 温柔地,轻轻地",
+    "phonetic": {
+      "uk": "/ˈdʒentli/",
+      "us": "/ˈdʒentli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["hold gently", "speak gently"],
+    "examples": ["She held the baby gently.", "He spoke gently to her."]
+  },
+  "geography": {
+    "definition": "n. 地理,地理学",
+    "phonetic": {
+      "uk": "/dʒiˈɒɡrəfi/",
+      "us": "/dʒiˈɑːɡrəfi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["physical geography", "human geography"],
+    "examples": ["Geography is my favorite subject.", "He studies world geography."]
+  },
+  "geometry": {
+    "definition": "n. 几何学",
+    "phonetic": {
+      "uk": "/dʒiˈɒmətri/",
+      "us": "/dʒiˈɑːmətri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["plane geometry", "solid geometry"],
+    "examples": ["I'm learning geometry.", "Geometry studies shapes and sizes."]
+  },
+  "gesture": {
+    "definition": "n. 手势,姿态",
+    "phonetic": {
+      "uk": "/ˈdʒestʃə(r)/",
+      "us": "/ˈdʒestʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["make a gesture", "friendly gesture"],
+    "examples": ["He made a rude gesture.", "Her smile was a kind gesture."]
+  },
+  "get": {
+    "definition": "v. 得到,变成,到达",
+    "phonetic": {
+      "uk": "/ɡet/",
+      "us": "/ɡet/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["get up", "get along with"],
+    "examples": ["I got a new job.", "Let's get home early."]
+  },
+  "ghost": {
+    "definition": "n. 鬼,幽灵",
+    "phonetic": {
+      "uk": "/ɡəʊst/",
+      "us": "/ɡoʊst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["ghost story", "holy ghost"],
+    "examples": ["Do you believe in ghosts?", "The old house is haunted by a ghost."]
+  },
+  "giant": {
+    "definition": "n. 巨人; adj. 巨大的",
+    "phonetic": {
+      "uk": "/ˈdʒaɪənt/",
+      "us": "/ˈdʒaɪənt/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["giant step", "giant corporation"],
+    "examples": ["The giant was very tall.", "This is a giant leap forward."]
+  },
+  "gift": {
+    "definition": "n. 礼物,天赋",
+    "phonetic": {
+      "uk": "/ɡɪft/",
+      "us": "/ɡɪft/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["birthday gift", "gift for language"],
+    "examples": ["I bought her a gift.", "She has a gift for music."]
+  },
+  "girl": {
+    "definition": "n. 女孩,姑娘",
+    "phonetic": {
+      "uk": "/ɡɜːl/",
+      "us": "/ɡɜːrl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["little girl", "girl friend"],
+    "examples": ["The girl is playing.", "She is a smart girl."]
+  },
+  "give": {
+    "definition": "v. 给,提供",
+    "phonetic": {
+      "uk": "/ɡɪv/",
+      "us": "/ɡɪv/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["give up", "give away"],
+    "examples": ["Please give me that book.", "She gave me some advice."]
+  },
+  "glad": {
+    "definition": "adj. 高兴的,乐意的",
+    "phonetic": {
+      "uk": "/ɡlæd/",
+      "us": "/ɡlæd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["glad to see", "be glad"],
+    "examples": ["I'm glad to meet you.", "She was glad to help."]
+  },
+  "glance": {
+    "definition": "v. 瞥一眼; n. 一瞥",
+    "phonetic": {
+      "uk": "/ɡlɑːns/",
+      "us": "/ɡlæns/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["at a glance", "glance at"],
+    "examples": ["She glanced at her watch.", "He took a quick glance."]
+  },
+  "glare": {
+    "definition": "v. 怒视,闪耀; n. 强光",
+    "phonetic": {
+      "uk": "/ɡleə(r)/",
+      "us": "/ɡler/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["glare at", "sun glare"],
+    "examples": ["He glared at me angrily.", "The glare of the sun hurt my eyes."]
+  },
+  "glass": {
+    "definition": "n. 玻璃,玻璃杯",
+    "phonetic": {
+      "uk": "/ɡlɑːs/",
+      "us": "/ɡlæs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["a glass of water", "wine glass"],
+    "examples": ["The glass is fragile.", "Would you like another glass?"]
+  },
+  "glimpse": {
+    "definition": "n. 一瞥; v. 瞥见",
+    "phonetic": {
+      "uk": "/ɡlɪmps/",
+      "us": "/ɡlɪmps/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["catch a glimpse", "glimpse of"],
+    "examples": ["I caught a glimpse of him.", "She glimpsed the famous actor."]
+  },
+  "glitter": {
+    "definition": "v. 闪耀; n. 闪光",
+    "phonetic": {
+      "uk": "/ˈɡlɪtə(r)/",
+      "us": "/ˈɡlɪtər/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["glitter and gold", "all that glitters"],
+    "examples": ["The diamond glittered in the light.", "She loves glitter."]
+  },
+  "globe": {
+    "definition": "n. 地球仪,地球",
+    "phonetic": {
+      "uk": "/ɡləʊb/",
+      "us": "/ɡloʊb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["globe trotter", "across the globe"],
+    "examples": ["Look at the globe.", "He travels around the globe."]
+  },
+  "glorious": {
+    "definition": "adj. 光荣的,壮丽的",
+    "phonetic": {
+      "uk": "/ˈɡlɔːriəs/",
+      "us": "/ˈɡlɔːriəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["glorious victory", "glorious weather"],
+    "examples": ["They achieved a glorious victory.", "What a glorious day!"]
+  },
+  "glory": {
+    "definition": "n. 光荣,荣誉",
+    "phonetic": {
+      "uk": "/ˈɡlɔːri/",
+      "us": "/ˈɡlɔːri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["eternal glory", "in glory"],
+    "examples": ["He fought for glory.", "The team brought glory to their country."]
+  },
+  "glove": {
+    "definition": "n. 手套",
+    "phonetic": {
+      "uk": "/ɡlʌv/",
+      "us": "/ɡlʌv/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["winter gloves", "boxing gloves"],
+    "examples": ["Put on your gloves.", "She wears warm gloves in winter."]
+  },
+  "glow": {
+    "definition": "v. 发光; n. 光辉",
+    "phonetic": {
+      "uk": "/ɡləʊ/",
+      "us": "/ɡloʊ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["glow with pride", "sunset glow"],
+    "examples": ["The fire glowed in the dark.", "Her face had a healthy glow."]
+  },
+  "glue": {
+    "definition": "n. 胶水; v. 胶合",
+    "phonetic": {
+      "uk": "/ɡluː/",
+      "us": "/ɡluː/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["glue stick", "glue together"],
+    "examples": ["Use glue to fix it.", "They glued the pieces together."]
+  },
+  "goal": {
+    "definition": "n. 目标,球门",
+    "phonetic": {
+      "uk": "/ɡəʊl/",
+      "us": "/ɡoʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["score a goal", "life goal"],
+    "examples": ["Our team scored a goal.", "Set a clear goal for yourself."]
+  },
+  "goat": {
+    "definition": "n. 山羊",
+    "phonetic": {
+      "uk": "/ɡəʊt/",
+      "us": "/ɡoʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["mountain goat", "goat cheese"],
+    "examples": ["The goat climbed the hill.", "They raise goats on the farm."]
+  },
+  "god": {
+    "definition": "n. 上帝,神",
+    "phonetic": {
+      "uk": "/ɡɒd/",
+      "us": "/ɡɑːd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["thank god", "god bless"],
+    "examples": ["Do you believe in God?", "Thank God it's Friday."]
+  },
+  "gold": {
+    "definition": "n. 金子; adj. 金色的",
+    "phonetic": {
+      "uk": "/ɡəʊld/",
+      "us": "/ɡoʊld/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["gold medal", "gold ring"],
+    "examples": ["Gold is expensive.", "She wore a gold necklace."]
+  },
+  "golden": {
+    "definition": "adj. 金色的,珍贵的",
+    "phonetic": {
+      "uk": "/ˈɡəʊldən/",
+      "us": "/ˈɡoʊldən/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["golden hair", "golden opportunity"],
+    "examples": ["The sun casts golden light.", "This is a golden chance."]
+  },
+  "golf": {
+    "definition": "n. 高尔夫球",
+    "phonetic": {
+      "uk": "/ɡɒlf/",
+      "us": "/ɡɑːlf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["play golf", "golf club"],
+    "examples": ["He plays golf on weekends.", "Golf is an expensive sport."]
+  },
+  "good": {
+    "definition": "adj. 好的,有益的",
+    "phonetic": {
+      "uk": "/ɡʊd/",
+      "us": "/ɡʊd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["good morning", "be good at"],
+    "examples": ["She is a good student.", "Have a good day."]
+  },
+  "goodbye": {
+    "definition": "int. 再见",
+    "phonetic": {
+      "uk": "/ˌɡʊdˈbaɪ/",
+      "us": "/ˌɡʊdˈbaɪ/"
+    },
+    "partOfSpeech": "int.",
+    "phrases": ["say goodbye", "wave goodbye"],
+    "examples": ["Goodbye, see you tomorrow.", "It's time to say goodbye."]
+  },
+  "goods": {
+    "definition": "n. 商品,货物",
+    "phonetic": {
+      "uk": "/ɡʊdz/",
+      "us": "/ɡʊdz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["consumer goods", "deliver goods"],
+    "examples": ["The store sells various goods.", "These goods are imported."]
+  },
+  "goose": {
+    "definition": "n. 鹅",
+    "phonetic": {
+      "uk": "/ɡuːs/",
+      "us": "/ɡuːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["wild goose", "goose bumps"],
+    "examples": ["The goose is swimming.", "We had roast goose for dinner."]
+  },
+  "govern": {
+    "definition": "v. 统治,管理",
+    "phonetic": {
+      "uk": "/ˈɡʌvn/",
+      "us": "/ˈɡʌvn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["govern a country", "self govern"],
+    "examples": ["The party governs the country.", "Who should govern this land?"]
+  },
+  "government": {
+    "definition": "n. 政府",
+    "phonetic": {
+      "uk": "/ˈɡʌvənmənt/",
+      "us": "/ˈɡʌvərnmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["federal government", "government policy"],
+    "examples": ["The government announced new rules.", "Trust in the government is low."]
+  },
+  "governor": {
+    "definition": "n. 州长,总督",
+    "phonetic": {
+      "uk": "/ˈɡʌvənə(r)/",
+      "us": "/ˈɡʌvərnər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["state governor", "bank governor"],
+    "examples": ["The governor visited our city.", "She was elected governor."]
+  },
+  "gown": {
+    "definition": "n. 长袍,礼服",
+    "phonetic": {
+      "uk": "/ɡaʊn/",
+      "us": "/ɡaʊn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["wedding gown", "night gown"],
+    "examples": ["She wore a beautiful gown.", "The bride's gown was white."]
+  },
+  "grab": {
+    "definition": "v. 抓取,强夺",
+    "phonetic": {
+      "uk": "/ɡræb/",
+      "us": "/ɡræb/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["grab a bite", "grab attention"],
+    "examples": ["He grabbed my arm.", "Let's grab some lunch."]
+  },
+  "grace": {
+    "definition": "n. 优雅,恩典",
+    "phonetic": {
+      "uk": "/ɡreɪs/",
+      "us": "/ɡreɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["with grace", "say grace"],
+    "examples": ["She dances with grace.", "Thank you for your grace."]
+  },
+  "grade": {
+    "definition": "n. 年级,成绩,等级; v. 评分",
+    "phonetic": {
+      "uk": "/ɡreɪd/",
+      "us": "/ɡreɪd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["high grade", "grade the papers"],
+    "examples": ["She got good grades.", "The teacher grades our homework."]
+  },
+  "gradual": {
+    "definition": "adj. 逐渐的",
+    "phonetic": {
+      "uk": "/ˈɡrædʒuəl/",
+      "us": "/ˈɡrædʒuəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["gradual change", "gradual increase"],
+    "examples": ["The change was gradual.", "There was a gradual improvement."]
+  },
+  "graduate": {
+    "definition": "v. 毕业; n. 毕业生",
+    "phonetic": {
+      "uk": "/ˈɡrædʒuət/",
+      "us": "/ˈɡrædʒuət/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["graduate from", "graduate student"],
+    "examples": ["I will graduate next year.", "She is a Harvard graduate."]
+  },
+  "grain": {
+    "definition": "n. 谷物,颗粒",
+    "phonetic": {
+      "uk": "/ɡreɪn/",
+      "us": "/ɡreɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["grain of salt", "whole grain"],
+    "examples": ["Wheat is an important grain.", "Take his words with a grain of salt."]
+  },
+  "gram": {
+    "definition": "n. 克",
+    "phonetic": {
+      "uk": "/ɡræm/",
+      "us": "/ɡræm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["gram of protein", "kilogram"],
+    "examples": ["This package weighs 500 grams.", "Add a gram of sugar."]
+  },
+  "grammar": {
+    "definition": "n. 语法",
+    "phonetic": {
+      "uk": "/ˈɡræmə(r)/",
+      "us": "/ˈɡræmər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["grammar book", "learn grammar"],
+    "examples": ["Grammar is important in language learning.", "Check your grammar before submitting."]
+  },
+  "grand": {
+    "definition": "adj. 宏伟的,极好的",
+    "phonetic": {
+      "uk": "/ɡrænd/",
+      "us": "/ɡrænd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["grand building", "grand plan"],
+    "examples": ["The palace is grand.", "What a grand idea!"]
+  },
+  "granddaughter": {
+    "definition": "n. 孙女,外孙女",
+    "phonetic": {
+      "uk": "/ˈɡrændɔːtə(r)/",
+      "us": "/ˈɡrændɔːtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [],
+    "examples": ["His granddaughter is cute.", "She visits her grandmother every week."]
+  },
+  "grandfather": {
+    "definition": "n. 祖父,外祖父",
+    "phonetic": {
+      "uk": "/ˈɡrændfɑːðə(r)/",
+      "us": "/ˈɡrændfɑːðər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["grandfather clock", "like grandfather"],
+    "examples": ["My grandfather is old.", "He looks like his grandfather."]
+  },
+  "grandmother": {
+    "definition": "n. 祖母,外祖母",
+    "phonetic": {
+      "uk": "/ˈɡrændmʌðə(r)/",
+      "us": "/ˈɡrændmʌðər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [],
+    "examples": ["Grandmother cooks well.", "She loves her grandmother very much."]
+  },
+  "grandson": {
+    "definition": "n. 孙子,外孙",
+    "phonetic": {
+      "uk": "/ˈɡrændsʌn/",
+      "us": "/ˈɡrænsʌn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [],
+    "examples": ["Her grandson is handsome.", "The grandfather plays with his grandson."]
+  },
+  "grant": {
+    "definition": "v. 授予,同意; n. 拨款",
+    "phonetic": {
+      "uk": "/ɡrɑːnt/",
+      "us": "/ɡrænt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["take for granted", "government grant"],
+    "examples": ["They granted him permission.", "Don't take anything for granted."]
+  },
+  "grape": {
+    "definition": "n. 葡萄",
+    "phonetic": {
+      "uk": "/ɡreɪp/",
+      "us": "/ɡreɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["sour grapes", "wine grape"],
+    "examples": ["Do you like grapes?", "The grapes are sweet."]
+  },
+  "graph": {
+    "definition": "n. 图表,曲线图",
+    "phonetic": {
+      "uk": "/ɡrɑːf/",
+      "us": "/ɡræf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["bar graph", "line graph"],
+    "examples": ["Please draw a graph.", "The graph shows the trend."]
+  },
+  "grasp": {
+    "definition": "v. 抓住,领会; n. 抓紧,理解",
+    "phonetic": {
+      "uk": "/ɡrɑːsp/",
+      "us": "/ɡræsp/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["grasp the opportunity", "within one's grasp"],
+    "examples": ["He grasped my hand.", "It's hard to grasp this concept."]
+  },
+  "grass": {
+    "definition": "n. 草,草坪",
+    "phonetic": {
+      "uk": "/ɡrɑːs/",
+      "us": "/ɡræs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["cut the grass", "green grass"],
+    "examples": ["The grass is green.", "Don't walk on the grass."]
+  },
+  "grateful": {
+    "definition": "adj. 感激的",
+    "phonetic": {
+      "uk": "/ˈɡreɪtfl/",
+      "us": "/ˈɡreɪtfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["be grateful for", "grateful heart"],
+    "examples": ["I am grateful for your help.", "She is grateful to her parents."]
+  },
+  "gratitude": {
+    "definition": "n. 感激",
+    "phonetic": {
+      "uk": "/ˈɡrætɪtjuːd/",
+      "us": "/ˈɡrætɪtuːd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["express gratitude", "show gratitude"],
+    "examples": ["Please accept my gratitude.", "She feels gratitude towards him."]
+  },
+  "grave": {
+    "definition": "n. 坟墓; adj. 严重的,严肃的",
+    "phonetic": {
+      "uk": "/ɡreɪv/",
+      "us": "/ɡreɪv/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": ["grave yard", "grave situation"],
+    "examples": ["She visits his grave every year.", "This is a grave matter."]
+  },
+  "gravity": {
+    "definition": "n. 重力,严肃",
+    "phonetic": {
+      "uk": "/ˈɡrævəti/",
+      "us": "/ˈɡrævəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["center of gravity", "earth's gravity"],
+    "examples": ["Gravity pulls everything down.", "The situation lacks gravity."]
+  },
+  "gray": {
+    "definition": "adj. 灰色的; n. 灰色",
+    "phonetic": {
+      "uk": "/ɡreɪ/",
+      "us": "/ɡreɪ/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": ["gray hair", "dark gray"],
+    "examples": ["The sky is gray today.", "He has gray hair."]
+  },
+  "great": {
+    "definition": "adj. 伟大的,极好的",
+    "phonetic": {
+      "uk": "/ɡreɪt/",
+      "us": "/ɡreɪt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["great job", "great wall"],
+    "examples": ["That's a great idea.", "He is a great leader."]
+  },
+  "greedy": {
+    "definition": "adj. 贪婪的",
+    "phonetic": {
+      "uk": "/ˈɡriːdi/",
+      "us": "/ˈɡriːdi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["greedy person", "greedy for"],
+    "examples": ["Don't be greedy.", "The greedy dog ate all the food."]
+  },
+  "green": {
+    "definition": "adj. 绿色的; n. 绿色",
+    "phonetic": {
+      "uk": "/ɡriːn/",
+      "us": "/ɡriːn/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": ["green tea", "green light"],
+    "examples": ["The leaves are green.", "I like green color."]
+  },
+  "greet": {
+    "definition": "v. 问候,迎接",
+    "phonetic": {
+      "uk": "/ɡriːt/",
+      "us": "/ɡriːt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["greet guests", "greet each other"],
+    "examples": ["She greeted me warmly.", "They greeted the guests at the door."]
+  },
+  "greeting": {
+    "definition": "n. 问候,致意",
+    "phonetic": {
+      "uk": "/ˈɡriːtɪŋ/",
+      "us": "/ˈɡriːtɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["exchange greetings", "greeting card"],
+    "examples": ["He offered a friendly greeting.", "Send my greetings to your family."]
+  },
+  "grey": {
+    "definition": "adj. 灰色的; n. 灰色",
+    "phonetic": {
+      "uk": "/ɡreɪ/",
+      "us": "/ɡreɪ/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [],
+    "examples": ["The sky is grey.", "Her dress is grey."]
+  },
+  "grieve": {
+    "definition": "v. 悲伤,哀悼",
+    "phonetic": {
+      "uk": "/ɡriːv/",
+      "us": "/ɡriːv/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["grieve over", "grieve for"],
+    "examples": ["She grieved for her loss.", "We all grieved the death of our friend."]
+  },
+  "grill": {
+    "definition": "n. 烤架; v. 烧烤",
+    "phonetic": {
+      "uk": "/ɡrɪl/",
+      "us": "/ɡrɪl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["barbecue grill", "grill the meat"],
+    "examples": ["Let's grill some meat.", "Clean the grill after use."]
+  },
+  "grim": {
+    "definition": "adj. 严厉的,可怕的",
+    "phonetic": {
+      "uk": "/ɡrɪm/",
+      "us": "/ɡrɪm/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["grim face", "grim reality"],
+    "examples": ["He had a grim expression.", "The situation is grim."]
+  },
+  "grin": {
+    "definition": "v. 咧嘴笑; n. 咧嘴笑",
+    "phonetic": {
+      "uk": "/ɡrɪn/",
+      "us": "/ɡrɪn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["grin and bear it", "wide grin"],
+    "examples": ["He grinned at me.", "She had a silly grin on her face."]
+  },
+  "grip": {
+    "definition": "v. 抓紧; n. 紧握,控制",
+    "phonetic": {
+      "uk": "/ɡrɪp/",
+      "us": "/ɡrɪp/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["get a grip", "tight grip"],
+    "examples": ["Grip the handle firmly.", "She lost grip of the rope."]
+  },
+  "groan": {
+    "definition": "v. 呻吟; n. 呻吟声",
+    "phonetic": {
+      "uk": "/ɡrəʊn/",
+      "us": "/ɡroʊn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["groan in pain", "let out a groan"],
+    "examples": ["The injured man groaned.", "I heard a groan from the next room."]
+  },
+  "grocer": {
+    "definition": "n. 杂货商",
+    "phonetic": {
+      "uk": "/ˈɡrəʊsə(r)/",
+      "us": "/ˈɡroʊsər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["grocer's store", "local grocer"],
+    "examples": ["The grocer sells fresh vegetables.", "I bought bread from the grocer."]
+  },
+  "gross": {
+    "definition": "adj. 总的,粗俗的",
+    "phonetic": {
+      "uk": "/ɡrəʊs/",
+      "us": "/ɡroʊs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["gross income", "gross weight"],
+    "examples": ["The gross profit is impressive.", "Don't be gross."]
+  },
+  "ground": {
+    "definition": "n. 地面,土地",
+    "phonetic": {
+      "uk": "/ɡraʊnd/",
+      "us": "/ɡraʊnd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["on the ground", "ground floor"],
+    "examples": ["The ball hit the ground.", "Build a house on solid ground."]
+  },
+  "group": {
+    "definition": "n. 组,团体; v. 分组",
+    "phonetic": {
+      "uk": "/ɡruːp/",
+      "us": "/ɡruːp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["group discussion", "work in groups"],
+    "examples": ["We work in a group.", "Group the students by age."]
+  },
+  "grow": {
+    "definition": "v. 生长,种植,变得",
+    "phonetic": {
+      "uk": "/ɡrəʊ/",
+      "us": "/ɡroʊ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["grow up", "grow old"],
+    "examples": ["Children grow fast.", "Plants need water to grow."]
+  },
+  "growth": {
+    "definition": "n. 生长,增长",
+    "phonetic": {
+      "uk": "/ɡrəʊθ/",
+      "us": "/ɡroʊθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["economic growth", "rapid growth"],
+    "examples": ["The city has seen rapid growth.", "Growth is essential for success."]
+  },
+  "guarantee": {
+    "definition": "v. 保证,担保; n. 保证",
+    "phonetic": {
+      "uk": "/ˌɡærənˈtiː/",
+      "us": "/ˌɡærənˈtiː/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["money back guarantee", "guarantee period"],
+    "examples": ["I guarantee you'll like it.", "This product comes with a guarantee."]
+  },
+  "guard": {
+    "definition": "v. 守卫,保护; n. 卫兵,警戒",
+    "phonetic": {
+      "uk": "/ɡɑːd/",
+      "us": "/ɡɑːrd/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["guard against", "on guard"],
+    "examples": ["The dog guards the house.", "The security guard checked our IDs."]
+  },
+  "guess": {
+    "definition": "v. 猜测; n. 猜测",
+    "phonetic": {
+      "uk": "/ɡes/",
+      "us": "/ɡes/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["make a guess", "wild guess"],
+    "examples": ["Can you guess my age?", "That was a good guess."]
+  },
+  "guest": {
+    "definition": "n. 客人",
+    "phonetic": {
+      "uk": "/ɡest/",
+      "us": "/ɡest/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["guest room", "invited guest"],
+    "examples": ["We have three guests staying.", "Please welcome our guest."]
+  },
+  "guidance": {
+    "definition": "n. 指导,指引",
+    "phonetic": {
+      "uk": "/ˈɡaɪdns/",
+      "us": "/ˈɡaɪdns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["under your guidance", "career guidance"],
+    "examples": ["Thank you for your guidance.", "She gave me good guidance."]
+  },
+  "guide": {
+    "definition": "n. 向导,指南; v. 指引",
+    "phonetic": {
+      "uk": "/ɡaɪd/",
+      "us": "/ɡaɪd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["tour guide", "guide book"],
+    "examples": ["The guide showed us around.", "Follow these guidelines."]
+  },
+  "guilty": {
+    "definition": "adj. 有罪的,内疚的",
+    "phonetic": {
+      "uk": "/ˈɡɪlti/",
+      "us": "/ˈɡɪlti/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["feel guilty", "guilty conscience"],
+    "examples": ["He pleaded not guilty.", "I felt guilty about forgetting."]
+  },
+  "guitar": {
+    "definition": "n. 吉他",
+    "phonetic": {
+      "uk": "/ɡɪˈtɑː(r)/",
+      "us": "/ɡɪˈtɑːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["play guitar", "electric guitar"],
+    "examples": ["He plays the guitar well.", "She bought a new guitar."]
+  },
+  "gulf": {
+    "definition": "n. 海湾,鸿沟",
+    "phonetic": {
+      "uk": "/ɡʌlf/",
+      "us": "/ɡʌlf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["the Gulf of Mexico", "wide gulf"],
+    "examples": ["The gulf separates the two countries.", "There's a gulf between their opinions."]
+  },
+  "gum": {
+    "definition": "n. 口香糖,牙龈",
+    "phonetic": {
+      "uk": "/ɡʌm/",
+      "us": "/ɡʌm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["chewing gum", "bleeding gums"],
+    "examples": ["Do you want some gum?", "His gums are healthy."]
+  },
+  "gun": {
+    "definition": "n. 枪",
+    "phonetic": {
+      "uk": "/ɡʌn/",
+      "us": "/ɡʌn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["hold a gun", "fire a gun"],
+    "examples": ["Police officers carry guns.", "The hunter used his gun."]
+  },
+  "gym": {
+    "definition": "n. 体育馆,健身房",
+    "phonetic": {
+      "uk": "/dʒɪm/",
+      "us": "/dʒɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["go to the gym", "gym class"],
+    "examples": ["I go to the gym every day.", "The school has a nice gym."]
+  }
+}

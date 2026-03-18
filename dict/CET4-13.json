@@ -1,0 +1,3347 @@
+{
+  "habit": {
+    "definition": "n. 习惯；脾性",
+    "phonetic": {
+      "uk": "/ˈhæbɪt/",
+      "us": "/ˈhæbɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "break a habit",
+      "form a habit"
+    ],
+    "examples": [
+      "He has a habit of smoking after meals.",
+      "It takes 21 days to form a new habit."
+    ]
+  },
+  "hair": {
+    "definition": "n. 头发，毛发；毛状物",
+    "phonetic": {
+      "uk": "/heə/",
+      "us": "/her/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hair style",
+      "hair cut"
+    ],
+    "examples": [
+      "She has long black hair.",
+      "The cat has soft fur and short hair."
+    ]
+  },
+  "half": {
+    "definition": "n. 半，一半；a. 一半的；ad. 一半",
+    "phonetic": {
+      "uk": "/hɑːf/",
+      "us": "/hæf/"
+    },
+    "partOfSpeech": "n./a./ad.",
+    "phrases": [
+      "half an hour",
+      "half past"
+    ],
+    "examples": [
+      "I ate half of the cake.",
+      "The movie is half over."
+    ]
+  },
+  "hall": {
+    "definition": "n. 会堂，大厅，礼堂",
+    "phonetic": {
+      "uk": "/hɔːl/",
+      "us": "/hɔːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "city hall",
+      "concert hall"
+    ],
+    "examples": [
+      "The concert will be held in the Great Hall.",
+      "Students gathered in the main hall."
+    ]
+  },
+  "hand": {
+    "definition": "n. 手；人手；指针；vt. 传递，交出",
+    "phonetic": {
+      "uk": "/hænd/",
+      "us": "/hænd/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "by hand",
+      "shake hands"
+    ],
+    "examples": [
+      "Please hand me the book.",
+      "She washed her hands before eating."
+    ]
+  },
+  "handle": {
+    "definition": "vt. 处理，对付；n. 把手，柄",
+    "phonetic": {
+      "uk": "/ˈhændl/",
+      "us": "/ˈhændl/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "door handle",
+      "handle with care"
+    ],
+    "examples": [
+      "I can handle this situation.",
+      "The door handle is broken."
+    ]
+  },
+  "hang": {
+    "definition": "vt. 挂，悬；吊死",
+    "phonetic": {
+      "uk": "/hæŋ/",
+      "us": "/hæŋ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "hang up",
+      "hang out"
+    ],
+    "examples": [
+      "Hang the picture on the wall.",
+      "Please hang up your coat."
+    ]
+  },
+  "happen": {
+    "definition": "vi. 发生；碰巧，恰好",
+    "phonetic": {
+      "uk": "/ˈhæpən/",
+      "us": "/ˈhæpən/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "happen to",
+      "whatever happens"
+    ],
+    "examples": [
+      "Accidents happen.",
+      "I happened to meet him yesterday."
+    ]
+  },
+  "happy": {
+    "definition": "a. 快乐的；幸福的",
+    "phonetic": {
+      "uk": "/ˈhæpi/",
+      "us": "/ˈhæpi/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "happy birthday",
+      "happy ending"
+    ],
+    "examples": [
+      "She looks very happy today.",
+      "We wish you a happy New Year."
+    ]
+  },
+  "harbor": {
+    "definition": "n. 港口，海港；避难所；vt. 庇护，窝藏",
+    "phonetic": {
+      "uk": "/ˈhɑːbə/",
+      "us": "/ˈhɑːrbər/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "safe harbor",
+      "harbor city"
+    ],
+    "examples": [
+      "The ship entered the harbor.",
+      "He harbored a grudge against his brother."
+    ]
+  },
+  "hard": {
+    "definition": "a. 硬的；困难的；ad. 努力地",
+    "phonetic": {
+      "uk": "/hɑːd/",
+      "us": "/hɑːrd/"
+    },
+    "partOfSpeech": "a./ad.",
+    "phrases": [
+      "hard work",
+      "study hard"
+    ],
+    "examples": [
+      "The ground is too hard to dig.",
+      "She works hard every day."
+    ]
+  },
+  "hardly": {
+    "definition": "ad. 几乎不，简直不；刚刚",
+    "phonetic": {
+      "uk": "/ˈhɑːdli/",
+      "us": "/ˈhɑːrdli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "hardly ever",
+      "hardly any"
+    ],
+    "examples": [
+      "I could hardly believe my eyes.",
+      "It was hardly worth the effort."
+    ]
+  },
+  "harm": {
+    "definition": "n./vt. 伤害，损害",
+    "phonetic": {
+      "uk": "/hɑːm/",
+      "us": "/hɑːrm/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "do harm to",
+      "no harm"
+    ],
+    "examples": [
+      "Smoking can harm your health.",
+      "The storm caused great harm to the crops."
+    ]
+  },
+  "harvest": {
+    "definition": "n. 收获，收成；vt. 收割",
+    "phonetic": {
+      "uk": "/ˈhɑːvɪst/",
+      "us": "/ˈhɑːrvɪst/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "harvest time",
+      "good harvest"
+    ],
+    "examples": [
+      "Farmers are busy with the harvest.",
+      "They harvested wheat from the fields."
+    ]
+  },
+  "hat": {
+    "definition": "n. 帽子",
+    "phonetic": {
+      "uk": "/hæt/",
+      "us": "/hæt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wear a hat",
+      "take off one's hat"
+    ],
+    "examples": [
+      "He always wears a hat.",
+      "Put on your hat before going out."
+    ]
+  },
+  "hate": {
+    "definition": "vt. 根，不喜欢；n. 憎恨",
+    "phonetic": {
+      "uk": "/heɪt/",
+      "us": "/heɪt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "hate to do",
+      "hate doing"
+    ],
+    "examples": [
+      "I hate waiting in line.",
+      "Hatred is a destructive emotion."
+    ]
+  },
+  "have": {
+    "definition": "vt. 有；吃；进行；使",
+    "phonetic": {
+      "uk": "/hæv/",
+      "us": "/hæv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "have to",
+      "have breakfast"
+    ],
+    "examples": [
+      "I have a new car.",
+      "We have to finish this by Friday."
+    ]
+  },
+  "he": {
+    "definition": "pron. 他，雄性动物",
+    "phonetic": {
+      "uk": "/hiː/",
+      "us": "/hiː/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "He is my best friend.",
+      "He works as a teacher."
+    ]
+  },
+  "head": {
+    "definition": "n. 头；首脑；顶端；vt. 率领",
+    "phonetic": {
+      "uk": "/hed/",
+      "us": "/hed/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "head teacher",
+      "shake one's head"
+    ],
+    "examples": [
+      "She has long hair on her head.",
+      "He headed the company for 20 years."
+    ]
+  },
+  "headache": {
+    "definition": "n. 头痛；头痛的事",
+    "phonetic": {
+      "uk": "/ˈhedeɪk/",
+      "us": "/ˈhedeɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have a headache",
+      "bad headache"
+    ],
+    "examples": [
+      "I have a terrible headache.",
+      "This problem is giving me a headache."
+    ]
+  },
+  "health": {
+    "definition": "n. 健康，健康状况",
+    "phonetic": {
+      "uk": "/helθ/",
+      "us": "/helθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "good health",
+      "health care"
+    ],
+    "examples": [
+      "Exercise is important for your health.",
+      "She enjoys good health despite her age."
+    ]
+  },
+  "healthy": {
+    "definition": "a. 健康的；有益健康的",
+    "phonetic": {
+      "uk": "/ˈhelθi/",
+      "us": "/ˈhelθi/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "healthy food",
+      "keep healthy"
+    ],
+    "examples": [
+      "Eat more vegetables to stay healthy.",
+      "A healthy diet is essential."
+    ]
+  },
+  "hear": {
+    "definition": "vt. 听见；听说；审理",
+    "phonetic": {
+      "uk": "/hɪə/",
+      "us": "/hɪr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "hear from",
+      "hear about"
+    ],
+    "examples": [
+      "Can you hear me?",
+      "I heard the news yesterday."
+    ]
+  },
+  "heart": {
+    "definition": "n. 心，心脏；内心；中心",
+    "phonetic": {
+      "uk": "/hɑːt/",
+      "us": "/hɑːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "heart attack",
+      "at heart"
+    ],
+    "examples": [
+      "The human heart beats about 70 times per minute.",
+      "She has a kind heart."
+    ]
+  },
+  "heat": {
+    "definition": "n. 热，炎热；热度；vt. 加热",
+    "phonetic": {
+      "uk": "/hiːt/",
+      "us": "/hiːt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "heat up",
+      "body heat"
+    ],
+    "examples": [
+      "The heat is unbearable today.",
+      "Heat the water before drinking."
+    ]
+  },
+  "heaven": {
+    "definition": "n. 天堂；天，天空",
+    "phonetic": {
+      "uk": "/ˈhevn/",
+      "us": "/ˈhevn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to heaven",
+      "in heaven"
+    ],
+    "examples": [
+      "They believe their souls go to heaven.",
+      "The stars shine from heaven."
+    ]
+  },
+  "heavy": {
+    "definition": "a. 重的；大量的；浓的",
+    "phonetic": {
+      "uk": "/ˈhevi/",
+      "us": "/ˈhevi/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "heavy rain",
+      "heavy traffic"
+    ],
+    "examples": [
+      "The box is too heavy to lift.",
+      "There was heavy traffic this morning."
+    ]
+  },
+  "heel": {
+    "definition": "n. 脚后跟，踵；鞋后跟",
+    "phonetic": {
+      "uk": "/hiːl/",
+      "us": "/hiːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high heel",
+      "heel of foot"
+    ],
+    "examples": [
+      "She wears high heels to work.",
+      "I hurt my heel while running."
+    ]
+  },
+  "height": {
+    "definition": "n. 高，高度；高处",
+    "phonetic": {
+      "uk": "/haɪt/",
+      "us": "/haɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "average height",
+      "in height"
+    ],
+    "examples": [
+      "What is your height?",
+      "The mountain has a height of 3000 meters."
+    ]
+  },
+  "hello": {
+    "definition": "int. 你好（问候语）",
+    "phonetic": {
+      "uk": "/həˈləʊ/",
+      "us": "/həˈloʊ/"
+    },
+    "partOfSpeech": "int.",
+    "phrases": [
+      "say hello",
+      "hello world"
+    ],
+    "examples": [
+      "Hello, how are you?",
+      "She greeted him with a warm hello."
+    ]
+  },
+  "help": {
+    "definition": "vt. 帮助；治疗；n. 帮助",
+    "phonetic": {
+      "uk": "/help/",
+      "us": "/help/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "help with",
+      "can't help but"
+    ],
+    "examples": [
+      "Can you help me with this?",
+      "She needs help with her homework."
+    ]
+  },
+  "helpful": {
+    "definition": "a. 给予帮助的；有益的",
+    "phonetic": {
+      "uk": "/ˈhelpfl/",
+      "us": "/ˈhelpfl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "be helpful",
+      "helpful advice"
+    ],
+    "examples": [
+      "Thank you for being so helpful.",
+      "This book is very helpful for students."
+    ]
+  },
+  "her": {
+    "definition": "pron. 她，她的；她（宾格）",
+    "phonetic": {
+      "uk": "/hɜː/",
+      "us": "/hɜːr/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "She gave me her book.",
+      "I saw her yesterday."
+    ]
+  },
+  "here": {
+    "definition": "ad. 这里，向这里",
+    "phonetic": {
+      "uk": "/hɪə/",
+      "us": "/hɪr/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "right here",
+      "here and there"
+    ],
+    "examples": [
+      "Welcome to my house.",
+      "Please sit here."
+    ]
+  },
+  "hero": {
+    "definition": "n. 英雄；男主角",
+    "phonetic": {
+      "uk": "/ˈhɪərəʊ/",
+      "us": "/ˈhɪroʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "national hero",
+      "unsung hero"
+    ],
+    "examples": [
+      "He is considered a national hero.",
+      "The hero saved many lives."
+    ]
+  },
+  "herself": {
+    "definition": "pron. 她自己；她亲自",
+    "phonetic": {
+      "uk": "/hɜːˈself/",
+      "us": "/hɜːrˈself/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "by herself",
+      "herself"
+    ],
+    "examples": [
+      "She did it herself.",
+      "She bought herself a new dress."
+    ]
+  },
+  "hide": {
+    "definition": "vt. 把...藏起来；隐瞒；vi. 躲藏",
+    "phonetic": {
+      "uk": "/haɪd/",
+      "us": "/haɪd/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "hide from",
+      "hide away"
+    ],
+    "examples": [
+      "The child hid behind the door.",
+      "Try to hide your emotions."
+    ]
+  },
+  "high": {
+    "definition": "a. 高的；高级的；ad. 高",
+    "phonetic": {
+      "uk": "/haɪ/",
+      "us": "/haɪ/"
+    },
+    "partOfSpeech": "a./ad.",
+    "phrases": [
+      "high school",
+      "high quality"
+    ],
+    "examples": [
+      "The building is very high.",
+      "Prices are high this year."
+    ]
+  },
+  "hill": {
+    "definition": "n. 小山，山岗；丘陵",
+    "phonetic": {
+      "uk": "/hɪl/",
+      "us": "/hɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "up the hill",
+      "down the hill"
+    ],
+    "examples": [
+      "They climbed the hill together.",
+      "The village is on a small hill."
+    ]
+  },
+  "him": {
+    "definition": "pron. 他（宾格）",
+    "phonetic": {
+      "uk": "/hɪm/",
+      "us": "/hɪm/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "I saw him at the party.",
+      "Give him the book."
+    ]
+  },
+  "himself": {
+    "definition": "pron. 他自己；他亲自",
+    "phonetic": {
+      "uk": "/hɪmˈself/",
+      "us": "/hɪmˈself/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "by himself",
+      "hurt himself"
+    ],
+    "examples": [
+      "He taught himself to play guitar.",
+      "He did the work himself."
+    ]
+  },
+  "his": {
+    "definition": "pron. 他的，他的东西",
+    "phonetic": {
+      "uk": "/hɪz/",
+      "us": "/hɪz/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "This is his book.",
+      "He lost his keys."
+    ]
+  },
+  "history": {
+    "definition": "n. 历史，历史学",
+    "phonetic": {
+      "uk": "/ˈhɪstri/",
+      "us": "/ˈhɪstri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "world history",
+      "make history"
+    ],
+    "examples": [
+      "She studies history at university.",
+      "This event changed the course of history."
+    ]
+  },
+  "hit": {
+    "definition": "vt. 打，击中；碰撞；n. 击中",
+    "phonetic": {
+      "uk": "/hɪt/",
+      "us": "/hɪt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "hit the target",
+      "big hit"
+    ],
+    "examples": [
+      "The ball hit the window.",
+      "The movie was a big hit."
+    ]
+  },
+  "hobby": {
+    "definition": "n. 业余爱好，癖好",
+    "phonetic": {
+      "uk": "/ˈhɒbi/",
+      "us": "/ˈhɑːbi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have a hobby",
+      "hobbies and interests"
+    ],
+    "examples": [
+      "Reading is my favorite hobby.",
+      "He has many interesting hobbies."
+    ]
+  },
+  "hold": {
+    "definition": "vt. 拿住；握住；举行；容纳",
+    "phonetic": {
+      "uk": "/həʊld/",
+      "us": "/hoʊld/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "hold on",
+      "hold a meeting"
+    ],
+    "examples": [
+      "Hold the cup carefully.",
+      "They will hold a conference next week."
+    ]
+  },
+  "hole": {
+    "definition": "n. 洞，孔眼",
+    "phonetic": {
+      "uk": "/həʊl/",
+      "us": "/hoʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in a hole",
+      "dig a hole"
+    ],
+    "examples": [
+      "There is a hole in my pocket.",
+      "The dog dug a hole in the garden."
+    ]
+  },
+  "holiday": {
+    "definition": "n. 假日，节日；假期",
+    "phonetic": {
+      "uk": "/ˈhɒlədi/",
+      "us": "/ˈhɑːlədeɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public holiday",
+      "summer holiday"
+    ],
+    "examples": [
+      "What are you doing for the holidays?",
+      "We are planning a holiday trip."
+    ]
+  },
+  "home": {
+    "definition": "n. 家；家乡；ad. 在家",
+    "phonetic": {
+      "uk": "/həʊm/",
+      "us": "/hoʊm/"
+    },
+    "partOfSpeech": "n./ad.",
+    "phrases": [
+      "go home",
+      "at home"
+    ],
+    "examples": [
+      "Welcome home.",
+      "She works from home."
+    ]
+  },
+  "honest": {
+    "definition": "a. 诚实的；可敬的",
+    "phonetic": {
+      "uk": "/ˈɒnɪst/",
+      "us": "/ˈɑːnɪst/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "be honest",
+      "honest man"
+    ],
+    "examples": [
+      "He is an honest person.",
+      "To be honest, I didn't like the movie."
+    ]
+  },
+  "honey": {
+    "definition": "n. 蜂蜜；亲爱的",
+    "phonetic": {
+      "uk": "/ˈhʌni/",
+      "us": "/ˈhʌni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "honey bee",
+      "honey moon"
+    ],
+    "examples": [
+      "Would you like some honey in your tea?",
+      "She called him honey."
+    ]
+  },
+  "honor": {
+    "definition": "n. 荣誉；尊敬；vt. 给予荣誉",
+    "phonetic": {
+      "uk": "/ˈɒnə/",
+      "us": "/ˈɑːnər/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "in honor of",
+      "great honor"
+    ],
+    "examples": [
+      "It is a great honor to meet you.",
+      "We honor our veterans."
+    ]
+  },
+  "hope": {
+    "definition": "n./vt. 希望，期望",
+    "phonetic": {
+      "uk": "/həʊp/",
+      "us": "/hoʊp/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "hope for",
+      "give up hope"
+    ],
+    "examples": [
+      "I hope to see you soon.",
+      "Never give up hope."
+    ]
+  },
+  "hopeful": {
+    "definition": "a. 有希望的",
+    "phonetic": {
+      "uk": "/ˈhəʊpfl/",
+      "us": "/ˈhoʊpfl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "be hopeful",
+      "hopeful future"
+    ],
+    "examples": [
+      "She is hopeful about the future.",
+      "The outlook is hopeful."
+    ]
+  },
+  "hopeless": {
+    "definition": "a. 没有希望的，绝望的",
+    "phonetic": {
+      "uk": "/ˈhəʊpləs/",
+      "us": "/ˈhoʊpləs/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "hopeless situation",
+      "feel hopeless"
+    ],
+    "examples": [
+      "The situation seemed hopeless.",
+      "Don't be hopeless, try again."
+    ]
+  },
+  "horizon": {
+    "definition": "n. 地平线；眼界，见识",
+    "phonetic": {
+      "uk": "/həˈraɪzn/",
+      "us": "/həˈraɪzn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on the horizon",
+      "broaden one's horizons"
+    ],
+    "examples": [
+      "The sun disappeared below the horizon.",
+      "Reading broadens your horizons."
+    ]
+  },
+  "horror": {
+    "definition": "n. 恐怖；战栗",
+    "phonetic": {
+      "uk": "/ˈhɒrə/",
+      "us": "/ˈhɔːrər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "horror movie",
+      "in horror"
+    ],
+    "examples": [
+      "She watched the horror movie with fear.",
+      "The news filled him with horror."
+    ]
+  },
+  "horse": {
+    "definition": "n. 马；马科动物",
+    "phonetic": {
+      "uk": "/hɔːs/",
+      "us": "/hɔːrs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ride a horse",
+      "horse race"
+    ],
+    "examples": [
+      "She likes to ride horses.",
+      "The horse galloped across the field."
+    ]
+  },
+  "hospital": {
+    "definition": "n. 医院",
+    "phonetic": {
+      "uk": "/ˈhɒspɪtl/",
+      "us": "/ˈhɑːspɪtl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in hospital",
+      "go to hospital"
+    ],
+    "examples": [
+      "She is in hospital with a broken leg.",
+      "They rushed him to the hospital."
+    ]
+  },
+  "host": {
+    "definition": "n. 主人；东道主；节目主持人；vt. 主办",
+    "phonetic": {
+      "uk": "/həʊst/",
+      "us": "/hoʊst/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "host country",
+      "host a party"
+    ],
+    "examples": [
+      "China will host the Olympics.",
+      "Thank you for being a wonderful host."
+    ]
+  },
+  "hot": {
+    "definition": "a. 热的；刺激的；辣的",
+    "phonetic": {
+      "uk": "/hɒt/",
+      "us": "/hɑːt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "hot water",
+      "hot weather"
+    ],
+    "examples": [
+      "The soup is too hot to eat.",
+      "I love spicy hot food."
+    ]
+  },
+  "hotel": {
+    "definition": "n. 旅馆，宾馆；饭店",
+    "phonetic": {
+      "uk": "/həʊˈtel/",
+      "us": "/hoʊˈtel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "five-star hotel",
+      "check into a hotel"
+    ],
+    "examples": [
+      "We stayed at a hotel near the beach.",
+      "The hotel room is very comfortable."
+    ]
+  },
+  "hour": {
+    "definition": "n. 小时；时间，时刻",
+    "phonetic": {
+      "uk": "/ˈaʊə/",
+      "us": "/ˈaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "half an hour",
+      "rush hour"
+    ],
+    "examples": [
+      "The store is open 24 hours a day.",
+      "I need an hour to finish this."
+    ]
+  },
+  "house": {
+    "definition": "n. 房屋，住宅；商号；vt. 给...房子住",
+    "phonetic": {
+      "uk": "/haʊs/",
+      "us": "/haʊs/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "house price",
+      "clean house"
+    ],
+    "examples": [
+      "She bought a new house.",
+      "The museum houses many artifacts."
+    ]
+  },
+  "household": {
+    "definition": "n. 家庭，户；a. 家庭的",
+    "phonetic": {
+      "uk": "/ˈhaʊshəʊld/",
+      "us": "/ˈhaʊshoʊld/"
+    },
+    "partOfSpeech": "n./a.",
+    "phrases": [
+      "household chores",
+      "household name"
+    ],
+    "examples": [
+      "She does all the household chores.",
+      "The product is a household name."
+    ]
+  },
+  "housewife": {
+    "definition": "n. 家庭主妇",
+    "phonetic": {
+      "uk": "/ˈhaʊswaɪf/",
+      "us": "/ˈhaʊswaɪf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [],
+    "examples": [
+      "She became a housewife after marriage.",
+      "Many women choose to be housewives."
+    ]
+  },
+  "how": {
+    "definition": "ad. 怎么；怎样；多少",
+    "phonetic": {
+      "uk": "/haʊ/",
+      "us": "/haʊ/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "how about",
+      "how many"
+    ],
+    "examples": [
+      "How do you do?",
+      "How much does it cost?"
+    ]
+  },
+  "however": {
+    "definition": "ad. 然而；不管怎样",
+    "phonetic": {
+      "uk": "/haʊˈevə/",
+      "us": "/haʊˈevər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "however much",
+      "however hard"
+    ],
+    "examples": [
+      "However, I disagree.",
+      "However much I try, I can't understand."
+    ]
+  },
+  "huge": {
+    "definition": "a. 巨大的，庞大的",
+    "phonetic": {
+      "uk": "/hjuːdʒ/",
+      "us": "/hjuːdʒ/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "huge success",
+      "huge difference"
+    ],
+    "examples": [
+      "The company made a huge profit.",
+      "There is a huge elephant in the zoo."
+    ]
+  },
+  "human": {
+    "definition": "a. 人的，人类的；n. 人",
+    "phonetic": {
+      "uk": "/ˈhjuːmən/",
+      "us": "/ˈhjuːmən/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "human being",
+      "human rights"
+    ],
+    "examples": [
+      "She is studying human anatomy.",
+      "All humans have basic rights."
+    ]
+  },
+  "humorous": {
+    "definition": "a. 富于幽默的，诙谐的",
+    "phonetic": {
+      "uk": "/ˈhjuːmərəs/",
+      "us": "/ˈhjuːmərəs/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "humorous person",
+      "humorous story"
+    ],
+    "examples": [
+      "He has a humorous personality.",
+      "The comedian tells very humorous stories."
+    ]
+  },
+  "humour": {
+    "definition": "n. 幽默，诙谐",
+    "phonetic": {
+      "uk": "/ˈhjuːmə/",
+      "us": "/ˈhjuːmər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sense of humour",
+      "black humour"
+    ],
+    "examples": [
+      "She has a great sense of humour.",
+      "His humour always makes people laugh."
+    ]
+  },
+  "hundred": {
+    "definition": "num. 百，一百；许多",
+    "phonetic": {
+      "uk": "/ˈhʌndrəd/",
+      "us": "/ˈhʌndrəd/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "two hundred",
+      "hundreds of"
+    ],
+    "examples": [
+      "The book has two hundred pages.",
+      "Hundreds of people attended."
+    ]
+  },
+  "hunger": {
+    "definition": "n. 饿，饥饿；渴望",
+    "phonetic": {
+      "uk": "/ˈhʌŋɡə/",
+      "us": "/ˈhʌŋɡər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go hungry",
+      "hunger for"
+    ],
+    "examples": [
+      "Many people suffer from hunger.",
+      "She has a hunger for knowledge."
+    ]
+  },
+  "hungry": {
+    "definition": "a. 饥饿的；渴望的",
+    "phonetic": {
+      "uk": "/ˈhʌŋɡri/",
+      "us": "/ˈhʌŋɡri/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "feel hungry",
+      "go hungry"
+    ],
+    "examples": [
+      "I'm hungry. Can we eat now?",
+      "The hungry child cried for food."
+    ]
+  },
+  "hunt": {
+    "definition": "n./vt. 打猎；搜寻",
+    "phonetic": {
+      "uk": "/hʌnt/",
+      "us": "/hʌnt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "hunt for",
+      "go hunting"
+    ],
+    "examples": [
+      "They went hunting in the forest.",
+      "I'm hunting for a new job."
+    ]
+  },
+  "hurry": {
+    "definition": "vi. 赶紧；匆忙；n. 急忙",
+    "phonetic": {
+      "uk": "/ˈhʌri/",
+      "us": "/ˈhʌri/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "in a hurry",
+      "hurry up"
+    ],
+    "examples": [
+      "Don't worry, we're not in a hurry.",
+      "Hurry up or we'll be late."
+    ]
+  },
+  "hurt": {
+    "definition": "vt. 使受伤；使痛心；vi. 痛",
+    "phonetic": {
+      "uk": "/hɜːt/",
+      "us": "/hɜːrt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "hurt sb's feelings",
+      "get hurt"
+    ],
+    "examples": [
+      "He hurt his leg playing football.",
+      "Her words hurt me deeply."
+    ]
+  },
+  "husband": {
+    "definition": "n. 丈夫",
+    "phonetic": {
+      "uk": "/ˈhʌzbənd/",
+      "us": "/ˈhʌzbənd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "husband and wife",
+      "future husband"
+    ],
+    "examples": [
+      "My husband is a doctor.",
+      "She introduced her husband to us."
+    ]
+  },
+  "hut": {
+    "definition": "n. 小屋，棚屋",
+    "phonetic": {
+      "uk": "/hʌt/",
+      "us": "/hʌt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "small hut",
+      "bamboo hut"
+    ],
+    "examples": [
+      "They lived in a small hut.",
+      "The shepherd built a hut in the mountains."
+    ]
+  },
+  "hydrogen": {
+    "definition": "n. 氢",
+    "phonetic": {
+      "uk": "/ˈhaɪdrədʒən/",
+      "us": "/ˈhaɪdrədʒən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hydrogen bomb",
+      "hydrogen atom"
+    ],
+    "examples": [
+      "Water consists of hydrogen and oxygen.",
+      "Scientists study hydrogen as a fuel."
+    ]
+  },
+  "ice": {
+    "definition": "n. 冰，冰块；vt. 冰镇",
+    "phonetic": {
+      "uk": "/aɪs/",
+      "us": "/aɪs/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "on ice",
+      "break the ice"
+    ],
+    "examples": [
+      "Would you like some ice in your drink?",
+      "The lake is covered with ice."
+    ]
+  },
+  "ice-cream": {
+    "definition": "n. 冰淇淋",
+    "phonetic": {
+      "uk": "/ˈaɪskriːm/",
+      "us": "/ˈaɪskriːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "vanilla ice-cream",
+      "ice-cream cone"
+    ],
+    "examples": [
+      "Children love ice-cream.",
+      "She bought an ice-cream cone."
+    ]
+  },
+  "idea": {
+    "definition": "n. 想法；思想；意见",
+    "phonetic": {
+      "uk": "/aɪˈdɪə/",
+      "us": "/aɪˈdiə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have an idea",
+      "good idea"
+    ],
+    "examples": [
+      "I have a brilliant idea.",
+      "What do you think of this idea?"
+    ]
+  },
+  "ideal": {
+    "definition": "a. �想的；观念的；n. 理想",
+    "phonetic": {
+      "uk": "/aɪˈdiːəl/",
+      "us": "/aɪˈdiːəl/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "ideal candidate",
+      "ideal world"
+    ],
+    "examples": [
+      "This is the ideal solution.",
+      "She represents the ideal of beauty."
+    ]
+  },
+  "identical": {
+    "definition": "a. 完全相同的；同一的",
+    "phonetic": {
+      "uk": "/aɪˈdentɪkl/",
+      "us": "/aɪˈdentɪkl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "identical twins",
+      "remain identical"
+    ],
+    "examples": [
+      "They are identical twins.",
+      "The two dresses are identical."
+    ]
+  },
+  "identify": {
+    "definition": "vt. 认出，识别，鉴定",
+    "phonetic": {
+      "uk": "/aɪˈdentɪfaɪ/",
+      "us": "/aɪˈdentɪfaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "identify with",
+      "identify someone"
+    ],
+    "examples": [
+      "Police identified the suspect.",
+      "Can you identify this bird?"
+    ]
+  },
+  "idiom": {
+    "definition": "n. 习语，成语",
+    "phonetic": {
+      "uk": "/ˈɪdiəm/",
+      "us": "/ˈɪdiəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "English idiom",
+      "idiom meaning"
+    ],
+    "examples": [
+      "This is a common English idiom.",
+      "Learn idioms to sound more natural."
+    ]
+  },
+  "idle": {
+    "definition": "a. 空闲的；懒散的；vi. 虚度",
+    "phonetic": {
+      "uk": "/ˈaɪdl/",
+      "us": "/ˈaɪdl/"
+    },
+    "partOfSpeech": "a./vi.",
+    "phrases": [
+      "idle away",
+      "idle time"
+    ],
+    "examples": [
+      "Don't idle your time.",
+      "The workers are idle today."
+    ]
+  },
+  "if": {
+    "definition": "conj. 假如，如果",
+    "phonetic": {
+      "uk": "/ɪf/",
+      "us": "/ɪf/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": [
+      "if only",
+      "as if"
+    ],
+    "examples": [
+      "If it rains, I'll stay home.",
+      "I wonder if she likes coffee."
+    ]
+  },
+  "ignorant": {
+    "definition": "a. 不知道的；无知的",
+    "phonetic": {
+      "uk": "/ˈɪɡnərənt/",
+      "us": "/ˈɪɡnərənt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "be ignorant of",
+      "ignorant person"
+    ],
+    "examples": [
+      "He is ignorant about computers.",
+      "Don't be ignorant of the facts."
+    ]
+  },
+  "ignore": {
+    "definition": "vt. 不顾，不理，忽视",
+    "phonetic": {
+      "uk": "/ɪɡˈnɔː/",
+      "us": "/ɪɡˈnɔːr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "ignore someone",
+      "ignore the fact"
+    ],
+    "examples": [
+      "Please ignore the noise.",
+      "She ignored his calls."
+    ]
+  },
+  "ill": {
+    "definition": "a. 有病的；坏的；ad. 坏",
+    "phonetic": {
+      "uk": "/ɪl/",
+      "us": "/ɪl/"
+    },
+    "partOfSpeech": "a./ad.",
+    "phrases": [
+      "fall ill",
+      "be ill"
+    ],
+    "examples": [
+      "She is ill with a cold.",
+      "He was treated ill by his boss."
+    ]
+  },
+  "illegal": {
+    "definition": "a. 不合法的，非法的",
+    "phonetic": {
+      "uk": "/ɪˈliːɡl/",
+      "us": "/ɪˈliːɡl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "illegal activity",
+      "make illegal"
+    ],
+    "examples": [
+      "Selling drugs is illegal.",
+      "It is illegal to park here."
+    ]
+  },
+  "illness": {
+    "definition": "n. 病，疾病",
+    "phonetic": {
+      "uk": "/ˈɪlnəs/",
+      "us": "/ˈɪlnəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "serious illness",
+      "recover from illness"
+    ],
+    "examples": [
+      "She recovered from her illness.",
+      "Mental illness requires treatment."
+    ]
+  },
+  "illustrate": {
+    "definition": "vt. （用图等）说明",
+    "phonetic": {
+      "uk": "/ˈɪləstreɪt/",
+      "us": "/ˈɪləstreɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "illustrate a point",
+      "well illustrated"
+    ],
+    "examples": [
+      "Let me illustrate with an example.",
+      "The book is beautifully illustrated."
+    ]
+  },
+  "image": {
+    "definition": "n. 像；形象；映象",
+    "phonetic": {
+      "uk": "/ˈɪmɪdʒ/",
+      "us": "/ˈɪmɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "body image",
+      "image quality"
+    ],
+    "examples": [
+      "The image is very clear.",
+      "She has a good public image."
+    ]
+  },
+  "imaginary": {
+    "definition": "a. 想象中的，假想的",
+    "phonetic": {
+      "uk": "/ɪˈmædʒənəri/",
+      "us": "/ɪˈmædʒəneri/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "imaginary friend",
+      "purely imaginary"
+    ],
+    "examples": [
+      "The story is imaginary.",
+      "Children often have imaginary friends."
+    ]
+  },
+  "imagination": {
+    "definition": "n. 想象；想象力；空想",
+    "phonetic": {
+      "uk": "/ɪˌmædʒɪˈneɪʃn/",
+      "us": "/ɪˌmædʒɪˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "use imagination",
+      "rich imagination"
+    ],
+    "examples": [
+      "Use your imagination to solve the problem.",
+      "She has a vivid imagination."
+    ]
+  },
+  "imagine": {
+    "definition": "vt. 想象，设想；料想",
+    "phonetic": {
+      "uk": "/ɪˈmædʒɪn/",
+      "us": "/ɪˈmædʒɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "imagine doing",
+      "can't imagine"
+    ],
+    "examples": [
+      "Can you imagine living on Mars?",
+      "I can't imagine why he did that."
+    ]
+  },
+  "imitate": {
+    "definition": "vt. 模仿，仿效；伪造",
+    "phonetic": {
+      "uk": "/ˈɪmɪteɪt/",
+      "us": "/ˈɪmɪteɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "imitate someone",
+      "poorly imitate"
+    ],
+    "examples": [
+      "Birds imitate each other's songs.",
+      "He can imitate many famous actors."
+    ]
+  },
+  "immediate": {
+    "definition": "a. 立即的；直接的",
+    "phonetic": {
+      "uk": "/ɪˈmiːdiət/",
+      "us": "/ɪˈmiːdiət/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "immediate action",
+      "immediate family"
+    ],
+    "examples": [
+      "We need immediate action.",
+      "The immediate cause was a spark."
+    ]
+  },
+  "immediately": {
+    "definition": "ad. 立即；直接地",
+    "phonetic": {
+      "uk": "/ɪˈmiːdiətli/",
+      "us": "/ɪˈmiːdiətli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "immediately after",
+      "answer immediately"
+    ],
+    "examples": [
+      "Come here immediately.",
+      "He left immediately after the meeting."
+    ]
+  },
+  "immense": {
+    "definition": "a. 巨大的；极好的",
+    "phonetic": {
+      "uk": "/ɪˈmens/",
+      "us": "/ɪˈmens/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "immense pressure",
+      "immense contribution"
+    ],
+    "examples": [
+      "The task is immense.",
+      "He has immense talent."
+    ]
+  },
+  "immigrant": {
+    "definition": "n. 移民 a. 移民的",
+    "phonetic": {
+      "uk": "/ˈɪmɪɡrənt/",
+      "us": "/ˈɪmɪɡrənt/"
+    },
+    "partOfSpeech": "n./a.",
+    "phrases": [
+      "immigrant worker",
+      "illegal immigrant"
+    ],
+    "examples": [
+      "She is an immigrant from Mexico.",
+      "The city has many immigrant communities."
+    ]
+  },
+  "implement": {
+    "definition": "vt. 实施，执行；n. 工具",
+    "phonetic": {
+      "uk": "/ˈɪmplɪment/",
+      "us": "/ˈɪmplɪment/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "implement a plan",
+      "farm implements"
+    ],
+    "examples": [
+      "We will implement the new policy.",
+      "Farmers use various implements."
+    ]
+  },
+  "implication": {
+    "definition": "n. 含义，暗示，暗指",
+    "phonetic": {
+      "uk": "/ˌɪmplɪˈkeɪʃn/",
+      "us": "/ˌɪmplɪˈkeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "legal implication",
+      "implication of"
+    ],
+    "examples": [
+      "What are the implications of this decision?",
+      "His words had a hidden implication."
+    ]
+  },
+  "implicit": {
+    "definition": "a. 暗含的；含蓄的",
+    "phonetic": {
+      "uk": "/ɪmˈplɪsɪt/",
+      "us": "/ɪmˈplɪsɪt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "implicit trust",
+      "implicit meaning"
+    ],
+    "examples": [
+      "She has implicit trust in him.",
+      "The warning was implicit."
+    ]
+  },
+  "imply": {
+    "definition": "vt. 暗示，意指",
+    "phonetic": {
+      "uk": "/ɪmˈplaɪ/",
+      "us": "/ɪmˈplaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "imply that",
+      "seemingly imply"
+    ],
+    "examples": [
+      "Her silence implies agreement.",
+      "Are you implying that I'm wrong?"
+    ]
+  },
+  "import": {
+    "definition": "vt. 输入，进口；n. 输入",
+    "phonetic": {
+      "uk": "/ɪmˈpɔːt/",
+      "us": "/ɪmˈpɔːrt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "import goods",
+      "import and export"
+    ],
+    "examples": [
+      "The country imports raw materials.",
+      "Imports have increased this year."
+    ]
+  },
+  "importance": {
+    "definition": "n. 重要；重要性",
+    "phonetic": {
+      "uk": "/ɪmˈpɔːtns/",
+      "us": "/ɪmˈpɔːrtns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "great importance",
+      "of great importance"
+    ],
+    "examples": [
+      "Health is of great importance.",
+      "We must recognize the importance of education."
+    ]
+  },
+  "important": {
+    "definition": "a. 重要的；有势力的",
+    "phonetic": {
+      "uk": "/ɪmˈpɔːtnt/",
+      "us": "/ɪmˈpɔːrtnt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "very important",
+      "important role"
+    ],
+    "examples": [
+      "This is an important decision.",
+      "She played an important role in the project."
+    ]
+  },
+  "impose": {
+    "definition": "vt. 把...强加；征（税）",
+    "phonetic": {
+      "uk": "/ɪmˈpəʊz/",
+      "us": "/ɪmˈpoʊz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "impose on",
+      "impose a tax"
+    ],
+    "examples": [
+      "Don't impose your views on others.",
+      "The government imposed new taxes."
+    ]
+  },
+  "impossible": {
+    "definition": "a. 不可能的，办不到的",
+    "phonetic": {
+      "uk": "/ɪmˈpɒsəbl/",
+      "us": "/ɪmˈpɑːsəbl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "almost impossible",
+      "nothing is impossible"
+    ],
+    "examples": [
+      "It's impossible to finish in one day.",
+      "Nothing is impossible if you try."
+    ]
+  },
+  "impress": {
+    "definition": "vt. 给...深刻印象",
+    "phonetic": {
+      "uk": "/ɪmˈpres/",
+      "us": "/ɪmˈpres/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "impress someone",
+      "deeply impress"
+    ],
+    "examples": [
+      "She impressed everyone with her speech.",
+      "I want to impress the interviewer."
+    ]
+  },
+  "impression": {
+    "definition": "n. 印记；印象",
+    "phonetic": {
+      "uk": "/ɪmˈpreʃn/",
+      "us": "/ɪmˈpreʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "first impression",
+      "make an impression"
+    ],
+    "examples": [
+      "First impressions are important.",
+      "She made a good impression on me."
+    ]
+  },
+  "impressive": {
+    "definition": "a. 给人印象深刻的",
+    "phonetic": {
+      "uk": "/ɪmˈpresɪv/",
+      "us": "/ɪmˈpresɪv/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "impressive performance",
+      "highly impressive"
+    ],
+    "examples": [
+      "The building is impressive.",
+      "Her achievements are impressive."
+    ]
+  },
+  "imprison": {
+    "definition": "vt. 关押，监禁",
+    "phonetic": {
+      "uk": "/ɪmˈprɪzn/",
+      "us": "/ɪmˈprɪzn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "imprison for",
+      "be imprisoned"
+    ],
+    "examples": [
+      "They imprisoned him for 10 years.",
+      "Many political prisoners remain imprisoned."
+    ]
+  },
+  "improve": {
+    "definition": "vt. 使更好 vi. 改善",
+    "phonetic": {
+      "uk": "/ɪmˈpruːv/",
+      "us": "/ɪmˈpruːv/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "improve on",
+      "improve performance"
+    ],
+    "examples": [
+      "We need to improve our English.",
+      "His health has improved."
+    ]
+  },
+  "improvement": {
+    "definition": "n. 改进，改善；改进处",
+    "phonetic": {
+      "uk": "/ɪmˈpruːvmənt/",
+      "us": "/ɪmˈpruːvmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "significant improvement",
+      "home improvement"
+    ],
+    "examples": [
+      "There has been improvement in sales.",
+      "The improvements to the house cost a lot."
+    ]
+  },
+  "in": {
+    "definition": "prep. 在...里；ad. 进，入",
+    "phonetic": {
+      "uk": "/ɪn/",
+      "us": "/ɪn/"
+    },
+    "partOfSpeech": "prep./ad.",
+    "phrases": [
+      "in time",
+      "in the end"
+    ],
+    "examples": [
+      "She is in the room.",
+      "Come in, please."
+    ]
+  },
+  "incentive": {
+    "definition": "n. 刺激，鼓励；动机",
+    "phonetic": {
+      "uk": "/ɪnˈsentɪv/",
+      "us": "/ɪnˈsentɪv/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "economic incentive",
+      "provide an incentive"
+    ],
+    "examples": [
+      "Money is a strong incentive.",
+      "They offered incentives for early payment."
+    ]
+  },
+  "inch": {
+    "definition": "n. 英寸",
+    "phonetic": {
+      "uk": "/ɪntʃ/",
+      "us": "/ɪntʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "every inch",
+      "inch by inch"
+    ],
+    "examples": [
+      "The screen is 15 inches.",
+      "He measured every inch of the room."
+    ]
+  },
+  "incident": {
+    "definition": "n. 发生的事；事件",
+    "phonetic": {
+      "uk": "/ˈɪnsɪdənt/",
+      "us": "/ˈɪnsɪdənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "minor incident",
+      "related to the incident"
+    ],
+    "examples": [
+      "The incident caused concern.",
+      "There was a minor incident at the airport."
+    ]
+  },
+  "inclination": {
+    "definition": "n. 倾斜，点头； inclined",
+    "phonetic": {
+      "uk": "/ˌɪnklɪˈneɪʃn/",
+      "us": "/ˌɪnklɪˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "natural inclination",
+      "inclination to do"
+    ],
+    "examples": [
+      "She has an inclination to help others.",
+      "His inclination was towards art."
+    ]
+  },
+  "incline": {
+    "definition": "vt. 使倾斜；n. 斜坡",
+    "phonetic": {
+      "uk": "/ɪnˈklaɪn/",
+      "us": "/ɪnˈklaɪn/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "incline to",
+      "steep incline"
+    ],
+    "examples": [
+      "He inclined his head.",
+      "The road has a steep incline."
+    ]
+  },
+  "include": {
+    "definition": "vt. 包括，包含",
+    "phonetic": {
+      "uk": "/ɪnˈkluːd/",
+      "us": "/ɪnˈkluːd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "include in",
+      "including you"
+    ],
+    "examples": [
+      "The price includes tax.",
+      "Please include your phone number."
+    ]
+  },
+  "including": {
+    "definition": "prep. 包括，连同",
+    "phonetic": {
+      "uk": "/ɪnˈkluːdɪŋ/",
+      "us": "/ɪnˈkluːdɪŋ/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "including but not limited to",
+      "everyone including"
+    ],
+    "examples": [
+      "Everyone, including children, is welcome.",
+      "Fruits, including apples and oranges, are healthy."
+    ]
+  },
+  "income": {
+    "definition": "n. 收入；收益；进款",
+    "phonetic": {
+      "uk": "/ˈɪnkʌm/",
+      "us": "/ˈɪnkʌm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "annual income",
+      "high income"
+    ],
+    "examples": [
+      "His monthly income is $5000.",
+      "The country's income depends on tourism."
+    ]
+  },
+  "increase": {
+    "definition": "vt./vi./n. 增加",
+    "phonetic": {
+      "uk": "/ɪnˈkriːs/",
+      "us": "/ɪnˈkriːs/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "increase in",
+      "increase by"
+    ],
+    "examples": [
+      "Prices have increased this year.",
+      "There has been an increase in sales."
+    ]
+  },
+  "increasingly": {
+    "definition": "ad. 日益，越来越",
+    "phonetic": {
+      "uk": "/ɪnˈkriːsɪŋli/",
+      "us": "/ɪnˈkriːsɪŋli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "increasingly popular",
+      "increasingly difficult"
+    ],
+    "examples": [
+      "It's becoming increasingly popular.",
+      "The problem is getting increasingly serious."
+    ]
+  },
+  "indeed": {
+    "definition": "ad. 真正地；确实",
+    "phonetic": {
+      "uk": "/ɪnˈdiːd/",
+      "us": "/ɪnˈdiːd/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "very good indeed",
+      "indeed"
+    ],
+    "examples": [
+      "It is a beautiful garden indeed.",
+      "Thank you very much indeed."
+    ]
+  },
+  "independence": {
+    "definition": "n. 独立，自主，自立",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈpendəns/",
+      "us": "/ˌɪndɪˈpendəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "declare independence",
+      "gain independence"
+    ],
+    "examples": [
+      "The country gained independence in 1960.",
+      "Children need to learn independence."
+    ]
+  },
+  "independent": {
+    "definition": "a. 独立的；自主的",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈpendənt/",
+      "us": "/ˌɪndɪˈpendənt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "independent of",
+      "independent woman"
+    ],
+    "examples": [
+      "She is financially independent.",
+      "The study was independent of any funding."
+    ]
+  },
+  "index": {
+    "definition": "n. 索引；指数；指标",
+    "phonetic": {
+      "uk": "/ˈɪndeks/",
+      "us": "/ˈɪndeks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "stock index",
+      "price index"
+    ],
+    "examples": [
+      "The book has a useful index.",
+      "The stock market index rose today."
+    ]
+  },
+  "Indian": {
+    "definition": "a. 印度的；n. 印度人",
+    "phonetic": {
+      "uk": "/ˈɪndiən/",
+      "us": "/ˈɪndiən/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "Indian food",
+      "American Indian"
+    ],
+    "examples": [
+      "She enjoys Indian cuisine.",
+      "The Indian elephant is endangered."
+    ]
+  },
+  "indicate": {
+    "definition": "vt. 标示，表示；表明",
+    "phonetic": {
+      "uk": "/ˈɪndɪkeɪt/",
+      "us": "/ˈɪndɪkeɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "indicate that",
+      "clearly indicate"
+    ],
+    "examples": [
+      "Studies indicate that smoking is harmful.",
+      "The arrow indicates the exit."
+    ]
+  },
+  "indication": {
+    "definition": "n. 指示；表示；表明",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈkeɪʃn/",
+      "us": "/ˌɪndɪˈkeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "clear indication",
+      "give an indication"
+    ],
+    "examples": [
+      "There are indications of recovery.",
+      "This is a clear indication of success."
+    ]
+  },
+  "indifferent": {
+    "definition": "a. 冷漠的；不积极的",
+    "phonetic": {
+      "uk": "/ɪnˈdɪfrənt/",
+      "us": "/ɪnˈdɪfrənt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "indifferent to",
+      "indifferent attitude"
+    ],
+    "examples": [
+      "She remained indifferent to his advances.",
+      "His indifferent attitude disappointed me."
+    ]
+  },
+  "indirect": {
+    "definition": "a. 间接的；不坦率的",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈrekt/",
+      "us": "/ˌɪndɪˈrekt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "indirect speech",
+      "indirect effect"
+    ],
+    "examples": [
+      "He gave an indirect answer.",
+      "The indirect consequences were severe."
+    ]
+  },
+  "indispensable": {
+    "definition": "a. 必不可少的，必需的",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈspensəbl/",
+      "us": "/ˌɪndɪˈspensəbl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "indispensable for",
+      "indispensable part"
+    ],
+    "examples": [
+      "Water is indispensable for life.",
+      "Computers are indispensable in modern offices."
+    ]
+  },
+  "individual": {
+    "definition": "a. 个别的；独特的；n. 个人",
+    "phonetic": {
+      "uk": "/ˌɪndɪˈvɪdʒuəl/",
+      "us": "/ˌɪndɪˈvɪdʒuəl/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "individual rights",
+      "individual attention"
+    ],
+    "examples": [
+      "Everyone has individual needs.",
+      "The company treats each customer as an individual."
+    ]
+  },
+  "industrial": {
+    "definition": "a. 工业的；产业的",
+    "phonetic": {
+      "uk": "/ɪnˈdʌstriəl/",
+      "us": "/ɪnˈdʌstriəl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "industrial revolution",
+      "industrial area"
+    ],
+    "examples": [
+      "The city is known for industrial production.",
+      "Industrial pollution is a serious problem."
+    ]
+  },
+  "industry": {
+    "definition": "n. 工业，产业；勤奋",
+    "phonetic": {
+      "uk": "/ˈɪndəstri/",
+      "us": "/ˈɪndəstri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "heavy industry",
+      "service industry"
+    ],
+    "examples": [
+      "The automobile industry is growing.",
+      "Tourism is a major industry here."
+    ]
+  },
+  "inevitable": {
+    "definition": "a. 不可避免的，必然的",
+    "phonetic": {
+      "uk": "/ɪnˈevɪtəbl/",
+      "us": "/ɪnˈevɪtəbl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "inevitable result",
+      "almost inevitable"
+    ],
+    "examples": [
+      "Change is inevitable.",
+      "It was an inevitable consequence."
+    ]
+  },
+  "infant": {
+    "definition": "n. 婴儿 a. 婴儿的",
+    "phonetic": {
+      "uk": "/ˈɪnfənt/",
+      "us": "/ˈɪnfənt/"
+    },
+    "partOfSpeech": "n./a.",
+    "phrases": [
+      "infant mortality",
+      "infant care"
+    ],
+    "examples": [
+      "The infant needs to be fed often.",
+      "Infant mortality has decreased."
+    ]
+  },
+  "infect": {
+    "definition": "vt. 传染；感染",
+    "phonetic": {
+      "uk": "/ɪnˈfekt/",
+      "us": "/ɪnˈfekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "infect with",
+      "get infected"
+    ],
+    "examples": [
+      "The virus can infect humans.",
+      "Clean the wound to prevent infection."
+    ]
+  },
+  "infer": {
+    "definition": "vt. 推论，推断；猜想",
+    "phonetic": {
+      "uk": "/ɪnˈfɜː/",
+      "us": "/ɪnˈfɜːr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "infer from",
+      "can infer"
+    ],
+    "examples": [
+      "We can infer from this that...",
+      "What can you infer from the evidence?"
+    ]
+  },
+  "inferior": {
+    "definition": "a. 下等的；劣等的",
+    "phonetic": {
+      "uk": "/ɪnˈfɪəriə/",
+      "us": "/ɪnˈfɪriər/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "inferior quality",
+      "inferior to"
+    ],
+    "examples": [
+      "The goods are of inferior quality.",
+      "He feels inferior to his colleagues."
+    ]
+  },
+  "infinite": {
+    "definition": "a. 无限的；无数的",
+    "phonetic": {
+      "uk": "/ˈɪnfɪnət/",
+      "us": "/ˈɪnfɪnət/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "infinite space",
+      "infinite possibilities"
+    ],
+    "examples": [
+      "The universe is infinite.",
+      "There are infinite possibilities."
+    ]
+  },
+  "influence": {
+    "definition": "n. 影响；势力；vt. 影响",
+    "phonetic": {
+      "uk": "/ˈɪnfluəns/",
+      "us": "/ˈɪnfluəns/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "have influence",
+      "under the influence"
+    ],
+    "examples": [
+      "She has great influence over him.",
+      "Music influences people's moods."
+    ]
+  },
+  "influential": {
+    "definition": "a. 有影响的；有权势的",
+    "phonetic": {
+      "uk": "/ˌɪnfluˈenʃl/",
+      "us": "/ˌɪnfluˈenʃl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "influential person",
+      "highly influential"
+    ],
+    "examples": [
+      "He is an influential businessman.",
+      "The book was influential in the field."
+    ]
+  },
+  "inform": {
+    "definition": "vt. 通知，向...报告",
+    "phonetic": {
+      "uk": "/ɪnˈfɔːm/",
+      "us": "/ɪnˈfɔːrm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "inform of",
+      "inform someone that"
+    ],
+    "examples": [
+      "Please inform me of any changes.",
+      "They informed us about the delay."
+    ]
+  },
+  "information": {
+    "definition": "n. 消息，信息；通知",
+    "phonetic": {
+      "uk": "/ˌɪnfəˈmeɪʃn/",
+      "us": "/ˌɪnfərˈmeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "gather information",
+      "provide information"
+    ],
+    "examples": [
+      "For more information, call this number.",
+      "The information is confidential."
+    ]
+  },
+  "ingredient": {
+    "definition": "n. 配料，成分",
+    "phonetic": {
+      "uk": "/ɪnˈɡriːdiənt/",
+      "us": "/ɪnˈɡriːdiənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "active ingredient",
+      "main ingredients"
+    ],
+    "examples": [
+      "What are the ingredients?",
+      "The secret ingredient is love."
+    ]
+  },
+  "inhabitant": {
+    "definition": "n. 居民，住户",
+    "phonetic": {
+      "uk": "/ɪnˈhæbɪtənt/",
+      "us": "/ɪnˈhæbɪtənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "local inhabitants",
+      "original inhabitants"
+    ],
+    "examples": [
+      "The city has 10 million inhabitants.",
+      "The island's inhabitants are friendly."
+    ]
+  },
+  "inherit": {
+    "definition": "vt. 继承（传统等）",
+    "phonetic": {
+      "uk": "/ɪnˈherɪt/",
+      "us": "/ɪnˈherɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "inherit from",
+      "inherit property"
+    ],
+    "examples": [
+      "She inherited the house from her aunt.",
+      "He inherited his mother's blue eyes."
+    ]
+  },
+  "initial": {
+    "definition": "a. 最初的；词首的",
+    "phonetic": {
+      "uk": "/ɪˈnɪʃl/",
+      "us": "/ɪˈnɪʃl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "initial stage",
+      "initial investment"
+    ],
+    "examples": [
+      "The initial results were promising.",
+      "What was your initial reaction?"
+    ]
+  },
+  "injection": {
+    "definition": "n. 注射，注入；充满",
+    "phonetic": {
+      "uk": "/ɪnˈdʒekʃn/",
+      "us": "/ɪnˈdʒekʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "give an injection",
+      "injection site"
+    ],
+    "examples": [
+      "The patient needs an injection.",
+      "The injection of funds saved the company."
+    ]
+  },
+  "injure": {
+    "definition": "vt. 伤害，损害，损伤",
+    "phonetic": {
+      "uk": "/ˈɪndʒə/",
+      "us": "/ˈɪndʒər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "injure oneself",
+      "badly injure"
+    ],
+    "examples": [
+      "He injured his ankle in the fall.",
+      "The accident seriously injured three people."
+    ]
+  },
+  "injury": {
+    "definition": "n. 损害，伤害；受伤处",
+    "phonetic": {
+      "uk": "/ˈɪndʒəri/",
+      "us": "/ˈɪndʒəri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "suffer injury",
+      "injury to"
+    ],
+    "examples": [
+      "She recovered from her injury.",
+      "The injury required surgery."
+    ]
+  },
+  "ink": {
+    "definition": "n. 墨水，油墨",
+    "phonetic": {
+      "uk": "/ɪŋk/",
+      "us": "/ɪŋk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ink pen",
+      "out of ink"
+    ],
+    "examples": [
+      "The pen ran out of ink.",
+      "She writes in black ink."
+    ]
+  },
+  "inn": {
+    "definition": "n. 小旅店；小酒店",
+    "phonetic": {
+      "uk": "/ɪn/",
+      "us": "/ɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "old inn",
+      "stay at an inn"
+    ],
+    "examples": [
+      "We stayed at a historic inn.",
+      "The inn offers comfortable rooms."
+    ]
+  },
+  "inner": {
+    "definition": "a. 内部的；内心的",
+    "phonetic": {
+      "uk": "/ˈɪnə/",
+      "us": "/ˈɪnər/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "inner city",
+      "inner peace"
+    ],
+    "examples": [
+      "The city center is called the inner city.",
+      "She seeks inner peace."
+    ]
+  },
+  "innocent": {
+    "definition": "a. 清白的，幼稚的",
+    "phonetic": {
+      "uk": "/ˈɪnəsnt/",
+      "us": "/ˈɪnəsnt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "innocent of",
+      "innocent child"
+    ],
+    "examples": [
+      "He was proven innocent.",
+      "The child has an innocent smile."
+    ]
+  },
+  "input": {
+    "definition": "n. 输入；投入的资金",
+    "phonetic": {
+      "uk": "/ˈɪnpʊt/",
+      "us": "/ˈɪnpʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "input data",
+      "user input"
+    ],
+    "examples": [
+      "Please enter your input.",
+      "The system accepts input from multiple sources."
+    ]
+  },
+  "inquire": {
+    "definition": "vt. 打听，询问；调查",
+    "phonetic": {
+      "uk": "/ɪnˈkwaɪə/",
+      "us": "/ɪnˈkwaɪər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "inquire about",
+      "inquire into"
+    ],
+    "examples": [
+      "I inquired about the room rates.",
+      "Police are inquiring into the incident."
+    ]
+  },
+  "inquiry": {
+    "definition": "n. 询问，打听；调查",
+    "phonetic": {
+      "uk": "/ɪnˈkwaɪəri/",
+      "us": "/ɪnˈkwaɪəri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an inquiry",
+      "formal inquiry"
+    ],
+    "examples": [
+      "Thank you for your inquiry.",
+      "The police began an inquiry."
+    ]
+  },
+  "insect": {
+    "definition": "n. 昆虫，虫",
+    "phonetic": {
+      "uk": "/ˈɪnsekt/",
+      "us": "/ˈɪnsekt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "insect bite",
+      "flying insects"
+    ],
+    "examples": [
+      "Bees are useful insects.",
+      "Mosquitoes are annoying insects."
+    ]
+  },
+  "insert": {
+    "definition": "vt. 插入；嵌入；登载",
+    "phonetic": {
+      "uk": "/ɪnˈsɜːt/",
+      "us": "/ɪnˈsɜːrt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "insert into",
+      "insert page"
+    ],
+    "examples": [
+      "Insert the key into the lock.",
+      "Please insert your card."
+    ]
+  },
+  "inside": {
+    "definition": "prep. 在...里面；n. 内部",
+    "phonetic": {
+      "uk": "/ˌɪnˈsaɪd/",
+      "us": "/ˌɪnˈsaɪd/"
+    },
+    "partOfSpeech": "prep./n.",
+    "phrases": [
+      "inside out",
+      "from the inside"
+    ],
+    "examples": [
+      "The cat is inside the box.",
+      "Look inside the drawer."
+    ]
+  },
+  "insist": {
+    "definition": "vi. 坚持；坚持要求",
+    "phonetic": {
+      "uk": "/ɪnˈsɪst/",
+      "us": "/ɪnˈsɪst/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "insist on",
+      "insist that"
+    ],
+    "examples": [
+      "I insist on paying.",
+      "She insists that she is right."
+    ]
+  },
+  "inspect": {
+    "definition": "vt. 检查，审查；检阅",
+    "phonetic": {
+      "uk": "/ɪnˈspekt/",
+      "us": "/ɪnˈspekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "inspect something",
+      "safety inspection"
+    ],
+    "examples": [
+      "Please inspect the car before buying.",
+      "The inspector will arrive tomorrow."
+    ]
+  },
+  "inspection": {
+    "definition": "n. 检查，审查；检阅",
+    "phonetic": {
+      "uk": "/ɪnˈspekʃn/",
+      "us": "/ɪnˈspekʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "conduct inspection",
+      "random inspection"
+    ],
+    "examples": [
+      "The building passed inspection.",
+      "We need to conduct a safety inspection."
+    ]
+  },
+  "inspire": {
+    "definition": "vt. 鼓舞；给...以灵感",
+    "phonetic": {
+      "uk": "/ɪnˈspaɪə/",
+      "us": "/ɪnˈspaɪər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "inspire someone",
+      "inspire to do"
+    ],
+    "examples": [
+      "Her speech inspired the audience.",
+      "Nature inspires his art."
+    ]
+  },
+  "install": {
+    "definition": "vt. 安装，设置",
+    "phonetic": {
+      "uk": "/ɪnˈstɔːl/",
+      "us": "/ɪnˈstɔːl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "install software",
+      "install new equipment"
+    ],
+    "examples": [
+      "I need to install this program.",
+      "They installed a security camera."
+    ]
+  },
+  "instance": {
+    "definition": "n. 例子，实例，事例",
+    "phonetic": {
+      "uk": "/ˈɪnstəns/",
+      "us": "/ˈɪnstəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "for instance",
+      "in this instance"
+    ],
+    "examples": [
+      "For instance, you could send an email.",
+      "In this instance, we must be careful."
+    ]
+  },
+  "instant": {
+    "definition": "n. 瞬间 a. 立即的",
+    "phonetic": {
+      "uk": "/ˈɪnstənt/",
+      "us": "/ˈɪnstənt/"
+    },
+    "partOfSpeech": "n./a.",
+    "phrases": [
+      "instant coffee",
+      "in an instant"
+    ],
+    "examples": [
+      "She made instant soup.",
+      "Everything changed in an instant."
+    ]
+  },
+  "instantly": {
+    "definition": "ad. 立即，即刻",
+    "phonetic": {
+      "uk": "/ˈɪnstəntli/",
+      "us": "/ˈɪnstəntli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "respond instantly",
+      "instantly recognizable"
+    ],
+    "examples": [
+      "He recognized her instantly.",
+      "The medicine works instantly."
+    ]
+  },
+  "instead": {
+    "definition": "ad. 代替，顶替；反而",
+    "phonetic": {
+      "uk": "/ɪnˈsted/",
+      "us": "/ɪnˈsted/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "instead of",
+      "do instead"
+    ],
+    "examples": [
+      "He walked instead of driving.",
+      "I'll have tea instead of coffee."
+    ]
+  },
+  "instinct": {
+    "definition": "n. 本能；直觉；生性",
+    "phonetic": {
+      "uk": "/ˈɪnstɪŋkt/",
+      "us": "/ˈɪnstɪŋkt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "by instinct",
+      "animal instinct"
+    ],
+    "examples": [
+      "Birds have an instinct to migrate.",
+      "She followed her instinct."
+    ]
+  },
+  "institute": {
+    "definition": "n. 研究所；学院",
+    "phonetic": {
+      "uk": "/ˈɪnstɪtjuːt/",
+      "us": "/ˈɪnstɪtuːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "research institute",
+      "institute of technology"
+    ],
+    "examples": [
+      "He works at the research institute.",
+      "The institute was founded in 1950."
+    ]
+  },
+  "institution": {
+    "definition": "n. 协会；制度，习俗",
+    "phonetic": {
+      "uk": "/ˌɪnstɪˈtjuːʃn/",
+      "us": "/ˌɪnstɪˈtuːʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "financial institution",
+      "educational institution"
+    ],
+    "examples": [
+      "The bank is a major financial institution.",
+      "Universities are important institutions."
+    ]
+  },
+  "instruct": {
+    "definition": "vt. 教；指示；通知",
+    "phonetic": {
+      "uk": "/ɪnˈstrʌkt/",
+      "us": "/ɪnˈstrʌkt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "instruct to",
+      "instruct someone"
+    ],
+    "examples": [
+      "The teacher instructed the students.",
+      "He was instructed to wait here."
+    ]
+  },
+  "instruction": {
+    "definition": "n. 命令；教学；教训",
+    "phonetic": {
+      "uk": "/ɪnˈstrʌkʃn/",
+      "us": "/ɪnˈstrʌkʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "follow instructions",
+      "give instructions"
+    ],
+    "examples": [
+      "Please follow the instructions.",
+      "She received clear instructions."
+    ]
+  },
+  "instrument": {
+    "definition": "n. 仪器；工具；乐器",
+    "phonetic": {
+      "uk": "/ˈɪnstrəmənt/",
+      "us": "/ˈɪnstrəmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "musical instrument",
+      "medical instrument"
+    ],
+    "examples": [
+      "She plays several instruments.",
+      "The doctor used the instrument."
+    ]
+  },
+  "insult": {
+    "definition": "vt. 侮辱，凌辱 n. 侮辱",
+    "phonetic": {
+      "uk": "/ɪnˈsʌlt/",
+      "us": "/ɪnˈsʌlt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "add insult to injury",
+      "take as an insult"
+    ],
+    "examples": [
+      "His words insulted me.",
+      "She took it as an insult."
+    ]
+  },
+  "insurance": {
+    "definition": "n. 保险；保险费",
+    "phonetic": {
+      "uk": "/ɪnˈʃʊərəns/",
+      "us": "/ɪnˈʃʊrəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "health insurance",
+      "car insurance"
+    ],
+    "examples": [
+      "Do you have health insurance?",
+      "Insurance premiums have increased."
+    ]
+  },
+  "insure": {
+    "definition": "vt. 给...保险；确保",
+    "phonetic": {
+      "uk": "/ɪnˈʃʊə/",
+      "us": "/ɪnˈʃʊr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "insure against",
+      "insure your car"
+    ],
+    "examples": [
+      "You should insure your home.",
+      "We need to insure against risks."
+    ]
+  },
+  "intellectual": {
+    "definition": "n. 知识分子 a. 智力的",
+    "phonetic": {
+      "uk": "/ˌɪntəˈlektʃuəl/",
+      "us": "/ˌɪntəˈlektʃuəl/"
+    },
+    "partOfSpeech": "n./a.",
+    "phrases": [
+      "intellectual property",
+      "intellectual ability"
+    ],
+    "examples": [
+      "He is known as an intellectual.",
+      "The work requires intellectual effort."
+    ]
+  },
+  "intelligence": {
+    "definition": "n. 智力；理解力；情报",
+    "phonetic": {
+      "uk": "/ɪnˈtelɪdʒəns/",
+      "us": "/ɪnˈtelɪdʒəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "artificial intelligence",
+      "high intelligence"
+    ],
+    "examples": [
+      "She has high intelligence.",
+      "Intelligence agencies collect information."
+    ]
+  },
+  "intelligent": {
+    "definition": "a. 聪明的；理智的",
+    "phonetic": {
+      "uk": "/ɪnˈtelɪdʒənt/",
+      "us": "/ɪnˈtelɪdʒənt/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "intelligent decision",
+      "highly intelligent"
+    ],
+    "examples": [
+      "She is an intelligent student.",
+      "The computer made an intelligent choice."
+    ]
+  },
+  "intend": {
+    "definition": "vt. 想要，打算；意指",
+    "phonetic": {
+      "uk": "/ɪnˈtend/",
+      "us": "/ɪnˈtend/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "intend to do",
+      "intend for"
+    ],
+    "examples": [
+      "I intend to visit Japan.",
+      "The book is intended for children."
+    ]
+  },
+  "intense": {
+    "definition": "a. 强烈的；紧张的",
+    "phonetic": {
+      "uk": "/ɪnˈtens/",
+      "us": "/ɪnˈtens/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "intense pressure",
+      "intense emotion"
+    ],
+    "examples": [
+      "The heat was intense.",
+      "She felt intense anxiety."
+    ]
+  },
+  "intensity": {
+    "definition": "n. 强烈，剧烈；强度",
+    "phonetic": {
+      "uk": "/ɪnˈtensəti/",
+      "us": "/ɪnˈtensəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high intensity",
+      "reduce intensity"
+    ],
+    "examples": [
+      "The intensity of the light increased.",
+      "The storm reached peak intensity."
+    ]
+  },
+  "intensive": {
+    "definition": "a. 加强的；精耕细作的",
+    "phonetic": {
+      "uk": "/ɪnˈtensɪv/",
+      "us": "/ɪnˈtensɪv/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "intensive course",
+      "intensive care"
+    ],
+    "examples": [
+      "She took an intensive English course.",
+      "The patient is in intensive care."
+    ]
+  },
+  "intention": {
+    "definition": "n. 意图，意向，目的",
+    "phonetic": {
+      "uk": "/ɪnˈtenʃn/",
+      "us": "/ɪnˈtenʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have no intention",
+      "with the intention"
+    ],
+    "examples": [
+      "I have no intention of leaving.",
+      "His intentions were good."
+    ]
+  },
+  "interaction": {
+    "definition": "n. 相互作用；干扰",
+    "phonetic": {
+      "uk": "/ˌɪntərˈækʃn/",
+      "us": "/ˌɪntərˈækʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "social interaction",
+      "interaction between"
+    ],
+    "examples": [
+      "Social interaction is important.",
+      "Drug interactions can be dangerous."
+    ]
+  },
+  "interest": {
+    "definition": "n. 兴趣；利益；利息",
+    "phonetic": {
+      "uk": "/ˈɪntrəst/",
+      "us": "/ˈɪntrəst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "interest in",
+      "lose interest"
+    ],
+    "examples": [
+      "She has a strong interest in art.",
+      "The bank charges high interest."
+    ]
+  },
+  "interesting": {
+    "definition": "a. 有趣的，引人入胜的",
+    "phonetic": {
+      "uk": "/ˈɪntrəstɪŋ/",
+      "us": "/ˈɪntrəstɪŋ/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "very interesting",
+      "find interesting"
+    ],
+    "examples": [
+      "The book is very interesting.",
+      "I found the movie interesting."
+    ]
+  },
+  "interfere": {
+    "definition": "vi. 干涉，干预；妨碍",
+    "phonetic": {
+      "uk": "/ˌɪntəˈfɪə/",
+      "us": "/ˌɪntəˈfɪr/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "interfere with",
+      "interfere in"
+    ],
+    "examples": [
+      "Don't interfere with my work.",
+      "Please don't interfere in family matters."
+    ]
+  },
+  "interference": {
+    "definition": "n. 干涉，干预；阻碍",
+    "phonetic": {
+      "uk": "/ˌɪntəˈfɪərəns/",
+      "us": "/ˌɪntəˈfɪrəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "signal interference",
+      "external interference"
+    ],
+    "examples": [
+      "There was interference on the radio.",
+      "External interference is not welcome."
+    ]
+  },
+  "interior": {
+    "definition": "a. 内部的；内地的",
+    "phonetic": {
+      "uk": "/ɪnˈtɪəriə/",
+      "us": "/ɪnˈtɪriər/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "interior design",
+      "interior of"
+    ],
+    "examples": [
+      "The interior design is beautiful.",
+      "We explored the interior of the cave."
+    ]
+  },
+  "intermediate": {
+    "definition": "a. 中间的；中级的",
+    "phonetic": {
+      "uk": "/ˌɪntəˈmiːdiət/",
+      "us": "/ˌɪntərˈmiːdiət/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "intermediate level",
+      "intermediate stage"
+    ],
+    "examples": [
+      "This is an intermediate course.",
+      "She is at an intermediate level."
+    ]
+  },
+  "internal": {
+    "definition": "a. 内的；国内的",
+    "phonetic": {
+      "uk": "/ɪnˈtɜːnl/",
+      "us": "/ɪnˈtɜːrnl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "internal affairs",
+      "internal medicine"
+    ],
+    "examples": [
+      "The company has internal problems.",
+      "He is a doctor of internal medicine."
+    ]
+  },
+  "international": {
+    "definition": "a. 国际的，世界（性）的",
+    "phonetic": {
+      "uk": "/ˌɪntəˈnæʃnl/",
+      "us": "/ˌɪntərˈnæʃnl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "international trade",
+      "international airport"
+    ],
+    "examples": [
+      "She speaks three international languages.",
+      "The company has international clients."
+    ]
+  },
+  "interpret": {
+    "definition": "vt. 解释，说明；口译",
+    "phonetic": {
+      "uk": "/ɪnˈtɜːprɪt/",
+      "us": "/ɪnˈtɜːrprɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "interpret as",
+      "interpret for"
+    ],
+    "examples": [
+      "How do you interpret this symbol?",
+      "She can interpret for you."
+    ]
+  },
+  "interpretation": {
+    "definition": "n. 解释；口译",
+    "phonetic": {
+      "uk": "/ɪnˌtɜːprɪˈteɪʃn/",
+      "us": "/ɪnˌtɜːrprɪˈteɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "different interpretations",
+      "simultaneous interpretation"
+    ],
+    "examples": [
+      "There are different interpretations of the poem.",
+      "She works in interpretation."
+    ]
+  },
+  "interrupt": {
+    "definition": "vt. 打断，打扰；中止",
+    "phonetic": {
+      "uk": "/ˌɪntəˈrʌpt/",
+      "us": "/ˌɪntəˈrʌpt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "interrupt someone",
+      "interrupt the meeting"
+    ],
+    "examples": [
+      "Please don't interrupt me.",
+      "The power was interrupted."
+    ]
+  },
+  "interval": {
+    "definition": "n. 间隔；幕间休息",
+    "phonetic": {
+      "uk": "/ˈɪntəvl/",
+      "us": "/ˈɪntərvl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "time interval",
+      "at intervals"
+    ],
+    "examples": [
+      "The train runs at 20-minute intervals.",
+      "There was a short interval between sets."
+    ]
+  }
+}

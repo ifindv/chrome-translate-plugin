@@ -1,0 +1,1683 @@
+{
+  "habit": {
+    "definition": "n. 习惯",
+    "phonetic": {
+      "uk": "/ˈhæbɪt/",
+      "us": "/ˈhæbɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["form a habit", "break a habit"],
+    "examples": ["Smoking is a bad habit.", "Develop good habits early."]
+  },
+  "hair": {
+    "definition": "n. 头发,毛发",
+    "phonetic": {
+      "uk": "/heə(r)/",
+      "us": "/her/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["long hair", "hair cut"],
+    "examples": ["She has beautiful hair.", "Comb your hair."]
+  },
+  "half": {
+    "definition": "n./adj./adv. 一半",
+    "phonetic": {
+      "uk": "/hɑːf/",
+      "us": "/hæf/"
+    },
+    "partOfSpeech": "n., adj., adv.",
+    "phrases": ["half an hour", "half way"],
+    "examples": ["I ate half the cake.", "The glass is half full."]
+  },
+  "hall": {
+    "definition": "n. 大厅,礼堂",
+    "phonetic": {
+      "uk": "/hɔːl/",
+      "us": "/hɔːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["concert hall", "city hall"],
+    "examples": ["The concert is in the town hall.", "Enter the hall quietly."]
+  },
+  "halt": {
+    "definition": "v. 停止; n. 停止",
+    "phonetic": {
+      "uk": "/hɔːlt/",
+      "us": "/hɔːlt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["come to a halt", "halt production"],
+    "examples": ["The rain brought work to a halt.", "Halt where you are."]
+  },
+  "ham": {
+    "definition": "n. 火腿",
+    "phonetic": {
+      "uk": "/hæm/",
+      "us": "/hæm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["ham sandwich", "baked ham"],
+    "examples": ["I'd like a ham sandwich.", "The ham is delicious."]
+  },
+  "hammer": {
+    "definition": "n. 锤子; v. 锤击",
+    "phonetic": {
+      "uk": "/ˈhæmə(r)/",
+      "us": "/ˈhæmər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["hammer and nail", "hammer out"],
+    "examples": ["Use a hammer to fix it.", "He hammered the nail."]
+  },
+  "hand": {
+    "definition": "n. 手; v. 递交",
+    "phonetic": {
+      "uk": "/hænd/",
+      "us": "/hænd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["hand in", "by hand"],
+    "examples": ["Wash your hands.", "Hand me that book."]
+  },
+  "handful": {
+    "definition": "n. 一把,少数",
+    "phonetic": {
+      "uk": "/ˈhændfʊl/",
+      "us": "/ˈhændfʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["a handful of", "handful of people"],
+    "examples": ["She grabbed a handful of nuts.", "Only a handful came."]
+  },
+  "handle": {
+    "definition": "n. 把手; v. 处理,操作",
+    "phonetic": {
+      "uk": "/ˈhændl/",
+      "us": "/ˈhændl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["door handle", "handle with care"],
+    "examples": ["Turn the handle to open.", "Can you handle this?"]
+  },
+  "handsome": {
+    "definition": "adj. 英俊的,慷慨的",
+    "phonetic": {
+      "uk": "/ˈhænsəm/",
+      "us": "/ˈhænsəm/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["handsome man", "handsome reward"],
+    "examples": ["He is a handsome young man.", "That's a handsome profit."]
+  },
+  "handwriting": {
+    "definition": "n. 笔迹,书法",
+    "phonetic": {
+      "uk": "/ˈhændraɪtɪŋ/",
+      "us": "/ˈhændraɪtɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["poor handwriting", "beautiful handwriting"],
+    "examples": ["Your handwriting is neat.", "I can't read his handwriting."]
+  },
+  "hang": {
+    "definition": "v. 悬挂,绞死",
+    "phonetic": {
+      "uk": "/hæŋ/",
+      "us": "/hæŋ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hang up", "hang out"],
+    "examples": ["Hang your coat here.", "Let's hang out sometime."]
+  },
+  "happen": {
+    "definition": "v. 发生,碰巧",
+    "phonetic": {
+      "uk": "/ˈhæpən/",
+      "us": "/ˈhæpən/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["happen to", "whatever happens"],
+    "examples": ["Accidents can happen.", "What happened to you?"]
+  },
+  "happiness": {
+    "definition": "n. 幸福",
+    "phonetic": {
+      "uk": "/ˈhæpinəs/",
+      "us": "/ˈhæpinəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["pursuit of happiness", "true happiness"],
+    "examples": ["Money doesn't buy happiness.", "Wish you happiness."]
+  },
+  "happy": {
+    "definition": "adj. 快乐的,幸福的",
+    "phonetic": {
+      "uk": "/ˈhæpi/",
+      "us": "/ˈhæpi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["happy birthday", "happy ending"],
+    "examples": ["I'm happy to see you.", "They lived happily ever after."]
+  },
+  "harbor": {
+    "definition": "n. 港口; v. 庇护",
+    "phonetic": {
+      "uk": "/ˈhɑːbə(r)/",
+      "us": "/ˈhɑːrbər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["harbor city", "harbor fugitives"],
+    "examples": ["Ships entered the harbor.", "Don't harbor grudges."]
+  },
+  "hard": {
+    "definition": "adj. 硬的,困难的; adv. 努力地",
+    "phonetic": {
+      "uk": "/hɑːd/",
+      "us": "/hɑːrd/"
+    },
+    "partOfSpeech": "adj., adv.",
+    "phrases": ["work hard", "hard time"],
+    "examples": ["The ground is hard.", "He works hard every day."]
+  },
+  "harden": {
+    "definition": "v. 变硬,使坚强",
+    "phonetic": {
+      "uk": "/ˈhɑːdn/",
+      "us": "/ˈhɑːrdn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["harden the heart", "harden against"],
+    "examples": ["The cement will harden soon.", "Experience hardened him."]
+  },
+  "hardly": {
+    "definition": "adv. 几乎不",
+    "phonetic": {
+      "uk": "/ˈhɑːdli/",
+      "us": "/ˈhɑːrdli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["hardly ever", "hardly any"],
+    "examples": ["I can hardly hear you.", "It hardly matters."]
+  },
+  "hardship": {
+    "definition": "n. 艰难,困苦",
+    "phonetic": {
+      "uk": "/ˈhɑːdʃɪp/",
+      "us": "/ˈhɑːrdʃɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["endure hardship", "economic hardship"],
+    "examples": ["They overcome many hardships.", "War brings great hardship."]
+  },
+  "hardware": {
+    "definition": "n. 硬件,五金制品",
+    "phonetic": {
+      "uk": "/ˈhɑːdweə(r)/",
+      "us": "/ˈhɑːrdwer/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["computer hardware", "hardware store"],
+    "examples": ["The hardware needs upgrading.", "Buy a screw at the hardware store."]
+  },
+  "harm": {
+    "definition": "n./v. 伤害,损害",
+    "phonetic": {
+      "uk": "/hɑːm/",
+      "us": "/hɑːrm/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["do harm", "no harm"],
+    "examples": ["Smoking can harm your health.", "He meant no harm."]
+  },
+  "harmful": {
+    "definition": "adj. 有害的",
+    "phonetic": {
+      "uk": "/ˈhɑːmfl/",
+      "us": "/ˈhɑːrmfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["harmful effects", "harmful to health"],
+    "examples": ["Pollution is harmful to the environment.", "These chemicals are harmful."]
+  },
+  "harmony": {
+    "definition": "n. 和谐",
+    "phonetic": {
+      "uk": "/ˈhɑːməni/",
+      "us": "/ˈhɑːrməni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["live in harmony", "social harmony"],
+    "examples": ["We should live in harmony.", "The music has perfect harmony."]
+  },
+  "harness": {
+    "definition": "n. 马具; v. 利用,驾驭",
+    "phonetic": {
+      "uk": "/ˈhɑːnɪs/",
+      "us": "/ˈhɑːrnɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["harness energy", "put on the harness"],
+    "examples": ["We need to harness solar power.", "The horse wears a harness."]
+  },
+  "harsh": {
+    "definition": "adj. 严厉的,刺耳的",
+    "phonetic": {
+      "uk": "/hɑːʃ/",
+      "us": "/hɑːrʃ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["harsh reality", "harsh voice"],
+    "examples": ["The punishment was too harsh.", "The winter was harsh."]
+  },
+  "harvest": {
+    "definition": "n. 收获; v. 收割",
+    "phonetic": {
+      "uk": "/ˈhɑːvɪst/",
+      "us": "/ˈhɑːrvɪst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["harvest time", "good harvest"],
+    "examples": ["The harvest was abundant.", "Farmers harvest crops in autumn."]
+  },
+  "haste": {
+    "definition": "n. 匆忙,急速",
+    "phonetic": {
+      "uk": "/heɪst/",
+      "us": "/heɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["in haste", "make haste"],
+    "examples": ["Why such haste?", "He acted in haste and regretted it."]
+  },
+  "hasten": {
+    "definition": "v. 加速,催促",
+    "phonetic": {
+      "uk": "/ˈheɪsn/",
+      "us": "/ˈheɪsn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hasten to add", "hasten death"],
+    "examples": ["I hasten to explain.", "Nothing can hasten the process."]
+  },
+  "hat": {
+    "definition": "n. 帽子",
+    "phonetic": {
+      "uk": "/hæt/",
+      "us": "/hæt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["take off your hat", "straw hat"],
+    "examples": ["Put on your hat.", "He wears a funny hat."]
+  },
+  "hatch": {
+    "definition": "v. 孵化,策划; n. 舱口",
+    "phonetic": {
+      "uk": "/hætʃ/",
+      "us": "/hætʃ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hatch an egg", "escape hatch"],
+    "examples": ["The bird hatches its eggs.", "Open the hatch."]
+  },
+  "hate": {
+    "definition": "v. 憎恨; n. 憎恨",
+    "phonetic": {
+      "uk": "/heɪt/",
+      "us": "/heɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hate doing", "hate speech"],
+    "examples": ["I hate waiting.", "Hate is destructive."]
+  },
+  "hateful": {
+    "definition": "adj. 可恨的",
+    "phonetic": {
+      "uk": "/ˈheɪtfl/",
+      "us": "/ˈheɪtfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["hateful act", "hateful words"],
+    "examples": ["His hateful behavior shocked everyone.", "Don't use hateful language."]
+  },
+  "hatred": {
+    "definition": "n. 仇恨",
+    "phonetic": {
+      "uk": "/ˈheɪtrɪd/",
+      "us": "/ˈheɪtrɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["deep hatred", "racial hatred"],
+    "examples": ["Hatred only brings pain.", "Overcome hatred with love."]
+  },
+  "have": {
+    "definition": "v. 有,吃,使",
+    "phonetic": {
+      "uk": "/hæv/",
+      "us": "/hæv/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["have to", "have done"],
+    "examples": ["I have a car.", "We have to go now."]
+  },
+  "hay": {
+    "definition": "n. 干草",
+    "phonetic": {
+      "uk": "/heɪ/",
+      "us": "/heɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["make hay", "haystack"],
+    "examples": ["Make hay while the sun shines.", "The horse eats hay."]
+  },
+  "hazard": {
+    "definition": "n. 危险",
+    "phonetic": {
+      "uk": "/ˈhæzəd/",
+      "us": "/ˈhæzərd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["fire hazard", "health hazard"],
+    "examples": ["Smoking is a fire hazard.", "Avoid this hazard."]
+  },
+  "he": {
+    "definition": "pron. 他",
+    "phonetic": {
+      "uk": "/hiː/",
+      "us": "/hiː/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": ["He is my friend.", "He went home."]
+  },
+  "head": {
+    "definition": "n. 头,首脑; v. 朝向",
+    "phonetic": {
+      "uk": "/hed/",
+      "us": "/hed/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["head teacher", "head towards"],
+    "examples": ["She nodded her head.", "We headed north."]
+  },
+  "headache": {
+    "definition": "n. 头痛",
+    "phonetic": {
+      "uk": "/ˈhedeɪk/",
+      "us": "/ˈhedeɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["have a headache", "migraine headache"],
+    "examples": ["I have a bad headache.", "This gives me a headache."]
+  },
+  "heading": {
+    "definition": "n. 标题,航向",
+    "phonetic": {
+      "uk": "/ˈhedɪŋ/",
+      "us": "/ˈhedɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["main heading", "compass heading"],
+    "examples": ["Add a heading to your document.", "What's our heading?"]
+  },
+  "headquarters": {
+    "definition": "n. 总部",
+    "phonetic": {
+      "uk": "/ˌhedˈkwɔːtəz/",
+      "us": "/ˌhedˈkwɔːrtərz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["company headquarters", "police headquarters"],
+    "examples": ["The headquarters is in New York.", "Visit our headquarters."]
+  },
+  "heal": {
+    "definition": "v. 治愈",
+    "phonetic": {
+      "uk": "/hiːl/",
+      "us": "/hiːl/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["heal the wound", "heal quickly"],
+    "examples": ["Time heals all wounds.", "The medicine will heal you."]
+  },
+  "health": {
+    "definition": "n. 健康",
+    "phonetic": {
+      "uk": "/helθ/",
+      "us": "/helθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["good health", "health care"],
+    "examples": ["Health is wealth.", "She enjoys good health."]
+  },
+  "healthy": {
+    "definition": "adj. 健康的",
+    "phonetic": {
+      "uk": "/ˈhelθi/",
+      "us": "/ˈhelθi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["healthy diet", "healthy lifestyle"],
+    "examples": ["Eat healthy food.", "The children look healthy."]
+  },
+  "heap": {
+    "definition": "n. 堆; v. 堆积",
+    "phonetic": {
+      "uk": "/hiːp/",
+      "us": "/hiːp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["heap of books", "heap up"],
+    "examples": ["There's a heap of clothes.", "He heaped praise on her."]
+  },
+  "hear": {
+    "definition": "v. 听见,收到",
+    "phonetic": {
+      "uk": "/hɪə(r)/",
+      "us": "/hɪr/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hear from", "hear of"],
+    "examples": ["Can you hear me?", "I heard the news."]
+  },
+  "hearing": {
+    "definition": "n. 听力,听证会",
+    "phonetic": {
+      "uk": "/ˈhɪərɪŋ/",
+      "us": "/ˈhɪrɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["hearing aid", "court hearing"],
+    "examples": ["His hearing is declining.", "Attend the hearing."]
+  },
+  "heart": {
+    "definition": "n. 心,心脏",
+    "phonetic": {
+      "uk": "/hɑːt/",
+      "us": "/hɑːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["by heart", "heart attack"],
+    "examples": ["My heart beats fast.", "Learn it by heart."]
+  },
+  "heat": {
+    "definition": "n. 热度; v. 加热",
+    "phonetic": {
+      "uk": "/hiːt/",
+      "us": "/hiːt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["heat up", "body heat"],
+    "examples": ["The heat is unbearable.", "Heat the water before drinking."]
+  },
+  "heating": {
+    "definition": "n. 供暖,暖气",
+    "phonetic": {
+      "uk": "/ˈhiːtɪŋ/",
+      "us": "/ˈhiːtɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["central heating", "heating system"],
+    "examples": ["Turn on the heating.", "The heating is broken."]
+  },
+  "heaven": {
+    "definition": "n. 天堂,天空",
+    "phonetic": {
+      "uk": "/ˈhevn/",
+      "us": "/ˈhevn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["go to heaven", "thank heaven"],
+    "examples": ["Good people go to heaven.", "The sky is heaven to birds."]
+  },
+  "heavily": {
+    "definition": "adv. 沉重地,大量地",
+    "phonetic": {
+      "uk": "/ˈhevɪli/",
+      "us": "/ˈhevɪli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["rain heavily", "heavily armed"],
+    "examples": ["It rained heavily last night.", "They were heavily armed."]
+  },
+  "heavy": {
+    "definition": "adj. 重的",
+    "phonetic": {
+      "uk": "/ˈhevi/",
+      "us": "/ˈhevi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["heavy rain", "heavy traffic"],
+    "examples": ["This box is heavy.", "Heavy snow is falling."]
+  },
+  "hedge": {
+    "definition": "n. 树篱; v. 用篱笆围",
+    "phonetic": {
+      "uk": "/hedʒ/",
+      "us": "/hedʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["hedge fund", "trim the hedge"],
+    "examples": ["Plant a hedge around the garden.", "He hedged his bets."]
+  },
+  "heel": {
+    "definition": "n. 脚后跟",
+    "phonetic": {
+      "uk": "/hiːl/",
+      "us": "/hiːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["high heels", "heel of shoe"],
+    "examples": ["She wears high heels.", "My heel hurts."]
+  },
+  "height": {
+    "definition": "n. 高度",
+    "phonetic": {
+      "uk": "/haɪt/",
+      "us": "/haɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["average height", "medium height"],
+    "examples": ["What's your height?", "The building's height is impressive."]
+  },
+  "heir": {
+    "definition": "n. 继承人",
+    "phonetic": {
+      "uk": "/eə(r)/",
+      "us": "/er/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["legal heir", "heir to the throne"],
+    "examples": ["He is the heir to the fortune.", "The prince is the heir."]
+  },
+  "helicopter": {
+    "definition": "n. 直升机",
+    "phonetic": {
+      "uk": "/ˈhelɪkɒptə(r)/",
+      "us": "/ˈhelɪkɑːptər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["by helicopter", "military helicopter"],
+    "examples": ["The helicopter landed safely.", "Travel by helicopter is expensive."]
+  },
+  "hell": {
+    "definition": "n. 地狱,苦境",
+    "phonetic": {
+      "uk": "/hel/",
+      "us": "/hel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["go to hell", "like hell"],
+    "examples": ["He went through hell.", "It was a living hell."]
+  },
+  "hello": {
+    "definition": "int. 你好",
+    "phonetic": {
+      "uk": "/həˈləʊ/",
+      "us": "/həˈloʊ/"
+    },
+    "partOfSpeech": "int.",
+    "phrases": ["say hello", "hello there"],
+    "examples": ["Hello, how are you?", "Say hello to your family."]
+  },
+  "helmet": {
+    "definition": "n. 头盔",
+    "phonetic": {
+      "uk": "/ˈhelmɪt/",
+      "us": "/ˈhelmɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["wear a helmet", "safety helmet"],
+    "examples": ["Always wear a helmet when riding.", "The football player wore a helmet."]
+  },
+  "help": {
+    "definition": "v. 帮助; n. 帮助",
+    "phonetic": {
+      "uk": "/help/",
+      "us": "/help/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["help out", "can't help"],
+    "examples": ["Can you help me?", "Thank you for your help."]
+  },
+  "helpful": {
+    "definition": "adj. 有帮助的",
+    "phonetic": {
+      "uk": "/ˈhelpfl/",
+      "us": "/ˈhelpfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["be helpful", "helpful advice"],
+    "examples": ["She was very helpful.", "This guide is helpful."]
+  },
+  "helpless": {
+    "definition": "adj. 无助的",
+    "phonetic": {
+      "uk": "/ˈhelpləs/",
+      "us": "/ˈhelpləs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["feel helpless", "helpless victim"],
+    "examples": ["I felt helpless watching this.", "The baby is helpless."]
+  },
+  "hen": {
+    "definition": "n. 母鸡",
+    "phonetic": {
+      "uk": "/hen/",
+      "us": "/hen/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["lay eggs", "mother hen"],
+    "examples": ["The hen lays eggs.", "The hen clucked loudly."]
+  },
+  "hence": {
+    "definition": "adv. 因此,今后",
+    "phonetic": {
+      "uk": "/hens/",
+      "us": "/hens/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["hence forward", "two weeks hence"],
+    "examples": ["It's raining, hence we stay inside.", "Two years hence, things changed."]
+  },
+  "her": {
+    "definition": "pron. 她的,她",
+    "phonetic": {
+      "uk": "/hɜː(r)/",
+      "us": "/hɜːr/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": ["I saw her yesterday.", "This is her book."]
+  },
+  "herb": {
+    "definition": "n. 草药,香草",
+    "phonetic": {
+      "uk": "/hɜːb/",
+      "us": "/ɜːrb/",
+      "us": "/hɜːrb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["medicinal herb", "herb garden"],
+    "examples": ["Use herbs for cooking.", "This herb has healing properties."]
+  },
+  "herd": {
+    "definition": "n. 兽群; v. 放牧",
+    "phonetic": {
+      "uk": "/hɜːd/",
+      "us": "/hɜːrd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["herd of cattle", "herd together"],
+    "examples": ["A herd of elephants passed by.", "Shepherd herds the sheep."]
+  },
+  "here": {
+    "definition": "adv. 这里",
+    "phonetic": {
+      "uk": "/hɪə(r)/",
+      "us": "/hɪr/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["here and now", "come here"],
+    "examples": ["I live here.", "Put it here."]
+  },
+  "hero": {
+    "definition": "n. 英雄",
+    "phonetic": {
+      "uk": "/ˈhɪərəʊ/",
+      "us": "/ˈhɪroʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["war hero", "super hero"],
+    "examples": ["He is a national hero.", "She acted like a hero."]
+  },
+  "heroic": {
+    "definition": "adj. 英雄的",
+    "phonetic": {
+      "uk": "/həˈrəʊɪk/",
+      "us": "/həˈroʊɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["heroic deed", "heroic effort"],
+    "examples": ["His heroic act saved many lives.", "The team made a heroic effort."]
+  },
+  "hers": {
+    "definition": "pron. 她的",
+    "phonetic": {
+      "uk": "/hɜːz/",
+      "us": "/hɜːrz/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": ["This book is hers.", "Hers is better than mine."]
+  },
+  "herself": {
+    "definition": "pron. 她自己",
+    "phonetic": {
+      "uk": "/hɜːˈself/",
+      "us": "/hɜːrˈself/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": ["by herself", "for herself"],
+    "examples": ["She taught herself.", "She did it herself."]
+  },
+  "hesitate": {
+    "definition": "v. 犹豫",
+    "phonetic": {
+      "uk": "/ˈhezɪteɪt/",
+      "us": "/ˈhezɪteɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hesitate to", "without hesitation"],
+    "examples": ["Don't hesitate to ask.", "He hesitated before answering."]
+  },
+  "hi": {
+    "definition": "int. 嗨,你好",
+    "phonetic": {
+      "uk": "/haɪ/",
+      "us": "/haɪ/"
+    },
+    "partOfSpeech": "int.",
+    "phrases": ["say hi", "hi there"],
+    "examples": ["Hi, nice to meet you.", "Hi, how's it going?"]
+  },
+  "hide": {
+    "definition": "v. 藏; n. 兽皮",
+    "phonetic": {
+      "uk": "/haɪd/",
+      "us": "/haɪd/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hide and seek", "cow hide"],
+    "examples": ["Hide the evidence.", "I found a good hiding place."]
+  },
+  "high": {
+    "definition": "adj. 高的; adv. 高",
+    "phonetic": {
+      "uk": "/haɪ/",
+      "us": "/haɪ/"
+    },
+    "partOfSpeech": "adj., adv.",
+    "phrases": ["high school", "high jump"],
+    "examples": ["The mountain is high.", "Aim high!"]
+  },
+  "highly": {
+    "definition": "adv. 高度地,非常",
+    "phonetic": {
+      "uk": "/ˈhaɪli/",
+      "us": "/ˈhaɪli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["highly recommend", "highly skilled"],
+    "examples": ["I highly recommend this book.", "She is highly educated."]
+  },
+  "highway": {
+    "definition": "n. 公路",
+    "phonetic": {
+      "uk": "/ˈhaɪweɪ/",
+      "us": "/ˈhaɪweɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["highway system", "highway code"],
+    "examples": ["Drive carefully on the highway.", "The highway was busy."]
+  },
+  "hill": {
+    "definition": "n. 小山",
+    "phonetic": {
+      "uk": "/hɪl/",
+      "us": "/hɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["up the hill", "hill station"],
+    "examples": ["The house is on the hill.", "We climbed the hill."]
+  },
+  "him": {
+    "definition": "pron. 他",
+    "phonetic": {
+      "uk": "/hɪm/",
+      "us": "/hɪm/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": ["I saw him.", "Give it to him."]
+  },
+  "himself": {
+    "definition": "pron. 他自己",
+    "phonetic": {
+      "uk": "/hɪmˈself/",
+      "us": "/hɪmˈself/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": ["by himself", "for himself"],
+    "examples": ["He hurt himself.", "He did it himself."]
+  },
+  "hint": {
+    "definition": "n. 暗示; v. 暗示",
+    "phonetic": {
+      "uk": "/hɪnt/",
+      "us": "/hɪnt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["drop a hint", "hint at"],
+    "examples": ["She gave me a hint.", "Can you hint at the answer?"]
+  },
+  "hip": {
+    "definition": "n. 臀部",
+    "phonetic": {
+      "uk": "/hɪp/",
+      "us": "/hɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["hip hop", "broken hip"],
+    "examples": ["He broke his hip.", "Stand with hands on hips."]
+  },
+  "hire": {
+    "definition": "v./n. 雇佣,租用",
+    "phonetic": {
+      "uk": "/ˈhaɪə(r)/",
+      "us": "/ˈhaɪər/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hire a car", "for hire"],
+    "examples": ["They hired a new manager.", "This boat is for hire."]
+  },
+  "his": {
+    "definition": "pron. 他的",
+    "phonetic": {
+      "uk": "/hɪz/",
+      "us": "/hɪz/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": ["This is his car.", "His name is John."]
+  },
+  "historical": {
+    "definition": "adj. 历史的",
+    "phonetic": {
+      "uk": "/hɪˈstɒrɪkl/",
+      "us": "/hɪˈstɔːrɪkl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["historical site", "historical figure"],
+    "examples": ["This is a historical building.", "Study historical events."]
+  },
+  "history": {
+    "definition": "n. 历史",
+    "phonetic": {
+      "uk": "/ˈhɪstri/",
+      "us": "/ˈhɪstri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["world history", "make history"],
+    "examples": ["She studies history.", "History teaches us valuable lessons."]
+  },
+  "hit": {
+    "definition": "v. 打,击中; n. 一击",
+    "phonetic": {
+      "uk": "/hɪt/",
+      "us": "/hɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hit the target", "big hit"],
+    "examples": ["He hit the ball.", "The movie was a big hit."]
+  },
+  "hobby": {
+    "definition": "n. 爱好",
+    "phonetic": {
+      "uk": "/ˈhɒbi/",
+      "us": "/ˈhɑːbi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["have a hobby", "new hobby"],
+    "examples": ["Reading is my hobby.", "What's your hobby?"]
+  },
+  "hold": {
+    "definition": "v. 拿住,举行,容纳",
+    "phonetic": {
+      "uk": "/həʊld/",
+      "us": "/hoʊld/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hold on", "hold a meeting"],
+    "examples": ["Hold this for me.", "The room can hold 100 people."]
+  },
+  "hole": {
+    "definition": "n. 洞",
+    "phonetic": {
+      "uk": "/həʊl/",
+      "us": "/hoʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["dig a hole", "black hole"],
+    "examples": ["There's a hole in my sock.", "Fill the hole with dirt."]
+  },
+  "holiday": {
+    "definition": "n. 假日,假期",
+    "phonetic": {
+      "uk": "/ˈhɒlədeɪ/",
+      "us": "/ˈhɑːlədeɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["go on holiday", "public holiday"],
+    "examples": ["We are on holiday.", "School holidays start soon."]
+  },
+  "hollow": {
+    "definition": "adj. 空的,中空的",
+    "phonetic": {
+      "uk": "/ˈhɒləʊ/",
+      "us": "/ˈhɑːloʊ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["hollow tree", "hollow laugh"],
+    "examples": ["The pipe is hollow.", "His words felt hollow."]
+  },
+  "holy": {
+    "definition": "adj. 神圣的",
+    "phonetic": {
+      "uk": "/ˈhəʊli/",
+      "us": "/ˈhoʊli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["holy water", "holy book"],
+    "examples": ["This is a holy place.", "Respect holy traditions."]
+  },
+  "home": {
+    "definition": "n. 家; adv. 在家; adj. 家乡的",
+    "phonetic": {
+      "uk": "/həʊm/",
+      "us": "/hoʊm/"
+    },
+    "partOfSpeech": "n., adv., adj.",
+    "phrases": ["go home", "at home"],
+    "examples": ["I'm going home.", "Make yourself at home."]
+  },
+  "homeland": {
+    "definition": "n. 祖国",
+    "phonetic": {
+      "uk": "/ˈhəʊmlænd/",
+      "us": "/ˈhoʊmlænd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["love homeland", "return to homeland"],
+    "examples": ["He loves his homeland.", "Defend your homeland."]
+  },
+  "homesick": {
+    "definition": "adj. 想家的",
+    "phonetic": {
+      "uk": "/ˈhəʊmsɪk/",
+      "us": "/ˈhoʊmsɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["feel homesick", "homesick student"],
+    "examples": ["She feels homesick.", "Being away makes me homesick."]
+  },
+  "homework": {
+    "definition": "n. 家庭作业",
+    "phonetic": {
+      "uk": "/ˈhəʊmwɜːk/",
+      "us": "/ˈhoʊmwɜːrk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["do homework", "hand in homework"],
+    "examples": ["Finish your homework.", "The teacher gave us homework."]
+  },
+  "honest": {
+    "definition": "adj. 诚实的",
+    "phonetic": {
+      "uk": "/ˈɒnɪst/",
+      "us": "/ˈɑːnɪst/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["honest man", "to be honest"],
+    "examples": ["Be honest with me.", "He is an honest person."]
+  },
+  "honey": {
+    "definition": "n. 蜂蜜,亲爱的",
+    "phonetic": {
+      "uk": "/ˈhʌni/",
+      "us": "/ˈhʌni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["honey bee", "pure honey"],
+    "examples": ["Add some honey to your tea.", "Honey, I'm home."]
+  },
+  "honor": {
+    "definition": "n. 荣誉; v. 尊敬",
+    "phonetic": {
+      "uk": "/ˈɒnə(r)/",
+      "us": "/ˈɑːnər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["in honor of", "high honor"],
+    "examples": ["It's an honor to meet you.", "We honor their sacrifice."]
+  },
+  "honorable": {
+    "definition": "adj. 可敬的",
+    "phonetic": {
+      "uk": "/ˈɒnərəbl/",
+      "us": "/ˈɑːnərəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["honorable mention", "honorable man"],
+    "examples": ["He is an honorable man.", "They acted honorably."]
+  },
+  "hook": {
+    "definition": "n. 钩子; v. 钩住",
+    "phonetic": {
+      "uk": "/hʊk/",
+      "us": "/hʊk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["fishing hook", "hook up"],
+    "examples": ["Hang your coat on the hook.", "The hook caught the fish."]
+  },
+  "hope": {
+    "definition": "v./n. 希望",
+    "phonetic": {
+      "uk": "/həʊp/",
+      "us": "/hoʊp/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["give up hope", "hope for"],
+    "examples": ["I hope to see you.", "Never lose hope."]
+  },
+  "hopeful": {
+    "definition": "adj. 有希望的",
+    "phonetic": {
+      "uk": "/ˈhəʊpfl/",
+      "us": "/ˈhoʊpfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["feel hopeful", "hopeful future"],
+    "examples": ["I'm hopeful about the result.", "Stay hopeful."]
+  },
+  "hopeless": {
+    "definition": "adj. 没有希望的",
+    "phonetic": {
+      "uk": "/ˈhəʊpləs/",
+      "us": "/ˈhoʊpləs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["hopeless situation", "feel hopeless"],
+    "examples": ["The situation seems hopeless.", "Don't give up, it's not hopeless."]
+  },
+  "horizon": {
+    "definition": "n. 地平线",
+    "phonetic": {
+      "uk": "/həˈraɪzn/",
+      "us": "/həˈraɪzn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["on the horizon", "broaden horizon"],
+    "examples": ["The sun rose above the horizon.", "Travel broadens your horizon."]
+  },
+  "horizontal": {
+    "definition": "adj. 水平的",
+    "phonetic": {
+      "uk": "/ˌhɒrɪˈzɒnt/",
+      "us": "/ˌhɔːrɪˈzɑːnt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["horizontal line", "horizontal surface"],
+    "examples": ["Draw a horizontal line.", "Keep the table horizontal."]
+  },
+  "horn": {
+    "definition": "n. 角,号角",
+    "phonetic": {
+      "uk": "/hɔːn/",
+      "us": "/hɔːrn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["car horn", "blow the horn"],
+    "examples": ["The sheep has horns.", "Don't use your horn in quiet areas."]
+  },
+  "horrible": {
+    "definition": "adj. 可怕的,糟糕的",
+    "phonetic": {
+      "uk": "/ˈhɒrəbl/",
+      "us": "/ˈhɔːrəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["horrible weather", "horrible dream"],
+    "examples": ["The food was horrible.", "That's a horrible idea."]
+  },
+  "horror": {
+    "definition": "n. 恐怖",
+    "phonetic": {
+      "uk": "/ˈhɒrə(r)/",
+      "us": "/ˈhɔːrər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["horror movie", "in horror"],
+    "examples": ["She screamed in horror.", "I love horror stories."]
+  },
+  "horse": {
+    "definition": "n. 马",
+    "phonetic": {
+      "uk": "/hɔːs/",
+      "us": "/hɔːrs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["ride a horse", "horse riding"],
+    "examples": ["The horse is fast.", "Learn to ride a horse."]
+  },
+  "horsepower": {
+    "definition": "n. 马力",
+    "phonetic": {
+      "uk": "/ˈhɔːspaʊə(r)/",
+      "us": "/ˈhɔːrspaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["engine horsepower", "high horsepower"],
+    "examples": ["This car has 200 horsepower.", "The engine has good horsepower."]
+  },
+  "hospital": {
+    "definition": "n. 医院",
+    "phonetic": {
+      "uk": "/ˈhɒspɪtl/",
+      "us": "/ˈhɑːspɪtl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["go to hospital", "hospital bed"],
+    "examples": ["She works in a hospital.", "He's in the hospital."]
+  },
+  "host": {
+    "definition": "n. 主人,主持人; v. 主办",
+    "phonetic": {
+      "uk": "/həʊst/",
+      "us": "/hoʊst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["host country", "game show host"],
+    "examples": ["Be a good host.", "The city will host the Olympics."]
+  },
+  "hostess": {
+    "definition": "n. 女主人,女服务员",
+    "phonetic": {
+      "uk": "/ˈhəʊstəs/",
+      "us": "/ˈhoʊstəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["air hostess", "party hostess"],
+    "examples": ["The hostess greeted us.", "She is an excellent hostess."]
+  },
+  "hostile": {
+    "definition": "adj. 敌对的",
+    "phonetic": {
+      "uk": "/ˈhɒstaɪl/",
+      "us": "/ˈhɑːstaɪl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["hostile environment", "hostile takeover"],
+    "examples": ["The crowd was hostile.", "Don't be hostile to strangers."]
+  },
+  "hot": {
+    "definition": "adj. 热的,辣的",
+    "phonetic": {
+      "uk": "/hɒt/",
+      "us": "/hɑːt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["hot weather", "hot food"],
+    "examples": ["The water is too hot.", "I like hot sauce."]
+  },
+  "hotel": {
+    "definition": "n. 旅馆",
+    "phonetic": {
+      "uk": "/həʊˈtel/",
+      "us": "/hoʊˈtel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["five star hotel", "book a hotel"],
+    "examples": ["We stayed at a hotel.", "The hotel is near the beach."]
+  },
+  "hour": {
+    "definition": "n. 小时",
+    "phonetic": {
+      "uk": "/ˈaʊə(r)/",
+      "us": "/ˈaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["half an hour", "rush hour"],
+    "examples": ["Wait an hour.", "The shop closes in an hour."]
+  },
+  "house": {
+    "definition": "n. 房子; v. 给...提供住房",
+    "phonetic": {
+      "uk": "/haʊs/",
+      "us": "/haʊs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": ["house work", "sell a house"],
+    "examples": ["This is my house.", "The museum houses ancient artifacts."]
+  },
+  "household": {
+    "definition": "n. 家庭; adj. 家用的",
+    "phonetic": {
+      "uk": "/ˈhaʊshəʊld/",
+      "us": "/ˈhaʊshoʊld/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": ["household goods", "household name"],
+    "examples": ["Household expenses increased.", "She's a household name."]
+  },
+  "housewife": {
+    "definition": "n. 家庭主妇",
+    "phonetic": {
+      "uk": "/ˈhaʊswaɪf/",
+      "us": "/ˈhaʊswaɪf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["busy housewife", "traditional housewife"],
+    "examples": ["She is a full-time housewife.", "Housewives work hard at home."]
+  },
+  "housework": {
+    "definition": "n. 家务",
+    "phonetic": {
+      "uk": "/ˈhaʊswɜːk/",
+      "us": "/ˈhaʊswɜːrk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["do housework", "share housework"],
+    "examples": ["I hate doing housework.", "Share the housework equally."]
+  },
+  "housing": {
+    "definition": "n. 住房",
+    "phonetic": {
+      "uk": "/ˈhaʊzɪŋ/",
+      "us": "/ˈhaʊzɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["affordable housing", "housing problem"],
+    "examples": ["Housing is expensive here.", "The housing market is improving."]
+  },
+  "how": {
+    "definition": "adv. 如何,怎样",
+    "phonetic": {
+      "uk": "/haʊ/",
+      "us": "/haʊ/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["how to", "how about"],
+    "examples": ["How are you?", "How do you spell this?"]
+  },
+  "however": {
+    "definition": "adv. 然而,无论如何",
+    "phonetic": {
+      "uk": "/haʊˈevə(r)/",
+      "us": "/haʊˈevər/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": ["however much", "however hard"],
+    "examples": ["However, I disagree.", "However you do it, do it well."]
+  },
+  "huge": {
+    "definition": "adj. 巨大的",
+    "phonetic": {
+      "uk": "/hjuːdʒ/",
+      "us": "/hjuːdʒ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["huge success", "huge difference"],
+    "examples": ["The elephant is huge.", "It made a huge impact."]
+  },
+  "human": {
+    "definition": "adj. 人类的; n. 人",
+    "phonetic": {
+      "uk": "/ˈhjuːmən/",
+      "us": "/ˈhjuːmən/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": ["human being", "human rights"],
+    "examples": ["We are all human.", "Human history is long."]
+  },
+  "humble": {
+    "definition": "adj. 谦虚的,简陋的",
+    "phonetic": {
+      "uk": "/ˈhʌmbl/",
+      "us": "/ˈhʌmbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["humble beginning", "humble opinion"],
+    "examples": ["He is a humble man.", "They started from humble beginnings."]
+  },
+  "humid": {
+    "definition": "adj. 潮湿的",
+    "phonetic": {
+      "uk": "/ˈhjuːmɪd/",
+      "us": "/ˈhjuːmɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["humid weather", "humid climate"],
+    "examples": ["It's too humid today.", "The bathroom is humid."]
+  },
+  "humorous": {
+    "definition": "adj. 幽默的",
+    "phonetic": {
+      "uk": "/ˈhjuːmərəs/",
+      "us": "/ˈhjuːmərəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["humorous story", "humorous person"],
+    "examples": ["He has a humorous style.", "The movie was very humorous."]
+  },
+  "humor": {
+    "definition": "n. 幽默",
+    "phonetic": {
+      "uk": "/ˈhjuːmə(r)/",
+      "us": "/ˈhjuːmər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["sense of humor", "dry humor"],
+    "examples": ["She has a great sense of humor.", "I love your humor."]
+  },
+  "hundred": {
+    "definition": "num. 一百",
+    "phonetic": {
+      "uk": "/ˈhʌndrəd/",
+      "us": "/ˈhʌndrəd/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": ["one hundred", "hundred percent"],
+    "examples": ["There are a hundred people.", "Give me a hundred dollars."]
+  },
+  "hunger": {
+    "definition": "n. 饥饿",
+    "phonetic": {
+      "uk": "/ˈhʌŋɡə(r)/",
+      "us": "/ˈhʌŋɡər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["die of hunger", "solve hunger"],
+    "examples": ["Many people die from hunger.", "The hunger was unbearable."]
+  },
+  "hungry": {
+    "definition": "adj. 饥饿的",
+    "phonetic": {
+      "uk": "/ˈhʌŋɡri/",
+      "us": "/ˈhʌŋɡri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["go hungry", "hungry man"],
+    "examples": ["I'm hungry.", "No one should go hungry."]
+  },
+  "hunt": {
+    "definition": "v. 打猎,搜寻",
+    "phonetic": {
+      "uk": "/hʌnt/",
+      "us": "/hʌnt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["hunt for", "job hunt"],
+    "examples": ["They hunt deer.", "I'm hunting for a job."]
+  },
+  "hunter": {
+    "definition": "n. 猎人",
+    "phonetic": {
+      "uk": "/ˈhʌntə(r)/",
+      "us": "/ˈhʌntər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["professional hunter", "treasure hunter"],
+    "examples": ["The hunter tracked the bear.", "Job hunters need patience."]
+  },
+  "hurry": {
+    "definition": "v. 匆忙; n. 匆忙",
+    "phonetic": {
+      "uk": "/ˈhʌri/",
+      "us": "/ˈhʌri/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["in a hurry", "hurry up"],
+    "examples": ["Don't hurry.", "Why are you in such a hurry?"]
+  },
+  "hurt": {
+    "definition": "v. 伤害,痛; n. 伤害",
+    "phonetic": {
+      "uk": "/hɜːt/",
+      "us": "/hɜːrt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": ["hurt feelings", "hurt yourself"],
+    "examples": ["Don't hurt her feelings.", "My leg hurts."]
+  },
+  "husband": {
+    "definition": "n. 丈夫",
+    "phonetic": {
+      "uk": "/ˈhʌzbənd/",
+      "us": "/ˈhʌzbənd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["my husband", "good husband"],
+    "examples": ["He is my husband.", "She loves her husband."]
+  },
+  "hut": {
+    "definition": "n. 小屋",
+    "phonetic": {
+      "uk": "/hʌt/",
+      "us": "/hʌt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["small hut", "wooden hut"],
+    "examples": ["They live in a small hut.", "Build a hut in the forest."]
+  },
+  "hydrogen": {
+    "definition": "n. 氢",
+    "phonetic": {
+      "uk": "/ˈhaɪdrədʒən/",
+      "us": "/ˈhaɪdrədʒən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["hydrogen bomb", "liquid hydrogen"],
+    "examples": ["Hydrogen is the lightest element.", "Water contains hydrogen."]
+  },
+  "ice": {
+    "definition": "n. 冰",
+    "phonetic": {
+      "uk": "/aɪs/",
+      "us": "/aɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["ice cream", "on ice"],
+    "examples": ["The lake is covered with ice.", "I want ice cream."]
+  },
+  "ice-cream": {
+    "definition": "n. 冰淇淋",
+    "phonetic": {
+      "uk": "/ˈaɪs kriːm/",
+      "us": "/ˈaɪs kriːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["vanilla ice cream", "chocolate ice cream"],
+    "examples": ["Kids love ice cream.", "Have some ice cream."]
+  },
+  "idea": {
+    "definition": "n. 主意,想法",
+    "phonetic": {
+      "uk": "/aɪˈdɪə/",
+      "us": "/aɪˈdiə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["good idea", "no idea"],
+    "examples": ["That's a great idea.", "I have no idea."]
+  },
+  "ideal": {
+    "definition": "adj. 理想的",
+    "phonetic": {
+      "uk": "/aɪˈdiːəl/",
+      "us": "/aɪˈdiːəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["ideal place", "ideal opportunity"],
+    "examples": ["This is an ideal solution.", "The weather is ideal."]
+  },
+  "identical": {
+    "definition": "adj. 完全相同的",
+    "phonetic": {
+      "uk": "/aɪˈdentɪkl/",
+      "us": "/aɪˈdentɪkl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["identical twins", "identical copy"],
+    "examples": ["They are identical twins.", "The copies are identical."]
+  },
+  "identify": {
+    "definition": "v. 识别,确认",
+    "phonetic": {
+      "uk": "/aɪˈdentɪfaɪ/",
+      "us": "/aɪˈdentɪfaɪ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["identify the problem", "identify oneself"],
+    "examples": ["Can you identify this bird?", "Please identify yourself at the door."]
+  },
+  "idiom": {
+    "definition": "n. 习语,成语",
+    "phonetic": {
+      "uk": "/ˈɪdiəm/",
+      "us": "/ˈɪdiəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["English idiom", "idiom dictionary"],
+    "examples": ["Learn idioms to speak naturally.", "It's a common idiom."]
+  },
+  "idle": {
+    "definition": "adj. 空闲的,懒散的",
+    "phonetic": {
+      "uk": "/ˈaɪdl/",
+      "us": "/ˈaɪdl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["idle away", "idle hands"],
+    "examples": ["Don't stay idle.", "The factory is idle today."]
+  },
+  "if": {
+    "definition": "conj. 如果",
+    "phonetic": {
+      "uk": "/ɪf/",
+      "us": "/ɪf/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": ["as if", "what if"],
+    "examples": ["If it rains, we'll stay home.", "I'll go if you go."]
+  },
+  "ignorant": {
+    "definition": "adj. 无知的",
+    "phonetic": {
+      "uk": "/ˈɪɡnərənt/",
+      "us": "/ˈɪɡnərənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["ignorant person", "ignorant of"],
+    "examples": ["Don't be ignorant about politics.", "He was ignorant of the rules."]
+  },
+  "ignore": {
+    "definition": "v. 忽视",
+    "phonetic": {
+      "uk": "/ɪɡˈnɔː(r)/",
+      "us": "/ɪɡˈnɔːr/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["ignore the facts", "ignore advice"],
+    "examples": ["Don't ignore the problem.", "She ignored his call."]
+  },
+  "ill": {
+    "definition": "adj. 生病的,坏的",
+    "phonetic": {
+      "uk": "/ɪl/",
+      "us": "/ɪl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["fall ill", "ill health"],
+    "examples": ["She is ill today.", "He has ill intentions."]
+  },
+  "illegal": {
+    "definition": "adj. 非法的",
+    "phonetic": {
+      "uk": "/ɪˈliːɡl/",
+      "us": "/ɪˈliːɡl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["illegal activity", "illegal immigration"],
+    "examples": ["It's illegal to park here.", "Don't do anything illegal."]
+  },
+  "illness": {
+    "definition": "n. 疾病",
+    "phonetic": {
+      "uk": "/ˈɪlnəs/",
+      "us": "/ˈɪlnəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["mental illness", "serious illness"],
+    "examples": ["He recovered from his illness.", "Illness kept him in bed."]
+  },
+  "illustrate": {
+    "definition": "v. 说明,图解",
+    "phonetic": {
+      "uk": "/ˈɪləstreɪt/",
+      "us": "/ˈɪləstreɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["illustrate the point", "illustrate with examples"],
+    "examples": ["Let me illustrate with an example.", "The book is well illustrated."]
+  },
+  "illustration": {
+    "definition": "n. 插图,说明",
+    "phonetic": {
+      "uk": "/ˌɪləˈstreɪʃn/",
+      "us": "/ˌɪləˈstreɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["book illustration", "clear illustration"],
+    "examples": ["The story has beautiful illustrations.", "This is a good illustration."]
+  },
+  "image": {
+    "definition": "n. 图像,形象",
+    "phonetic": {
+      "uk": "/ˈɪmɪdʒ/",
+      "us": "/ˈɪmɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["body image", "company image"],
+    "examples": ["The image is clear.", "She has a positive image."]
+  },
+  "imaginary": {
+    "definition": "adj. 想象中的",
+    "phonetic": {
+      "uk": "/ɪˈmædʒɪnəri/",
+      "us": "/ɪˈmædʒɪneri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": ["imaginary friend", "imaginary world"],
+    "examples": ["It's just an imaginary problem.", "Children have imaginary friends."]
+  },
+  "imagination": {
+    "definition": "n. 想象力",
+    "phonetic": {
+      "uk": "/ɪˌmædʒɪˈneɪʃn/",
+      "us": "/ɪˌmædʒɪˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": ["use your imagination", "rich imagination"],
+    "examples": ["She has a vivid imagination.", "Use your imagination to solve problems."]
+  },
+  "imagine": {
+    "definition": "v. 想象",
+    "phonetic": {
+      "uk": "/ɪˈmædʒɪn/",
+      "us": "/ɪˈmædʒɪn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["imagine that", "imagine doing"],
+    "examples": ["Can you imagine traveling to space?", "I can't imagine life without you."]
+  },
+  "imitate": {
+    "definition": "v. 模仿",
+    "phonetic": {
+      "uk": "/ˈɪmɪteɪt/",
+      "us": "/ˈɪmɪteɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": ["imitate nature", "imitate someone"],
+    "examples": ["Children love to imitate adults.", "Don't imitate others blindly."]
+  }
+}

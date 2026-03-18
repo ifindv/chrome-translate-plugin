@@ -1,0 +1,2044 @@
+{
+  "interview": {
+    "definition": "n. 接见；会见；面谈",
+    "phonetic": {
+      "uk": "/ˈɪntəvjuː/",
+      "us": "/ˈɪntərvjuː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "job interview",
+      "have an interview"
+    ],
+    "examples": [
+      "She has a job interview tomorrow.",
+      "The interview went well."
+    ]
+  },
+  "intimate": {
+    "definition": "a. 亲密的；个人的",
+    "phonetic": {
+      "uk": "/ˈɪntɪmət/",
+      "us": "/ˈɪntɪmət/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "intimate friend",
+      "intimate relationship"
+    ],
+    "examples": [
+      "We are intimate friends.",
+      "Don't share intimate details with strangers."
+    ]
+  },
+  "into": {
+    "definition": "prep. 进，入；进入到",
+    "phonetic": {
+      "uk": "/ˈɪntuː/",
+      "us": "/ˈɪntuː/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "get into",
+      "break into"
+    ],
+    "examples": [
+      "She walked into the room.",
+      "Pour the water into the cup."
+    ]
+  },
+  "introduce": {
+    "definition": "vt. 介绍；引进，传入",
+    "phonetic": {
+      "uk": "/ˌɪntrəˈdjuːs/",
+      "us": "/ˌɪntrəˈduːs/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "introduce oneself",
+      "introduce to"
+    ],
+    "examples": [
+      "Let me introduce myself.",
+      "She introduced her new friend."
+    ]
+  },
+  "introduction": {
+    "definition": "n. 介绍；引进；引言",
+    "phonetic": {
+      "uk": "/ˌɪntrəˈdʌkʃn/",
+      "us": "/ˌɪntrəˈdʌkʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brief introduction",
+      "introduction to"
+    ],
+    "examples": [
+      "Read the introduction carefully.",
+      "He gave a good introduction."
+    ]
+  },
+  "invade": {
+    "definition": "vt. 入侵，侵略；侵袭",
+    "phonetic": {
+      "uk": "/ɪnˈveɪd/",
+      "us": "/ɪnˈveɪd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "invade a country",
+      "invade privacy"
+    ],
+    "examples": [
+      "The enemy invaded our territory.",
+      "Don't invade my privacy."
+    ]
+  },
+  "invasion": {
+    "definition": "n. 入侵，侵略；侵犯",
+    "phonetic": {
+      "uk": "/ɪnˈveɪʒn/",
+      "us": "/ɪnˈveɪʒn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign invasion",
+      "prevention of invasion"
+    ],
+    "examples": [
+      "The country suffered from invasion.",
+      "The invasion was quick and brutal."
+    ]
+  },
+  "invent": {
+    "definition": "vt. 发明，创造；捏造",
+    "phonetic": {
+      "uk": "/ɪnˈvent/",
+      "us": "/ɪnˈvent/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "invent a machine",
+      "invent a story"
+    ],
+    "examples": [
+      "Edison invented the light bulb.",
+      "She invented an excuse."
+    ]
+  },
+  "invention": {
+    "definition": "n. 发明，创造；发明物",
+    "phonetic": {
+      "uk": "/ɪnˈvenʃn/",
+      "us": "/ɪnˈvenʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "great invention",
+      "recent invention"
+    ],
+    "examples": [
+      "The computer is a great invention.",
+      "Her invention won an award."
+    ]
+  },
+  "invest": {
+    "definition": "vt. 投资；投入",
+    "phonetic": {
+      "uk": "/ɪnˈvest/",
+      "us": "/ɪnˈvest/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "invest in",
+      "invest money"
+    ],
+    "examples": [
+      "I want to invest in stocks.",
+      "He invested time in his education."
+    ]
+  },
+  "investigate": {
+    "definition": "vt./vi. 调查",
+    "phonetic": {
+      "uk": "/ɪnˈvestɪɡeɪt/",
+      "us": "/ɪnˈvestɪɡeɪt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "investigate a crime",
+      "thoroughly investigate"
+    ],
+    "examples": [
+      "Police are investigating the theft.",
+      "Scientists investigate new theories."
+    ]
+  },
+  "investment": {
+    "definition": "n. 投资，投资额，投入",
+    "phonetic": {
+      "uk": "/ɪnˈvestmənt/",
+      "us": "/ɪnˈvestmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign investment",
+      "make an investment"
+    ],
+    "examples": [
+      "Real estate is a good investment.",
+      "The company made a large investment."
+    ]
+  },
+  "invisible": {
+    "definition": "a. 看不见的，无形的",
+    "phonetic": {
+      "uk": "/ɪnˈvɪzəbl/",
+      "us": "/ɪnˈvɪzəbl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "invisible ink",
+      "almost invisible"
+    ],
+    "examples": [
+      "Stars become invisible during the day.",
+      "The wound was barely visible, almost invisible."
+    ]
+  },
+  "invitation": {
+    "definition": "n. 邀请，招待；请柬",
+    "phonetic": {
+      "uk": "/ˌɪnvɪˈteɪʃn/",
+      "us": "/ˌɪnvɪˈteɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "accept invitation",
+      "invitation letter"
+    ],
+    "examples": [
+      "I received an invitation to the party.",
+      "Thank you for the invitation."
+    ]
+  },
+  "invite": {
+    "definition": "vt. 邀请，聘请；招致",
+    "phonetic": {
+      "uk": "/ɪnˈvaɪt/",
+      "us": "/ɪnˈvaɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "invite to",
+      "invite someone"
+    ],
+    "examples": [
+      "I invite you to my wedding.",
+      "They invited many guests."
+    ]
+  },
+  "involve": {
+    "definition": "vt. 使卷入；包含",
+    "phonetic": {
+      "uk": "/ɪnˈvɒlv/",
+      "us": "/ɪnˈvɑːlv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "involve in",
+      "be involved"
+    ],
+    "examples": [
+      "Please don't involve me.",
+      "The job involves a lot of travel."
+    ]
+  },
+  "inward": {
+    "definition": "a. 里面的；ad. 向内",
+    "phonetic": {
+      "uk": "/ˈɪnwəd/",
+      "us": "/ˈɪnwərd/"
+    },
+    "partOfSpeech": "a./ad.",
+    "phrases": [
+      "inward journey",
+      "look inward"
+    ],
+    "examples": [
+      "The inward door is locked.",
+      "She felt an inward peace."
+    ]
+  },
+  "iron": {
+    "definition": "n. 铁；烙铁；vt. 烫",
+    "phonetic": {
+      "uk": "/ˈaɪən/",
+      "us": "/ˈaɪərn/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "iron and steel",
+      "iron clothes"
+    ],
+    "examples": [
+      "The bridge is made of iron.",
+      "She ironed the shirt."
+    ]
+  },
+  "island": {
+    "definition": "n. 岛，岛屿",
+    "phonetic": {
+      "uk": "/ˈaɪlənd/",
+      "us": "/ˈaɪlənd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "desert island",
+      "tropical island"
+    ],
+    "examples": [
+      "They live on a small island.",
+      "Hawaii is a beautiful island."
+    ]
+  },
+  "isolate": {
+    "definition": "vt. 使隔离，使孤立",
+    "phonetic": {
+      "uk": "/ˈaɪsəleɪt/",
+      "us": "/ˈaɪsəleɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "isolate from",
+      "isolate a problem"
+    ],
+    "examples": [
+      "The virus isolated the community.",
+      "Government isolated the patient."
+    ]
+  },
+  "issue": {
+    "definition": "n. 问题；发行；vt. 发行",
+    "phonetic": {
+      "uk": "/ˈɪʃuː/",
+      "us": "/ˈɪʃuː/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "issue a statement",
+      "major issue"
+    ],
+    "examples": [
+      "The main issue is cost.",
+      "The bank will issue new cards."
+    ]
+  },
+  "it": {
+    "definition": "pron. 它，这；那",
+    "phonetic": {
+      "uk": "/ɪt/",
+      "us": "/ɪt/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "It is raining.",
+      "I like it."
+    ]
+  },
+  "Italian": {
+    "definition": "a. 意大利的；n. 意大利人",
+    "phonetic": {
+      "uk": "/ɪˈtæliən/",
+      "us": "/ɪˈtæliən/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "Italian food",
+      "Italian language"
+    ],
+    "examples": [
+      "She studies Italian.",
+      "Italian pasta is famous."
+    ]
+  },
+  "item": {
+    "definition": "n. 条，条款；一条",
+    "phonetic": {
+      "uk": "/ˈaɪtəm/",
+      "us": "/ˈaɪtəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "item by item",
+      "list of items"
+    ],
+    "examples": [
+      "Each item on the menu is delicious.",
+      "Check every item carefully."
+    ]
+  },
+  "its": {
+    "definition": "pron. 它的",
+    "phonetic": {
+      "uk": "/ɪts/",
+      "us": "/ɪts/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [],
+    "examples": [
+      "The dog wagged its tail.",
+      "The company changed its name."
+    ]
+  },
+  "itself": {
+    "definition": "pron. 它自己；自身",
+    "phonetic": {
+      "uk": "/ɪtˈself/",
+      "us": "/ɪtˈself/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "by itself",
+      "in itself"
+    ],
+    "examples": [
+      "The cat cleaned itself.",
+      "The problem solved itself."
+    ]
+  },
+  "jacket": {
+    "definition": "n. 短上衣，夹克",
+    "phonetic": {
+      "uk": "/ˈdʒækɪt/",
+      "us": "/ˈdʒækɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wear a jacket",
+      "jacket pocket"
+    ],
+    "examples": [
+      "Put on your jacket. It's cold.",
+      "He wore a leather jacket."
+    ]
+  },
+  "jail": {
+    "definition": "n. 监狱；vt. 监禁",
+    "phonetic": {
+      "uk": "/dʒeɪl/",
+      "us": "/dʒeɪl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "in jail",
+      "jail sentence"
+    ],
+    "examples": [
+      "He spent two years in jail.",
+      "They threw him in jail."
+    ]
+  },
+  "jam": {
+    "definition": "n. 果酱；堵塞，卡住",
+    "phonetic": {
+      "uk": "/dʒæm/",
+      "us": "/dʒæm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "traffic jam",
+      "strawberry jam"
+    ],
+    "examples": [
+      "I love raspberry jam.",
+      "We were stuck in a traffic jam."
+    ]
+  },
+  "January": {
+    "definition": "n. 一月",
+    "phonetic": {
+      "uk": "/ˈdʒænjuəri/",
+      "us": "/ˈdʒænjueri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "January 1st",
+      "mid-January"
+    ],
+    "examples": [
+      "January is the first month.",
+      "It's cold in January."
+    ]
+  },
+  "jar": {
+    "definition": "n. 罐子，坛子，广口瓶",
+    "phonetic": {
+      "uk": "/dʒɑː/",
+      "us": "/dʒɑːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cookie jar",
+      "glass jar"
+    ],
+    "examples": [
+      "Store the cookies in a jar.",
+      "The jar is empty."
+    ]
+  },
+  "jaw": {
+    "definition": "n. 颌，颚",
+    "phonetic": {
+      "uk": "/dʒɔː/",
+      "us": "/dʒɔː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lower jaw",
+      "jaw bone"
+    ],
+    "examples": [
+      "His jaw hurts.",
+      "The crocodile has a powerful jaw."
+    ]
+  },
+  "jazz": {
+    "definition": "n. 爵士音乐，爵士舞曲",
+    "phonetic": {
+      "uk": "/dʒæz/",
+      "us": "/dʒæz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "jazz music",
+      "jazz band"
+    ],
+    "examples": [
+      "I enjoy listening to jazz.",
+      "The club plays live jazz."
+    ]
+  },
+  "jealous": {
+    "definition": "a. 妒忌的；猜疑的",
+    "phonetic": {
+      "uk": "/ˈdʒeləs/",
+      "us": "/ˈdʒeləs/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "jealous of",
+      "get jealous"
+    ],
+    "examples": [
+      "She is jealous of her sister.",
+      "Don't be jealous of others."
+    ]
+  },
+  "jeans": {
+    "definition": "n. 牛仔裤，紧身裤",
+    "phonetic": {
+      "uk": "/dʒiːnz/",
+      "us": "/dʒiːnz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wear jeans",
+      "blue jeans"
+    ],
+    "examples": [
+      "She wore jeans to the party.",
+      "I need new jeans."
+    ]
+  },
+  "jet": {
+    "definition": "n. 喷气式飞机；喷嘴",
+    "phonetic": {
+      "uk": "/dʒet/",
+      "us": "/dʒet/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "jet plane",
+      "private jet"
+    ],
+    "examples": [
+      "They flew on a jet.",
+      "The jet engine roared."
+    ]
+  },
+  "jewel": {
+    "definition": "n. 宝石；宝石饰物",
+    "phonetic": {
+      "uk": "/ˈdʒuːəl/",
+      "us": "/ˈdʒuːəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "precious jewel",
+      "crown jewel"
+    ],
+    "examples": [
+      "The necklace has many jewels.",
+      "Diamonds are precious jewels."
+    ]
+  },
+  "job": {
+    "definition": "n. 工作；职业；任务",
+    "phonetic": {
+      "uk": "/dʒɒb/",
+      "us": "/dʒɑːb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "find a job",
+      "do a good job"
+    ],
+    "examples": [
+      "She got a new job.",
+      "He did a great job."
+    ]
+  },
+  "join": {
+    "definition": "vt. 参加，加入；连接",
+    "phonetic": {
+      "uk": "/dʒɔɪn/",
+      "us": "/dʒɔɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "join us",
+      "join in"
+    ],
+    "examples": [
+      "Would you like to join us?",
+      "Please join the team."
+    ]
+  },
+  "joint": {
+    "definition": "n. 接头，接缝；关节",
+    "phonetic": {
+      "uk": "/dʒɔɪnt/",
+      "us": "/dʒɔɪnt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "knee joint",
+      "joint effort"
+    ],
+    "examples": [
+      "The joint is loose.",
+      "It was a joint effort."
+    ]
+  },
+  "joke": {
+    "definition": "n. 笑话；vi. 说笑话",
+    "phonetic": {
+      "uk": "/dʒəʊk/",
+      "us": "/dʒoʊk/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "tell a joke",
+      "play a joke"
+    ],
+    "examples": [
+      "He told a funny joke.",
+      "Don't take it seriously, it's just a joke."
+    ]
+  },
+  "joking": {
+    "definition": "a. 开玩笑的，不认真的",
+    "phonetic": {
+      "uk": "/ˈdʒəʊkɪŋ/",
+      "us": "/ˈdʒoʊkɪŋ/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "joking around",
+      "just joking"
+    ],
+    "examples": [
+      "I was just joking.",
+      "He's always joking."
+    ]
+  },
+  "journal": {
+    "definition": "n. 日报，杂志；日志",
+    "phonetic": {
+      "uk": "/ˈdʒɜːnl/",
+      "us": "/ˈdʒɜːrnl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "academic journal",
+      "daily journal"
+    ],
+    "examples": [
+      "She writes in her journal every day.",
+      "The article was published in a journal."
+    ]
+  },
+  "journalist": {
+    "definition": "n. 记者，新闻工作者",
+    "phonetic": {
+      "uk": "/ˈdʒɜːnəlɪst/",
+      "us": "/ˈdʒɜːrnəlɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "investigative journalist",
+      "work as a journalist"
+    ],
+    "examples": [
+      "He is a well-known journalist.",
+      "The journalist interviewed the president."
+    ]
+  },
+  "journey": {
+    "definition": "n. 旅行，旅程；路程",
+    "phonetic": {
+      "uk": "/ˈdʒɜːni/",
+      "us": "/ˈdʒɜːrni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "long journey",
+      "go on a journey"
+    ],
+    "examples": [
+      "The journey took three hours.",
+      "We enjoyed our journey."
+    ]
+  },
+  "joy": {
+    "definition": "n. 欢乐，高兴；乐事",
+    "phonetic": {
+      "uk": "/dʒɔɪ/",
+      "us": "/dʒɔɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "with joy",
+      "full of joy"
+    ],
+    "examples": [
+      "She jumped with joy.",
+      "Music brings him joy."
+    ]
+  },
+  "joyful": {
+    "definition": "a. 十分欢喜的，快乐的",
+    "phonetic": {
+      "uk": "/ˈdʒɔɪfl/",
+      "us": "/ˈdʒɔɪfl/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "joyful occasion",
+      "joyful news"
+    ],
+    "examples": [
+      "It was a joyful reunion.",
+      "The news made everyone joyful."
+    ]
+  },
+  "judge": {
+    "definition": "n. 法官；裁判员；vt. 断定",
+    "phonetic": {
+      "uk": "/dʒʌdʒ/",
+      "us": "/dʒʌdʒ/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "judge by",
+      "peace judge"
+    ],
+    "examples": [
+      "The judge sentenced him to prison.",
+      "Don't judge people by appearance."
+    ]
+  },
+  "judgment": {
+    "definition": "n. 意见；审判；判断",
+    "phonetic": {
+      "uk": "/ˈdʒʌdʒmənt/",
+      "us": "/ˈdʒʌdʒmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a judgment",
+      "final judgment"
+    ],
+    "examples": [
+      "Trust your own judgment.",
+      "The court passed judgment."
+    ]
+  },
+  "juice": {
+    "definition": "n. （水果等）汁，液",
+    "phonetic": {
+      "uk": "/dʒuːs/",
+      "us": "/dʒuːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "orange juice",
+      "fresh juice"
+    ],
+    "examples": [
+      "Would you like some juice?",
+      "The juice is very fresh."
+    ]
+  },
+  "July": {
+    "definition": "n. 七月",
+    "phonetic": {
+      "uk": "/dʒʊˈlaɪ/",
+      "us": "/dʒʊˈlaɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in July",
+      "early July"
+    ],
+    "examples": [
+      "My birthday is in July.",
+      "July is usually hot."
+    ]
+  },
+  "jump": {
+    "definition": "vi. 跳；暴涨 vt. 跳过",
+    "phonetic": {
+      "uk": "/dʒʌmp/",
+      "us": "/dʒʌmp/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "jump up",
+      "high jump"
+    ],
+    "examples": [
+      "The cat jumped onto the table.",
+      "Can you jump over the fence?"
+    ]
+  },
+  "June": {
+    "definition": "n. 六月",
+    "phonetic": {
+      "uk": "/dʒuːn/",
+      "us": "/dʒuːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in June",
+      "mid-June"
+    ],
+    "examples": [
+      "School ends in June.",
+      "The wedding is in June."
+    ]
+  },
+  "junior": {
+    "definition": "a. 年少的；地位较低的；n. 年少者；大三学生",
+    "phonetic": {
+      "uk": "/ˈdʒuːniə/",
+      "us": "/ˈdʒuːniər/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "junior high",
+      "junior student"
+    ],
+    "examples": [
+      "He is my junior brother.",
+      "She is a junior in college."
+    ]
+  },
+  "junk": {
+    "definition": "n. 废旧杂物；vt. 丢弃",
+    "phonetic": {
+      "uk": "/dʒʌŋk/",
+      "us": "/dʒʌŋk/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "junk food",
+      "junk mail"
+    ],
+    "examples": [
+      "Too much junk food is unhealthy.",
+      "The room is full of junk."
+    ]
+  },
+  "just": {
+    "definition": "ad. 刚才；只是；正好；a. 正义的",
+    "phonetic": {
+      "uk": "/dʒʌst/",
+      "us": "/dʒʌst/"
+    },
+    "partOfSpeech": "ad./a.",
+    "phrases": [
+      "just now",
+      "just because"
+    ],
+    "examples": [
+      "I just arrived.",
+      "It's just a misunderstanding."
+    ]
+  },
+  "justice": {
+    "definition": "n. 正义，公正；司法",
+    "phonetic": {
+      "uk": "/ˈdʒʌstɪs/",
+      "us": "/ˈdʒʌstɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "do justice",
+      "sense of justice"
+    ],
+    "examples": [
+      "Justice was served.",
+      "She has a strong sense of justice."
+    ]
+  },
+  "justify": {
+    "definition": "vt. 证明...是正当的",
+    "phonetic": {
+      "uk": "/ˈdʒʌstɪfaɪ/",
+      "us": "/ˈdʒʌstɪfaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "justify oneself",
+      "justify the cost"
+    ],
+    "examples": [
+      "Please justify your decision.",
+      "Nothing can justify violence."
+    ]
+  },
+  "keen": {
+    "definition": "a. 热心的；激烈的；敏锐的",
+    "phonetic": {
+      "uk": "/kiːn/",
+      "us": "/kiːn/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "keen on",
+      "keen interest"
+    ],
+    "examples": [
+      "She is keen on learning English.",
+      "He has a keen eye for detail."
+    ]
+  },
+  "keep": {
+    "definition": "vt. 保持；遵守；照顾",
+    "phonetic": {
+      "uk": "/kiːp/",
+      "us": "/kiːp/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "keep doing",
+      "keep calm"
+    ],
+    "examples": [
+      "Keep the door closed.",
+      "Don't keep me waiting."
+    ]
+  },
+  "keeper": {
+    "definition": "n. 看守人；饲养员",
+    "phonetic": {
+      "uk": "/ˈkiːpə/",
+      "us": "/ˈkiːpər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "zoo keeper",
+      "goal keeper"
+    ],
+    "examples": [
+      "The zoo keeper feeds the animals.",
+      "The goal keeper made a great save."
+    ]
+  },
+  "keeping": {
+    "definition": "n. 保管；一致",
+    "phonetic": {
+      "uk": "/ˈkiːpɪŋ/",
+      "us": "/ˈkiːpɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "safe keeping",
+      "in keeping with"
+    ],
+    "examples": [
+      "I'll leave it in your safe keeping.",
+      "His actions are in keeping with his beliefs."
+    ]
+  },
+  "kettle": {
+    "definition": "n. 水壶，水锅",
+    "phonetic": {
+      "uk": "/ˈketl/",
+      "us": "/ˈketl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "electric kettle",
+      "boil the kettle"
+    ],
+    "examples": [
+      "Boil water in the kettle.",
+      "The kettle is whistling."
+    ]
+  },
+  "key": {
+    "definition": "n. 钥匙；键；答案",
+    "phonetic": {
+      "uk": "/kiː/",
+      "us": "/kiː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "key to",
+      "unlock the key"
+    ],
+    "examples": [
+      "I lost my keys again.",
+      "This is the key to solving the problem."
+    ]
+  },
+  "keyboard": {
+    "definition": "n. 键盘",
+    "phonetic": {
+      "uk": "/ˈkiːbɔːd/",
+      "us": "/ˈkiːbɔːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "computer keyboard",
+      "type on the keyboard"
+    ],
+    "examples": [
+      "The keyboard needs cleaning.",
+      "I spilled coffee on my keyboard."
+    ]
+  },
+  "kick": {
+    "definition": "vt./vi./n. 踢",
+    "phonetic": {
+      "uk": "/kɪk/",
+      "us": "/kɪk/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "kick off",
+      "free kick"
+    ],
+    "examples": [
+      "He kicked the ball.",
+      "Stop kicking me!"
+    ]
+  },
+  "kid": {
+    "definition": "n. 小孩，儿童；vi. 戏弄",
+    "phonetic": {
+      "uk": "/kɪd/",
+      "us": "/kɪd/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "just kidding",
+      "look after the kids"
+    ],
+    "examples": [
+      "The kids are playing outside.",
+      "I'm just kidding with you."
+    ]
+  },
+  "kill": {
+    "definition": "vt. 杀死；扼杀；消磨",
+    "phonetic": {
+      "uk": "/kɪl/",
+      "us": "/kɪl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "kill time",
+      "kill two birds with one stone"
+    ],
+    "examples": [
+      "The virus killed many trees.",
+      "Let's kill some time at the mall."
+    ]
+  },
+  "kilogram": {
+    "definition": "n. 千克，公斤",
+    "phonetic": {
+      "uk": "/ˈkɪləɡræm/",
+      "us": "/ˈkɪləɡræm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "per kilogram",
+      "two kilograms"
+    ],
+    "examples": [
+      "The apple weighs 200 grams, almost a quarter of a kilogram.",
+      "The price is $5 per kilogram."
+    ]
+  },
+  "kilometer": {
+    "definition": "n. 千米，公里",
+    "phonetic": {
+      "uk": "/ˈkɪləmiːtə/",
+      "us": "/kɪˈlɑːmɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "per kilometer",
+      "two kilometers"
+    ],
+    "examples": [
+      "The town is five kilometers away.",
+      "Speed limit is 60 kilometers per hour."
+    ]
+  },
+  "kilometre": {
+    "definition": "n. 千米，公里（英式拼写）",
+    "phonetic": {
+      "uk": "/ˈkɪləmiːtə/",
+      "us": "/kɪˈlɑːmɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ten kilometres",
+      "run a kilometre"
+    ],
+    "examples": [
+      "The race is 10 kilometres long.",
+      "It's only a few kilometres from here."
+    ]
+  },
+  "kind": {
+    "definition": "a. 仁慈的；友好的；n. 种类",
+    "phonetic": {
+      "uk": "/kaɪnd/",
+      "us": "/kaɪnd/"
+    },
+    "partOfSpeech": "a./n.",
+    "phrases": [
+      "be kind",
+      "what kind of"
+    ],
+    "examples": [
+      "She is very kind to animals.",
+      "What kind of music do you like?"
+    ]
+  },
+  "kindergarten": {
+    "definition": "n. 幼儿园",
+    "phonetic": {
+      "uk": "/ˈkɪndəɡɑːtn/",
+      "us": "/ˈkɪndərɡɑːrtn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to kindergarten",
+      "kindergarten teacher"
+    ],
+    "examples": [
+      "My son is in kindergarten.",
+      "Children learn to socialize in kindergarten."
+    ]
+  },
+  "kindness": {
+    "definition": "n. 仁慈，好意",
+    "phonetic": {
+      "uk": "/ˈkaɪndnəs/",
+      "us": "/ˈkaɪndnəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "show kindness",
+      "with kindness"
+    ],
+    "examples": [
+      "Thank you for your kindness.",
+      "She treated everyone with kindness."
+    ]
+  },
+  "king": {
+    "definition": "n. 国王，君主",
+    "phonetic": {
+      "uk": "/kɪŋ/",
+      "us": "/kɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "queen and king",
+      "king of"
+    ],
+    "examples": [
+      "The king ruled for 50 years.",
+      "Lions are called the king of beasts."
+    ]
+  },
+  "kingdom": {
+    "definition": "n. 王国；领域，界",
+    "phonetic": {
+      "uk": "/ˈkɪŋdəm/",
+      "us": "/ˈkɪŋdəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "United Kingdom",
+      "animal kingdom"
+    ],
+    "examples": [
+      "The United Kingdom includes England.",
+      "He rules over his own kingdom."
+    ]
+  },
+  "kiss": {
+    "definition": "vt. 吻；vi. 接吻 n. 吻",
+    "phonetic": {
+      "uk": "/kɪs/",
+      "us": "/kɪs/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "blow a kiss",
+      "kiss goodnight"
+    ],
+    "examples": [
+      "She gave him a kiss on the cheek.",
+      "The couple kissed goodbye."
+    ]
+  },
+  "kitchen": {
+    "definition": "n. 厨房，灶间",
+    "phonetic": {
+      "uk": "/ˈkɪtʃən/",
+      "us": "/ˈkɪtʃən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the kitchen",
+      "kitchen table"
+    ],
+    "examples": [
+      "Mom is cooking in the kitchen.",
+      "We remodeled our kitchen."
+    ]
+  },
+  "kite": {
+    "definition": "n. 风筝",
+    "phonetic": {
+      "uk": "/kaɪt/",
+      "us": "/kaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fly a kite",
+      "kite flying"
+    ],
+    "examples": [
+      "The children are flying kites.",
+      "Go fly a kite! (idiom: go away)"
+    ]
+  },
+  "knee": {
+    "definition": "n. 膝，膝关节",
+    "phonetic": {
+      "uk": "/niː/",
+      "us": "/niː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on one's knees",
+      "knee injury"
+    ],
+    "examples": [
+      "She fell and hurt her knee.",
+      "He got down on his knees."
+    ]
+  },
+  "kneel": {
+    "definition": "vi. 跪；跪下",
+    "phonetic": {
+      "uk": "/niːl/",
+      "us": "/niːl/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "kneel down",
+      "kneel before"
+    ],
+    "examples": [
+      "He knelt to tie his shoe.",
+      "Many people kneel to pray."
+    ]
+  },
+  "knife": {
+    "definition": "n. 小刀；刀，餐刀",
+    "phonetic": {
+      "uk": "/naɪf/",
+      "us": "/naɪf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sharp knife",
+      "butter knife"
+    ],
+    "examples": [
+      "Cut the bread with a knife.",
+      "Be careful with that knife."
+    ]
+  },
+  "knock": {
+    "definition": "vi./vt./n. 敲，击，打",
+    "phonetic": {
+      "uk": "/nɒk/",
+      "us": "/nɑːk/"
+    },
+    "partOfSpeech": "vi./vt./n.",
+    "phrases": [
+      "knock on",
+      "knock down"
+    ],
+    "examples": [
+      "Someone is knocking at the door.",
+      "She knocked on the table."
+    ]
+  },
+  "knot": {
+    "definition": "n. （绳的）结；vt. 打结",
+    "phonetic": {
+      "uk": "/nɒt/",
+      "us": "/nɑːt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "tie a knot",
+      "tight knot"
+    ],
+    "examples": [
+      "Tie your shoes in a knot.",
+      "There was a knot in the rope."
+    ]
+  },
+  "know": {
+    "definition": "vt. 知道；认识；通晓",
+    "phonetic": {
+      "uk": "/nəʊ/",
+      "us": "/noʊ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "know about",
+      "know how to"
+    ],
+    "examples": [
+      "I know the answer.",
+      "Do you know where she lives?"
+    ]
+  },
+  "knowledge": {
+    "definition": "n. 知识，学识；知道",
+    "phonetic": {
+      "uk": "/ˈnɒlɪdʒ/",
+      "us": "/ˈnɑːlɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "acquire knowledge",
+      "common knowledge"
+    ],
+    "examples": [
+      "Knowledge is power.",
+      "She has extensive knowledge of history."
+    ]
+  },
+  "lab": {
+    "definition": "n. 实验室，研究室",
+    "phonetic": {
+      "uk": "/læb/",
+      "us": "/læb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "science lab",
+      "lab test"
+    ],
+    "examples": [
+      "We have lab class tomorrow.",
+      "The lab results are ready."
+    ]
+  },
+  "label": {
+    "definition": "n. 标签；标记，符号；vt. 贴标签",
+    "phonetic": {
+      "uk": "/ˈleɪbl/",
+      "us": "/ˈleɪbl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "price label",
+      "label as"
+    ],
+    "examples": [
+      "Read the label before using.",
+      "They labeled the packages."
+    ]
+  },
+  "laboratory": {
+    "definition": "n. 实验室，研究室",
+    "phonetic": {
+      "uk": "/ləˈbɒrətri/",
+      "us": "/ˈlæbrətɔːri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "research laboratory",
+      "laboratory equipment"
+    ],
+    "examples": [
+      "The chemistry laboratory is well-equipped.",
+      "Scientists work in the laboratory."
+    ]
+  },
+  "labour": {
+    "definition": "n. 劳动；工作；劳工（英式拼写）",
+    "phonetic": {
+      "uk": "/ˈleɪbə/",
+      "us": "/ˈleɪbər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "manual labour",
+      "labour party"
+    ],
+    "examples": [
+      "The project required a lot of labour.",
+      "Labor Day celebrates workers."
+    ]
+  },
+  "lace": {
+    "definition": "n. 鞋带，系带；花边",
+    "phonetic": {
+      "uk": "/leɪs/",
+      "us": "/leɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "shoe lace",
+      "lace up"
+    ],
+    "examples": [
+      "Tie your shoe laces.",
+      "The dress has lace trim."
+    ]
+  },
+  "lack": {
+    "definition": "vt./vi./n. 缺乏，不足",
+    "phonetic": {
+      "uk": "/læk/",
+      "us": "/læk/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "lack of",
+      "for lack of"
+    ],
+    "examples": [
+      "They lack experience.",
+      "The project failed due to lack of funding."
+    ]
+  },
+  "lad": {
+    "definition": "n. 男孩，小伙子",
+    "phonetic": {
+      "uk": "/læd/",
+      "us": "/læd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young lad",
+      "poor lad"
+    ],
+    "examples": [
+      "He's a fine young lad.",
+      "The lad works on a farm."
+    ]
+  },
+  "ladder": {
+    "definition": "n. 梯子，梯状物",
+    "phonetic": {
+      "uk": "/ˈlædə/",
+      "us": "/ˈlædər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "climb the ladder",
+      "career ladder"
+    ],
+    "examples": [
+      "Use the ladder to reach the shelf.",
+      "He climbed the corporate ladder."
+    ]
+  },
+  "lady": {
+    "definition": "n. 女士，夫人；女子",
+    "phonetic": {
+      "uk": "/ˈleɪdi/",
+      "us": "/ˈleɪdi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young lady",
+      "ladies and gentlemen"
+    ],
+    "examples": [
+      "The lady is waiting for you.",
+      "She behaves like a true lady."
+    ]
+  },
+  "lag": {
+    "definition": "vi. 走得慢；滞后 n. 落后",
+    "phonetic": {
+      "uk": "/læɡ/",
+      "us": "/læɡ/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "lag behind",
+      "time lag"
+    ],
+    "examples": [
+      "Don't lag behind the group.",
+      "There was a lag in the video."
+    ]
+  },
+  "lake": {
+    "definition": "n. 湖",
+    "phonetic": {
+      "uk": "/leɪk/",
+      "us": "/leɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to the lake",
+      "lake view"
+    ],
+    "examples": [
+      "We swam in the lake.",
+      "The lake is beautiful at sunset."
+    ]
+  },
+  "lamb": {
+    "definition": "n. 羔羊，小羊；羔羊肉",
+    "phonetic": {
+      "uk": "/læm/",
+      "us": "/læm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "roast lamb",
+      "like a lamb"
+    ],
+    "examples": [
+      "The lamb loves its mother.",
+      "We had roast lamb for dinner."
+    ]
+  },
+  "lame": {
+    "definition": "a. 跛的；瘸的；残废的",
+    "phonetic": {
+      "uk": "/leɪm/",
+      "us": "/leɪm/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "lame excuse",
+      "lame duck"
+    ],
+    "examples": [
+      "The horse is lame.",
+      "That's a pretty lame excuse."
+    ]
+  },
+  "lamp": {
+    "definition": "n. 灯",
+    "phonetic": {
+      "uk": "/læmp/",
+      "us": "/læmp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "oil lamp",
+      "desk lamp"
+    ],
+    "examples": [
+      "Turn on the lamp.",
+      "The lamp gives off soft light."
+    ]
+  },
+  "land": {
+    "definition": "n. 陆地；土地；vi. 上岸",
+    "phonetic": {
+      "uk": "/lænd/",
+      "us": "/lænd/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "on land",
+      "land on"
+    ],
+    "examples": [
+      "We traveled across the land.",
+      "The plane will land soon."
+    ]
+  },
+  "landlord": {
+    "definition": "n. 房东，地主",
+    "phonetic": {
+      "uk": "/ˈlændlɔːd/",
+      "us": "/ˈlændlɔːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "the landlord",
+      "pay the landlord"
+    ],
+    "examples": [
+      "My landlord is very kind.",
+      "The landlord raised the rent."
+    ]
+  },
+  "lane": {
+    "definition": "n. （乡间）小路；跑道；车道",
+    "phonetic": {
+      "uk": "/leɪn/",
+      "us": "/leɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fast lane",
+      "traffic lane"
+    ],
+    "examples": [
+      "There was a tiny lane in the village.",
+      "Stay in your lane while driving."
+    ]
+  },
+  "language": {
+    "definition": "n. 语言",
+    "phonetic": {
+      "uk": "/ˈlæŋɡwɪdʒ/",
+      "us": "/ˈlæŋɡwɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign language",
+      "language barrier"
+    ],
+    "examples": [
+      "She speaks three languages.",
+      "English is a global language."
+    ]
+  },
+  "large": {
+    "definition": "a. 大的；巨大的",
+    "phonetic": {
+      "uk": "/lɑːdʒ/",
+      "us": "/lɑːrdʒ/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "large number",
+      "large scale"
+    ],
+    "examples": [
+      "They live in a large house.",
+      "A large crowd gathered."
+    ]
+  },
+  "largely": {
+    "definition": "ad. 大部分；大量地",
+    "phonetic": {
+      "uk": "/ˈlɑːdʒli/",
+      "us": "/ˈlɑːrdʒli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "largely due to",
+      "remain largely"
+    ],
+    "examples": [
+      "The population is largely rural.",
+      "The failure was largely due to poor planning."
+    ]
+  },
+  "laser": {
+    "definition": "n. 激光",
+    "phonetic": {
+      "uk": "/ˈleɪzə/",
+      "us": "/ˈleɪzər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "laser printer",
+      "laser surgery"
+    ],
+    "examples": [
+      "The doctor used a laser for surgery.",
+      "I bought a laser printer."
+    ]
+  },
+  "last": {
+    "definition": "a. 最后的；ad. 最后； vt. 持续",
+    "phonetic": {
+      "uk": "/lɑːst/",
+      "us": "/læst/"
+    },
+    "partOfSpeech": "a./ad./vt.",
+    "phrases": [
+      "at last",
+      "last week"
+    ],
+    "examples": [
+      "This is my last chance.",
+      "How long will it last?"
+    ]
+  },
+  "late": {
+    "definition": "a. 迟的；晚的；ad. 迟，晚",
+    "phonetic": {
+      "uk": "/leɪt/",
+      "us": "/leɪt/"
+    },
+    "partOfSpeech": "a./ad.",
+    "phrases": [
+      "be late",
+      "late at night"
+    ],
+    "examples": [
+      "I'm sorry I'm late.",
+      "She works late every day."
+    ]
+  },
+  "lately": {
+    "definition": "ad. 最近，不久前",
+    "phonetic": {
+      "uk": "/ˈleɪtli/",
+      "us": "/ˈleɪtli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "how lately",
+      "very lately"
+    ],
+    "examples": [
+      "I haven't seen him lately.",
+      "Have you been busy lately?"
+    ]
+  },
+  "later": {
+    "definition": "ad. 后来；稍后",
+    "phonetic": {
+      "uk": "/ˈleɪtə/",
+      "us": "/ˈleɪtər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "see you later",
+      "sooner or later"
+    ],
+    "examples": [
+      "I'll call you later.",
+      "We can discuss this later."
+    ]
+  },
+  "latter": {
+    "definition": "a. （两者中）后者的",
+    "phonetic": {
+      "uk": "/ˈlætə/",
+      "us": "/ˈlætər/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "the latter",
+      "latter half"
+    ],
+    "examples": [
+      "Of the two, the latter is better.",
+      "The latter part of the movie is exciting."
+    ]
+  },
+  "laugh": {
+    "definition": "vi./n. 笑，发笑",
+    "phonetic": {
+      "uk": "/lɑːf/",
+      "us": "/læf/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "laugh at",
+      "have a laugh"
+    ],
+    "examples": [
+      "Don't laugh at him.",
+      "The joke made everyone laugh."
+    ]
+  },
+  "laughter": {
+    "definition": "n. 笑，笑声",
+    "phonetic": {
+      "uk": "/ˈlɑːftə/",
+      "us": "/ˈlæftər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "burst into laughter",
+      "roar with laughter"
+    ],
+    "examples": [
+      "Her laughter filled the room.",
+      "They burst into laughter."
+    ]
+  },
+  "launch": {
+    "definition": "vt. 发射，投射；发动；n. 发射",
+    "phonetic": {
+      "uk": "/lɔːntʃ/",
+      "us": "/lɔːntʃ/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "launch a product",
+      "launch into"
+    ],
+    "examples": [
+      "The company will launch a new product.",
+      "They launched a rocket into space."
+    ]
+  },
+  "laundry": {
+    "definition": "n. 送洗衣店去洗的东西；洗衣店",
+    "phonetic": {
+      "uk": "/ˈlɔːndri/",
+      "us": "/ˈlɔːndri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "do laundry",
+      "laundry room"
+    ],
+    "examples": [
+      "I need to do my laundry.",
+      "The laundry is clean."
+    ]
+  },
+  "lavatory": {
+    "definition": "n. 盥洗室，厕所",
+    "phonetic": {
+      "uk": "/ˈlævətri/",
+      "us": "/ˈlævətɔːri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public lavatory",
+      "go to the lavatory"
+    ],
+    "examples": [
+      "Where is the lavatory?",
+      "The lavatory is on the left."
+    ]
+  },
+  "law": {
+    "definition": "n. 法律，法令；法学",
+    "phonetic": {
+      "uk": "/lɔː/",
+      "us": "/lɔː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "break the law",
+      "study law"
+    ],
+    "examples": [
+      "It's against the law.",
+      "She studies law at university."
+    ]
+  },
+  "lawn": {
+    "definition": "n. 草地，草坪，草场",
+    "phonetic": {
+      "uk": "/lɔːn/",
+      "us": "/lɔːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "front lawn",
+      "mow the lawn"
+    ],
+    "examples": [
+      "The children played on the lawn.",
+      "We need to mow the lawn."
+    ]
+  },
+  "lawyer": {
+    "definition": "n. 律师；法学家",
+    "phonetic": {
+      "uk": "/ˈlɔːjə/",
+      "us": "/ˈlɔːjər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "criminal lawyer",
+      "hire a lawyer"
+    ],
+    "examples": [
+      "My sister is a lawyer.",
+      "You should consult a lawyer."
+    ]
+  },
+  "lay": {
+    "definition": "vt. 放置；铺设；设置；生（蛋）",
+    "phonetic": {
+      "uk": "/leɪ/",
+      "us": "/leɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "lay down",
+      "lay the table"
+    ],
+    "examples": [
+      "Lay the books on the table.",
+      "The hen laid an egg."
+    ]
+  },
+  "layer": {
+    "definition": "n. 层；层次",
+    "phonetic": {
+      "uk": "/ˈleɪə/",
+      "us": "/ˈleɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "top layer",
+      "multiple layers"
+    ],
+    "examples": [
+      "The cake has three layers.",
+      "There is a layer of dust."
+    ]
+  },
+  "layout": {
+    "definition": "n. 布局，安排",
+    "phonetic": {
+      "uk": "/ˈleɪaʊt/",
+      "us": "/ˈleɪaʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "page layout",
+      "city layout"
+    ],
+    "examples": [
+      "I like the layout of this room.",
+      "The magazine has an attractive layout."
+    ]
+  },
+  "lazy": {
+    "definition": "a. 懒惰的；慢吞吞的",
+    "phonetic": {
+      "uk": "/ˈleɪzi/",
+      "us": "/ˈleɪzi/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "lazy person",
+      "lazy afternoon"
+    ],
+    "examples": [
+      "Don't be lazy.",
+      "It was a lazy Sunday."
+    ]
+  },
+  "lead": {
+    "definition": "vt. 领导；引导；n. 铅",
+    "phonetic": {
+      "uk": "/liːd/",
+      "us": "/liːd/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "lead to",
+      "take the lead"
+    ],
+    "examples": [
+      "She will lead the team.",
+      "This road leads to the station."
+    ]
+  },
+  "leader": {
+    "definition": "n. 领袖；领导人",
+    "phonetic": {
+      "uk": "/ˈliːdə/",
+      "us": "/ˈliːdər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "political leader",
+      "team leader"
+    ],
+    "examples": [
+      "He is a great leader.",
+      "The leader made a speech."
+    ]
+  },
+  "leadership": {
+    "definition": "n. 领导",
+    "phonetic": {
+      "uk": "/ˈliːdəʃɪp/",
+      "us": "/ˈliːdərʃɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "under someone's leadership",
+      "show leadership"
+    ],
+    "examples": [
+      "She showed great leadership.",
+      "Under his leadership, sales increased."
+    ]
+  },
+  "leading": {
+    "definition": "a. 指导的；最主要的",
+    "phonetic": {
+      "uk": "/ˈliːdɪŋ/",
+      "us": "/ˈliːdɪŋ/"
+    },
+    "partOfSpeech": "a.",
+    "phrases": [
+      "leading role",
+      "leading cause"
+    ],
+    "examples": [
+      "She has a leading role in the movie.",
+      "Stress is a leading cause of illness."
+    ]
+  }
+}

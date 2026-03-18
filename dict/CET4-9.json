@@ -1,0 +1,2744 @@
+{
+  "express": {
+    "definition": "vt. 表示；表达 n. 快车",
+    "phonetic": {
+      "uk": "/ɪkˈspres/",
+      "us": "/ɪkˈspres/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "express oneself",
+      "express train"
+    ],
+    "examples": [
+      "She expressed her gratitude.",
+      "I'll send it by express delivery."
+    ]
+  },
+  "expression": {
+    "definition": "n. 词句；表达；表情",
+    "phonetic": {
+      "uk": "/ɪkˈspreʃn/",
+      "us": "/ɪkˈspreʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "facial expression",
+      "freedom of expression"
+    ],
+    "examples": [
+      "Her facial expression didn't change.",
+      "This is a common expression."
+    ]
+  },
+  "extend": {
+    "definition": "vt. 延长；扩大；致",
+    "phonetic": {
+      "uk": "/ɪkˈstend/",
+      "us": "/ɪkˈstend/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "extend the deadline",
+      "extend a warm welcome"
+    ],
+    "examples": [
+      "They extended their stay.",
+      "I extend my best wishes."
+    ]
+  },
+  "extension": {
+    "definition": "n. 延长部分；伸展",
+    "phonetic": {
+      "uk": "/ɪkˈstenʃn/",
+      "us": "/ɪkˈstenʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "file extension",
+      "house extension"
+    ],
+    "examples": [
+      "The file has a .txt extension.",
+      "They built an extension to the house."
+    ]
+  },
+  "extensive": {
+    "definition": "adj. 广阔的；广泛的",
+    "phonetic": {
+      "uk": "/ɪkˈstensɪv/",
+      "us": "/ɪkˈstensɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "extensive knowledge",
+      "extensive research"
+    ],
+    "examples": [
+      "He has extensive knowledge of history.",
+      "The damage was extensive."
+    ]
+  },
+  "extent": {
+    "definition": "n. 程度；范围；大小",
+    "phonetic": {
+      "uk": "/ɪkˈstent/",
+      "us": "/ɪkˈstent/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "to some extent",
+      "full extent"
+    ],
+    "examples": [
+      "I agree with you to some extent.",
+      "We don't know the full extent of the damage."
+    ]
+  },
+  "exterior": {
+    "definition": "adj. 外部的；对外的",
+    "phonetic": {
+      "uk": "/ɪkˈstɪəriər/",
+      "us": "/ɪkˈstɪriər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "exterior wall",
+      "exterior design"
+    ],
+    "examples": [
+      "The exterior needs painting.",
+      "The exterior of the building is modern."
+    ]
+  },
+  "external": {
+    "definition": "adj. 外部的，外面的",
+    "phonetic": {
+      "uk": "/ɪkˈstɜːnl/",
+      "us": "/ɪkˈstɜːrnl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "external factor",
+      "external hard drive"
+    ],
+    "examples": [
+      "External forces affect the market.",
+      "Use an external backup drive."
+    ]
+  },
+  "extra": {
+    "definition": "adj. 额外的 ad. 特别地",
+    "phonetic": {
+      "uk": "/ˈekstrə/",
+      "us": "/ˈekstrə/"
+    },
+    "partOfSpeech": "adj./ad.",
+    "phrases": [
+      "extra time",
+      "extra work"
+    ],
+    "examples": [
+      "There's an extra charge for this.",
+      "She worked extra hours."
+    ]
+  },
+  "extraordinary": {
+    "definition": "adj. 非同寻常的，特别的",
+    "phonetic": {
+      "uk": "/ɪkˈstrɔːdənri/",
+      "us": "/ɪkˈstrɔːrdəneri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "extraordinary measures",
+      "extraordinary achievement"
+    ],
+    "examples": [
+      "It was an extraordinary performance.",
+      "She has extraordinary abilities."
+    ]
+  },
+  "extreme": {
+    "definition": "adj. 极度的；尽头的",
+    "phonetic": {
+      "uk": "/ɪkˈstriːm/",
+      "us": "/ɪkˈstriːm/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "extreme weather",
+      "go to extremes"
+    ],
+    "examples": [
+      "The climate here is extreme.",
+      "Don't go to extremes."
+    ]
+  },
+  "extremely": {
+    "definition": "ad. 极端，极其，非常",
+    "phonetic": {
+      "uk": "/ɪkˈstriːmli/",
+      "us": "/ɪkˈstriːmli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "extremely important",
+      "extremely difficult"
+    ],
+    "examples": [
+      "It is extremely cold outside.",
+      "She is extremely talented."
+    ]
+  },
+  "eye": {
+    "definition": "n. 眼睛；眼力；鉴赏力",
+    "phonetic": {
+      "uk": "/aɪ/",
+      "us": "/aɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "keep an eye on",
+      "catch someone's eye"
+    ],
+    "examples": [
+      "She has beautiful eyes.",
+      "Keep an eye on the children."
+    ]
+  },
+  "eyebrow": {
+    "definition": "n. 眉毛",
+    "phonetic": {
+      "uk": "/ˈaɪbraʊ/",
+      "us": "/ˈaɪbraʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "raise one's eyebrow",
+      "tattooed eyebrow"
+    ],
+    "examples": [
+      "He raised his eyebrow in surprise.",
+      "She shaped her eyebrows."
+    ]
+  },
+  "eyesight": {
+    "definition": "n. 视力，目力",
+    "phonetic": {
+      "uk": "/ˈaɪsaɪt/",
+      "us": "/ˈaɪsaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "good eyesight",
+      "poor eyesight"
+    ],
+    "examples": [
+      "Her eyesight is perfect.",
+      "He wears glasses for poor eyesight."
+    ]
+  },
+  "fabric": {
+    "definition": "n. 织物，纺织品；结构",
+    "phonetic": {
+      "uk": "/ˈfæbrɪk/",
+      "us": "/ˈfæbrɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cotton fabric",
+      "social fabric"
+    ],
+    "examples": [
+      "The dress is made of silk fabric.",
+      "This fabric is very durable."
+    ]
+  },
+  "face": {
+    "definition": "n. 脸；表面；外表",
+    "phonetic": {
+      "uk": "/feɪs/",
+      "us": "/feɪs/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "face to face",
+      "make a face"
+    ],
+    "examples": [
+      "She has a beautiful face.",
+      "We need to face the reality."
+    ]
+  },
+  "facility": {
+    "definition": "n. 设备；容易；便利",
+    "phonetic": {
+      "uk": "/fəˈsɪləti/",
+      "us": "/fəˈsɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sport facility",
+      "health facility"
+    ],
+    "examples": [
+      "The hotel has excellent facilities.",
+      "The facility includes a pool."
+    ]
+  },
+  "fact": {
+    "definition": "n. 事实；实际，实情",
+    "phonetic": {
+      "uk": "/fækt/",
+      "us": "/fækt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "as a matter of fact",
+      "in fact"
+    ],
+    "examples": [
+      "What are the facts?",
+      "In fact, I agree with you."
+    ]
+  },
+  "factor": {
+    "definition": "n. 因素；因子，系数",
+    "phonetic": {
+      "uk": "/ˈfæktər/",
+      "us": "/ˈfæktər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "risk factor",
+      "key factor"
+    ],
+    "examples": [
+      "Cost is a major factor.",
+      "Many factors contributed to the decision."
+    ]
+  },
+  "factory": {
+    "definition": "n. 工厂，制造厂",
+    "phonetic": {
+      "uk": "/ˈfæktəri/",
+      "us": "/ˈfæktəri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "car factory",
+      "factory worker"
+    ],
+    "examples": [
+      "The factory employs 500 people.",
+      "They visited the factory yesterday."
+    ]
+  },
+  "faculty": {
+    "definition": "n. 才能，能力；系，科",
+    "phonetic": {
+      "uk": "/ˈfæklti/",
+      "us": "/ˈfæklti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "faculty meeting",
+      "college faculty"
+    ],
+    "examples": [
+      "She has a faculty for languages.",
+      "The faculty voted on the proposal."
+    ]
+  },
+  "fade": {
+    "definition": "vi. 褪色；逐渐消失",
+    "phonetic": {
+      "uk": "/feɪd/",
+      "us": "/feɪd/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "fade away",
+      "fade into"
+    ],
+    "examples": [
+      "Colors fade in the sun.",
+      "His memory gradually faded."
+    ]
+  },
+  "fail": {
+    "definition": "vi. 失败；失灵；不能",
+    "phonetic": {
+      "uk": "/feɪl/",
+      "us": "/feɪl/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "fail to do",
+      "fail the exam"
+    ],
+    "examples": [
+      "Don't be afraid to fail.",
+      "The brakes failed on the hill."
+    ]
+  },
+  "failure": {
+    "definition": "n. 失败；失败的人",
+    "phonetic": {
+      "uk": "/ˈfeɪljər/",
+      "us": "/ˈfeɪljər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "power failure",
+      "business failure"
+    ],
+    "examples": [
+      "Failure teaches valuable lessons.",
+      "The project ended in failure."
+    ]
+  },
+  "faint": {
+    "definition": "adj. 微弱的；虚弱的",
+    "phonetic": {
+      "uk": "/feɪnt/",
+      "us": "/feɪnt/"
+    },
+    "partOfSpeech": "adj./vi.",
+    "phrases": [
+      "faint light",
+      "faint sound"
+    ],
+    "examples": [
+      "There was a faint light in the distance.",
+      "She felt faint from hunger."
+    ]
+  },
+  "fair": {
+    "definition": "adj. 公平的；相当的",
+    "phonetic": {
+      "uk": "/feər/",
+      "us": "/fer/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fair play",
+      "fair enough"
+    ],
+    "examples": [
+      "Everyone deserves fair treatment.",
+      "The weather will be fair tomorrow."
+    ]
+  },
+  "fairly": {
+    "definition": "ad. 相当；公平地",
+    "phonetic": {
+      "uk": "/ˈfeəli/",
+      "us": "/ˈferli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "fairly good",
+      "fairly easy"
+    ],
+    "examples": [
+      "The test was fairly easy.",
+      "She is fairly tall."
+    ]
+  },
+  "faith": {
+    "definition": "n. 信任，信心；信仰",
+    "phonetic": {
+      "uk": "/feɪθ/",
+      "us": "/feɪθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have faith in",
+      "lose faith"
+    ],
+    "examples": [
+      "Have faith in yourself.",
+      "Her faith never wavered."
+    ]
+  },
+  "faithful": {
+    "definition": "adj. 忠诚的；如实的",
+    "phonetic": {
+      "uk": "/ˈfeɪθfl/",
+      "us": "/ˈfeɪθfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "faithful friend",
+      "remain faithful"
+    ],
+    "examples": [
+      "He has been a faithful friend.",
+      "She remained faithful to her promise."
+    ]
+  },
+  "fall": {
+    "definition": "vi. 落下；跌倒；陷落",
+    "phonetic": {
+      "uk": "/fɔːl/",
+      "us": "/fɔːl/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "fall down",
+      "fall in love"
+    ],
+    "examples": [
+      "Leaves fall in autumn.",
+      "He fell down the stairs."
+    ]
+  },
+  "false": {
+    "definition": "adj. 不真实的；伪造的",
+    "phonetic": {
+      "uk": "/fɔːls/",
+      "us": "/fɔːls/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "false information",
+      "false impression"
+    ],
+    "examples": [
+      "The news was false.",
+      "She gave a false name."
+    ]
+  },
+  "fame": {
+    "definition": "n. 名声，名望",
+    "phonetic": {
+      "uk": "/feɪm/",
+      "us": "/feɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "come to fame",
+      "instant fame"
+    ],
+    "examples": [
+      "She achieved international fame.",
+      "Fame can be both good and bad."
+    ]
+  },
+  "familiar": {
+    "definition": "adj. 熟悉的；冒昧的",
+    "phonetic": {
+      "uk": "/fəˈmɪliər/",
+      "us": "/fəˈmɪliər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "familiar with",
+      "familiar face"
+    ],
+    "examples": [
+      "The street looked familiar.",
+      "Are you familiar with this software?"
+    ]
+  },
+  "family": {
+    "definition": "n. 家，家庭；家族",
+    "phonetic": {
+      "uk": "/ˈfæməli/",
+      "us": "/ˈfæməli/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "family member",
+      "family tree"
+    ],
+    "examples": [
+      "She has a large family.",
+      "Family is important to her."
+    ]
+  },
+  "famine": {
+    "definition": "n. 饥荒；严重的缺乏",
+    "phonetic": {
+      "uk": "/ˈfæmɪn/",
+      "us": "/ˈfæmɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "severe famine",
+      "famine relief"
+    ],
+    "examples": [
+      "The country suffered from famine.",
+      "Famine affected millions."
+    ]
+  },
+  "famous": {
+    "definition": "adj. 著名的，出名的",
+    "phonetic": {
+      "uk": "/ˈfeɪməs/",
+      "us": "/ˈfeɪməs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "famous for",
+      "world famous"
+    ],
+    "examples": [
+      "She is famous for her paintings.",
+      "Paris is a famous city."
+    ]
+  },
+  "fan": {
+    "definition": "n. (运动等)狂热爱好者",
+    "phonetic": {
+      "uk": "/fæn/",
+      "us": "/fæn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "football fan",
+      "fan club"
+    ],
+    "examples": [
+      "She's a big fan of soccer.",
+      "The fans cheered loudly."
+    ]
+  },
+  "fancy": {
+    "definition": "vt. 想要；喜欢 n. 想象力",
+    "phonetic": {
+      "uk": "/ˈfænsi/",
+      "us": "/ˈfænsi/"
+    },
+    "partOfSpeech": "vt./n./adj.",
+    "phrases": [
+      "fancy dress",
+      "take a fancy to"
+    ],
+    "examples": [
+      "She didn't fancy going out.",
+      "The restaurant is quite fancy."
+    ]
+  },
+  "far": {
+    "definition": "ad. 远，遥远 a. 远的",
+    "phonetic": {
+      "uk": "/fɑːr/",
+      "us": "/fɑːr/"
+    },
+    "partOfSpeech": "ad./adj.",
+    "phrases": [
+      "far away",
+      "so far"
+    ],
+    "examples": [
+      "The station is not far.",
+      "We live far from the city."
+    ]
+  },
+  "fare": {
+    "definition": "n. 车费，船费，票价",
+    "phonetic": {
+      "uk": "/feər/",
+      "us": "/fer/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bus fare",
+      "air fare"
+    ],
+    "examples": [
+      "The bus fare is two dollars.",
+      "What's the air fare to London?"
+    ]
+  },
+  "farewell": {
+    "definition": "int. 再会 n. 告别",
+    "phonetic": {
+      "uk": "/ˌfeəˈwel/",
+      "us": "/ˌferˈwel/"
+    },
+    "partOfSpeech": "int./n.",
+    "phrases": [
+      "say farewell",
+      "farewell party"
+    ],
+    "examples": [
+      "Farewell until we meet again.",
+      "We held a farewell party."
+    ]
+  },
+  "farm": {
+    "definition": "n. 农场，农庄；饲养场",
+    "phonetic": {
+      "uk": "/fɑːm/",
+      "us": "/fɑːrm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "work on a farm",
+      "dairy farm"
+    ],
+    "examples": [
+      "They live on a farm.",
+      "The farm produces vegetables."
+    ]
+  },
+  "farmer": {
+    "definition": "n. 农民，农夫；农场主",
+    "phonetic": {
+      "uk": "/ˈfɑːmər/",
+      "us": "/ˈfɑːrmər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "local farmer",
+      "farmer's market"
+    ],
+    "examples": [
+      "The farmer wakes up early.",
+      "Farmers work hard in the fields."
+    ]
+  },
+  "farther": {
+    "definition": "ad. 更远地 a. 更远的",
+    "phonetic": {
+      "uk": "/ˈfɑːðər/",
+      "us": "/ˈfɑːrðər/"
+    },
+    "partOfSpeech": "ad./adj.",
+    "phrases": [
+      "farther away",
+      "farther south"
+    ],
+    "examples": [
+      "Let's walk a bit farther.",
+      "The farther island is small."
+    ]
+  },
+  "fashion": {
+    "definition": "n. 样子，方式；风尚",
+    "phonetic": {
+      "uk": "/ˈfæʃn/",
+      "us": "/ˈfæʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in fashion",
+      "out of fashion"
+    ],
+    "examples": [
+      "Fashion changes quickly.",
+      "She always dresses in fashion."
+    ]
+  },
+  "fashionable": {
+    "definition": "adj. 流行的，时髦的",
+    "phonetic": {
+      "uk": "/ˈfæʃnəbl/",
+      "us": "/ˈfæʃnəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fashionable clothes",
+      "fashionable restaurant"
+    ],
+    "examples": [
+      "She wears fashionable clothes.",
+      "This restaurant is very fashionable."
+    ]
+  },
+  "fast": {
+    "definition": "a. 快的；偏快的 ad. 快",
+    "phonetic": {
+      "uk": "/fɑːst/",
+      "us": "/fæst/"
+    },
+    "partOfSpeech": "adj./ad.",
+    "phrases": [
+      "fast food",
+      "run fast"
+    ],
+    "examples": [
+      "The train is very fast.",
+      "He drives too fast."
+    ]
+  },
+  "fasten": {
+    "definition": "vt. 扎牢，扣住",
+    "phonetic": {
+      "uk": "/ˈfɑːsn/",
+      "us": "/ˈfæsn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "fasten the seat belt",
+      "fasten together"
+    ],
+    "examples": [
+      "Fasten your seatbelt.",
+      "She fastened the buttons."
+    ]
+  },
+  "fatal": {
+    "definition": "adj. 致命的；命运的",
+    "phonetic": {
+      "uk": "/ˈfeɪtl/",
+      "us": "/ˈfeɪtl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fatal accident",
+      "fatal error"
+    ],
+    "examples": [
+      "The crash was fatal.",
+      "It was a fatal mistake."
+    ]
+  },
+  "fate": {
+    "definition": "n. 命运，天数",
+    "phonetic": {
+      "uk": "/feɪt/",
+      "us": "/feɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "decide one's fate",
+      "accept one's fate"
+    ],
+    "examples": [
+      "She believed fate brought them together.",
+      "Nobody can escape fate."
+    ]
+  },
+  "father": {
+    "definition": "n. 父亲；神父；创始人",
+    "phonetic": {
+      "uk": "/ˈfɑːðər/",
+      "us": "/ˈfɑːðər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "father figure",
+      "like father"
+    ],
+    "examples": [
+      "Her father is a doctor.",
+      "He is a loving father."
+    ]
+  },
+  "father-in-law": {
+    "definition": "n. 岳父；公公",
+    "phonetic": {
+      "uk": "/ˈfɑːðər ɪn lɔː/",
+      "us": "/ˈfɑːðər ɪn lɔː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "visit father-in-law",
+      "father-in-law's house"
+    ],
+    "examples": [
+      "My father-in-law visited yesterday.",
+      "She gets along with her father-in-law."
+    ]
+  },
+  "fatigue": {
+    "definition": "n. 疲劳，劳累",
+    "phonetic": {
+      "uk": "/fəˈtiːɡ/",
+      "us": "/fəˈtiːɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "suffer from fatigue",
+      "mental fatigue"
+    ],
+    "examples": [
+      "Fatigue caused the accident.",
+      "He suffers from chronic fatigue."
+    ]
+  },
+  "fault": {
+    "definition": "n. 缺点；过失；故障",
+    "phonetic": {
+      "uk": "/fɔːlt/",
+      "us": "/fɔːlt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "find fault with",
+      "technical fault"
+    ],
+    "examples": [
+      "It's not his fault.",
+      "The machine has a fault."
+    ]
+  },
+  "faulty": {
+    "definition": "adj. 有错误的，有缺点的",
+    "phonetic": {
+      "uk": "/ˈfɔːlti/",
+      "us": "/ˈfɔːlti/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "faulty product",
+      "faulty wiring"
+    ],
+    "examples": [
+      "The product is faulty.",
+      "Faulty wiring caused the fire."
+    ]
+  },
+  "favor": {
+    "definition": "n. 好感；赞同；恩惠",
+    "phonetic": {
+      "uk": "/ˈfeɪvər/",
+      "us": "/ˈfeɪvər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in favor of",
+      "do a favor"
+    ],
+    "examples": [
+      "The jury was in favor of the defendant.",
+      "Can you do me a favor?"
+    ]
+  },
+  "favourable": {
+    "definition": "adj. 有利的；赞成的",
+    "phonetic": {
+      "uk": "/ˈfeɪvərəbl/",
+      "us": "/ˈfeɪvərəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "favourable condition",
+      "favourable impression"
+    ],
+    "examples": [
+      "Conditions are favourable.",
+      "She made a favourable impression."
+    ]
+  },
+  "favourite": {
+    "definition": "adj. 特别受喜爱的",
+    "phonetic": {
+      "uk": "/ˈfeɪvərɪt/",
+      "us": "/ˈfeɪvərɪt/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "favourite food",
+      "all-time favourite"
+    ],
+    "examples": [
+      "What's your favourite color?",
+      "This is my favourite book."
+    ]
+  },
+  "fear": {
+    "definition": "n. 害怕；担心 vt. 害怕",
+    "phonetic": {
+      "uk": "/fɪər/",
+      "us": "/fɪr/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "for fear of",
+      "fear of"
+    ],
+    "examples": [
+      "She fears nothing.",
+      "The fear of failure stopped him."
+    ]
+  },
+  "fearful": {
+    "definition": "adj. 害怕的，可怕的",
+    "phonetic": {
+      "uk": "/ˈfɪəfl/",
+      "us": "/ˈfɪrfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fearful of",
+      "fearful situation"
+    ],
+    "examples": [
+      "She is fearful of heights.",
+      "The accident was fearful."
+    ]
+  },
+  "feasible": {
+    "definition": "adj. 可行的；可能的",
+    "phonetic": {
+      "uk": "/ˈfiːzəbl/",
+      "us": "/ˈfiːzəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "feasible plan",
+      "economically feasible"
+    ],
+    "examples": [
+      "The plan is feasible.",
+      "It's not feasible to complete this today."
+    ]
+  },
+  "feather": {
+    "definition": "n. 羽毛；翎毛；羽状物",
+    "phonetic": {
+      "uk": "/ˈfeðər/",
+      "us": "/ˈfeðər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bird feather",
+      "light as a feather"
+    ],
+    "examples": [
+      "The bird has beautiful feathers.",
+      "This pillow is filled with feathers."
+    ]
+  },
+  "feature": {
+    "definition": "n. 特征，特色；面貌",
+    "phonetic": {
+      "uk": "/ˈfiːtʃər/",
+      "us": "/ˈfiːtʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "main feature",
+      "special feature"
+    ],
+    "examples": [
+      "What's the best feature?",
+      "Her eyes are her best feature."
+    ]
+  },
+  "federal": {
+    "definition": "adj. 联邦的；联盟的",
+    "phonetic": {
+      "uk": "/ˈfedərəl/",
+      "us": "/ˈfedərəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "federal government",
+      "federal law"
+    ],
+    "examples": [
+      "Federal agencies investigate crimes.",
+      "The federal government implemented the policy."
+    ]
+  },
+  "fee": {
+    "definition": "n. 费，酬金；赏金",
+    "phonetic": {
+      "uk": "/fiː/",
+      "us": "/fiː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "admission fee",
+      "service fee"
+    ],
+    "examples": [
+      "There is an entrance fee.",
+      "The lawyer charged a high fee."
+    ]
+  },
+  "feeble": {
+    "definition": "adj. 虚弱的；微弱的",
+    "phonetic": {
+      "uk": "/ˈfiːbl/",
+      "us": "/ˈfiːbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "feeble attempt",
+      "feeble voice"
+    ],
+    "examples": [
+      "He made a feeble attempt to resist.",
+      "Her voice was feeble."
+    ]
+  },
+  "feed": {
+    "definition": "vt. 喂(养) vi. 吃饲料",
+    "phonetic": {
+      "uk": "/fiːd/",
+      "us": "/fiːd/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "feed on",
+      "feed the baby"
+    ],
+    "examples": [
+      "She feeds the birds every morning.",
+      "The baby needs to feed every two hours."
+    ]
+  },
+  "feedback": {
+    "definition": "n. 反馈，反应",
+    "phonetic": {
+      "uk": "/ˈfiːdbæk/",
+      "us": "/ˈfiːdbæk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "provide feedback",
+      "positive feedback"
+    ],
+    "examples": [
+      "We need feedback on the proposal.",
+      "She gave excellent feedback."
+    ]
+  },
+  "feel": {
+    "definition": "vi. 有知觉 vt. 触，摸",
+    "phonetic": {
+      "uk": "/fiːl/",
+      "us": "/fiːl/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "feel like",
+      "feel better"
+    ],
+    "examples": [
+      "I feel tired today.",
+      "How does the fabric feel?"
+    ]
+  },
+  "feeling": {
+    "definition": "n. 感情；感觉，知觉",
+    "phonetic": {
+      "uk": "/ˈfiːlɪŋ/",
+      "us": "/ˈfiːlɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hurt feelings",
+      "good feeling"
+    ],
+    "examples": [
+      "She expressed her feelings.",
+      "Don't hurt his feelings."
+    ]
+  },
+  "fellow": {
+    "definition": "n. 人，家伙；伙伴",
+    "phonetic": {
+      "uk": "/ˈfeləʊ/",
+      "us": "/ˈfeloʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young fellow",
+      "fellow student"
+    ],
+    "examples": [
+      "He's a nice fellow.",
+      "She discussed with her fellows."
+    ]
+  },
+  "female": {
+    "definition": "n. 女性；雌兽 adj. 女性的",
+    "phonetic": {
+      "uk": "/ˈfiːmeɪl/",
+      "us": "/ˈfiːmeɪl/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "female student",
+      "female doctor"
+    ],
+    "examples": [
+      "The majority of students are female.",
+      "Female birds lay eggs."
+    ]
+  },
+  "fence": {
+    "definition": "n. 栅栏",
+    "phonetic": {
+      "uk": "/fens/",
+      "us": "/fens/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "build a fence",
+      "sit on the fence"
+    ],
+    "examples": [
+      "They built a fence around the garden.",
+      "Don't sit on the fence."
+    ]
+  },
+  "fertile": {
+    "definition": "adj. 肥沃的；多产的",
+    "phonetic": {
+      "uk": "/ˈfɜːtaɪl/",
+      "us": "/ˈfɜːrtl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fertile soil",
+      "fertile land"
+    ],
+    "examples": [
+      "The valley has fertile soil.",
+      "She is a fertile writer."
+    ]
+  },
+  "fertilizer": {
+    "definition": "n. 肥料",
+    "phonetic": {
+      "uk": "/ˈfɜːtəlaɪzər/",
+      "us": "/ˈfɜːrtəlaɪzər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "chemical fertilizer",
+      "organic fertilizer"
+    ],
+    "examples": [
+      "Farmers use fertilizer to grow crops.",
+      "Fertilizer promotes plant growth."
+    ]
+  },
+  "festival": {
+    "definition": "n. 节日；音乐节",
+    "phonetic": {
+      "uk": "/ˈfestɪvl/",
+      "us": "/ˈfestɪvl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "music festival",
+      "spring festival"
+    ],
+    "examples": [
+      "They celebrate the festival every year.",
+      "The music festival attracted thousands."
+    ]
+  },
+  "fetch": {
+    "definition": "vt. 拿来；请来，接去",
+    "phonetic": {
+      "uk": "/fetʃ/",
+      "us": "/fetʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "fetch water",
+      "fetch a doctor"
+    ],
+    "examples": [
+      "Her dog loves to fetch.",
+      "Can you fetch me some water?"
+    ]
+  },
+  "fever": {
+    "definition": "n. 发热，发烧；狂热",
+    "phonetic": {
+      "uk": "/ˈfiːvər/",
+      "us": "/ˈfiːvər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have a fever",
+      "high fever"
+    ],
+    "examples": [
+      "She is running a fever.",
+      "The fever broke this morning."
+    ]
+  },
+  "fiber": {
+    "definition": "n. 纤维，纤维质",
+    "phonetic": {
+      "uk": "/ˈfaɪbər/",
+      "us": "/ˈfaɪbər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "dietary fiber",
+      "optical fiber"
+    ],
+    "examples": [
+      "Eat more fiber for digestion.",
+      "Optical fiber transmits data quickly."
+    ]
+  },
+  "fiction": {
+    "definition": "n. 小说；虚构，杜撰",
+    "phonetic": {
+      "uk": "/ˈfɪkʃn/",
+      "us": "/ˈfɪkʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "science fiction",
+      "historical fiction"
+    ],
+    "examples": [
+      "She loves science fiction.",
+      "The story is pure fiction."
+    ]
+  },
+  "field": {
+    "definition": "n. 田野；田；运动场",
+    "phonetic": {
+      "uk": "/fiːld/",
+      "us": "/fiːld/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the field",
+      "field of study"
+    ],
+    "examples": [
+      "They work in the field.",
+      "Football players take to the field."
+    ]
+  },
+  "fierce": {
+    "definition": "adj. 凶猛的，狂热的",
+    "phonetic": {
+      "uk": "/fɪəs/",
+      "us": "/fɪrs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fierce competition",
+      "fierce dog"
+    ],
+    "examples": [
+      "The competition is fierce.",
+      "The lion is a fierce animal."
+    ]
+  },
+  "fight": {
+    "definition": "vi. 打(仗)；斗争",
+    "phonetic": {
+      "uk": "/faɪt/",
+      "us": "/faɪt/"
+    },
+    "partOfSpeech": "vi./n./vt.",
+    "phrases": [
+      "fight for",
+      "fight against"
+    ],
+    "examples": [
+      "They fight for justice.",
+      "The fight lasted three rounds."
+    ]
+  },
+  "figure": {
+    "definition": "n. 数字；外形；人物",
+    "phonetic": {
+      "uk": "/ˈfɪɡər/",
+      "us": "/ˈfɪɡjər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "figure out",
+      "public figure"
+    ],
+    "examples": [
+      "Can you figure out the answer?",
+      "She is a prominent public figure."
+    ]
+  },
+  "file": {
+    "definition": "n. 档案 vt. 把…归档",
+    "phonetic": {
+      "uk": "/faɪl/",
+      "us": "/faɪl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "computer file",
+      "file away"
+    ],
+    "examples": [
+      "Save the file to the computer.",
+      "She filed the documents."
+    ]
+  },
+  "fill": {
+    "definition": "vt. 装满，盛满；占满",
+    "phonetic": {
+      "uk": "/fɪl/",
+      "us": "/fɪl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "fill in",
+      "fill up"
+    ],
+    "examples": [
+      "Fill the glass with water.",
+      "Please fill out the form."
+    ]
+  },
+  "film": {
+    "definition": "n. 影片；胶卷；薄层",
+    "phonetic": {
+      "uk": "/fɪlm/",
+      "us": "/fɪlm/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "watch a film",
+      "shoot a film"
+    ],
+    "examples": [
+      "They watched a film together.",
+      "The film was shot in California."
+    ]
+  },
+  "filter": {
+    "definition": "vt. 过滤 n. 滤纸",
+    "phonetic": {
+      "uk": "/ˈfɪltər/",
+      "us": "/ˈfɪltər/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "air filter",
+      "water filter"
+    ],
+    "examples": [
+      "The filter removes impurities.",
+      "Change the air filter regularly."
+    ]
+  },
+  "final": {
+    "definition": "adj. 最后的；决定性的",
+    "phonetic": {
+      "uk": "/ˈfaɪnl/",
+      "us": "/ˈfaɪnl/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "final exam",
+      "final decision"
+    ],
+    "examples": [
+      "This is the final version.",
+      "The final score was 3-2."
+    ]
+  },
+  "finally": {
+    "definition": "ad. 最后；不可更改的",
+    "phonetic": {
+      "uk": "/ˈfaɪnəli/",
+      "us": "/ˈfaɪnəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "finally realize",
+      "finally succeed"
+    ],
+    "examples": [
+      "Finally, we reached our destination.",
+      "She finally understood the truth."
+    ]
+  },
+  "finance": {
+    "definition": "n. 财政，金融；财源",
+    "phonetic": {
+      "uk": "/ˈfaɪnæns/",
+      "us": "/ˈfaɪnæns/",
+      "uk2": "/faɪˈnæns/",
+      "us2": "/faɪˈnæns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "personal finance",
+      "finance department"
+    ],
+    "examples": [
+      "He works in finance.",
+      "The company has good finances."
+    ]
+  },
+  "financial": {
+    "definition": "adj. 财政的，金融的",
+    "phonetic": {
+      "uk": "/faɪˈnænʃl/",
+      "us": "/faɪˈnænʃl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "financial situation",
+      "financial aid"
+    ],
+    "examples": [
+      "Financial problems worry him.",
+      "She applied for financial aid."
+    ]
+  },
+  "find": {
+    "definition": "vt. 找到；发现；发觉",
+    "phonetic": {
+      "uk": "/faɪnd/",
+      "us": "/faɪnd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "find out",
+      "hard to find"
+    ],
+    "examples": [
+      "I found my keys.",
+      "We must find a solution."
+    ]
+  },
+  "finding": {
+    "definition": "n. 发现；调查的结果",
+    "phonetic": {
+      "uk": "/ˈfaɪndɪŋ/",
+      "us": "/ˈfaɪndɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "research finding",
+      "key finding"
+    ],
+    "examples": [
+      "The findings were published.",
+      "What were your main findings?"
+    ]
+  },
+  "fine": {
+    "definition": "a. 美好的；纤细的",
+    "phonetic": {
+      "uk": "/faɪn/",
+      "us": "/faɪn/"
+    },
+    "partOfSpeech": "adj./n./vt.",
+    "phrases": [
+      "fine art",
+      "fine weather"
+    ],
+    "examples": [
+      "The weather is fine today.",
+      "That's a fine idea."
+    ]
+  },
+  "finger": {
+    "definition": "n. 手指；指状物",
+    "phonetic": {
+      "uk": "/ˈfɪŋɡər/",
+      "us": "/ˈfɪŋɡər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "point a finger",
+      "keep fingers crossed"
+    ],
+    "examples": [
+      "She pointed her finger at him.",
+      "Keep your fingers crossed!"
+    ]
+  },
+  "finish": {
+    "definition": "vt. 完成，结束 n. 结束",
+    "phonetic": {
+      "uk": "/ˈfɪnɪʃ/",
+      "us": "/ˈfɪnɪʃ/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "finish the work",
+      "finish line"
+    ],
+    "examples": [
+      "I finished my homework.",
+      "She reached the finish line first."
+    ]
+  },
+  "fire": {
+    "definition": "n. 火；火灾 vi. 开火",
+    "phonetic": {
+      "uk": "/faɪər/",
+      "us": "/faɪər/"
+    },
+    "partOfSpeech": "n./vi./vt.",
+    "phrases": [
+      "catch fire",
+      "fire alarm"
+    ],
+    "examples": [
+      "Fire! Everyone get out!",
+      "The house caught fire quickly."
+    ]
+  },
+  "fireman": {
+    "definition": "n. 消防队员；司炉工",
+    "phonetic": {
+      "uk": "/ˈfaɪəmən/",
+      "us": "/ˈfaɪərmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fireman's pole",
+      "brave fireman"
+    ],
+    "examples": [
+      "The fireman saved the cat.",
+      "Firemen work dangerous jobs."
+    ]
+  },
+  "firm": {
+    "definition": "n. 商行，商号，公司",
+    "phonetic": {
+      "uk": "/fɜːm/",
+      "us": "/fɜːrm/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "law firm",
+      "firm belief"
+    ],
+    "examples": [
+      "The firm is expanding.",
+      "She has a firm handshake."
+    ]
+  },
+  "first": {
+    "definition": "num. 第一 ad. 最初",
+    "phonetic": {
+      "uk": "/fɜːst/",
+      "us": "/fɜːrst/"
+    },
+    "partOfSpeech": "num./ad./adj.",
+    "phrases": [
+      "at first",
+      "first of all"
+    ],
+    "examples": [
+      "This is my first time here.",
+      "First, let's review the agenda."
+    ]
+  },
+  "fish": {
+    "definition": "n. 鱼，鱼肉 vi. 钓鱼",
+    "phonetic": {
+      "uk": "/fɪʃ/",
+      "us": "/fɪʃ/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "go fishing",
+      "fish and chips"
+    ],
+    "examples": [
+      "We eat fish twice a week.",
+      "They went fishing on the lake."
+    ]
+  },
+  "fisherman": {
+    "definition": "n. 渔民，渔夫，打鱼人",
+    "phonetic": {
+      "uk": "/ˈfɪʃəmən/",
+      "us": "/ˈfɪʃərmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fisherman's village",
+      "commercial fisherman"
+    ],
+    "examples": [
+      "The fisherman caught a large fish.",
+      "Fishermen wake before dawn."
+    ]
+  },
+  "fit": {
+    "definition": "vt. 适合；安装 vi. 适合",
+    "phonetic": {
+      "uk": "/fɪt/",
+      "us": "/fɪt/"
+    },
+    "partOfSpeech": "vt./vi./adj.",
+    "phrases": [
+      "fit for",
+      "keep fit"
+    ],
+    "examples": [
+      "This shirt doesn't fit me.",
+      "Exercise helps keep fit."
+    ]
+  },
+  "fix": {
+    "definition": "vt. 使固定；修理",
+    "phonetic": {
+      "uk": "/fɪks/",
+      "us": "/fɪks/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "fix the problem",
+      "fix a meeting"
+    ],
+    "examples": [
+      "Can you fix my computer?",
+      "Let's fix a date for the meeting."
+    ]
+  },
+  "flag": {
+    "definition": "n. 旗，旗帜；旗舰旗",
+    "phonetic": {
+      "uk": "/flæɡ/",
+      "us": "/flæɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "national flag",
+      "wave the flag"
+    ],
+    "examples": [
+      "The flag flies high.",
+      "They raised the flag at dawn."
+    ]
+  },
+  "flame": {
+    "definition": "n. 火焰；光辉；热情",
+    "phonetic": {
+      "uk": "/fleɪm/",
+      "us": "/fleɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in flames",
+      "burst into flames"
+    ],
+    "examples": [
+      "The fire's flames spread quickly.",
+      "Passion like a burning flame."
+    ]
+  },
+  "flash": {
+    "definition": "n. 闪光 vi. 闪，闪烁",
+    "phonetic": {
+      "uk": "/flæʃ/",
+      "us": "/flæʃ/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "flash of light",
+      "in a flash"
+    ],
+    "examples": [
+      "Did you see the lightning flash?",
+      "The camera flash is too bright."
+    ]
+  },
+  "flat": {
+    "definition": "adj. 平的，扁平的",
+    "phonetic": {
+      "uk": "/flæt/",
+      "us": "/flæt/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "flat tire",
+      "apartment flat"
+    ],
+    "examples": [
+      "The tire is flat.",
+      "She lives in a flat."
+    ]
+  },
+  "flavor": {
+    "definition": "n. 味，味道；风味",
+    "phonetic": {
+      "uk": "/ˈfleɪvər/",
+      "us": "/ˈfleɪvər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "natural flavor",
+      "favorite flavor"
+    ],
+    "examples": [
+      "The ice cream has a chocolate flavor.",
+      "What's your favorite flavor?"
+    ]
+  },
+  "flee": {
+    "definition": "vi. 逃走 vt. 逃避",
+    "phonetic": {
+      "uk": "/fliː/",
+      "us": "/fliː/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "flee the country",
+      "flee from danger"
+    ],
+    "examples": [
+      "The criminals fled the scene.",
+      "Citizens fled the battlefield."
+    ]
+  },
+  "fleet": {
+    "definition": "n. 舰队；船队，机群",
+    "phonetic": {
+      "uk": "/fliːt/",
+      "us": "/fliːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "naval fleet",
+      "fleet of cars"
+    ],
+    "examples": [
+      "The fleet sailed at dawn.",
+      "The company has a large vehicle fleet."
+    ]
+  },
+  "flesh": {
+    "definition": "n. 肉，肌肉；肉体",
+    "phonetic": {
+      "uk": "/fleʃ/",
+      "us": "/fleʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "flesh and blood",
+      "lose flesh"
+    ],
+    "examples": [
+      "The cat tore the flesh.",
+      "She is losing flesh rapidly."
+    ]
+  },
+  "flexible": {
+    "definition": "adj. 易弯曲的；灵活的",
+    "phonetic": {
+      "uk": "/ˈfleksəbl/",
+      "us": "/ˈfleksəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "flexible schedule",
+      "flexible approach"
+    ],
+    "examples": [
+      "She has a flexible work schedule.",
+      "We need a flexible solution."
+    ]
+  },
+  "flight": {
+    "definition": "n. 航班；飞行；逃跑",
+    "phonetic": {
+      "uk": "/flaɪt/",
+      "us": "/flaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "flight attendant",
+      "take a flight"
+    ],
+    "examples": [
+      "My flight is at 8 AM.",
+      "The bird made a short flight."
+    ]
+  },
+  "float": {
+    "definition": "vi. 漂浮 vt. 使漂浮",
+    "phonetic": {
+      "uk": "/fləʊt/",
+      "us": "/floʊt/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "float on water",
+      "float idea"
+    ],
+    "examples": [
+      "The boat floats on the water.",
+      "Clouds float in the sky."
+    ]
+  },
+  "flock": {
+    "definition": "n. 羊群，群；大量",
+    "phonetic": {
+      "uk": "/flɒk/",
+      "us": "/flɑːk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "flock of birds",
+      "flock together"
+    ],
+    "examples": [
+      "A flock of birds flew overhead.",
+      "Sheep stay in a flock."
+    ]
+  },
+  "flood": {
+    "definition": "n. 洪水 vt. 淹没",
+    "phonetic": {
+      "uk": "/flʌd/",
+      "us": "/flʌd/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "flood the market",
+      "flash flood"
+    ],
+    "examples": [
+      "The heavy rain caused a flood.",
+      "Rivers flooded nearby towns."
+    ]
+  },
+  "floor": {
+    "definition": "n. 地板；楼层；会场",
+    "phonetic": {
+      "uk": "/flɔːr/",
+      "us": "/flɔːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "first floor",
+      "mop the floor"
+    ],
+    "examples": [
+      "My office is on the third floor.",
+      "Clean the floor before leaving."
+    ]
+  },
+  "flour": {
+    "definition": "n. 面粉，粉；粉状物质",
+    "phonetic": {
+      "uk": "/ˈflaʊər/",
+      "us": "/ˈflaʊər/",
+      "uk2": "/ˈflʌər/",
+      "us2": "/ˈflɜːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wheat flour",
+      "bread flour"
+    ],
+    "examples": [
+      "We need flour for baking.",
+      "The recipe calls for two cups of flour."
+    ]
+  },
+  "flourish": {
+    "definition": "vi. 繁荣，茂盛，兴旺",
+    "phonetic": {
+      "uk": "/ˈflʌrɪʃ/",
+      "us": "/ˈflɜːrɪʃ/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "flourish in",
+      "continue to flourish"
+    ],
+    "examples": [
+      "His business flourished during the boom.",
+      "Flowers flourish in spring."
+    ]
+  },
+  "flow": {
+    "definition": "vi. 流动；飘垂；涨潮",
+    "phonetic": {
+      "uk": "/fləʊ/",
+      "us": "/floʊ/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "flow into",
+      "cash flow"
+    ],
+    "examples": [
+      "The river flows toward the sea.",
+      "Traffic flows smoothly here."
+    ]
+  },
+  "flower": {
+    "definition": "n. 花，花卉；开花",
+    "phonetic": {
+      "uk": "/ˈflaʊər/",
+      "us": "/ˈflaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pick flowers",
+      "in flower"
+    ],
+    "examples": [
+      "The garden has many flowers.",
+      "She received a bouquet of flowers."
+    ]
+  },
+  "flu": {
+    "definition": "n. 流行性感冒",
+    "phonetic": {
+      "uk": "/fluː/",
+      "us": "/fluː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "catch the flu",
+      "flu season"
+    ],
+    "examples": [
+      "She caught the flu last week.",
+      "Get a flu shot every winter."
+    ]
+  },
+  "fluid": {
+    "definition": "n. 流体，液体",
+    "phonetic": {
+      "uk": "/ˈfluːɪd/",
+      "us": "/ˈfluːɪd/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "fluid substance",
+      "body fluid"
+    ],
+    "examples": [
+      "Water is a fluid.",
+      "The situation is fluid."
+    ]
+  },
+  "flush": {
+    "definition": "vi. (脸)发红 vt. 冲洗",
+    "phonetic": {
+      "uk": "/flʌʃ/",
+      "us": "/flʌʃ/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "flush the toilet",
+      "flush with victory"
+    ],
+    "examples": [
+      "Her face flushed red.",
+      "Flush the toilet after use."
+    ]
+  },
+  "fly": {
+    "definition": "n. 苍蝇 vi. 飞行",
+    "phonetic": {
+      "uk": "/flaɪ/",
+      "us": "/flaɪ/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "fly in the sky",
+      "time flies"
+    ],
+    "examples": [
+      "Birds fly south in winter.",
+      "Not even a fly entered the room."
+    ]
+  },
+  "focus": {
+    "definition": "vi. 聚焦，注视 n. 焦点",
+    "phonetic": {
+      "uk": "/ˈfəʊkəs/",
+      "us": "/ˈfoʊkəs/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "focus on",
+      "main focus"
+    ],
+    "examples": [
+      "The camera focuses automatically.",
+      "She focuses on her studies."
+    ]
+  },
+  "fog": {
+    "definition": "n. 雾；烟雾，尘雾",
+    "phonetic": {
+      "uk": "/fɒɡ/",
+      "us": "/fɑːɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "thick fog",
+      "disappear in the fog"
+    ],
+    "examples": [
+      "Driving in fog is dangerous.",
+      "The fog lifted by noon."
+    ]
+  },
+  "fold": {
+    "definition": "vt. 折叠；合拢 n. 褶",
+    "phonetic": {
+      "uk": "/fəʊld/",
+      "us": "/foʊld/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "fold the clothes",
+      "fold up"
+    ],
+    "examples": [
+      "Fold the paper in half.",
+      "She folded the laundry."
+    ]
+  },
+  "folk": {
+    "definition": "n. 人们，家属，亲属",
+    "phonetic": {
+      "uk": "/fəʊk/",
+      "us": "/foʊk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "folk music",
+      "country folk"
+    ],
+    "examples": [
+      "Folk music tells stories of people.",
+      "Some folk never learn."
+    ]
+  },
+  "follow": {
+    "definition": "vt. 跟随；结果是",
+    "phonetic": {
+      "uk": "/ˈfɒləʊ/",
+      "us": "/ˈfɑːloʊ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "follow the rules",
+      "follow instructions"
+    ],
+    "examples": [
+      "Follow the signs to the exit.",
+      "She followed her father's profession."
+    ]
+  },
+  "following": {
+    "definition": "adj. 接着的；下列的",
+    "phonetic": {
+      "uk": "/ˈfɒləʊɪŋ/",
+      "us": "/ˈfɑːloʊɪŋ/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "the following day",
+      "following the lecture"
+    ],
+    "examples": [
+      "The following points are important.",
+      "Sales increased the following year."
+    ]
+  },
+  "fond": {
+    "definition": "adj. 喜爱的；溺爱的",
+    "phonetic": {
+      "uk": "/fɒnd/",
+      "us": "/fɑːnd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fond of",
+      "fond memory"
+    ],
+    "examples": [
+      "She is fond of chocolate.",
+      "I have fond memories of childhood."
+    ]
+  },
+  "food": {
+    "definition": "n. 食物，食品，养料",
+    "phonetic": {
+      "uk": "/fuːd/",
+      "us": "/fuːd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fast food",
+      "food supply"
+    ],
+    "examples": [
+      "The food was delicious.",
+      "She bought groceries for the week."
+    ]
+  },
+  "fool": {
+    "definition": "n. 蠢人，笨蛋 vt. 欺骗",
+    "phonetic": {
+      "uk": "/fuːl/",
+      "us": "/fuːl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "make a fool of",
+      "fool around"
+    ],
+    "examples": [
+      "Don't act like a fool.",
+      "He tried to fool everyone."
+    ]
+  },
+  "foolish": {
+    "definition": "adj. 愚蠢的；鲁莽的",
+    "phonetic": {
+      "uk": "/ˈfuːlɪʃ/",
+      "us": "/ˈfuːlɪʃ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "foolish decision",
+      "act foolishly"
+    ],
+    "examples": [
+      "It was a foolish mistake.",
+      "Don't be foolish with your money."
+    ]
+  },
+  "foot": {
+    "definition": "n. 足，脚；英尺",
+    "phonetic": {
+      "uk": "/fʊt/",
+      "us": "/fʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on foot",
+      "foot of the mountain"
+    ],
+    "examples": [
+      "She walked to work on foot.",
+      "The mountain is 5,000 feet high."
+    ]
+  },
+  "football": {
+    "definition": "n. 足球比赛；足球",
+    "phonetic": {
+      "uk": "/ˈfʊtbɔːl/",
+      "us": "/ˈfʊtbɔːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "play football",
+      "football field"
+    ],
+    "examples": [
+      "They play football every weekend.",
+      "The football match was exciting."
+    ]
+  },
+  "footstep": {
+    "definition": "n. 脚步；脚步声；足迹",
+    "phonetic": {
+      "uk": "/ˈfʊtstep/",
+      "us": "/ˈfʊtstep/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "follow in footsteps",
+      "heavy footsteps"
+    ],
+    "examples": [
+      "I heard footsteps approaching.",
+      "He followed in his father's footsteps."
+    ]
+  },
+  "for": {
+    "definition": "prep. 为；给；因为",
+    "phonetic": {
+      "uk": "/fɔːr/",
+      "us": "/fɔːr/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "wait for",
+      "ask for"
+    ],
+    "examples": [
+      "This gift is for you.",
+      "She works for a charity."
+    ]
+  },
+  "forbid": {
+    "definition": "vt. 禁止，不许；阻止",
+    "phonetic": {
+      "uk": "/fəˈbɪd/",
+      "us": "/fərˈbɪd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "forbid smoking",
+      "God forbid"
+    ],
+    "examples": [
+      "Smoking is forbidden here.",
+      "Parents forbid her from going alone."
+    ]
+  },
+  "force": {
+    "definition": "vt. 强迫 n. 力，力量",
+    "phonetic": {
+      "uk": "/fɔːs/",
+      "us": "/fɔːrs/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "by force",
+      "force someone to"
+    ],
+    "examples": [
+      "Don't force me to do this.",
+      "The police used force."
+    ]
+  },
+  "forecast": {
+    "definition": "n. 预测，预报 vt. 预示",
+    "phonetic": {
+      "uk": "/ˈfɔːkɑːst/",
+      "us": "/ˈfɔːrkæst/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "weather forecast",
+      "economic forecast"
+    ],
+    "examples": [
+      "The forecast calls for rain.",
+      "Experts forecast a recession."
+    ]
+  },
+  "forehead": {
+    "definition": "n. 额头，前部",
+    "phonetic": {
+      "uk": "/ˈfɔːrɪd/",
+      "us": "/ˈfɔːrhed/",
+      "uk2": "/ˈfɒrɪd/",
+      "us2": "/ˈfɑːrhed/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wrinkle forehead",
+      "touch forehead"
+    ],
+    "examples": [
+      "She wiped sweat from her forehead.",
+      "His forehead was wrinkled with worry."
+    ]
+  },
+  "foreign": {
+    "definition": "adj. 外国的；外来的",
+    "phonetic": {
+      "uk": "/ˈfɒrən/",
+      "us": "/ˈfɔːrən/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "foreign language",
+      "foreign policy"
+    ],
+    "examples": [
+      "She speaks several foreign languages.",
+      "Foreign trade is important."
+    ]
+  },
+  "foreigner": {
+    "definition": "n. 外国人",
+    "phonetic": {
+      "uk": "/ˈfɒrənər/",
+      "us": "/ˈfɔːrənər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreigner in",
+      "welcome foreigners"
+    ],
+    "examples": [
+      "Foreigners are welcome here.",
+      "She lived as a foreigner in Japan."
+    ]
+  },
+  "forest": {
+    "definition": "n. 森林；森林地带",
+    "phonetic": {
+      "uk": "/ˈfɒrɪst/",
+      "us": "/ˈfɔːrɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "rainforest",
+      "forest fire"
+    ],
+    "examples": [
+      "They hiked through the forest.",
+      "Forests provide oxygen."
+    ]
+  },
+  "forever": {
+    "definition": "ad. 永远，总是，老是",
+    "phonetic": {
+      "uk": "/fərˈevər/",
+      "us": "/fərˈevər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "love forever",
+      "wait forever"
+    ],
+    "examples": [
+      "I will love you forever.",
+      "This memory lasts forever."
+    ]
+  },
+  "forge": {
+    "definition": "vt. 打(铁等)，锻造",
+    "phonetic": {
+      "uk": "/fɔːdʒ/",
+      "us": "/fɔːrdʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "forge a relationship",
+      "forge ahead"
+    ],
+    "examples": [
+      "Blacksmiths forge iron into tools.",
+      "They forged a strong partnership."
+    ]
+  },
+  "forget": {
+    "definition": "vt. 忘记，遗忘",
+    "phonetic": {
+      "uk": "/fəˈɡet/",
+      "us": "/fərˈɡet/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "forget to do",
+      "forget about"
+    ],
+    "examples": [
+      "I forgot to bring the keys.",
+      "Don't forget about our meeting."
+    ]
+  },
+  "forgive": {
+    "definition": "vt. 原谅，饶恕，宽恕",
+    "phonetic": {
+      "uk": "/fəˈɡɪv/",
+      "us": "/fərˈɡɪv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "forgive someone",
+      "ask for forgiveness"
+    ],
+    "examples": [
+      "Forgive me for being late.",
+      "She forgave him for his mistake."
+    ]
+  },
+  "fork": {
+    "definition": "n. 餐叉；叉；分叉",
+    "phonetic": {
+      "uk": "/fɔːk/",
+      "us": "/fɔːrk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "knife and fork",
+      "fork in the road"
+    ],
+    "examples": [
+      "Use your fork to eat salad.",
+      "The road forks here."
+    ]
+  },
+  "form": {
+    "definition": "n. 形式；形状 vt. 形成",
+    "phonetic": {
+      "uk": "/fɔːm/",
+      "us": "/fɔːrm/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "fill out a form",
+      "take form"
+    ],
+    "examples": [
+      "Please complete this form.",
+      "Water forms ice when frozen."
+    ]
+  },
+  "formal": {
+    "definition": "adj. 正式的；礼仪上的",
+    "phonetic": {
+      "uk": "/ˈfɔːml/",
+      "us": "/ˈfɔːrml/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "formal occasion",
+      "be formal with"
+    ],
+    "examples": [
+      "The wedding was formal.",
+      "He speaks in a formal tone."
+    ]
+  },
+  "format": {
+    "definition": "n. 格式 vt. 格式化",
+    "phonetic": {
+      "uk": "/ˈfɔːmæt/",
+      "us": "/ˈfɔːrmæt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "file format",
+      "format the disk"
+    ],
+    "examples": [
+      "What format does it support?",
+      "Format the USB drive."
+    ]
+  },
+  "formation": {
+    "definition": "n. 形成；构成；形成物",
+    "phonetic": {
+      "uk": "/fɔːˈmeɪʃn/",
+      "us": "/fɔːrˈmeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "star formation",
+      "rock formation"
+    ],
+    "examples": [
+      "The formation of stars takes time.",
+      "They marched in formation."
+    ]
+  },
+  "former": {
+    "definition": "adj. 在前的 n. 前者",
+    "phonetic": {
+      "uk": "/ˈfɔːmər/",
+      "us": "/ˈfɔːrmər/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "former president",
+      "the former"
+    ],
+    "examples": [
+      "She met her former classmate.",
+      "Of the two, the former is better."
+    ]
+  },
+  "formula": {
+    "definition": "n. 公式，式",
+    "phonetic": {
+      "uk": "/ˈfɔːmjələ/",
+      "us": "/ˈfɔːrmjələ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mathematical formula",
+      "winning formula"
+    ],
+    "examples": [
+      "The formula for area is known.",
+      "Success requires a specific formula."
+    ]
+  },
+  "forth": {
+    "definition": "ad. 向前；向外，往外",
+    "phonetic": {
+      "uk": "/fɔːθ/",
+      "us": "/fɔːrθ/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "back and forth",
+      "so forth"
+    ],
+    "examples": [
+      "He paced back and forth.",
+      "This, that, and so forth."
+    ]
+  },
+  "fortnight": {
+    "definition": "n. 两星期，十四天",
+    "phonetic": {
+      "uk": "/ˈfɔːtnaɪt/",
+      "us": "/ˈfɔːrtnaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in a fortnight",
+      "fortnight ago"
+    ],
+    "examples": [
+      "I'll return in a fortnight.",
+      "The meeting is a fortnight away."
+    ]
+  },
+  "fortunate": {
+    "definition": "adj. 幸运的，侥幸的",
+    "phonetic": {
+      "uk": "/ˈfɔːtʃənət/",
+      "us": "/ˈfɔːrtʃənət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "fortunate to",
+      "very fortunate"
+    ],
+    "examples": [
+      "She is fortunate to have good health.",
+      "We were fortunate with the weather."
+    ]
+  },
+  "fortune": {
+    "definition": "n. 命运，运气；财产",
+    "phonetic": {
+      "uk": "/ˈfɔːtʃuːn/",
+      "us": "/ˈfɔːrtʃuːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a fortune",
+      "tell fortunes"
+    ],
+    "examples": [
+      "He made a fortune in real estate.",
+      "She has good fortune."
+    ]
+  },
+  "forty": {
+    "definition": "num. 四十，第四十",
+    "phonetic": {
+      "uk": "/ˈfɔːti/",
+      "us": "/ˈfɔːrti/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "forty percent",
+      "in the forties"
+    ],
+    "examples": [
+      "She is forty years old.",
+      "The temperature will reach forty degrees."
+    ]
+  },
+  "forward": {
+    "definition": "ad. 向前；今后 a. 前面的",
+    "phonetic": {
+      "uk": "/ˈfɔːwəd/",
+      "us": "/ˈfɔːrwərd/"
+    },
+    "partOfSpeech": "ad./adj.",
+    "phrases": [
+      "step forward",
+      "look forward to"
+    ],
+    "examples": [
+      "Please move forward.",
+      "I look forward to hearing from you."
+    ]
+  },
+  "found": {
+    "definition": "vt. 创立，创办；建立",
+    "phonetic": {
+      "uk": "/faʊnd/",
+      "us": "/faʊnd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "found a company",
+      "well founded"
+    ],
+    "examples": [
+      "He founded the organization in 1990.",
+      "The university was founded 100 years ago."
+    ]
+  },
+  "foundation": {
+    "definition": "n. 基础；地基；基金",
+    "phonetic": {
+      "uk": "/faʊnˈdeɪʃn/",
+      "us": "/faʊnˈdeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foundation stone",
+      "lay foundation"
+    ],
+    "examples": [
+      "The building has a solid foundation.",
+      "These are the foundations of democracy."
+    ]
+  },
+  "fountain": {
+    "definition": "n. 泉水，喷泉；源泉",
+    "phonetic": {
+      "uk": "/ˈfaʊntən/",
+      "us": "/ˈfaʊntən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "drinking fountain",
+      "fountain pen"
+    ],
+    "examples": [
+      "Children play in the fountain.",
+      "The garden has a beautiful fountain."
+    ]
+  },
+  "four": {
+    "definition": "num. 四，第四",
+    "phonetic": {
+      "uk": "/fɔːr/",
+      "us": "/fɔːr/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "four seasons",
+      "four corners"
+    ],
+    "examples": [
+      "She has four cats.",
+      "They explored the four corners of the earth."
+    ]
+  },
+  "fourteen": {
+    "definition": "num. 十四，第十四",
+    "phonetic": {
+      "uk": "/ˌfɔːˈtiːn/",
+      "us": "/ˌfɔːrˈtiːn/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "fourteen years old",
+      "Chapter Fourteen"
+    ],
+    "examples": [
+      "The baby is fourteen months old.",
+      "Fourteen people attended the meeting."
+    ]
+  }
+}

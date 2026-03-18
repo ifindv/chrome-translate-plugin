@@ -1,0 +1,2448 @@
+{
+  "elect": {
+    "definition": "vt. 选举，推选；选择",
+    "phonetic": {
+      "uk": "/ɪˈlekt/",
+      "us": "/ɪˈlekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "elect as president",
+      "elect to"
+    ],
+    "examples": [
+      "They elected a new chairman.",
+      "She decided not to elect such a risk."
+    ]
+  },
+  "election": {
+    "definition": "n. 选举，选择权；当选",
+    "phonetic": {
+      "uk": "/ɪˈlekʃn/",
+      "us": "/ɪˈlekʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "presidential election",
+      "general election"
+    ],
+    "examples": [
+      "The election will be held in November.",
+      "She won the election by a large margin."
+    ]
+  },
+  "electric": {
+    "definition": "adj. 电的，电动的",
+    "phonetic": {
+      "uk": "/ɪˈlektrɪk/",
+      "us": "/ɪˈlektrɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "electric light",
+      "electric shock"
+    ],
+    "examples": [
+      "The car is electric.",
+      "Be careful with electric appliances."
+    ]
+  },
+  "electrical": {
+    "definition": "adj. 电的，电气科学的",
+    "phonetic": {
+      "uk": "/ɪˈlektrɪkl/",
+      "us": "/ɪˈlektrɪkl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "electrical engineer",
+      "electrical equipment"
+    ],
+    "examples": [
+      "He is an electrical engineer.",
+      "The fire was caused by an electrical fault."
+    ]
+  },
+  "electricity": {
+    "definition": "n. 电，电学；电流",
+    "phonetic": {
+      "uk": "/ɪˌlekˈtrɪsəti/",
+      "us": "/ɪˌlekˈtrɪsəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "generate electricity",
+      "electricity bill"
+    ],
+    "examples": [
+      "The storm knocked out electricity.",
+      "Solar panels generate electricity."
+    ]
+  },
+  "electron": {
+    "definition": "n. 电子",
+    "phonetic": {
+      "uk": "/ɪˈlektrɒn/",
+      "us": "/ɪˈlektrɑːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "free electron",
+      "electron microscope"
+    ],
+    "examples": [
+      "Electrons orbit the nucleus.",
+      "The electron flow creates current."
+    ]
+  },
+  "electronic": {
+    "definition": "adj. 电子的",
+    "phonetic": {
+      "uk": "/ɪˌlekˈtrɒnɪk/",
+      "us": "/ɪˌlekˈtrɑːnɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "electronic device",
+      "electronic mail"
+    ],
+    "examples": [
+      "She bought an electronic dictionary.",
+      "Electronic communication is fast."
+    ]
+  },
+  "element": {
+    "definition": "n. 成分；要素；元素",
+    "phonetic": {
+      "uk": "/ˈelɪmənt/",
+      "us": "/ˈelɪmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "chemical element",
+      "essential element"
+    ],
+    "examples": [
+      "Oxygen is an essential element for life.",
+      "Trust is a key element in relationships."
+    ]
+  },
+  "elementary": {
+    "definition": "adj. 基本的；初级的",
+    "phonetic": {
+      "uk": "/ˌelɪˈmentri/",
+      "us": "/ˌelɪˈmentri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "elementary school",
+      "elementary particle"
+    ],
+    "examples": [
+      "She teaches elementary school.",
+      "These are elementary questions."
+    ]
+  },
+  "elephant": {
+    "definition": "n. 象",
+    "phonetic": {
+      "uk": "/ˈelɪfənt/",
+      "us": "/ˈelɪfənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "African elephant",
+      "white elephant"
+    ],
+    "examples": [
+      "The elephant is huge.",
+      "Elephants never forget."
+    ]
+  },
+  "elevator": {
+    "definition": "n. 电梯；升降机",
+    "phonetic": {
+      "uk": "/ˈelɪveɪtər/",
+      "us": "/ˈelɪveɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take the elevator",
+      "elevator operator"
+    ],
+    "examples": [
+      "Take the elevator to the 10th floor.",
+      "The elevator is out of order."
+    ]
+  },
+  "eleven": {
+    "definition": "num. 十一，十一个",
+    "phonetic": {
+      "uk": "/ɪˈlevn/",
+      "us": "/ɪˈlevn/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "eleven o'clock",
+      "Chapter Eleven"
+    ],
+    "examples": [
+      "She is eleven years old.",
+      "There are eleven players on a team."
+    ]
+  },
+  "eliminate": {
+    "definition": "vt. 消灭，消除，排除",
+    "phonetic": {
+      "uk": "/ɪˈlɪmɪneɪt/",
+      "us": "/ɪˈlɪmɪneɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "eliminate poverty",
+      "eliminate waste"
+    ],
+    "examples": [
+      "We must eliminate this problem.",
+      "The team was eliminated from the competition."
+    ]
+  },
+  "else": {
+    "definition": "ad. 其它，另外 a. 别的",
+    "phonetic": {
+      "uk": "/els/",
+      "us": "/els/"
+    },
+    "partOfSpeech": "ad./adj.",
+    "phrases": [
+      "or else",
+      "someone else"
+    ],
+    "examples": [
+      "Is there anything else you need?",
+      "Ask someone else for help."
+    ]
+  },
+  "elsewhere": {
+    "definition": "ad. 在别处，向别处",
+    "phonetic": {
+      "uk": "/ˌelsˈweər/",
+      "us": "/ˌelsˈwer/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "go elsewhere",
+      "elsewhere in"
+    ],
+    "examples": [
+      "We can find this cheaper elsewhere.",
+      "Elsewhere, the weather was better."
+    ]
+  },
+  "email": {
+    "definition": "n. 电子邮件 vt. 发电子邮件",
+    "phonetic": {
+      "uk": "/ˈiːmeɪl/",
+      "us": "/ˈiːmeɪl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "send an email",
+      "email address"
+    ],
+    "examples": [
+      "Check your email regularly.",
+      "I'll email you the details."
+    ]
+  },
+  "embarrass": {
+    "definition": "vt. 使窘迫，使为难",
+    "phonetic": {
+      "uk": "/ɪmˈbærəs/",
+      "us": "/ɪmˈbærəs/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "embarrass easily",
+      "financially embarrass"
+    ],
+    "examples": [
+      "The question embarrassed him.",
+      "Don't embarrass yourself in public."
+    ]
+  },
+  "embrace": {
+    "definition": "vt. 拥抱；包括；包围",
+    "phonetic": {
+      "uk": "/ɪmˈbreɪs/",
+      "us": "/ɪmˈbreɪs/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "embrace change",
+      "warm embrace"
+    ],
+    "examples": [
+      "She embraced her daughter warmly.",
+      "We should embrace new technology."
+    ]
+  },
+  "emerge": {
+    "definition": "vi. 出现，涌现；冒出",
+    "phonetic": {
+      "uk": "/ɪˈmɜːdʒ/",
+      "us": "/ɪˈmɜːrdʒ/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "emerge from",
+      "emerge as"
+    ],
+    "examples": [
+      "The moon emerged from behind clouds.",
+      "He emerged as a leader."
+    ]
+  },
+  "emergency": {
+    "definition": "n. 紧急情况，突然事件",
+    "phonetic": {
+      "uk": "/ɪˈmɜːdʒənsi/",
+      "us": "/ɪˈmɜːrdʒənsi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "emergency room",
+      "in emergency"
+    ],
+    "examples": [
+      "This is an emergency!",
+      "She needs immediate medical emergency help."
+    ]
+  },
+  "emit": {
+    "definition": "vt. 散发；发射；发表",
+    "phonetic": {
+      "uk": "/iˈmɪt/",
+      "us": "/iˈmɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "emit light",
+      "emit sound"
+    ],
+    "examples": [
+      "The lamp emits light.",
+      "The factory emits harmful gases."
+    ]
+  },
+  "emotion": {
+    "definition": "n. 情感，感情；激动",
+    "phonetic": {
+      "uk": "/ɪˈməʊʃn/",
+      "us": "/ɪˈmoʊʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "deep emotion",
+      "show emotion"
+    ],
+    "examples": [
+      "She spoke with great emotion.",
+      "Music can evoke strong emotions."
+    ]
+  },
+  "emotional": {
+    "definition": "adj. 感情的，情绪的",
+    "phonetic": {
+      "uk": "/ɪˈməʊʃənl/",
+      "us": "/ɪˈmoʊʃənl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "emotional support",
+      "emotional intelligence"
+    ],
+    "examples": [
+      "She needs emotional support.",
+      "He is very emotional about this topic."
+    ]
+  },
+  "emperor": {
+    "definition": "n. 皇帝",
+    "phonetic": {
+      "uk": "/ˈempərər/",
+      "us": "/ˈempərər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Roman emperor",
+      "emperor penguin"
+    ],
+    "examples": [
+      "The emperor ruled the vast empire.",
+      "The emperor's decree was final."
+    ]
+  },
+  "emphasis": {
+    "definition": "n. 强调，重点，重要性",
+    "phonetic": {
+      "uk": "/ˈemfəsɪs/",
+      "us": "/ˈemfəsɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "place emphasis on",
+      "special emphasis"
+    ],
+    "examples": [
+      "The teacher placed emphasis on grammar.",
+      "We should give special emphasis to safety."
+    ]
+  },
+  "emphasize": {
+    "definition": "vt. 强调，着重",
+    "phonetic": {
+      "uk": "/ˈemfəsaɪz/",
+      "us": "/ˈemfəsaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "emphasize the importance",
+      "strongly emphasize"
+    ],
+    "examples": [
+      "She emphasized the need for caution.",
+      "I want to emphasize this point."
+    ]
+  },
+  "empire": {
+    "definition": "n. 帝国",
+    "phonetic": {
+      "uk": "/ˈempaɪər/",
+      "us": "/ˈempaɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Roman Empire",
+      "build an empire"
+    ],
+    "examples": [
+      "The empire spanned three continents.",
+      "He build a business empire."
+    ]
+  },
+  "employ": {
+    "definition": "vi. 雇用；用；使忙于",
+    "phonetic": {
+      "uk": "/ɪmˈplɔɪ/",
+      "us": "/ɪmˈplɔɪ/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "employ someone",
+      "employ method"
+    ],
+    "examples": [
+      "The factory employs 500 workers.",
+      "She employed various techniques."
+    ]
+  },
+  "employee": {
+    "definition": "n. 受雇者，雇员，雇工",
+    "phonetic": {
+      "uk": "/ɪmˈplɔɪiː/",
+      "us": "/ɪmˈplɔɪiː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "new employee",
+      "employee benefits"
+    ],
+    "examples": [
+      "Every employee received a bonus.",
+      "She is a loyal employee."
+    ]
+  },
+  "employer": {
+    "definition": "n. 雇主，老板",
+    "phonetic": {
+      "uk": "/ɪmˈplɔɪər/",
+      "us": "/ɪmˈplɔɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "current employer",
+      "large employer"
+    ],
+    "examples": [
+      "Her employer is very supportive.",
+      "He is seeking a new employer."
+    ]
+  },
+  "employment": {
+    "definition": "n. 工业；雇用；使用",
+    "phonetic": {
+      "uk": "/ɪmˈplɔɪmənt/",
+      "us": "/ɪmˈplɔɪmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "find employment",
+      "full-time employment"
+    ],
+    "examples": [
+      "Employment opportunities are increasing.",
+      "He lost his employment last month."
+    ]
+  },
+  "empty": {
+    "definition": "adj. 空的；空洞的",
+    "phonetic": {
+      "uk": "/ˈempti/",
+      "us": "/ˈempti/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "empty room",
+      "empty promise"
+    ],
+    "examples": [
+      "The glass is empty.",
+      "Don't make empty promises."
+    ]
+  },
+  "enable": {
+    "definition": "vt. 使能够，使可能",
+    "phonetic": {
+      "uk": "/ɪˈneɪbl/",
+      "us": "/ɪˈneɪbl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enable to",
+      "enable feature"
+    ],
+    "examples": [
+      "The scholarship enabled him to study.",
+      "This device enables wireless connection."
+    ]
+  },
+  "encounter": {
+    "definition": "vt. 遭遇，遇到 n. 遭遇",
+    "phonetic": {
+      "uk": "/ɪnˈkaʊntər/",
+      "us": "/ɪnˈkaʊntər/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "encounter difficulties",
+      "chance encounter"
+    ],
+    "examples": [
+      "We encountered some problems.",
+      "Their first encounter was memorable."
+    ]
+  },
+  "encourage": {
+    "definition": "vt. 鼓励，支持，助长",
+    "phonetic": {
+      "uk": "/ɪnˈkʌrɪdʒ/",
+      "us": "/ɪnˈkɜːrɪdʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "encourage someone",
+      "encourage development"
+    ],
+    "examples": [
+      "Teachers should encourage students.",
+      "The policy encourages innovation."
+    ]
+  },
+  "end": {
+    "definition": "n. 末端；目标 vt. 结束",
+    "phonetic": {
+      "uk": "/end/",
+      "us": "/end/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "in the end",
+      "come to an end"
+    ],
+    "examples": [
+      "The movie has a happy end.",
+      "They ended their relationship."
+    ]
+  },
+  "ending": {
+    "definition": "n. 结尾，结局；死亡",
+    "phonetic": {
+      "uk": "/ˈendɪŋ/",
+      "us": "/ˈendɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "happy ending",
+      "surprise ending"
+    ],
+    "examples": [
+      "The book has a sad ending.",
+      "The ending of the movie was unexpected."
+    ]
+  },
+  "endless": {
+    "definition": "adj. 无止境的",
+    "phonetic": {
+      "uk": "/ˈendləs/",
+      "us": "/ˈendləs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "endless journey",
+      "endless possibilities"
+    ],
+    "examples": [
+      "The journey seemed endless.",
+      "Life offers endless possibilities."
+    ]
+  },
+  "endure": {
+    "definition": "vt. 忍受；容忍",
+    "phonetic": {
+      "uk": "/ɪnˈdjʊər/",
+      "us": "/ɪnˈdʊr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "endure pain",
+      "endure hardship"
+    ],
+    "examples": [
+      "She endured the pain bravely.",
+      "He cannot endure this treatment."
+    ]
+  },
+  "enemy": {
+    "definition": "n. 敌人；仇敌；敌兵",
+    "phonetic": {
+      "uk": "/ˈenəmi/",
+      "us": "/ˈenəmi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public enemy",
+      "declare enemy"
+    ],
+    "examples": [
+      "He betrayed his country to the enemy.",
+      "They defeated their enemy."
+    ]
+  },
+  "energy": {
+    "definition": "n. 活力；精力；能",
+    "phonetic": {
+      "uk": "/ˈenədʒi/",
+      "us": "/ˈenərdʒi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "solar energy",
+      "nuclear energy"
+    ],
+    "examples": [
+      "She has boundless energy.",
+      "Nuclear energy is controversial."
+    ]
+  },
+  "enforce": {
+    "definition": "vt. 实施，执行；强制",
+    "phonetic": {
+      "uk": "/ɪnˈfɔːs/",
+      "us": "/ɪnˈfɔːrs/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enforce the law",
+      "strictly enforce"
+    ],
+    "examples": [
+      "Police enforce traffic laws.",
+      "The company enforces strict rules."
+    ]
+  },
+  "engage": {
+    "definition": "vt. 使从事于；聘用",
+    "phonetic": {
+      "uk": "/ɪnˈɡeɪdʒ/",
+      "us": "/ɪnˈɡeɪdʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "engage in",
+      "engage with"
+    ],
+    "examples": [
+      "They engaged in a heated debate.",
+      "She engaged a new assistant."
+    ]
+  },
+  "engine": {
+    "definition": "n. 发动机，引擎；机车",
+    "phonetic": {
+      "uk": "/ˈendʒɪn/",
+      "us": "/ˈendʒɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "search engine",
+      "engine failure"
+    ],
+    "examples": [
+      "The car engine is powerful.",
+      "Google is a popular search engine."
+    ]
+  },
+  "engineer": {
+    "definition": "n. 工程师，技师",
+    "phonetic": {
+      "uk": "/ˌendʒɪˈnɪər/",
+      "us": "/ˌendʒɪˈnɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "civil engineer",
+      "software engineer"
+    ],
+    "examples": [
+      "He is a mechanical engineer.",
+      "The engineer designed the bridge."
+    ]
+  },
+  "engineering": {
+    "definition": "n. 工程，工程学",
+    "phonetic": {
+      "uk": "/ˌendʒɪˈnɪərɪŋ/",
+      "us": "/ˌendʒɪˈnɪrɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "civil engineering",
+      "genetic engineering"
+    ],
+    "examples": [
+      "She studies engineering at MIT.",
+      "Genetic engineering is advancing rapidly."
+    ]
+  },
+  "enhance": {
+    "definition": "vt. 提高，增加；夸张",
+    "phonetic": {
+      "uk": "/ɪnˈhɑːns/",
+      "us": "/ɪnˈhæns/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enhance reputation",
+      "enhance performance"
+    ],
+    "examples": [
+      "Good lighting enhances the room.",
+      "This training will enhance your skills."
+    ]
+  },
+  "enjoy": {
+    "definition": "vt. 享受；欣赏，喜爱",
+    "phonetic": {
+      "uk": "/ɪnˈdʒɔɪ/",
+      "us": "/ɪnˈdʒɔɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enjoy oneself",
+      "enjoy doing"
+    ],
+    "examples": [
+      "I enjoy reading books.",
+      "He enjoys playing tennis."
+    ]
+  },
+  "enjoyable": {
+    "definition": "adj. 令人愉快的，可享受的",
+    "phonetic": {
+      "uk": "/ɪnˈdʒɔɪəbl/",
+      "us": "/ɪnˈdʒɔɪəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "enjoyable experience",
+      "most enjoyable"
+    ],
+    "examples": [
+      "The trip was very enjoyable.",
+      "We had an enjoyable dinner together."
+    ]
+  },
+  "enlarge": {
+    "definition": "vt. 扩大，扩展；放大",
+    "phonetic": {
+      "uk": "/ɪnˈlɑːdʒ/",
+      "us": "/ɪnˈlɑːrdʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enlarge photo",
+      "enlarge vocabulary"
+    ],
+    "examples": [
+      "We need to enlarge the kitchen.",
+      "This option will enlarge the image."
+    ]
+  },
+  "enormous": {
+    "definition": "adj. 巨大的，庞大的",
+    "phonetic": {
+      "uk": "/ɪˈnɔːməs/",
+      "us": "/ɪˈnɔːrməs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "enormous amount",
+      "enormous success"
+    ],
+    "examples": [
+      "The company made enormous profits.",
+      "She achieved enormous success."
+    ]
+  },
+  "enough": {
+    "definition": "adj. 足够的 ad. 足够地",
+    "phonetic": {
+      "uk": "/ɪˈnʌf/",
+      "us": "/ɪˈnʌf/"
+    },
+    "partOfSpeech": "adj./ad.",
+    "phrases": [
+      "good enough",
+      "enough time"
+    ],
+    "examples": [
+      "I have enough money.",
+      "Is she old enough to drive?"
+    ]
+  },
+  "ensure": {
+    "definition": "vt. 保证；保护；赋予",
+    "phonetic": {
+      "uk": "/ɪnˈʃʊər/",
+      "us": "/ɪnˈʃʊr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "ensure quality",
+      "ensure safety"
+    ],
+    "examples": [
+      "We must ensure quality control.",
+      "Please ensure the door is locked."
+    ]
+  },
+  "enter": {
+    "definition": "vt. 走进，进入；参加",
+    "phonetic": {
+      "uk": "/ˈentər/",
+      "us": "/ˈentər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "enter a room",
+      "enter the workforce"
+    ],
+    "examples": [
+      "Please enter through the back door.",
+      "She entered the competition."
+    ]
+  },
+  "enterprise": {
+    "definition": "n. 企业，事业心",
+    "phonetic": {
+      "uk": "/ˈentəpraɪz/",
+      "us": "/ˈentərpraɪz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "private enterprise",
+      "small enterprise"
+    ],
+    "examples": [
+      "The enterprise is growing rapidly.",
+      "She has great enterprise."
+    ]
+  },
+  "entertainment": {
+    "definition": "n. 娱乐，文娱节目",
+    "phonetic": {
+      "uk": "/ˌentərˈteɪnmənt/",
+      "us": "/ˌentərˈteɪnmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "entertainment industry",
+      "provide entertainment"
+    ],
+    "examples": [
+      "The city offers various entertainment.",
+      "Movies are a form of entertainment."
+    ]
+  },
+  "enthusiasm": {
+    "definition": "n. 热情，热心，热忱",
+    "phonetic": {
+      "uk": "/ɪnˈθjuːziæzəm/",
+      "us": "/ɪnˈθuːziæzəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "show enthusiasm",
+      "lose enthusiasm"
+    ],
+    "examples": [
+      "She shows great enthusiasm for learning.",
+      "His enthusiasm is contagious."
+    ]
+  },
+  "enthusiastic": {
+    "definition": "adj. 热心的，热情的",
+    "phonetic": {
+      "uk": "/ɪnˌθjuːziˈæstɪk/",
+      "us": "/ɪnˌθuːziˈæstɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "enthusiastic about",
+      "enthusiastic supporter"
+    ],
+    "examples": [
+      "He is enthusiastic about the project.",
+      "The audience was enthusiastic."
+    ]
+  },
+  "entire": {
+    "definition": "adj. 全部的，整个的",
+    "phonetic": {
+      "uk": "/ɪnˈtaɪər/",
+      "us": "/ɪnˈtaɪər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "entire family",
+      "entire life"
+    ],
+    "examples": [
+      "The entire family went on vacation.",
+      "It took her entire attention."
+    ]
+  },
+  "entitle": {
+    "definition": "vt. 给…权利(或资格)",
+    "phonetic": {
+      "uk": "/ɪnˈtaɪtl/",
+      "us": "/ɪnˈtaɪtl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "entitle to",
+      "be entitled"
+    ],
+    "examples": [
+      "The ticket entitles you to a free drink.",
+      "You are entitled to your opinion."
+    ]
+  },
+  "entrance": {
+    "definition": "n. 入口，门口；进入",
+    "phonetic": {
+      "uk": "/ˈentrəns/",
+      "us": "/ˈentrəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "front entrance",
+      "entrance hall"
+    ],
+    "examples": [
+      "The entrance is on the left.",
+      "She made a dramatic entrance."
+    ]
+  },
+  "entry": {
+    "definition": "n. 入口处；登记；进入",
+    "phonetic": {
+      "uk": "/ˈentri/",
+      "us": "/ˈentri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "entry level",
+      "make an entry"
+    ],
+    "examples": [
+      "Please fill in the entry form.",
+      "The entry to the cave is narrow."
+    ]
+  },
+  "envelope": {
+    "definition": "n. 信封；封套；封皮",
+    "phonetic": {
+      "uk": "/ˈenvələʊp/",
+      "us": "/ˈenvəloʊp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sealed envelope",
+      "push the envelope"
+    ],
+    "examples": [
+      "Put the letter in the envelope.",
+      "He opened the envelope carefully."
+    ]
+  },
+  "environment": {
+    "definition": "n. 环境，外界；围绕",
+    "phonetic": {
+      "uk": "/ɪnˈvaɪrənmənt/",
+      "us": "/ɪnˈvaɪrənmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "protect environment",
+      "working environment"
+    ],
+    "examples": [
+      "We must protect the environment.",
+      "A clean environment is important."
+    ]
+  },
+  "environmental": {
+    "definition": "adj. 环境的，环境产生的",
+    "phonetic": {
+      "uk": "/ɪnˌvaɪrənˈmentl/",
+      "us": "/ɪnˌvaɪrənˈmentl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "environmental protection",
+      "environmental issues"
+    ],
+    "examples": [
+      "Environmental awareness is growing.",
+      "The company addresses environmental concerns."
+    ]
+  },
+  "envy": {
+    "definition": "n. & vt. 妒忌；羡慕",
+    "phonetic": {
+      "uk": "/ˈenvi/",
+      "us": "/ˈenvi/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "green with envy",
+      "envy someone"
+    ],
+    "examples": [
+      "She envied his success.",
+      "Don't be envious of others."
+    ]
+  },
+  "episode": {
+    "definition": "n. (整个事件)一个片段",
+    "phonetic": {
+      "uk": "/ˈepɪsəʊd/",
+      "us": "/ˈepɪsoʊd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "TV episode",
+      "previous episode"
+    ],
+    "examples": [
+      "I missed the last episode.",
+      "This episode was interesting."
+    ]
+  },
+  "equal": {
+    "definition": "adj. 相等的；平等的",
+    "phonetic": {
+      "uk": "/ˈiːkwəl/",
+      "us": "/ˈiːkwəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "equal rights",
+      "be equal to"
+    ],
+    "examples": [
+      "All men are created equal.",
+      "Everyone deserves equal treatment."
+    ]
+  },
+  "equality": {
+    "definition": "n. 等同，平等；相等",
+    "phonetic": {
+      "uk": "/iˈkwɒləti/",
+      "us": "/iˈkwɑːləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "gender equality",
+      "racial equality"
+    ],
+    "examples": [
+      "Equality is a fundamental right.",
+      "We strive for gender equality."
+    ]
+  },
+  "equation": {
+    "definition": "n. 方程(式)；等式",
+    "phonetic": {
+      "uk": "/ɪˈkweɪʒn/",
+      "us": "/ɪˈkweɪʒn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "chemical equation",
+      "solve the equation"
+    ],
+    "examples": [
+      "Solve this equation for x.",
+      "The chemical equation is balanced."
+    ]
+  },
+  "equip": {
+    "definition": "vt. 装备，配备",
+    "phonetic": {
+      "uk": "/ɪˈkwɪp/",
+      "us": "/ɪˈkwɪp/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "equip with",
+      "well equipped"
+    ],
+    "examples": [
+      "The school is equipped with computers.",
+      "Soldiers are equipped with weapons."
+    ]
+  },
+  "equipment": {
+    "definition": "n. 装备，设备，器材",
+    "phonetic": {
+      "uk": "/ɪˈkwɪpmənt/",
+      "us": "/ɪˈkwɪpmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "medical equipment",
+      "sports equipment"
+    ],
+    "examples": [
+      "The company provides safety equipment.",
+      "We need new office equipment."
+    ]
+  },
+  "equivalent": {
+    "definition": "adj. 相等的；等量的",
+    "phonetic": {
+      "uk": "/ɪˈkwɪvələnt/",
+      "us": "/ɪˈkwɪvələnt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "equivalent to",
+      "be equivalent"
+    ],
+    "examples": [
+      "Silence is equivalent to consent.",
+      "Nodding is equivalent to saying yes."
+    ]
+  },
+  "era": {
+    "definition": "n. 时代，年代；纪元",
+    "phonetic": {
+      "uk": "/ˈɪərə/",
+      "us": "/ˈɪrə/",
+      "uk2": "/ˈerə/",
+      "us2": "/ˈerə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "new era",
+      "digital era"
+    ],
+    "examples": [
+      "We live in the digital era.",
+      "The era of space travel has begun."
+    ]
+  },
+  "erect": {
+    "definition": "vt. 建造；使竖立",
+    "phonetic": {
+      "uk": "/ɪˈrekt/",
+      "us": "/ɪˈrekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "erect a building",
+      "stand erect"
+    ],
+    "examples": [
+      "They erected a statue in his honor.",
+      "He stood erect before the judge."
+    ]
+  },
+  "error": {
+    "definition": "n. 错误，谬误；差错",
+    "phonetic": {
+      "uk": "/ˈerər/",
+      "us": "/ˈerər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an error",
+      "human error"
+    ],
+    "examples": [
+      "The error was corrected promptly.",
+      "Avoid repeating this error."
+    ]
+  },
+  "escape": {
+    "definition": "vi. 逃跑；逸出 n. 逃跑",
+    "phonetic": {
+      "uk": "/ɪˈskeɪp/",
+      "us": "/ɪˈskeɪp/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "escape from",
+      "make an escape"
+    ],
+    "examples": [
+      "The prisoner escaped from jail.",
+      "Fire escape routes are clearly marked."
+    ]
+  },
+  "especially": {
+    "definition": "ad. 特别，尤其，格外",
+    "phonetic": {
+      "uk": "/ɪˈspeʃəli/",
+      "us": "/ɪˈspeʃəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "especially important",
+      "especially for"
+    ],
+    "examples": [
+      "I especially like this song.",
+      "This is especially true for children."
+    ]
+  },
+  "essay": {
+    "definition": "n. 短文，散文，小品文",
+    "phonetic": {
+      "uk": "/ˈeseɪ/",
+      "us": "/ˈeseɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "write an essay",
+      "academic essay"
+    ],
+    "examples": [
+      "She wrote an essay on history.",
+      "The essay was well-argued."
+    ]
+  },
+  "essential": {
+    "definition": "adj. 必要的，本质的",
+    "phonetic": {
+      "uk": "/ɪˈsenʃl/",
+      "us": "/ɪˈsenʃl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "essential element",
+      "absolutely essential"
+    ],
+    "examples": [
+      "Water is essential for life.",
+      "It is essential to plan ahead."
+    ]
+  },
+  "establish": {
+    "definition": "vt. 建立，设立；确立",
+    "phonetic": {
+      "uk": "/ɪˈstæblɪʃ/",
+      "us": "/ɪˈstæblɪʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "establish a business",
+      "establish relationship"
+    ],
+    "examples": [
+      "The company was established in 1990.",
+      "We established good relations."
+    ]
+  },
+  "establishment": {
+    "definition": "n. 建立，设立，确立",
+    "phonetic": {
+      "uk": "/ɪˈstæblɪʃmənt/",
+      "us": "/ɪˈstæblɪʃmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "business establishment",
+      "educational establishment"
+    ],
+    "examples": [
+      "The establishment is well-known.",
+      "This establishment serves great food."
+    ]
+  },
+  "estate": {
+    "definition": "n. 房地产；财产，产业",
+    "phonetic": {
+      "uk": "/ɪˈsteɪt/",
+      "us": "/ɪˈsteɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "real estate",
+      "estate agent"
+    ],
+    "examples": [
+      "He owns a large real estate empire.",
+      "The estate was divided among heirs."
+    ]
+  },
+  "estimate": {
+    "definition": "vt. 估计，评价 n. 估计",
+    "phonetic": {
+      "uk": "/ˈestɪmeɪt/",
+      "us": "/ˈestɪmeɪt/",
+      "uk2": "/ˈestɪmət/",
+      "us2": "/ˈestɪmət/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "estimate the cost",
+      "rough estimate"
+    ],
+    "examples": [
+      "We estimate the population at 1 million.",
+      "This is just an estimate."
+    ]
+  },
+  "evaluate": {
+    "definition": "vt. 评价，估…的价",
+    "phonetic": {
+      "uk": "/ɪˈvæljueɪt/",
+      "us": "/ɪˈvæljueɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "evaluate performance",
+      "carefully evaluate"
+    ],
+    "examples": [
+      "The teacher will evaluate your work.",
+      "We need to evaluate the situation."
+    ]
+  },
+  "evaporate": {
+    "definition": "vt. 使蒸发 vi. 蒸发",
+    "phonetic": {
+      "uk": "/ɪˈvæpəreɪt/",
+      "us": "/ɪˈvæpəreɪt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "evaporate into",
+      "quickly evaporate"
+    ],
+    "examples": [
+      "Water evaporates when heated.",
+      "His hopes evaporated quickly."
+    ]
+  },
+  "eve": {
+    "definition": "n. 前夜，前夕，前一刻",
+    "phonetic": {
+      "uk": "/iːv/",
+      "us": "/iːv/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Christmas Eve",
+      "New Year's Eve"
+    ],
+    "examples": [
+      "Children wait for Christmas Eve.",
+      "Parties are held on New Year's Eve."
+    ]
+  },
+  "even": {
+    "definition": "ad. 甚至；甚至更，还",
+    "phonetic": {
+      "uk": "/ˈiːvn/",
+      "us": "/ˈiːvn/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "even if",
+      "even though"
+    ],
+    "examples": [
+      "Even children can understand this.",
+      "Even though it rained, we went out."
+    ]
+  },
+  "evening": {
+    "definition": "n. 傍晚，黄昏，晚上",
+    "phonetic": {
+      "uk": "/ˈiːvnɪŋ/",
+      "us": "/ˈiːvnɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the evening",
+      "good evening"
+    ],
+    "examples": [
+      "We usually dine in the evening.",
+      "Good evening, ladies and gentlemen."
+    ]
+  },
+  "event": {
+    "definition": "n. 事件，大事；事变",
+    "phonetic": {
+      "uk": "/ɪˈvent/",
+      "us": "/ɪˈvent/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "current event",
+      "sporting event"
+    ],
+    "examples": [
+      "The Olympics is a major event.",
+      "This event changed history."
+    ]
+  },
+  "eventually": {
+    "definition": "ad. 终于；最后",
+    "phonetic": {
+      "uk": "/ɪˈventʃuəli/",
+      "us": "/ɪˈventʃuəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "eventually succeed",
+      "eventually return"
+    ],
+    "examples": [
+      "He eventually found a job.",
+      "Eventually, she agreed to the plan."
+    ]
+  },
+  "ever": {
+    "definition": "ad. 在任何时候；曾经",
+    "phonetic": {
+      "uk": "/ˈevər/",
+      "us": "/ˈevər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "for ever",
+      "ever since"
+    ],
+    "examples": [
+      "Have you ever been to Paris?",
+      "She is the best ever."
+    ]
+  },
+  "every": {
+    "definition": "adj. 每一，每个的",
+    "phonetic": {
+      "uk": "/ˈevri/",
+      "us": "/ˈevri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "every day",
+      "every one"
+    ],
+    "examples": [
+      "She exercises every morning.",
+      "Every student must pass the exam."
+    ]
+  },
+  "everybody": {
+    "definition": "pron. 每人，人人",
+    "phonetic": {
+      "uk": "/ˈevribɒdi/",
+      "us": "/ˈevribɑːdi/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "know somebody",
+      "please everybody"
+    ],
+    "examples": [
+      "Everybody enjoyed the party.",
+      "Everybody makes mistakes."
+    ]
+  },
+  "everyday": {
+    "definition": "adj. 每天的，日常的",
+    "phonetic": {
+      "uk": "/ˈevrideɪ/",
+      "us": "/ˈevrideɪ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "everyday life",
+      "everyday clothes"
+    ],
+    "examples": [
+      "Computers are part of everyday life.",
+      "She wears everyday clothes to work."
+    ]
+  },
+  "everyone": {
+    "definition": "pron. 每人，人人",
+    "phonetic": {
+      "uk": "/ˈevriwʌn/",
+      "us": "/ˈevriwʌn/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "welcome everyone",
+      "everyone else"
+    ],
+    "examples": [
+      "Everyone knows the truth.",
+      "Welcome everyone to the meeting."
+    ]
+  },
+  "everything": {
+    "definition": "pron. 每件事，事事",
+    "phonetic": {
+      "uk": "/ˈevriθɪŋ/",
+      "us": "/ˈevriθɪŋ/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "do everything",
+      "everything is fine"
+    ],
+    "examples": [
+      "Everything will be okay.",
+      "She checked everything twice."
+    ]
+  },
+  "everywhere": {
+    "definition": "ad. 到处，无论哪里",
+    "phonetic": {
+      "uk": "/ˈevriweər/",
+      "us": "/ˈevriwer/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "look everywhere",
+      "everywhere in"
+    ],
+    "examples": [
+      "We looked everywhere for the keys.",
+      "Flowers bloom everywhere in spring."
+    ]
+  },
+  "evidence": {
+    "definition": "n. 根据；证据，证人",
+    "phonetic": {
+      "uk": "/ˈevɪdəns/",
+      "us": "/ˈevɪdəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "provide evidence",
+      "strong evidence"
+    ],
+    "examples": [
+      "The evidence proves his innocence.",
+      "There is no evidence to support this."
+    ]
+  },
+  "evident": {
+    "definition": "adj. 明显的，明白的",
+    "phonetic": {
+      "uk": "/ˈevɪdənt/",
+      "us": "/ˈevɪdənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "it is evident",
+      "clearly evident"
+    ],
+    "examples": [
+      "It is evident that he is lying.",
+      "Her talent is evident to everyone."
+    ]
+  },
+  "evil": {
+    "definition": "adj. 邪恶的 n. 祸害",
+    "phonetic": {
+      "uk": "/ˈiːvl/",
+      "us": "/ˈiːvl/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "evil spirit",
+      "speak evil of"
+    ],
+    "examples": [
+      "The villain had evil intentions.",
+      "Evil exists in this world."
+    ]
+  },
+  "evolution": {
+    "definition": "n. 进化，演化；发展",
+    "phonetic": {
+      "uk": "/ˌiːvəˈluːʃn/",
+      "us": "/ˌevəˈluːʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "theory of evolution",
+      "human evolution"
+    ],
+    "examples": [
+      "Evolution explains the diversity of life.",
+      "The evolution of technology is rapid."
+    ]
+  },
+  "evolve": {
+    "definition": "vt. 使进化；使发展",
+    "phonetic": {
+      "uk": "/ɪˈvɒlv/",
+      "us": "/ɪˈvɑːlv/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "evolve from",
+      "evolve into"
+    ],
+    "examples": [
+      "Birds evolved from dinosaurs.",
+      "The plan evolved over time."
+    ]
+  },
+  "exact": {
+    "definition": "adj. 确切的；精确的",
+    "phonetic": {
+      "uk": "/ɪɡˈzækt/",
+      "us": "/ɪɡˈzækt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "exact time",
+      "exact amount"
+    ],
+    "examples": [
+      "What is the exact time?",
+      "Give me the exact amount."
+    ]
+  },
+  "exaggerate": {
+    "definition": "vt. & vi. 夸大，夸张",
+    "phonetic": {
+      "uk": "/ɪɡˈzædʒəreɪt/",
+      "us": "/ɪɡˈzædʒəreɪt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "exaggerate the truth",
+      "tend to exaggerate"
+    ],
+    "examples": [
+      "Don't exaggerate the problem.",
+      "She tends to exaggerate."
+    ]
+  },
+  "exam": {
+    "definition": "n. 考试；检查，细查",
+    "phonetic": {
+      "uk": "/ɪɡˈzæm/",
+      "us": "/ɪɡˈzæm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pass the exam",
+      "medical exam"
+    ],
+    "examples": [
+      "The exam is next week.",
+      "She needs a medical exam."
+    ]
+  },
+  "examination": {
+    "definition": "n. 考试；检查，细查",
+    "phonetic": {
+      "uk": "/ɪɡˌzæmɪˈneɪʃn/",
+      "us": "/ɪɡˌzæmɪˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "medical examination",
+      "entrance examination"
+    ],
+    "examples": [
+      "The final examination is difficult.",
+      "She underwent a thorough examination."
+    ]
+  },
+  "examine": {
+    "definition": "vt. 检查，仔细观察",
+    "phonetic": {
+      "uk": "/ɪɡˈzæmɪn/",
+      "us": "/ɪɡˈzæmɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "examine the evidence",
+      "examine the patient"
+    ],
+    "examples": [
+      "The doctor examined the patient.",
+      "Examine the evidence carefully."
+    ]
+  },
+  "example": {
+    "definition": "n. 例子，实例；模范",
+    "phonetic": {
+      "uk": "/ɪɡˈzɑːmpl/",
+      "us": "/ɪɡˈzæmpl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "for example",
+      "set an example"
+    ],
+    "examples": [
+      "For example, London and Paris.",
+      "She set a good example for us."
+    ]
+  },
+  "exceed": {
+    "definition": "vt. 超过，胜过；超出",
+    "phonetic": {
+      "uk": "/ɪkˈsiːd/",
+      "us": "/ɪkˈsiːd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "exceed limit",
+      "exceed expectations"
+    ],
+    "examples": [
+      "The cost exceeded the budget.",
+      "Please do not exceed the speed limit."
+    ]
+  },
+  "excellent": {
+    "definition": "adj. 优秀的，杰出的",
+    "phonetic": {
+      "uk": "/ˈeksələnt/",
+      "us": "/ˈeksələnt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "excellent work",
+      "excellent condition"
+    ],
+    "examples": [
+      "She is excellent at mathematics.",
+      "The car is in excellent condition."
+    ]
+  },
+  "except": {
+    "definition": "prep. 除…之外",
+    "phonetic": {
+      "uk": "/ɪkˈsept/",
+      "us": "/ɪkˈsept/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "except for",
+      "with the exception of"
+    ],
+    "examples": [
+      "Everyone came except Tom.",
+      "The car is perfect except for the scratch."
+    ]
+  },
+  "exception": {
+    "definition": "n. 例外，除外",
+    "phonetic": {
+      "uk": "/ɪkˈsepʃn/",
+      "us": "/ɪkˈsepʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an exception",
+      "without exception"
+    ],
+    "examples": [
+      "There are always exceptions.",
+      "Everyone passed without exception."
+    ]
+  },
+  "excess": {
+    "definition": "n. 超越；过量；过度",
+    "phonetic": {
+      "uk": "/ɪkˈses/",
+      "us": "/ɪkˈses/",
+      "uk2": "/ˈekses/",
+      "us2": "/ˈekses/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in excess of",
+      "excess baggage"
+    ],
+    "examples": [
+      "Don't drink in excess.",
+      "There is excess inventory."
+    ]
+  },
+  "excessive": {
+    "definition": "adj. 过多的，极度的",
+    "phonetic": {
+      "uk": "/ɪkˈsesɪv/",
+      "us": "/ɪkˈsesɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "excessive drinking",
+      "excessive heat"
+    ],
+    "examples": [
+      "Excessive drinking is harmful.",
+      "The temperatures were excessive."
+    ]
+  },
+  "exchange": {
+    "definition": "vt. 交换；交流 n. 交换",
+    "phonetic": {
+      "uk": "/ɪksˈtʃeɪndʒ/",
+      "us": "/ɪksˈtʃeɪndʒ/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "exchange ideas",
+      "stock exchange"
+    ],
+    "examples": [
+      "Let's exchange phone numbers.",
+      "We exchange gifts during holidays."
+    ]
+  },
+  "excite": {
+    "definition": "vt. 使激动；引起",
+    "phonetic": {
+      "uk": "/ɪkˈsaɪt/",
+      "us": "/ɪkˈsaɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "excite interest",
+      "get excited"
+    ],
+    "examples": [
+      "The news excited everyone.",
+      "Don't excite the dog."
+    ]
+  },
+  "exciting": {
+    "definition": "adj. 令人兴奋的",
+    "phonetic": {
+      "uk": "/ɪkˈsaɪtɪŋ/",
+      "us": "/ɪkˈsaɪtɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "exciting news",
+      "exciting adventure"
+    ],
+    "examples": [
+      "The match was exciting.",
+      "It's an exciting time for technology."
+    ]
+  },
+  "exclude": {
+    "definition": "vt. 把…排除在外",
+    "phonetic": {
+      "uk": "/ɪkˈskluːd/",
+      "us": "/ɪkˈskluːd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "exclude from",
+      "exclude possibility"
+    ],
+    "examples": [
+      "Please exclude Tom from the list.",
+      "We cannot exclude this possibility."
+    ]
+  },
+  "exclusive": {
+    "definition": "adj. 奢华的；独有的",
+    "phonetic": {
+      "uk": "/ɪkˈskluːsɪv/",
+      "us": "/ɪkˈskluːsɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "exclusive right",
+      "exclusive interview"
+    ],
+    "examples": [
+      "This hotel is exclusive.",
+      "We have an exclusive deal."
+    ]
+  },
+  "excursion": {
+    "definition": "n. 远足；短途旅行",
+    "phonetic": {
+      "uk": "/ɪkˈskɜːʃn/",
+      "us": "/ɪkˈskɜːrʒn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an excursion",
+      "excursion trip"
+    ],
+    "examples": [
+      "We went on an excursion to the mountains.",
+      "The school organized an excursion."
+    ]
+  },
+  "excuse": {
+    "definition": "vt. 原谅；免除 n. 借口",
+    "phonetic": {
+      "uk": "/ɪkˈskjuːz/",
+      "us": "/ɪkˈskjuːz/",
+      "uk2": "/ɪkˈskjuːs/",
+      "us2": "/ɪkˈskjuːs/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "make an excuse",
+      "excuse me"
+    ],
+    "examples": [
+      "Please excuse my late arrival.",
+      "He always has an excuse."
+    ]
+  },
+  "execute": {
+    "definition": "vt. 将…处死；实施",
+    "phonetic": {
+      "uk": "/ˈeksɪkjuːt/",
+      "us": "/ˈeksɪkjuːt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "execute a plan",
+      "execute order"
+    ],
+    "examples": [
+      "The plan was executed perfectly.",
+      "The criminal was executed yesterday."
+    ]
+  },
+  "executive": {
+    "definition": "adj. 执行的 n. 执行者",
+    "phonetic": {
+      "uk": "/ɪɡˈzekjətɪv/",
+      "us": "/ɪɡˈzekjətɪv/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "chief executive",
+      "executive officer"
+    ],
+    "examples": [
+      "She is a senior executive.",
+      "The executive committee meets monthly."
+    ]
+  },
+  "exercise": {
+    "definition": "n. 锻炼，训练 vi. 练习",
+    "phonetic": {
+      "uk": "/ˈeksəsaɪz/",
+      "us": "/ˈeksərsaɪz/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "do exercise",
+      "regular exercise"
+    ],
+    "examples": [
+      "Regular exercise is healthy.",
+      "She exercises every morning."
+    ]
+  },
+  "exert": {
+    "definition": "vt. 尽(力)，运用",
+    "phonetic": {
+      "uk": "/ɪɡˈzɜːt/",
+      "us": "/ɪɡˈzɜːrt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "exert influence",
+      "exert effort"
+    ],
+    "examples": [
+      "He exerted great effort.",
+      "Parents exert influence on children."
+    ]
+  },
+  "exhaust": {
+    "definition": "vt. 使筋疲力尽；用尽",
+    "phonetic": {
+      "uk": "/ɪɡˈzɔːst/",
+      "us": "/ɪɡˈzɔːst/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "exhaust oneself",
+      "exhaust resources"
+    ],
+    "examples": [
+      "The long journey exhausted us.",
+      "We exhausted all options."
+    ]
+  },
+  "exhibit": {
+    "definition": "vt. 显示；陈列，展览",
+    "phonetic": {
+      "uk": "/ɪɡˈzɪbɪt/",
+      "us": "/ɪɡˈzɪbɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "exhibit traits",
+      "art exhibit"
+    ],
+    "examples": [
+      "The museum exhibits ancient artifacts.",
+      "She exhibits leadership qualities."
+    ]
+  },
+  "exhibition": {
+    "definition": "n. 展览，陈列；展览会",
+    "phonetic": {
+      "uk": "/ˌeksɪˈbɪʃn/",
+      "us": "/ˌeksɪˈbɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "art exhibition",
+      "organize an exhibition"
+    ],
+    "examples": [
+      "The art exhibition opens tomorrow.",
+      "We visited the car exhibition."
+    ]
+  },
+  "exist": {
+    "definition": "vi. 存在；生存，生活",
+    "phonetic": {
+      "uk": "/ɪɡˈzɪst/",
+      "us": "/ɪɡˈzɪst/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "exist in",
+      "exist on"
+    ],
+    "examples": [
+      "Scientists believe life exists elsewhere.",
+      "The organization existed for 50 years."
+    ]
+  },
+  "existence": {
+    "definition": "n. 存在，实在；生存",
+    "phonetic": {
+      "uk": "/ɪɡˈzɪstəns/",
+      "us": "/ɪɡˈzɪstəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "come into existence",
+      "struggle for existence"
+    ],
+    "examples": [
+      "The universe came into existence.",
+      "The existence of dinosaurs ends."
+    ]
+  },
+  "exit": {
+    "definition": "vi. 退出；退场 n. 退出",
+    "phonetic": {
+      "uk": "/ˈeɡzɪt/",
+      "us": "/ˈeɡzɪt/",
+      "uk2": "/ˈeksɪt/",
+      "us2": "/ˈeksɪt/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "emergency exit",
+      "exit the room"
+    ],
+    "examples": [
+      "Use the emergency exit in case of fire.",
+      "Please exit through the back door."
+    ]
+  },
+  "expand": {
+    "definition": "vt. 扩大；使膨胀",
+    "phonetic": {
+      "uk": "/ɪkˈspænd/",
+      "us": "/ɪkˈspænd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "expand business",
+      "expand knowledge"
+    ],
+    "examples": [
+      "The company plans to expand globally.",
+      "Heat causes metals to expand."
+    ]
+  },
+  "expansion": {
+    "definition": "n. 扩大，扩充；扩张",
+    "phonetic": {
+      "uk": "/ɪkˈspænʃn/",
+      "us": "/ɪkˈspænʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "territorial expansion",
+      "economic expansion"
+    ],
+    "examples": [
+      "The expansion of the city continues.",
+      "We need to plan for future expansion."
+    ]
+  },
+  "expect": {
+    "definition": "vt. 预料，预期；等待",
+    "phonetic": {
+      "uk": "/ɪkˈspekt/",
+      "us": "/ɪkˈspekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "expect to do",
+      "as expected"
+    ],
+    "examples": [
+      "I expect her to arrive soon.",
+      "The results were better than expected."
+    ]
+  },
+  "expectation": {
+    "definition": "n. 期待，期望，预期",
+    "phonetic": {
+      "uk": "/ˌekspekˈteɪʃn/",
+      "us": "/ˌekspekˈteɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "meet expectation",
+      "high expectation"
+    ],
+    "examples": [
+      "Her expectations were too high.",
+      "The movie exceeded my expectations."
+    ]
+  },
+  "expense": {
+    "definition": "n. 花费，消费；费用",
+    "phonetic": {
+      "uk": "/ɪkˈspens/",
+      "us": "/ɪkˈspens/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at the expense of",
+      "medical expense"
+    ],
+    "examples": [
+      "They spared no expense.",
+      "Living expenses are high in the city."
+    ]
+  },
+  "expensive": {
+    "definition": "adj. 昂贵的，花钱多的",
+    "phonetic": {
+      "uk": "/ɪkˈspensɪv/",
+      "us": "/ɪkˈspensɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "very expensive",
+      "expensive car"
+    ],
+    "examples": [
+      "That restaurant is too expensive.",
+      "She bought an expensive dress."
+    ]
+  },
+  "experience": {
+    "definition": "n. 经验，感受 vt. 经历",
+    "phonetic": {
+      "uk": "/ɪkˈspɪəriəns/",
+      "us": "/ɪkˈspɪriəns/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "work experience",
+      "gain experience"
+    ],
+    "examples": [
+      "She has years of experience.",
+      "I experienced a culture shock."
+    ]
+  },
+  "experiment": {
+    "definition": "n. 实验；试验",
+    "phonetic": {
+      "uk": "/ɪkˈsperɪment/",
+      "us": "/ɪkˈsperɪment/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "conduct an experiment",
+      "chemical experiment"
+    ],
+    "examples": [
+      "The experiment was successful.",
+      "Scientists conduct experiments daily."
+    ]
+  },
+  "experimental": {
+    "definition": "adj. 实验的，试验的",
+    "phonetic": {
+      "uk": "/ɪkˌsperɪˈmentl/",
+      "us": "/ɪkˌsperɪˈmentl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "experimental stage",
+      "experimental method"
+    ],
+    "examples": [
+      "The treatment is still experimental.",
+      "This is an experimental design."
+    ]
+  },
+  "expert": {
+    "definition": "n. 专家 a. 熟练的",
+    "phonetic": {
+      "uk": "/ˈekspɜːt/",
+      "us": "/ˈekspɜːrt/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "expert advice",
+      "computer expert"
+    ],
+    "examples": [
+      "She is an expert in economics.",
+      "We need expert opinion on this."
+    ]
+  },
+  "explain": {
+    "definition": "vt. 解释；为…辩解",
+    "phonetic": {
+      "uk": "/ɪkˈspleɪn/",
+      "us": "/ɪkˈspleɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "explain clearly",
+      "explain the reason"
+    ],
+    "examples": [
+      "Can you explain this concept?",
+      "Let me explain why I'm late."
+    ]
+  },
+  "explanation": {
+    "definition": "n. 解释，说明；辩解",
+    "phonetic": {
+      "uk": "/ˌekspləˈneɪʃn/",
+      "us": "/ˌekspləˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "provide explanation",
+      "simple explanation"
+    ],
+    "examples": [
+      "Her explanation was plausible.",
+      "We need a better explanation."
+    ]
+  },
+  "explode": {
+    "definition": "vt. 使爆炸 vi. 爆炸",
+    "phonetic": {
+      "uk": "/ɪkˈspləʊd/",
+      "us": "/ɪkˈsploʊd/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "explode with laughter",
+      "explode in anger"
+    ],
+    "examples": [
+      "The bomb exploded at noon.",
+      "The audience exploded with laughter."
+    ]
+  },
+  "exploit": {
+    "definition": "vt. 剥削；利用；开拓",
+    "phonetic": {
+      "uk": "/ɪkˈsplɔɪt/",
+      "us": "/ɪkˈsplɔɪt/",
+      "uk2": "/ˈeksplɔɪt/",
+      "us2": "/ˈeksplɔɪt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "exploit resources",
+      "exploit workers"
+    ],
+    "examples": [
+      "Companies exploit natural resources.",
+      "Don't exploit your friends."
+    ]
+  },
+  "explore": {
+    "definition": "vt. & vi. 探险，探索",
+    "phonetic": {
+      "uk": "/ɪkˈsplɔːr/",
+      "us": "/ɪkˈsplɔːr/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "explore new places",
+      "explore possibilities"
+    ],
+    "examples": [
+      "They explored the jungle.",
+      "We need to explore other options."
+    ]
+  },
+  "explosion": {
+    "definition": "n. 爆炸，爆发，炸裂",
+    "phonetic": {
+      "uk": "/ɪkˈspləʊʒn/",
+      "us": "/ɪkˈsploʊʒn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "gas explosion",
+      "population explosion"
+    ],
+    "examples": [
+      "The explosion shattered windows.",
+      "The world is experiencing a population explosion."
+    ]
+  },
+  "explosive": {
+    "definition": "n. 炸药 a. 爆炸的",
+    "phonetic": {
+      "uk": "/ɪkˈspləʊsɪv/",
+      "us": "/ɪkˈsploʊsɪv/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "explosive device",
+      "explosive situation"
+    ],
+    "examples": [
+      "The package contained explosives.",
+      "The situation was explosive."
+    ]
+  },
+  "export": {
+    "definition": "vt. 输出，出口",
+    "phonetic": {
+      "uk": "/ɪkˈspɔːt/",
+      "us": "/ˈekspɔːrt/",
+      "uk2": "/ˈekspɔːt/",
+      "us2": "/ˈekspɔːrt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "export goods",
+      "import and export"
+    ],
+    "examples": [
+      "China exports many products.",
+      "The export market is growing."
+    ]
+  },
+  "expose": {
+    "definition": "vt. 使暴露；揭露",
+    "phonetic": {
+      "uk": "/ɪkˈspəʊz/",
+      "us": "/ɪkˈspoʊz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "expose to",
+      "expose the truth"
+    ],
+    "examples": [
+      "Don't expose your skin to the sun.",
+      "The scandal was exposed."
+    ]
+  },
+  "exposure": {
+    "definition": "n. 暴露；揭露；曝光",
+    "phonetic": {
+      "uk": "/ɪkˈspəʊʒər/",
+      "us": "/ɪkˈspoʊʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public exposure",
+      "sun exposure"
+    ],
+    "examples": [
+      "The exposure caused skin damage.",
+      "The company received much media exposure."
+    ]
+  }
+}

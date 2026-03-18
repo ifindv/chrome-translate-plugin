@@ -1,0 +1,1602 @@
+{
+  "label": {
+    "definition": "n. 标签，标记 vt. 贴标签于",
+    "phonetic": {
+      "uk": "/ˈleɪb(ə)l/",
+      "us": "/ˈleɪb(ə)l/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "price label",
+      "label maker"
+    ],
+    "examples": [
+      "Put a label on each box.",
+      "Read the label before taking this medicine."
+    ]
+  },
+  "labor": {
+    "definition": "n. 劳动，工作 vi. 劳动，苦干",
+    "phonetic": {
+      "uk": "/ˈleɪbə(r)/",
+      "us": "/ˈleɪbər/"
+    },
+    "partOfSpeech": "n., vi.",
+    "phrases": [
+      "labor force",
+      "manual labor"
+    ],
+    "examples": [
+      "The workers are demanding better labor conditions.",
+      "It took hours of labor to complete the project."
+    ]
+  },
+  "lack": {
+    "definition": "n. 缺乏，不足 vt. 缺乏，没有",
+    "phonetic": {
+      "uk": "/læk/",
+      "us": "/læk/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "lack of",
+      "lack confidence"
+    ],
+    "examples": [
+      "The plants died due to lack of water.",
+      "She lacks experience in this field."
+    ]
+  },
+  "ladder": {
+    "definition": "n. 梯子，阶梯",
+    "phonetic": {
+      "uk": "/ˈlædə(r)/",
+      "us": "/ˈlædər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "climb the ladder",
+      "ladder up"
+    ],
+    "examples": [
+      "He climbed up the ladder to fix the roof.",
+      "Social mobility is like climbing a ladder."
+    ]
+  },
+  "lady": {
+    "definition": "n. 女士，夫人，小姐",
+    "phonetic": {
+      "uk": "/ˈleɪdi/",
+      "us": "/ˈleɪdi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young lady",
+      "ladies and gentlemen"
+    ],
+    "examples": [
+      "The lady at the reception desk was very helpful.",
+      "Ladies and gentlemen, welcome to the show."
+    ]
+  },
+  "lake": {
+    "definition": "n. 湖，湖泊",
+    "phonetic": {
+      "uk": "/leɪk/",
+      "us": "/leɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lake shore",
+      "lake view"
+    ],
+    "examples": [
+      "We went fishing at the lake yesterday.",
+      "The lake froze over in winter."
+    ]
+  },
+  "lamp": {
+    "definition": "n. 灯，台灯",
+    "phonetic": {
+      "uk": "/læmp/",
+      "us": "/læmp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "table lamp",
+      "street lamp"
+    ],
+    "examples": [
+      "Please turn on the lamp.",
+      "The lamp gives off a warm light."
+    ]
+  },
+  "land": {
+    "definition": "n. 陆地，土地 v. 登陆，降落",
+    "phonetic": {
+      "uk": "/lænd/",
+      "us": "/lænd/"
+    },
+    "partOfSpeech": "n., vi.",
+    "phrases": [
+      "land on",
+      "land mass"
+    ],
+    "examples": [
+      "The plane will land in ten minutes.",
+      "Most of the country is agricultural land."
+    ]
+  },
+  "language": {
+    "definition": "n. 语言",
+    "phonetic": {
+      "uk": "/ˈlæŋɡwɪdʒ/",
+      "us": "/ˈlæŋɡwɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign language",
+      "language barrier"
+    ],
+    "examples": [
+      "She can speak three languages fluently.",
+      "English is a global language."
+    ]
+  },
+  "large": {
+    "definition": "ad. 大的，巨大的",
+    "phonetic": {
+      "uk": "/lɑːdʒ/",
+      "us": "/lɑːrdʒ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "large scale",
+      "large number"
+    ],
+    "examples": [
+      "They live in a large house.",
+      "A large crowd gathered in the square."
+    ]
+  },
+  "last": {
+    "definition": "adj. 最后的 ad. 最后 vi. 持续",
+    "phonetic": {
+      "uk": "/lɑːst/",
+      "us": "/læst/"
+    },
+    "partOfSpeech": "adj., ad., vi.",
+    "phrases": [
+      "at last",
+      "last night"
+    ],
+    "examples": [
+      "This is the last chance to register.",
+      "The meeting lasted for two hours."
+    ]
+  },
+  "late": {
+    "definition": "adj. 迟的，晚的 ad. 晚，迟",
+    "phonetic": {
+      "uk": "/leɪt/",
+      "us": "/leɪt/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "be late for",
+      "late at night"
+    ],
+    "examples": [
+      "Sorry I'm late for the appointment.",
+      "She worked late into the night."
+    ]
+  },
+  "later": {
+    "definition": "ad. 后来，稍后",
+    "phonetic": {
+      "uk": "/ˈleɪtə(r)/",
+      "us": "/ˈleɪtər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "later on",
+      "sooner or later"
+    ],
+    "examples": [
+      "See you later!",
+      "I realized my mistake later."
+    ]
+  },
+  "laugh": {
+    "definition": "vi. 笑，发笑 n. 笑声",
+    "phonetic": {
+      "uk": "/lɑːf/",
+      "us": "/læf/"
+    },
+    "partOfSpeech": "vi., n.",
+    "phrases": [
+      "laugh at",
+      "burst into laughter"
+    ],
+    "examples": [
+      "Everyone laughed at his joke.",
+      "Her laughter filled the room."
+    ]
+  },
+  "laughter": {
+    "definition": "n. 笑，笑声",
+    "phonetic": {
+      "uk": "/ˈlɑːftə(r)/",
+      "us": "/ˈlæftər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "burst into laughter",
+      "roar with laughter"
+    ],
+    "examples": [
+      "Her infectious laughter made everyone smile.",
+      "The room was filled with laughter."
+    ]
+  },
+  "launch": {
+    "definition": "vt. 发射，发布，发起 n. 发射",
+    "phonetic": {
+      "uk": "/lɔːntʃ/",
+      "us": "/lɔːntʃ/"
+    },
+    "partOfSpeech": "vt., n.",
+    "phrases": [
+      "launch a product",
+      "rocket launch"
+    ],
+    "examples": [
+      "The company will launch a new car next month.",
+      "They plan to launch a satellite into orbit."
+    ]
+  },
+  "laundry": {
+    "definition": "n. 洗衣店，待洗的衣服",
+    "phonetic": {
+      "uk": "/ˈlɔːndri/",
+      "us": "/ˈlɔːndri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "do laundry",
+      "laundry basket"
+    ],
+    "examples": [
+      "I need to do my laundry this weekend.",
+      "She works at a laundry service."
+    ]
+  },
+  "law": {
+    "definition": "n. 法律，法则",
+    "phonetic": {
+      "uk": "/lɔː/",
+      "us": "/lɔː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "break the law",
+      "law enforcement"
+    ],
+    "examples": [
+      "Everyone must obey the law.",
+      "She is studying law at university."
+    ]
+  },
+  "lawyer": {
+    "definition": "n. 律师",
+    "phonetic": {
+      "uk": "/ˈlɔːjə(r)/",
+      "us": "/ˈlɔːjər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lawyer up",
+      "defense lawyer"
+    ],
+    "examples": [
+      "She hired a lawyer to help with the case.",
+      "He is a successful lawyer in New York."
+    ]
+  },
+  "layer": {
+    "definition": "n. 层，层次",
+    "phonetic": {
+      "uk": "/ˈleɪə(r)/",
+      "us": "/ˈleɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "top layer",
+      "layer cake"
+    ],
+    "examples": [
+      "The cake has three layers.",
+      "There is a thick layer of snow on the ground."
+    ]
+  },
+  "lazy": {
+    "definition": "adj. 懒惰的，懒散的",
+    "phonetic": {
+      "uk": "/ˈleɪzi/",
+      "us": "/ˈleɪzi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "lazy afternoon",
+      "lazy bones"
+    ],
+    "examples": [
+      "Don't be lazy about your homework.",
+      "The cat is lazy and sleeps all day."
+    ]
+  },
+  "lead": {
+    "definition": "v. 领导，导致 n. 领导，铅",
+    "phonetic": {
+      "uk": "/liːd/",
+      "us": "/liːd/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "lead to",
+      "take the lead"
+    ],
+    "examples": [
+      "She leads a team of engineers.",
+      "Smoking can lead to health problems."
+    ]
+  },
+  "leader": {
+    "definition": "n. 领导者，领袖",
+    "phonetic": {
+      "uk": "/ˈliːdə(r)/",
+      "us": "/ˈliːdər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "team leader",
+      "world leader"
+    ],
+    "examples": [
+      "He is a natural leader.",
+      "The country elected a new leader."
+    ]
+  },
+  "leadership": {
+    "definition": "n. 领导，领导能力",
+    "phonetic": {
+      "uk": "/ˈliːdəʃɪp/",
+      "us": "/ˈliːdərʃɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "under the leadership of",
+      "leadership skills"
+    ],
+    "examples": [
+      "The company needs strong leadership.",
+      "She showed great leadership during the crisis."
+    ]
+  },
+  "leading": {
+    "definition": "adj. 主要的，领导的",
+    "phonetic": {
+      "uk": "/ˈliːdɪŋ/",
+      "us": "/ˈliːdɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "leading role",
+      "leading cause"
+    ],
+    "examples": [
+      "She played the leading role in the movie.",
+      "Stress is a leading cause of illness."
+    ]
+  },
+  "leaf": {
+    "definition": "n. 叶子，书页",
+    "phonetic": {
+      "uk": "/liːf/",
+      "us": "/liːf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "turn over a new leaf",
+      "autumn leaves"
+    ],
+    "examples": [
+      "The trees have green leaves in summer.",
+      "Please turn to the next leaf."
+    ]
+  },
+  "league": {
+    "definition": "n. 联盟，社团，同盟",
+    "phonetic": {
+      "uk": "/liːɡ/",
+      "us": "/liːɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "football league",
+      "League of Nations"
+    ],
+    "examples": [
+      "Our team won the league championship.",
+      "Many countries formed a trade league."
+    ]
+  },
+  "leak": {
+    "definition": "v. 泄漏，渗漏 n. 漏洞，泄漏",
+    "phonetic": {
+      "uk": "/liːk/",
+      "us": "/liːk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "oil leak",
+      "leak out"
+    ],
+    "examples": [
+      "The roof is leaking when it rains.",
+      "There was a gas leak in the kitchen."
+    ]
+  },
+  "lean": {
+    "definition": "v. 倾斜，依靠 adj. 瘦的， lean的（脂肪少）",
+    "phonetic": {
+      "uk": "/liːn/",
+      "us": "/liːn/"
+    },
+    "partOfSpeech": "v., adj.",
+    "phrases": [
+      "lean on",
+      "lean meat"
+    ],
+    "examples": [
+      "Please lean back and relax.",
+      "He prefers lean meat for better health."
+    ]
+  },
+  "leap": {
+    "definition": "v. 跳跃，跃过 n. 跳跃",
+    "phonetic": {
+      "uk": "/liːp/",
+      "us": "/liːp/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "leap year",
+      "leap frog"
+    ],
+    "examples": [
+      "The cat leaped onto the table.",
+      "She made a leap of faith."
+    ]
+  },
+  "learn": {
+    "definition": "v. 学习，得知，学会",
+    "phonetic": {
+      "uk": "/lɜːn/",
+      "us": "/lɜːrn/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "learn from",
+      "learn by heart"
+    ],
+    "examples": [
+      "I want to learn how to play the guitar.",
+      "We learn from our mistakes."
+    ]
+  },
+  "learned": {
+    "definition": "adj. 有学问的，博学的",
+    "phonetic": {
+      "uk": "/ˈlɜːnɪd/",
+      "us": "/ˈlɜːrnɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "learned man",
+      "learned society"
+    ],
+    "examples": [
+      "He is a learned professor of history.",
+      "The book was written by a learned scholar."
+    ]
+  },
+  "learner": {
+    "definition": "n. 学习者，初学者",
+    "phonetic": {
+      "uk": "/ˈlɜːnə(r)/",
+      "us": "/ˈlɜːrnər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "language learner",
+      "fast learner"
+    ],
+    "examples": [
+      "She is a quick learner.",
+      "The course is designed for young learners."
+    ]
+  },
+  "learning": {
+    "definition": "n. 学习，学问",
+    "phonetic": {
+      "uk": "/ˈlɜːnɪŋ/",
+      "us": "/ˈlɜːrnɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "distance learning",
+      "lifelong learning"
+    ],
+    "examples": [
+      "Learning a new language takes time.",
+      "She has a passion for learning."
+    ]
+  },
+  "least": {
+    "definition": "adj. 最小的，最少的 ad. 最少",
+    "phonetic": {
+      "uk": "/liːst/",
+      "us": "/liːst/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "at least",
+      "least of all"
+    ],
+    "examples": [
+      "This is the least expensive option.",
+      "You should at least try."
+    ]
+  },
+  "leave": {
+    "definition": "v. 离开，留下 n. 假期，许可",
+    "phonetic": {
+      "uk": "/liːv/",
+      "us": "/liːv/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "leave for",
+      "take leave"
+    ],
+    "examples": [
+      "I have to leave now.",
+      "She took three days of sick leave."
+    ]
+  },
+  "lecture": {
+    "definition": "n. 讲座，演讲 v. 讲课，训诫",
+    "phonetic": {
+      "uk": "/ˈlektʃə(r)/",
+      "us": "/ˈlektʃər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "give a lecture",
+      "attend a lecture"
+    ],
+    "examples": [
+      "Professor Smith gave a lecture on economics.",
+      "He lectured us about being on time."
+    ]
+  },
+  "left": {
+    "definition": "adj. 左边的 ad. 向左 v. 离开leave的过去式/过去分词",
+    "phonetic": {
+      "uk": "/left/",
+      "us": "/left/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "on the left",
+      "left hand"
+    ],
+    "examples": [
+      "Turn left at the next intersection.",
+      "She injured her left arm."
+    ]
+  },
+  "leg": {
+    "definition": "n. 腿，腿部",
+    "phonetic": {
+      "uk": "/leɡ/",
+      "us": "/leɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "break a leg",
+      "pull someone's leg"
+    ],
+    "examples": [
+      "He hurt his leg playing football.",
+      "The table has four legs."
+    ]
+  },
+  "legal": {
+    "definition": "adj. 法律的，合法的",
+    "phonetic": {
+      "uk": "/ˈliːɡ(ə)l/",
+      "us": "/ˈliːɡ(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "legal system",
+      "legal age"
+    ],
+    "examples": [
+      "You need legal advice before signing.",
+      "Drinking alcohol is not legal for minors."
+    ]
+  },
+  "legend": {
+    "definition": "n. 传说，传奇人物",
+    "phonetic": {
+      "uk": "/ˈledʒənd/",
+      "us": "/ˈledʒənd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "urban legend",
+      "living legend"
+    ],
+    "examples": [
+      "According to legend, the treasure is hidden here.",
+      "He is a legend in the music industry."
+    ]
+  },
+  "leisure": {
+    "definition": "n. 空闲，闲暇",
+    "phonetic": {
+      "uk": "/ˈleʒə(r)/",
+      "us": "/ˈliːʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "leisure time",
+      "at leisure"
+    ],
+    "examples": [
+      "She enjoys reading in her leisure time.",
+      "They traveled at their leisure during retirement."
+    ]
+  },
+  "lemon": {
+    "definition": "n. 柠檬",
+    "phonetic": {
+      "uk": "/ˈlemən/",
+      "us": "/ˈlemən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lemon juice",
+      "sour as a lemon"
+    ],
+    "examples": [
+      "Would you like some lemon in your tea?",
+      "She squeezed fresh lemon on the fish."
+    ]
+  },
+  "lend": {
+    "definition": "v. 借出，贷给",
+    "phonetic": {
+      "uk": "/lend/",
+      "us": "/lend/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "lend a hand",
+      "lend money to"
+    ],
+    "examples": [
+      "Can you lend me your pen?",
+      "She agreed to lend him the money."
+    ]
+  },
+  "length": {
+    "definition": "n. 长度，长",
+    "phonetic": {
+      "uk": "/leŋθ/",
+      "us": "/leŋθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at length",
+      "length of time"
+    ],
+    "examples": [
+      "The river is 100 miles in length.",
+      "We discussed the matter at some length."
+    ]
+  },
+  "lens": {
+    "definition": "n. 透镜，镜头",
+    "phonetic": {
+      "uk": "/lenz/",
+      "us": "/lenz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "contact lens",
+      "camera lens"
+    ],
+    "examples": [
+      "She wears contact lenses every day.",
+      "The camera has a zoom lens."
+    ]
+  },
+  "less": {
+    "definition": "adj. 更少的 ad. 更少地",
+    "phonetic": {
+      "uk": "/les/",
+      "us": "/les/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "less than",
+      "more or less"
+    ],
+    "examples": [
+      "I have less money than before.",
+      "Please speak less loudly."
+    ]
+  },
+  "lesson": {
+    "definition": "n. 课程，教训",
+    "phonetic": {
+      "uk": "/ˈles(ə)n/",
+      "us": "/ˈles(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "teach a lesson",
+      "learn a lesson"
+    ],
+    "examples": [
+      "We have a math lesson tomorrow.",
+      "He learned a valuable lesson from his mistake."
+    ]
+  },
+  "let": {
+    "definition": "v. 让，允许，出租",
+    "phonetic": {
+      "uk": "/let/",
+      "us": "/let/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "let go",
+      "let alone"
+    ],
+    "examples": [
+      "Please let me know if you need help.",
+      "Let's go to the movies tonight."
+    ]
+  },
+  "letter": {
+    "definition": "n. 信件，字母",
+    "phonetic": {
+      "uk": "/ˈletə(r)/",
+      "us": "/ˈletər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "write a letter",
+      "capital letter"
+    ],
+    "examples": [
+      "She wrote a letter to her friend.",
+      "There are 26 letters in the English alphabet."
+    ]
+  },
+  "level": {
+    "definition": "n. 水平，等级，楼层 adj. 平坦的 v. 弄平",
+    "phonetic": {
+      "uk": "/ˈlev(ə)l/",
+      "us": "/ˈlev(ə)l/"
+    },
+    "partOfSpeech": "n., adj., v.",
+    "phrases": [
+      "high level",
+      "sea level"
+    ],
+    "examples": [
+      "The water level is rising.",
+      "She reached a new level in the game."
+    ]
+  },
+  "liberty": {
+    "definition": "n. 自由，许可",
+    "phonetic": {
+      "uk": "/ˈlɪbə(r)ti/",
+      "us": "/ˈlɪbərti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at liberty",
+      "Statue of Liberty"
+    ],
+    "examples": [
+      "They fought for liberty and justice.",
+      "You are at liberty to leave whenever you want."
+    ]
+  },
+  "library": {
+    "definition": "n. 图书馆",
+    "phonetic": {
+      "uk": "/ˈlaɪbrəri/",
+      "us": "/ˈlaɪbreri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public library",
+      "card catalog"
+    ],
+    "examples": [
+      "I study at the library every weekend.",
+      "The library has a large collection of books."
+    ]
+  },
+  "license": {
+    "definition": "n. 执照，许可证 vt. 许可，发执照",
+    "phonetic": {
+      "uk": "/ˈlaɪs(ə)ns/",
+      "us": "/ˈlaɪs(ə)ns/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "driver's license",
+      "business license"
+    ],
+    "examples": [
+      "You need a license to drive a car.",
+      "The restaurant is licensed to serve alcohol."
+    ]
+  },
+  "lie": {
+    "definition": "v. 躺，位于 n. 谎言",
+    "phonetic": {
+      "uk": "/laɪ/",
+      "us": "/laɪ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "lie down",
+      "tell a lie"
+    ],
+    "examples": [
+      "Go lie down on the bed if you're tired.",
+      "She told him a lie to protect his feelings."
+    ]
+  },
+  "life": {
+    "definition": "n. 生命，生活，一生",
+    "phonetic": {
+      "uk": "/laɪf/",
+      "us": "/laɪf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "life expectancy",
+      "all one's life"
+    ],
+    "examples": [
+      "Life is full of surprises.",
+      "She enjoys a simple life in the countryside."
+    ]
+  },
+  "lifetime": {
+    "definition": "n. 一生，终生",
+    "phonetic": {
+      "uk": "/ˈlaɪftaɪm/",
+      "us": "/ˈlaɪftaɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lifetime membership",
+      "once in a lifetime"
+    ],
+    "examples": [
+      "It was a once in a lifetime opportunity.",
+      "He dedicated his lifetime to scientific research."
+    ]
+  },
+  "lift": {
+    "definition": "v. 举起，提升 n. 电梯，举起",
+    "phonetic": {
+      "uk": "/lɪft/",
+      "us": "/lɪft/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "give someone a lift",
+      "lift up"
+    ],
+    "examples": [
+      "Can you help me lift this heavy box?",
+      "We took the lift to the tenth floor."
+    ]
+  },
+  "light": {
+    "definition": "n. 光，光亮 adj. 明亮的，轻的 v. 点燃，照亮",
+    "phonetic": {
+      "uk": "/laɪt/",
+      "us": "/laɪt/"
+    },
+    "partOfSpeech": "n., adj., v.",
+    "phrases": [
+      "turn on the light",
+      "light blue"
+    ],
+    "examples": [
+      "The room is filled with natural light.",
+      "Please light the candle."
+    ]
+  },
+  "lightning": {
+    "definition": "n. 闪电",
+    "phonetic": {
+      "uk": "/ˈlaɪtnɪŋ/",
+      "us": "/ˈlaɪtnɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lightning bolt",
+      "lightning strike"
+    ],
+    "examples": [
+      "The storm brought thunder and lightning.",
+      "A bolt of lightning struck the tree."
+    ]
+  },
+  "like": {
+    "definition": "v. 喜欢 prep. 像，类似 n. 喜爱的事物",
+    "phonetic": {
+      "uk": "/laɪk/",
+      "us": "/laɪk/"
+    },
+    "partOfSpeech": "v., prep., n.",
+    "phrases": [
+      "would like",
+      "look like"
+    ],
+    "examples": [
+      "I like reading books in my free time.",
+      "She runs like the wind."
+    ]
+  },
+  "likely": {
+    "definition": "adj. 可能的，有希望的 ad. 可能",
+    "phonetic": {
+      "uk": "/ˈlaɪkli/",
+      "us": "/ˈlaɪkli/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "most likely",
+      "very likely"
+    ],
+    "examples": [
+      "It's likely to rain this afternoon.",
+      "She will most likely accept the offer."
+    ]
+  },
+  "likeness": {
+    "definition": "n. 相似，相像",
+    "phonetic": {
+      "uk": "/ˈlaɪknəs/",
+      "us": "/ˈlaɪknəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "striking likeness",
+      "family likeness"
+    ],
+    "examples": [
+      "The portrait is a good likeness of her.",
+      "There is a strong family likeness between them."
+    ]
+  },
+  "limit": {
+    "definition": "n. 限制，界限 vt. 限制",
+    "phonetic": {
+      "uk": "/ˈlɪmɪt/",
+      "us": "/ˈlɪmɪt/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "time limit",
+      "speed limit"
+    ],
+    "examples": [
+      "There is a limit on the amount you can borrow.",
+      "We should try to limit our expenses."
+    ]
+  },
+  "line": {
+    "definition": "n. 线，线路，行 v. 排队",
+    "phonetic": {
+      "uk": "/laɪn/",
+      "us": "/laɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in line",
+      "draw a line"
+    ],
+    "examples": [
+      "Please stand in line.",
+      "The text is on the third line."
+    ]
+  },
+  "link": {
+    "definition": "v. 连接，联系 n. 环节，链接",
+    "phonetic": {
+      "uk": "/lɪŋk/",
+      "us": "/lɪŋk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "link to",
+      "missing link"
+    ],
+    "examples": [
+      "The bridge links the two islands.",
+      "Click on this link to visit the website."
+    ]
+  },
+  "lion": {
+    "definition": "n. 狮子",
+    "phonetic": {
+      "uk": "/ˈlaɪən/",
+      "us": "/ˈlaɪən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lion king",
+      "sea lion"
+    ],
+    "examples": [
+      "The lion is known as the king of animals.",
+      "They saw lions on safari in Africa."
+    ]
+  },
+  "lip": {
+    "definition": "n. 嘴唇",
+    "phonetic": {
+      "uk": "/lɪp/",
+      "us": "/lɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "upper lip",
+      "bite one's lip"
+    ],
+    "examples": [
+      "She bit her lip nervously.",
+      "He applied ChapStick to his dry lips."
+    ]
+  },
+  "liquid": {
+    "definition": "n. 液体 adj. 液体的，流动的",
+    "phonetic": {
+      "uk": "/ˈlɪkwɪd/",
+      "us": "/ˈlɪkwɪd/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "liquid soap",
+      "liquid gold"
+    ],
+    "examples": [
+      "Water is a clear liquid.",
+      "The company manufactures liquid detergents."
+    ]
+  },
+  "list": {
+    "definition": "n. 列表，名单 v. 列出",
+    "phonetic": {
+      "uk": "/lɪst/",
+      "us": "/lɪst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "make a list",
+      "shopping list"
+    ],
+    "examples": [
+      "Please make a list of required items.",
+      "The teacher listed the homework assignments."
+    ]
+  },
+  "listen": {
+    "definition": "vi. 听，倾听",
+    "phonetic": {
+      "uk": "/ˈlɪs(ə)n/",
+      "us": "/ˈlɪs(ə)n/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "listen to",
+      "listen carefully"
+    ],
+    "examples": [
+      "Please listen to me carefully.",
+      "She enjoys listening to classical music."
+    ]
+  },
+  "liter": {
+    "definition": "n. 公升（容量单位）",
+    "phonetic": {
+      "uk": "/ˈliːtə(r)/",
+      "us": "/ˈliːtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "liter of water",
+      "two liters"
+    ],
+    "examples": [
+      "The bottle contains 2 liters of soda.",
+      "The car's engine consumes 10 liters per 100km."
+    ]
+  },
+  "literary": {
+    "definition": "adj. 文学的，书卷气的",
+    "phonetic": {
+      "uk": "/ˈlɪtərəri/",
+      "us": "/ˈlɪtəreri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "literary work",
+      "literary critic"
+    ],
+    "examples": [
+      "She is studying literary classics.",
+      "The novel won several literary awards."
+    ]
+  },
+  "literature": {
+    "definition": "n. 文学，文献",
+    "phonetic": {
+      "uk": "/ˈlɪtrətʃə(r)/",
+      "us": "/ˈlɪtrətʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "English literature",
+      "literature review"
+    ],
+    "examples": [
+      "She has a degree in English literature.",
+      "The professor asked students to review the literature."
+    ]
+  },
+  "little": {
+    "definition": "adj. 小的，少的 ad. 稍微",
+    "phonetic": {
+      "uk": "/ˈlɪt(ə)l/",
+      "us": "/ˈlɪt(ə)l/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "a little",
+      "little by little"
+    ],
+    "examples": [
+      "I have a little time before my meeting.",
+      "Little by little, the situation improved."
+    ]
+  },
+  "live": {
+    "definition": "v. 居住，生存 adj. 现场直播的，活的 ad. 直播地",
+    "phonetic": {
+      "uk": "/lɪv/",
+      "us": "/lɪv/"
+    },
+    "partOfSpeech": "v., adj., ad.",
+    "phrases": [
+      "live in",
+      "live broadcast"
+    ],
+    "examples": [
+      "She lives in London.",
+      "We watched the football match live on TV."
+    ]
+  },
+  "lively": {
+    "definition": "adj. 活泼的，生动的，有生气的",
+    "phonetic": {
+      "uk": "/ˈlaɪvli/",
+      "us": "/ˈlaɪvli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "lively discussion",
+      "lively atmosphere"
+    ],
+    "examples": [
+      "The children are very lively today.",
+      "We had a lively debate about the issue."
+    ]
+  },
+  "liver": {
+    "definition": "n. 肝脏",
+    "phonetic": {
+      "uk": "/ˈlɪvə(r)/",
+      "us": "/ˈlɪvər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "liver disease",
+      "chicken liver"
+    ],
+    "examples": [
+      "Alcohol can damage your liver.",
+      "The liver is an important organ for digestion."
+    ]
+  },
+  "living": {
+    "definition": "adj. 活着的，现存的 n. 生活，生计",
+    "phonetic": {
+      "uk": "/ˈlɪvɪŋ/",
+      "us": "/ˈlɪvɪŋ/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "living room",
+      "make a living"
+    ],
+    "examples": [
+      "They are all living happily together.",
+      "He earns his living as a painter."
+    ]
+  },
+  "load": {
+    "definition": "n. 负荷，负担 v. 装载，装填",
+    "phonetic": {
+      "uk": "/ləʊd/",
+      "us": "/loʊd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "load of",
+      "workload"
+    ],
+    "examples": [
+      "The truck carries a heavy load.",
+      "Please help me load these boxes into the car."
+    ]
+  },
+  "loaf": {
+    "definition": "n. 一条面包 vi. 游荡，虚度光阴",
+    "phonetic": {
+      "uk": "/ləʊf/",
+      "us": "/loʊf/"
+    },
+    "partOfSpeech": "n., vi.",
+    "phrases": [
+      "loaf of bread",
+      "meatloaf"
+    ],
+    "examples": [
+      "She bought a fresh loaf of bread.",
+      "Don't loaf around all day."
+    ]
+  },
+  "loan": {
+    "definition": "n. 贷款，借出 v. 借出",
+    "phonetic": {
+      "uk": "/ləʊn/",
+      "us": "/loʊn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "bank loan",
+      "student loan"
+    ],
+    "examples": [
+      "She applied for a car loan.",
+      "Can you loan me some money?"
+    ]
+  },
+  "lobby": {
+    "definition": "n. 大厅，门廊 v. 游说",
+    "phonetic": {
+      "uk": "/ˈlɒbi/",
+      "us": "/ˈlɑːbi/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "hotel lobby",
+      "lobby for"
+    ],
+    "examples": [
+      "Wait for me in the hotel lobby.",
+      "Environmental groups lobby for stricter laws."
+    ]
+  },
+  "local": {
+    "definition": "adj. 当地的，局部的 n. 当地人",
+    "phonetic": {
+      "uk": "/ˈləʊk(ə)l/",
+      "us": "/ˈloʊk(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "local government",
+      "local area"
+    ],
+    "examples": [
+      "We visited the local museum.",
+      "The locals are very friendly."
+    ]
+  },
+  "locate": {
+    "definition": "v. 定位，位于",
+    "phonetic": {
+      "uk": "/ləʊˈkeɪt/",
+      "us": "/ˈloʊkeɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "locate in",
+      "be located"
+    ],
+    "examples": [
+      "Can you help me locate the restaurant?",
+      "The hotel is located near the beach."
+    ]
+  },
+  "location": {
+    "definition": "n. 位置，地点",
+    "phonetic": {
+      "uk": "/ləʊˈkeɪʃ(ə)n/",
+      "us": "/loʊˈkeɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ideal location",
+      "film location"
+    ],
+    "examples": [
+      "The location of the meeting has changed.",
+      "This house is in a great location."
+    ]
+  },
+  "lock": {
+    "definition": "n. 锁 v. 锁，固定",
+    "phonetic": {
+      "uk": "/lɒk/",
+      "us": "/lɑːk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "lock up",
+      "lock the door"
+    ],
+    "examples": [
+      "Please lock the door when you leave.",
+      "The lock is jammed and won't open."
+    ]
+  },
+  "lodge": {
+    "definition": "n. 小屋，旅社 v. 住宿，存放",
+    "phonetic": {
+      "uk": "/lɒdʒ/",
+      "us": "/lɑːdʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "lodge a complaint",
+      "ski lodge"
+    ],
+    "examples": [
+      "We stayed at a mountain lodge.",
+      "He lodged a formal complaint about the noise."
+    ]
+  },
+  "log": {
+    "definition": "n. 原木，日志 v. 记录，登录",
+    "phonetic": {
+      "uk": "/lɒɡ/",
+      "us": "/lɔːɡ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sleep like a log",
+      "log in"
+    ],
+    "examples": [
+      "He cut logs for the fire.",
+      "Please log into your account."
+    ]
+  },
+  "logic": {
+    "definition": "n. 逻辑，逻辑学",
+    "phonetic": {
+      "uk": "/ˈlɒdʒɪk/",
+      "us": "/ˈlɑːdʒɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mathematical logic",
+      "digital logic"
+    ],
+    "examples": [
+      "Her argument was based on sound logic.",
+      "Logic is important in computer programming."
+    ]
+  },
+  "logical": {
+    "definition": "adj. 逻辑的，合乎逻辑的",
+    "phonetic": {
+      "uk": "/ˈlɒdʒɪk(ə)l/",
+      "us": "/ˈlɑːdʒɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "logical conclusion",
+      "logical thinking"
+    ],
+    "examples": [
+      "It's logical to save money for emergencies.",
+      "She made a logical decision based on facts."
+    ]
+  },
+  "long": {
+    "definition": "adj. 长的，长期的 ad. 长久 vi. 渴望",
+    "phonetic": {
+      "uk": "/lɒŋ/",
+      "us": "/lɔːŋ/"
+    },
+    "partOfSpeech": "adj., ad., vi.",
+    "phrases": [
+      "long time",
+      "long for"
+    ],
+    "examples": [
+      "It's a long journey home.",
+      "She longed to see her family again."
+    ]
+  },
+  "look": {
+    "definition": "v. 看，看起来 n. 看，外表",
+    "phonetic": {
+      "uk": "/lʊk/",
+      "us": "/lʊk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "look at",
+      "look for"
+    ],
+    "examples": [
+      "Please look at the board.",
+      "She looks beautiful today."
+    ]
+  },
+  "loop": {
+    "definition": "n. 环，圈 v. 成圈，打环",
+    "phonetic": {
+      "uk": "/luːp/",
+      "us": "/luːp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in the loop",
+      "loop around"
+    ],
+    "examples": [
+      "The rope formed a loop.",
+      "Keep me in the loop about project updates."
+    ]
+  },
+  "loose": {
+    "definition": "adj. 松散的，宽松的，自由的",
+    "phonetic": {
+      "uk": "/luːs/",
+      "us": "/luːs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "on the loose",
+      "let loose"
+    ],
+    "examples": [
+      "The button is loose.",
+      "Wear comfortable loose clothes."
+    ]
+  },
+  "lord": {
+    "definition": "n. 领主，大臣，上帝",
+    "phonetic": {
+      "uk": "/lɔːd/",
+      "us": "/lɔːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Lord of the Rings",
+      "thank the Lord"
+    ],
+    "examples": [
+      "The lord of the castle welcomed the guests.",
+      "May the Lord bless you."
+    ]
+  },
+  "lorry": {
+    "definition": "n. 卡车，货车",
+    "phonetic": {
+      "uk": "/ˈlɒri/",
+      "us": "/ˈlɔːri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "delivery lorry",
+      "lorry driver"
+    ],
+    "examples": [
+      "A huge lorry passed us on the highway.",
+      "He works as a lorry driver."
+    ]
+  },
+  "lose": {
+    "definition": "v. 失去，输掉，迷失",
+    "phonetic": {
+      "uk": "/luːz/",
+      "us": "/luːz/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "lose weight",
+      "lose one's way"
+    ],
+    "examples": [
+      "I hope we don't lose the match.",
+      "She lost her keys yesterday."
+    ]
+  },
+  "loss": {
+    "definition": "n. 损失，失败，亏损",
+    "phonetic": {
+      "uk": "/lɒs/",
+      "us": "/lɔːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at a loss",
+      "net loss"
+    ],
+    "examples": [
+      "The fire caused a great loss of property.",
+      "The company reported a financial loss this year."
+    ]
+  },
+  "lot": {
+    "definition": "n. 许多， lot，场地",
+    "phonetic": {
+      "uk": "/lɒt/",
+      "us": "/lɑːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "a lot of",
+      "parking lot"
+    ],
+    "examples": [
+      "I have a lot of work to do.",
+      "The parking lot is full."
+    ]
+  }
+}
