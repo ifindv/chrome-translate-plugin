@@ -1,0 +1,2578 @@
+{
+  "owing": {
+    "definition": "adj. 欠着的，应付的",
+    "phonetic": {
+      "uk": "/ˈəʊɪŋ/",
+      "us": "/ˈoʊɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "owing to",
+      "money owing"
+    ],
+    "examples": [
+      "The flight was cancelled owing to bad weather.",
+      "There is money owing to the bank."
+    ]
+  },
+  "own": {
+    "definition": "adj. 自己的 v. 拥有",
+    "phonetic": {
+      "uk": "/əʊn/",
+      "us": "/oʊn/"
+    },
+    "partOfSpeech": "adj., v.",
+    "phrases": [
+      "on one's own",
+      "of one's own"
+    ],
+    "examples": [
+      "I want my own room.",
+      "She owns a small business."
+    ]
+  },
+  "owner": {
+    "definition": "n. 物主，所有人",
+    "phonetic": {
+      "uk": "/ˈəʊnə(r)/",
+      "us": "/ˈoʊnər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "business owner",
+      "car owner"
+    ],
+    "examples": [
+      "The owner of the restaurant is very friendly.",
+      "Who is the owner of this car?"
+    ]
+  },
+  "ownership": {
+    "definition": "n. 所有权，物主身份",
+    "phonetic": {
+      "uk": "/ˈəʊnəʃɪp/",
+      "us": "/ˈoʊnərʃɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "home ownership",
+      "full ownership"
+    ],
+    "examples": [
+      "Home ownership is a dream for many.",
+      "The company has transferred ownership."
+    ]
+  },
+  "ox": {
+    "definition": "n. 公牛",
+    "phonetic": {
+      "uk": "/ɒks/",
+      "us": "/ɑːks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "strong as an ox",
+      "ox cart"
+    ],
+    "examples": [
+      "The ox is used for plowing fields.",
+      "He is as strong as an ox."
+    ]
+  },
+  "pace": {
+    "definition": "n. 步调，速度 v. 踱步",
+    "phonetic": {
+      "uk": "/peɪs/",
+      "us": "/peɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "at a slow pace",
+      "keep pace"
+    ],
+    "examples": [
+      "She walked at a slow pace.",
+      "Can you pace the hallway?"
+    ]
+  },
+  "pack": {
+    "definition": "v. 包装，打包 n. 包，一群",
+    "phonetic": {
+      "uk": "/pæk/",
+      "us": "/pæk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pack up",
+      "pack of wolves"
+    ],
+    "examples": [
+      "Please pack your bags carefully.",
+      "A pack of wolves roamed the forest."
+    ]
+  },
+  "package": {
+    "definition": "n. 包裹，包 v. 打包",
+    "phonetic": {
+      "uk": "/ˈpækɪdʒ/",
+      "us": "/ˈpækɪdʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "package deal",
+      "holiday package"
+    ],
+    "examples": [
+      "I received a package from Amazon.",
+      "We bought a holiday package to Europe."
+    ]
+  },
+  "packet": {
+    "definition": "n. 小包，小盒",
+    "phonetic": {
+      "uk": "/ˈpækɪt/",
+      "us": "/ˈpækɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "packet of cigarettes",
+      "data packet"
+    ],
+    "examples": [
+      "She bought a packet of gum.",
+      "Data is sent in packets over the network."
+    ]
+  },
+  "pad": {
+    "definition": "n. 垫子，便笺簿 v. 填塞",
+    "phonetic": {
+      "uk": "/pæd/",
+      "us": "/pæd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "note pad",
+      "knee pad"
+    ],
+    "examples": [
+      "She wrote notes on her pad.",
+      "He wore knee pads for roller skating."
+    ]
+  },
+  "page": {
+    "definition": "n. 页 v. 标记页码",
+    "phonetic": {
+      "uk": "/peɪdʒ/",
+      "us": "/peɪdʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "turn the page",
+      "front page"
+    ],
+    "examples": [
+      "Please turn to page 10.",
+      "The story was on the front page of the newspaper."
+    ]
+  },
+  "pail": {
+    "definition": "n. 提桶",
+    "phonetic": {
+      "uk": "/peɪl/",
+      "us": "/peɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "water pail",
+      "fill the pail"
+    ],
+    "examples": [
+      "The child carried a pail of water.",
+      "Fill the pail with sand."
+    ]
+  },
+  "pain": {
+    "definition": "n. 痛，痛苦 vt. 使痛苦",
+    "phonetic": {
+      "uk": "/peɪn/",
+      "us": "/peɪn/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "in pain",
+      "take pains"
+    ],
+    "examples": [
+      "He felt a sharp pain in his chest.",
+      "The news caused her great pain."
+    ]
+  },
+  "painful": {
+    "definition": "adj. 痛苦的，疼痛的",
+    "phonetic": {
+      "uk": "/ˈpeɪnf(ə)l/",
+      "us": "/ˈpeɪnf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "painful experience",
+      "painful lesson"
+    ],
+    "examples": [
+      "The injury was very painful.",
+      "It was a painful decision to make."
+    ]
+  },
+  "paint": {
+    "definition": "n. 油漆，颜料 v. 油漆，绘画",
+    "phonetic": {
+      "uk": "/peɪnt/",
+      "us": "/peɪnt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "oil paint",
+      "paint a picture"
+    ],
+    "examples": [
+      "She likes to paint landscapes.",
+      "The paint on the walls is peeling."
+    ]
+  },
+  "painter": {
+    "definition": "n. 画家，油漆工",
+    "phonetic": {
+      "uk": "/ˈpeɪntə(r)/",
+      "us": "/ˈpeɪntər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "famous painter",
+      "house painter"
+    ],
+    "examples": [
+      "Van Gogh was a famous painter.",
+      "The painter will finish the work tomorrow."
+    ]
+  },
+  "painting": {
+    "definition": "n. 画，绘画，油漆",
+    "phonetic": {
+      "uk": "/ˈpeɪntɪŋ/",
+      "us": "/ˈpeɪntɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "oil painting",
+      "modern paintings"
+    ],
+    "examples": [
+      "The museum has many beautiful paintings.",
+      "She took up painting as a hobby."
+    ]
+  },
+  "pair": {
+    "definition": "n. 一对，一双 v. 成对",
+    "phonetic": {
+      "uk": "/peə(r)/",
+      "us": "/per/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pair of shoes",
+      "pair up"
+    ],
+    "examples": [
+      "I need a new pair of shoes.",
+      "Please pair the students for the activity."
+    ]
+  },
+  "palace": {
+    "definition": "n. 宫殿，豪华住宅",
+    "phonetic": {
+      "uk": "/ˈpæləs/",
+      "us": "/ˈpæləs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "royal palace",
+      "crystal palace"
+    ],
+    "examples": [
+      "The king lived in a magnificent palace.",
+      "They toured the palace grounds."
+    ]
+  },
+  "pale": {
+    "definition": "adj. 苍白的，浅色的 v. 变苍白",
+    "phonetic": {
+      "uk": "/peɪl/",
+      "us": "/peɪl/"
+    },
+    "partOfSpeech": "adj., v.",
+    "phrases": [
+      "pale face",
+      "beyond the pale"
+    ],
+    "examples": [
+      "Her face turned pale with fear.",
+      "She wore a pale blue dress."
+    ]
+  },
+  "palm": {
+    "definition": "n. 手掌，棕榈树",
+    "phonetic": {
+      "uk": "/pɑːm/",
+      "us": "/pɑːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "palm tree",
+      "in the palm of one's hand"
+    ],
+    "examples": [
+      "The palm trees lined the beach.",
+      "He held the coin in the palm of his hand."
+    ]
+  },
+  "pan": {
+    "definition": "n. 平底锅，盘子 v. 摇镜头，淘金",
+    "phonetic": {
+      "uk": "/pæn/",
+      "us": "/pæn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "frying pan",
+      "pan out"
+    ],
+    "examples": [
+      "She cooked eggs in a frying pan.",
+      "Let's hope the plan pans out."
+    ]
+  },
+  "panel": {
+    "definition": "n. 面，板，小组委员会",
+    "phonetic": {
+      "uk": "/ˈpæn(ə)l/",
+      "us": "/ˈpæn(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "solar panel",
+      "control panel"
+    ],
+    "examples": [
+      "The house has solar panels on the roof.",
+      "She was on the panel of judges."
+    ]
+  },
+  "panic": {
+    "definition": "n. 恐慌，惊慌 v. 使恐慌",
+    "phonetic": {
+      "uk": "/ˈpænɪk/",
+      "us": "/ˈpænɪk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "panic attack",
+      "cause panic"
+    ],
+    "examples": [
+      "Don't panic when the fire alarm sounds.",
+      "The news caused widespread panic."
+    ]
+  },
+  "pant": {
+    "definition": "v. 气喘 n. 气喘，裤子",
+    "phonetic": {
+      "uk": "/pænt/",
+      "us": "/pænt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pants",
+      "pant for breath"
+    ],
+    "examples": [
+      "He was panting after the long run.",
+      "She wore comfortable pants."
+    ]
+  },
+  "paper": {
+    "definition": "n. 纸，报纸，论文 adj. 纸做的",
+    "phonetic": {
+      "uk": "/ˈpeɪpə(r)/",
+      "us": "/ˈpeɪpər/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "newspaper",
+      "research paper"
+    ],
+    "examples": [
+      "Please write your name on this piece of paper.",
+      "She submitted her research paper yesterday."
+    ]
+  },
+  "parade": {
+    "definition": "n. 游行，列队 v. 游行",
+    "phonetic": {
+      "uk": "/pəˈreɪd/",
+      "us": "/pəˈreɪd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "victory parade",
+      "parade street"
+    ],
+    "examples": [
+      "The victory parade attracted thousands of spectators.",
+      "They marched in a parade."
+    ]
+  },
+  "paradise": {
+    "definition": "n. 天堂，乐土",
+    "phonetic": {
+      "uk": "/ˈpærədaɪs/",
+      "us": "/ˈpærədaɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "paradise on earth",
+      "lost paradise"
+    ],
+    "examples": [
+      "The island is a paradise for nature lovers.",
+      "This place is like paradise."
+    ]
+  },
+  "paragraph": {
+    "definition": "n. 段落，节",
+    "phonetic": {
+      "uk": "/ˈpærəɡrɑːf/",
+      "us": "/ˈpærəɡræf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "first paragraph",
+      "short paragraph"
+    ],
+    "examples": [
+      "Please write the second paragraph more clearly.",
+      "The essay is divided into three paragraphs."
+    ]
+  },
+  "parallel": {
+    "definition": "adj. 平行的，相似的 n. 平行线",
+    "phonetic": {
+      "uk": "/ˈpærəlel/",
+      "us": "/ˈpærəlel/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "parallel lines",
+      "run parallel"
+    ],
+    "examples": [
+      "The two roads run parallel to each other.",
+      "Their careers followed parallel paths."
+    ]
+  },
+  "parameter": {
+    "definition": "n. 参数，参量",
+    "phonetic": {
+      "uk": "/pəˈræmɪtə(r)/",
+      "us": "/pəˈræmɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "parameter setting",
+      "input parameter"
+    ],
+    "examples": [
+      "You need to adjust the parameters.",
+      "The function takes two parameters."
+    ]
+  },
+  "parent": {
+    "definition": "n. 父亲，母亲，双亲",
+    "phonetic": {
+      "uk": "/ˈpeərənt/",
+      "us": "/ˈperənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "single parent",
+      "parent company"
+    ],
+    "examples": [
+      "She lives with her parents.",
+      "The parent company is based in New York."
+    ]
+  },
+  "park": {
+    "definition": "n. 公园，停车场 v. 停放车辆",
+    "phonetic": {
+      "uk": "/pɑːk/",
+      "us": "/pɑːrk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "national park",
+      "park the car"
+    ],
+    "examples": [
+      "We went for a walk in the park.",
+      "Where can I park my car?"
+    ]
+  },
+  "parliament": {
+    "definition": "n. 议会，国会",
+    "phonetic": {
+      "uk": "/ˈpɑːləmənt/",
+      "us": "/ˈpɑːrləmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "member of parliament",
+      "parliament building"
+    ],
+    "examples": [
+      "The parliament voted on the new law.",
+      "She was elected to the parliament."
+    ]
+  },
+  "part": {
+    "definition": "n. 部分，零件，角色 v. 分开",
+    "phonetic": {
+      "uk": "/pɑːt/",
+      "us": "/pɑːrt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take part",
+      "play a part"
+    ],
+    "examples": [
+      "She played an important part in the project.",
+      "They decided to part ways."
+    ]
+  },
+  "partial": {
+    "definition": "adj. 部分的，偏爱的",
+    "phonetic": {
+      "uk": "/ˈpɑːʃ(ə)l/",
+      "us": "/ˈpɑːrʃ(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "partial payment",
+      "partial recovery"
+    ],
+    "examples": [
+      "They made a partial payment.",
+      "Only a partial recovery is expected."
+    ]
+  },
+  "partially": {
+    "definition": "ad. 部分地区",
+    "phonetic": {
+      "uk": "/ˈpɑːʃəli/",
+      "us": "/ˈpɑːrʃəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "partially completed",
+      "partially true"
+    ],
+    "examples": [
+      "The work is only partially completed.",
+      "His statement was partially true."
+    ]
+  },
+  "participate": {
+    "definition": "vi. 参与，参加",
+    "phonetic": {
+      "uk": "/pɑːˈtɪsɪpeɪt/",
+      "us": "/pɑːrˈtɪsɪpeɪt/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "participate in",
+      "actively participate"
+    ],
+    "examples": [
+      "Everyone should participate in the discussion.",
+      "Students participate in various activities."
+    ]
+  },
+  "participation": {
+    "definition": "n. 参与，加入",
+    "phonetic": {
+      "uk": "/pɑːˌtɪsɪˈpeɪʃ(ə)n/",
+      "us": "/pɑːrˌtɪsɪˈpeɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "student participation",
+      "full participation"
+    ],
+    "examples": [
+      "Her participation was highly appreciated.",
+      "We value your participation in the survey."
+    ]
+  },
+  "particle": {
+    "definition": "n. 粒子，微粒",
+    "phonetic": {
+      "uk": "/ˈpɑːtɪk(ə)l/",
+      "us": "/ˈpɑːrtɪk(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "dust particle",
+      "particle physics"
+    ],
+    "examples": [
+      "Dust particles floated in the air.",
+      "Scientists study subatomic particles."
+    ]
+  },
+  "particular": {
+    "definition": "adj. 特殊的，特定的，挑剔的",
+    "phonetic": {
+      "uk": "/pəˈtɪkjələ(r)/",
+      "us": "/pərˈtɪkjələr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "in particular",
+      "particular about"
+    ],
+    "examples": [
+      "She is very particular about her clothes.",
+      "I liked this song in particular."
+    ]
+  },
+  "particularly": {
+    "definition": "ad. 特别，尤其",
+    "phonetic": {
+      "uk": "/pəˈtɪkjələli/",
+      "us": "/pərˈtɪkjələrli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "particularly good",
+      "particularly interested"
+    ],
+    "examples": [
+      "She is particularly good at mathematics.",
+      "I'm particularly interested in art history."
+    ]
+  },
+  "partly": {
+    "definition": "ad. 部分地区，几分",
+    "phonetic": {
+      "uk": "/ˈpɑːtli/",
+      "us": "/ˈpɑːrtli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "partly responsible",
+      "partly because"
+    ],
+    "examples": [
+      "The failure was partly due to bad weather.",
+      "She is partly to blame for the mistake."
+    ]
+  },
+  "partner": {
+    "definition": "n. 伙伴，合伙人，配偶",
+    "phonetic": {
+      "uk": "/ˈpɑːtnə(r)/",
+      "us": "/ˈpɑːrtnər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "business partner",
+      "life partner"
+    ],
+    "examples": [
+      "He is my business partner.",
+      "They make a good team as partners."
+    ]
+  },
+  "party": {
+    "definition": "n. 党，政党，聚会",
+    "phonetic": {
+      "uk": "/ˈpɑːti/",
+      "us": "/ˈpɑːrti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "political party",
+      "birthday party"
+    ],
+    "examples": [
+      "The political party won the election.",
+      "They are having a party tonight."
+    ]
+  },
+  "pass": {
+    "definition": "v. 经过，传递，通过 n. 通行证，及格",
+    "phonetic": {
+      "uk": "/pɑːs/",
+      "us": "/pæs/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pass by",
+      "pass the exam"
+    ],
+    "examples": [
+      "Please pass the salt.",
+      "I hope I pass the exam."
+    ]
+  },
+  "passage": {
+    "definition": "n. 通道，段落，一段路程",
+    "phonetic": {
+      "uk": "/ˈpæsɪdʒ/",
+      "us": "/ˈpæsɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "narrow passage",
+      "reading passage"
+    ],
+    "examples": [
+      "The book contains a famous passage.",
+      "They found a secret passage in the castle."
+    ]
+  },
+  "passenger": {
+    "definition": "n. 乘客，旅客",
+    "phonetic": {
+      "uk": "/ˈpæsɪndʒə(r)/",
+      "us": "/ˈpæsɪndʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "plane passenger",
+      "train passenger"
+    ],
+    "examples": [
+      "The plane carried 200 passengers.",
+      "She is a frequent passenger on this train."
+    ]
+  },
+  "passerby": {
+    "definition": "n. 过路人",
+    "phonetic": {
+      "uk": "/ˌpɑːsəˈbaɪ/",
+      "us": "/ˌpæsərˈbaɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mere passerby",
+      "accidental passerby"
+    ],
+    "examples": [
+      "The passerby stopped to help.",
+      "He asked the passerby for directions."
+    ]
+  },
+  "passion": {
+    "definition": "n. 激情，热情",
+    "phonetic": {
+      "uk": "/ˈpæʃ(ə)n/",
+      "us": "/ˈpæʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have a passion",
+      "passion for"
+    ],
+    "examples": [
+      "She has a passion for painting.",
+      "Music is his great passion."
+    ]
+  },
+  "passive": {
+    "definition": "adj. 被动的，消极的",
+    "phonetic": {
+      "uk": "/ˈpæsɪv/",
+      "us": "/ˈpæsɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "passive voice",
+      "passive smoker"
+    ],
+    "examples": [
+      "The verb is in the passive voice.",
+      "He is a passive observer."
+    ]
+  },
+  "passport": {
+    "definition": "n. 护照",
+    "phonetic": {
+      "uk": "/ˈpɑːspɔːt/",
+      "us": "/ˈpæspɔːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "renew passport",
+      "visa and passport"
+    ],
+    "examples": [
+      "I need to renew my passport.",
+      "Do you have your passport with you?"
+    ]
+  },
+  "past": {
+    "definition": "adj. 过去的 n. 过去 prep. 经过",
+    "phonetic": {
+      "uk": "/pɑːst/",
+      "us": "/pæst/"
+    },
+    "partOfSpeech": "adj., n., prep.",
+    "phrases": [
+      "in the past",
+      "past midnight"
+    ],
+    "examples": [
+      "She reflected on her past.",
+      "It's past midnight already."
+    ]
+  },
+  "paste": {
+    "definition": "n. 糊，浆糊 v. 粘贴，裱糊",
+    "phonetic": {
+      "uk": "/peɪst/",
+      "us": "/peɪst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "paste into",
+      "tooth paste"
+    ],
+    "examples": [
+      "Please paste the text into the document.",
+      "Put some paste on the paper."
+    ]
+  },
+  "pat": {
+    "definition": "v. 轻拍，抚摸 n. 轻拍",
+    "phonetic": {
+      "uk": "/pæt/",
+      "us": "/pæt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pat on the back",
+      "pat gently"
+    ],
+    "examples": [
+      "She patted the dog on the head.",
+      "Give yourself a pat on the back."
+    ]
+  },
+  "patch": {
+    "definition": "n. 补丁，小块土地 v. 修补",
+    "phonetic": {
+      "uk": "/pætʃ/",
+      "us": "/pætʃ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "patch up",
+      "cabbage patch"
+    ],
+    "examples": [
+      "She patched the torn shirt.",
+      "We need to patch up our differences."
+    ]
+  },
+  "path": {
+    "definition": "n. 路，小径，路程",
+    "phonetic": {
+      "uk": "/pɑːθ/",
+      "us": "/pæθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "career path",
+      "follow the path"
+    ],
+    "examples": [
+      "We followed the path through the forest.",
+      "Choose your career path carefully."
+    ]
+  },
+  "patience": {
+    "definition": "n. 耐心，忍耐",
+    "phonetic": {
+      "uk": "/ˈpeɪʃ(ə)ns/",
+      "us": "/ˈpeɪʃ(ə)ns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have patience",
+      "lose patience"
+    ],
+    "examples": [
+      "Teaching requires a lot of patience.",
+      "I'm running out of patience."
+    ]
+  },
+  "patient": {
+    "definition": "adj. 有耐心的 n. 病人",
+    "phonetic": {
+      "uk": "/ˈpeɪʃ(ə)nt/",
+      "us": "/ˈpeɪʃ(ə)nt/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "be patient",
+      "patient care"
+    ],
+    "examples": [
+      "Please be patient with the children.",
+      "The doctor examined the patient."
+    ]
+  },
+  "patriotic": {
+    "definition": "adj. 爱国的",
+    "phonetic": {
+      "uk": "/ˌpætriˈɒtɪk/",
+      "us": "/ˌpeɪtriˈɑːtɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "patriotic song",
+      "patriotic feeling"
+    ],
+    "examples": [
+      "The soldiers displayed patriotic spirit.",
+      "Many Americans are proud of their patriotic songs."
+    ]
+  },
+  "patrol": {
+    "definition": "v. 巡逻 n. 巡逻",
+    "phonetic": {
+      "uk": "/pəˈtrəʊl/",
+      "us": "/pəˈtroʊl/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "patrol the streets",
+      "police patrol"
+    ],
+    "examples": [
+      "Police patrol the neighborhood at night.",
+      "The patrol returned safely."
+    ]
+  },
+  "patron": {
+    "definition": "n. 赞助人，老主顾",
+    "phonetic": {
+      "uk": "/ˈpeɪtrən/",
+      "us": "/ˈpeɪtrən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "patron of the arts",
+      "regular patron"
+    ],
+    "examples": [
+      "He is a regular patron of this restaurant.",
+      "The museum thanks its generous patrons."
+    ]
+  },
+  "pattern": {
+    "definition": "n. 模式，图案，样式",
+    "phonetic": {
+      "uk": "/ˈpæt(ə)n/",
+      "us": "/ˈpæt(ə)rn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "follow a pattern",
+      "weather pattern"
+    ],
+    "examples": [
+      "The dress has a floral pattern.",
+      "We noticed a pattern in the data."
+    ]
+  },
+  "pause": {
+    "definition": "v. 暂停，中止 n. 暂停",
+    "phonetic": {
+      "uk": "/pɔːz/",
+      "us": "/pɔːz/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pause for breath",
+      "momentary pause"
+    ],
+    "examples": [
+      "Let's pause for a moment.",
+      "There was a long pause in the conversation."
+    ]
+  },
+  "pave": {
+    "definition": "vt. 铺设，筑路",
+    "phonetic": {
+      "uk": "/peɪv/",
+      "us": "/peɪv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "pave the way",
+      "pave the road"
+    ],
+    "examples": [
+      "This success will pave the way for future opportunities.",
+      "The road is paved with bricks."
+    ]
+  },
+  "paw": {
+    "definition": "n. 爪子",
+    "phonetic": {
+      "uk": "/pɔː/",
+      "us": "/pɔː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cat's paw",
+      "bear paw"
+    ],
+    "examples": [
+      "The cat licked its paw.",
+      "The dog injured its paw."
+    ]
+  },
+  "pay": {
+    "definition": "v. 支付，给予 n. 工资",
+    "phonetic": {
+      "uk": "/peɪ/",
+      "us": "/peɪ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pay back",
+      "pay attention"
+    ],
+    "examples": [
+      "I need to pay the bills.",
+      "She pays attention in class."
+    ]
+  },
+  "payment": {
+    "definition": "n. 支付，付款",
+    "phonetic": {
+      "uk": "/ˈpeɪmənt/",
+      "us": "/ˈpeɪmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a payment",
+      "late payment"
+    ],
+    "examples": [
+      "Please make your payment by Friday.",
+      "The late payment incurred a fee."
+    ]
+  },
+  "pea": {
+    "definition": "n. 豌豆",
+    "phonetic": {
+      "uk": "/piː/",
+      "us": "/piː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "green peas",
+      "sweet pea"
+    ],
+    "examples": [
+      "She planted peas in the garden.",
+      "The soup contains green peas."
+    ]
+  },
+  "peace": {
+    "definition": "n. 和平，平静",
+    "phonetic": {
+      "uk": "/piːs/",
+      "us": "/piːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "world peace",
+      "peace of mind"
+    ],
+    "examples": [
+      "We all want world peace.",
+      "I finally found peace of mind."
+    ]
+  },
+  "peaceful": {
+    "definition": "adj. 和平的，平静的，安宁的",
+    "phonetic": {
+      "uk": "/ˈpiːsfʊl/",
+      "us": "/ˈpiːsf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "peaceful protest",
+      "peaceful place"
+    ],
+    "examples": [
+      "The demonstration was peaceful.",
+      "I enjoy the peaceful atmosphere of the countryside."
+    ]
+  },
+  "peach": {
+    "definition": "n. 桃子，桃树，桃色",
+    "phonetic": {
+      "uk": "/piːtʃ/",
+      "us": "/piːtʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fresh peach",
+      "peach tree"
+    ],
+    "examples": [
+      "She ate a fresh peach for dessert.",
+      "The peach blossoms are beautiful in spring."
+    ]
+  },
+  "peak": {
+    "definition": "n. 山峰，顶点 adj. 最高的",
+    "phonetic": {
+      "uk": "/piːk/",
+      "us": "/piːk/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "mountain peak",
+      "peak hour"
+    ],
+    "examples": [
+      "We reached the peak of the mountain.",
+      "Traffic is heaviest during peak hours."
+    ]
+  },
+  "pear": {
+    "definition": "n. 梨子",
+    "phonetic": {
+      "uk": "/peə(r)/",
+      "us": "/per/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fresh pear",
+      "pear tree"
+    ],
+    "examples": [
+      "A pear is a sweet fruit.",
+      "She picked pears from the tree."
+    ]
+  },
+  "peasant": {
+    "definition": "n. 农民，乡下人",
+    "phonetic": {
+      "uk": "/ˈpez(ə)nt/",
+      "us": "/ˈpez(ə)nt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "peasant farmer",
+      "peasant life"
+    ],
+    "examples": [
+      "The peasants worked the land.",
+      "Peasant life was difficult in those times."
+    ]
+  },
+  "peculiar": {
+    "definition": "adj. 奇怪的，独特的",
+    "phonetic": {
+      "uk": "/pɪˈkjuːliə(r)/",
+      "us": "/pɪˈkjuːliər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "peculiar habit",
+      "peculiar to"
+    ],
+    "examples": [
+      "He has a peculiar way of speaking.",
+      "This bird is peculiar to this region."
+    ]
+  },
+  "peer": {
+    "definition": "n. 同等的人，贵族 v. 凝视",
+    "phonetic": {
+      "uk": "/pɪə(r)/",
+      "us": "/pɪr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "peer pressure",
+      "peer at"
+    ],
+    "examples": [
+      "Young people often face peer pressure.",
+      "She peered through the window."
+    ]
+  },
+  "pen": {
+    "definition": "n. 钢笔，圈，围栏 v. 把...关起来",
+    "phonetic": {
+      "uk": "/pen/",
+      "us": "/pen/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "ballpoint pen",
+      "pig pen"
+    ],
+    "examples": [
+      "Do you have a pen I can borrow?",
+      "The farmers pen the animals at night."
+    ]
+  },
+  "penalty": {
+    "definition": "n. 处罚，罚金",
+    "phonetic": {
+      "uk": "/ˈpenəlti/",
+      "us": "/ˈpenəlti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pay the penalty",
+      "death penalty"
+    ],
+    "examples": [
+      "There is a penalty for late returns.",
+      "The player received a penalty kick."
+    ]
+  },
+  "pencil": {
+    "definition": "n. 铅笔",
+    "phonetic": {
+      "uk": "/ˈpens(ə)l/",
+      "us": "/ˈpens(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lead pencil",
+      "colored pencil"
+    ],
+    "examples": [
+      "She drew a picture with a pencil.",
+      "Please use a pencil for the test."
+    ]
+  },
+  "penny": {
+    "definition": "n. 便士，一分",
+    "phonetic": {
+      "uk": "/ˈpeni/",
+      "us": "/ˈpeni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "penny for your thoughts",
+      "pretty penny"
+    ],
+    "examples": [
+      "It costs a few pennies.",
+      "A penny saved is a penny earned."
+    ]
+  },
+  "pension": {
+    "definition": "n. 养老金，抚恤金",
+    "phonetic": {
+      "uk": "/ˈpenʃ(ə)n/",
+      "us": "/ˈpenʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "retirement pension",
+      "state pension"
+    ],
+    "examples": [
+      "He receives a monthly pension.",
+      "The company provides a pension plan."
+    ]
+  },
+  "people": {
+    "definition": "n. 人，人民，民族",
+    "phonetic": {
+      "uk": "/ˈpiːp(ə)l/",
+      "us": "/ˈpiːp(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young people",
+      "many people"
+    ],
+    "examples": [
+      "Many people attended the concert.",
+      "The people of this country are friendly."
+    ]
+  },
+  "pepper": {
+    "definition": "n. 胡椒，辣椒",
+    "phonetic": {
+      "uk": "/ˈpepə(r)/",
+      "us": "/ˈpepər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "black pepper",
+      "chili pepper"
+    ],
+    "examples": [
+      "Add some pepper to the soup.",
+      "She likes spicy pepper sauce."
+    ]
+  },
+  "per": {
+    "definition": "prep. 每，按照",
+    "phonetic": {
+      "uk": "/pə(r)/",
+      "us": "/pər/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "per cent",
+      "per hour"
+    ],
+    "examples": [
+      "The speed limit is 60 miles per hour.",
+      "The car costs $20,000 per year to run."
+    ]
+  },
+  "perceive": {
+    "definition": "vt. 感知，察觉，认为",
+    "phonetic": {
+      "uk": "/pəˈsiːv/",
+      "us": "/pərˈsiːv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "perceive as",
+      "perceive the problem"
+    ],
+    "examples": [
+      "She is perceived as a strong leader.",
+      "I perceived a change in his attitude."
+    ]
+  },
+  "percent": {
+    "definition": "n. 百分之...",
+    "phonetic": {
+      "uk": "/pəˈsent/",
+      "us": "/pərˈsent/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ten percent",
+      "percent sign"
+    ],
+    "examples": [
+      "Fifty percent of students passed.",
+      "Prices increased by five percent."
+    ]
+  },
+  "percentage": {
+    "definition": "n. 百分比，百分率",
+    "phonetic": {
+      "uk": "/pəˈsentɪdʒ/",
+      "us": "/pərˈsentɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high percentage",
+      "percentage of"
+    ],
+    "examples": [
+      "A large percentage of people voted.",
+      "What percentage of the budget is allocated?"
+    ]
+  },
+  "perception": {
+    "definition": "n. 感知，察觉，看法",
+    "phonetic": {
+      "uk": "/pəˈsepʃ(ə)n/",
+      "us": "/pərˈsepʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public perception",
+      "visual perception"
+    ],
+    "examples": [
+      "Public perception of the company is positive.",
+      "Our perception of reality differs."
+    ]
+  },
+  "perfect": {
+    "definition": "adj. 完美的，完全的 vt. 使完善",
+    "phonetic": {
+      "uk": "/ˈpɜːfɪkt/",
+      "us": "/ˈpɜːrfɪkt/"
+    },
+    "partOfSpeech": "adj., v.",
+    "phrases": [
+      "perfect example",
+      "practice makes perfect"
+    ],
+    "examples": [
+      "The weather is perfect for a picnic.",
+      "She practices to perfect her skills."
+    ]
+  },
+  "perfection": {
+    "definition": "n. 完美，完善",
+    "phonetic": {
+      "uk": "/pəˈfekʃ(ə)n/",
+      "us": "/pərˈfekʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "strive for perfection",
+      "near perfection"
+    ],
+    "examples": [
+      "She strives for perfection in everything.",
+      "The performance was near perfection."
+    ]
+  },
+  "perform": {
+    "definition": "v. 执行，表演，运转",
+    "phonetic": {
+      "uk": "/pəˈfɔːm/",
+      "us": "/pərˈfɔːrm/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "perform a task",
+      "perform on stage"
+    ],
+    "examples": [
+      "She will perform at the concert tonight.",
+      "The surgery was performed successfully."
+    ]
+  },
+  "performance": {
+    "definition": "n. 表演，表现，执行",
+    "phonetic": {
+      "uk": "/pəˈfɔːməns/",
+      "us": "/pərˈfɔːrməns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high performance",
+      "poor performance"
+    ],
+    "examples": [
+      "The athlete gave an excellent performance.",
+      "Her performance at work is outstanding."
+    ]
+  },
+  "perfume": {
+    "definition": "n. 香水，香气",
+    "phonetic": {
+      "uk": "/ˈpɜːfjuːm/",
+      "us": "/pərˈfjuːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wear perfume",
+      "sweet perfume"
+    ],
+    "examples": [
+      "She wears perfume every day.",
+      "The room had a sweet perfume."
+    ]
+  },
+  "perhaps": {
+    "definition": "ad. 也许，可能",
+    "phonetic": {
+      "uk": "/pəˈhæps/",
+      "us": "/pərˈhæps/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "perhaps later",
+      "perhaps not"
+    ],
+    "examples": [
+      "Perhaps we can meet tomorrow.",
+      "It will rain, perhaps not."
+    ]
+  },
+  "period": {
+    "definition": "n. 时期，学时，句号",
+    "phonetic": {
+      "uk": "/ˈpɪəriəd/",
+      "us": "/ˈpɪriəd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "period of time",
+      "history period"
+    ],
+    "examples": [
+      "The Victorian period was interesting.",
+      "Please end your sentences with a period."
+    ]
+  },
+  "permanent": {
+    "definition": "adj. 永久的，持久的",
+    "phonetic": {
+      "uk": "/ˈpɜːmənənt/",
+      "us": "/ˈpɜːrmənənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "permanent address",
+      "permanent job"
+    ],
+    "examples": [
+      "They moved to a permanent address.",
+      "Is this a temporary or permanent position?"
+    ]
+  },
+  "permission": {
+    "definition": "n. 允许，许可",
+    "phonetic": {
+      "uk": "/pəˈmɪʃ(ə)n/",
+      "us": "/pərˈmɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ask for permission",
+      "give permission"
+    ],
+    "examples": [
+      "You need permission to enter.",
+      "The teacher gave permission to leave class."
+    ]
+  },
+  "permit": {
+    "definition": "v. 允许，许可 n. 执照，许可证",
+    "phonetic": {
+      "uk": "/pəˈmɪt/",
+      "us": "/pərˈmɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "work permit",
+      "parking permit"
+    ],
+    "examples": [
+      "Smoking is not permitted in this area.",
+      "Do you have a building permit?"
+    ]
+  },
+  "persist": {
+    "definition": "v. 坚持，持续",
+    "phonetic": {
+      "uk": "/pəˈsɪst/",
+      "us": "/pərˈsɪst/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "persist in",
+      "persist with"
+    ],
+    "examples": [
+      "You must persist in your efforts.",
+      "The rain persists throughout the week."
+    ]
+  },
+  "person": {
+    "definition": "n. 人，身体，人称",
+    "phonetic": {
+      "uk": "/ˈpɜːs(ə)n/",
+      "us": "/ˈpɜːrs(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "young person",
+      "in person"
+    ],
+    "examples": [
+      "Every person has the right to education.",
+      "Please sign the document in person."
+    ]
+  },
+  "personal": {
+    "definition": "adj. 个人的，私人的",
+    "phonetic": {
+      "uk": "/ˈpɜːs(ə)n(ə)l/",
+      "us": "/ˈpɜːrs(ə)n(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "personal experience",
+      "personal belongings"
+    ],
+    "examples": [
+      "This is my personal opinion.",
+      "Don't touch my personal belongings."
+    ]
+  },
+  "personality": {
+    "definition": "n. 个性，品格，名人",
+    "phonetic": {
+      "uk": "/ˌpɜːsəˈnæləti/",
+      "us": "/ˌpɜːrsəˈnæləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "personality trait",
+      "outgoing personality"
+    ],
+    "examples": [
+      "She has a warm personality.",
+      "Personality is important in a leader."
+    ]
+  },
+  "personally": {
+    "definition": "ad. 亲自地，个别地",
+    "phonetic": {
+      "uk": "/ˈpɜːs(ə)nəli/",
+      "us": "/ˈpɜːrs(ə)nəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "personally think",
+      "personally involved"
+    ],
+    "examples": [
+      "I personally like this design better.",
+      "The manager will personally review your application."
+    ]
+  },
+  "personnel": {
+    "definition": "n. 全体人员，人事部门",
+    "phonetic": {
+      "uk": "/ˌpɜːsəˈnel/",
+      "us": "/ˌpɜːrsəˈnel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "personnel department",
+      "military personnel"
+    ],
+    "examples": [
+      "Contact personnel about employment opportunities.",
+      "All personnel must wear safety equipment."
+    ]
+  },
+  "perspective": {
+    "definition": "n. 视角，观点，透视法",
+    "phonetic": {
+      "uk": "/pəˈspektɪv/",
+      "us": "/pərˈspektɪv/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "from my perspective",
+      "broad perspective"
+    ],
+    "examples": [
+      "From my perspective, this is a good idea.",
+      "Try to see things from a different perspective."
+    ]
+  },
+  "persuade": {
+    "definition": "vt. 说服，劝说",
+    "phonetic": {
+      "uk": "/pəˈsweɪd/",
+      "us": "/pərˈsweɪd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "persuade someone to",
+      "hard to persuade"
+    ],
+    "examples": [
+      "She persuaded him to change his mind.",
+      "It's hard to persuade skeptics."
+    ]
+  },
+  "persuasion": {
+    "definition": "n. 说服，劝说，信念",
+    "phonetic": {
+      "uk": "/pəˈsweɪʒ(ə)n/",
+      "us": "/pərˈsweɪʒ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "power of persuasion",
+      "gentle persuasion"
+    ],
+    "examples": [
+      "She used gentle persuasion to get her way.",
+      "His powers of persuasion are impressive."
+    ]
+  },
+  "pet": {
+    "definition": "n. 宠物 v. 爱抚 adj. 宠爱的",
+    "phonetic": {
+      "uk": "/pet/",
+      "us": "/pet/"
+    },
+    "partOfSpeech": "n., v., adj.",
+    "phrases": [
+      "keep a pet",
+      "pet dog"
+    ],
+    "examples": [
+      "Many families keep pets.",
+      "She has a pet cat named Whiskers."
+    ]
+  },
+  "petroleum": {
+    "definition": "n. 石油",
+    "phonetic": {
+      "uk": "/pəˈtrəʊliəm/",
+      "us": "/pəˈtroʊliəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "petroleum industry",
+      "crude petroleum"
+    ],
+    "examples": [
+      "The country exports a lot of petroleum.",
+      "Petroleum is a valuable natural resource."
+    ]
+  },
+  "phase": {
+    "definition": "n. 阶段，方面 v. 分阶段实行",
+    "phonetic": {
+      "uk": "/feɪz/",
+      "us": "/feɪz/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "first phase",
+      "in phase"
+    ],
+    "examples": [
+      "The project is in its second phase.",
+      "We will phase out the old system gradually."
+    ]
+  },
+  "phenomenon": {
+    "definition": "n. 现象，奇迹",
+    "phonetic": {
+      "uk": "/fɪˈnɒmɪnən/",
+      "us": "/fəˈnɑːmɪnən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "natural phenomenon",
+      "social phenomenon"
+    ],
+    "examples": [
+      "Rainbows are a beautiful natural phenomenon.",
+      "This phenomenon has been observed for centuries."
+    ]
+  },
+  "philosopher": {
+    "definition": "n. 哲学家",
+    "phonetic": {
+      "uk": "/fɪˈlɒsəfə(r)/",
+      "us": "/fɪˈlɑːsəfər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "famous philosopher",
+      "Greek philosopher"
+    ],
+    "examples": [
+      "Socrates was a famous Greek philosopher.",
+      "The philosopher wrote many books."
+    ]
+  },
+  "philosophy": {
+    "definition": "n. 哲学，人生观，原理",
+    "phonetic": {
+      "uk": "/fɪˈlɒsəfi/",
+      "us": "/fɪˈlɑːsəfi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "study philosophy",
+      "philosophy of life"
+    ],
+    "examples": [
+      "He studied philosophy at university.",
+      "Her philosophy is to be kind to everyone."
+    ]
+  },
+  "phone": {
+    "definition": "n. 电话，耳机 v. 打电话",
+    "phonetic": {
+      "uk": "/fəʊn/",
+      "us": "/foʊn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "cell phone",
+      "phone number"
+    ],
+    "examples": [
+      "Please answer the phone.",
+      "She phoned me last night."
+    ]
+  },
+  "photo": {
+    "definition": "n. 照片",
+    "phonetic": {
+      "uk": "/ˈfəʊtəʊ/",
+      "us": "/ˈfoʊtoʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take a photo",
+      "family photo"
+    ],
+    "examples": [
+      "Let me take a photo of you.",
+      "This is a photo of my family."
+    ]
+  },
+  "photograph": {
+    "definition": "n. 照片 v. 拍摄",
+    "phonetic": {
+      "uk": "/ˈfəʊtəɡrɑːf/",
+      "us": "/ˈfoʊtəɡræf/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take a photograph",
+      "color photograph"
+    ],
+    "examples": [
+      "She photographed the beautiful scenery.",
+      "The photograph was taken thirty years ago."
+    ]
+  },
+  "photographer": {
+    "definition": "n. 摄影师",
+    "phonetic": {
+      "uk": "/fəˈtɒɡrəfə(r)/",
+      "us": "/fəˈtɑːɡrəfər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "professional photographer",
+      "wedding photographer"
+    ],
+    "examples": [
+      "The photographer captured the moment perfectly.",
+      "She works as a wedding photographer."
+    ]
+  },
+  "photographic": {
+    "definition": "adj. 摄影的，逼真的",
+    "phonetic": {
+      "uk": "/ˌfəʊtəˈɡræfɪk/",
+      "us": "/ˌfoʊtəˈɡræfɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "photographic memory",
+      "photographic equipment"
+    ],
+    "examples": [
+      "He has a photographic memory.",
+      "She brought her photographic equipment."
+    ]
+  },
+  "photography": {
+    "definition": "n. 摄影术",
+    "phonetic": {
+      "uk": "/fəˈtɒɡrəfi/",
+      "us": "/fəˈtɑːɡrəfi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "interested in photography",
+      "digital photography"
+    ],
+    "examples": [
+      "Her hobby is photography.",
+      "Digital photography has revolutionized the art form."
+    ]
+  },
+  "phrase": {
+    "definition": "n. 短语，词组，习惯用语",
+    "phonetic": {
+      "uk": "/freɪz/",
+      "us": "/freɪz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "catchy phrase",
+      "common phrase"
+    ],
+    "examples": [
+      "That's a common English phrase.",
+      "Learn useful phrases for conversation."
+    ]
+  },
+  "physical": {
+    "definition": "adj. 物质的，身体的，物理的",
+    "phonetic": {
+      "uk": "/ˈfɪzɪk(ə)l/",
+      "us": "/ˈfɪzɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "physical exercise",
+      "physical education"
+    ],
+    "examples": [
+      "Regular physical exercise is important for health.",
+      "She studies physical chemistry."
+    ]
+  },
+  "physician": {
+    "definition": "n. 医生，内科医师",
+    "phonetic": {
+      "uk": "/fɪˈzɪʃ(ə)n/",
+      "us": "/fɪˈzɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "attending physician",
+      "consult a physician"
+    ],
+    "examples": [
+      "The physician prescribed medication.",
+      "You should consult a physician if symptoms persist."
+    ]
+  },
+  "physics": {
+    "definition": "n. 物理学",
+    "phonetic": {
+      "uk": "/ˈfɪzɪks/",
+      "us": "/ˈfɪzɪks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "study physics",
+      "quantum physics"
+    ],
+    "examples": [
+      "She specializes in physics.",
+      "Newton made significant contributions to physics."
+    ]
+  },
+  "piano": {
+    "definition": "n. 钢琴",
+    "phonetic": {
+      "uk": "/piˈænəʊ/",
+      "us": "/piˈænoʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "play the piano",
+      "grand piano"
+    ],
+    "examples": [
+      "She plays the piano beautifully.",
+      "The piano needs tuning."
+    ]
+  },
+  "pick": {
+    "definition": "v. 挑选，采摘 n. 选择，收获",
+    "phonetic": {
+      "uk": "/pɪk/",
+      "us": "/pɪk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pick up",
+      "pick out"
+    ],
+    "examples": [
+      "Please pick up your toys.",
+      "She picked the best apple from the tree."
+    ]
+  },
+  "pickup": {
+    "definition": "n. 拾起，小卡车，偶然结识",
+    "phonetic": {
+      "uk": "/ˈpɪkʌp/",
+      "us": "/ˈpɪkʌp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pickup truck",
+      "pickup game"
+    ],
+    "examples": [
+      "He drives a pickup truck.",
+      "We organized a pickup basketball game."
+    ]
+  },
+  "picnic": {
+    "definition": "n. 野餐 v. 去野餐",
+    "phonetic": {
+      "uk": "/ˈpɪknɪk/",
+      "us": "/ˈpɪknɪk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "go on a picnic",
+      "picnic basket"
+    ],
+    "examples": [
+      "We went on a picnic in the park.",
+      "They packed a picnic basket."
+    ]
+  },
+  "picture": {
+    "definition": "n. 画，照片，影片 v. 描绘，想象",
+    "phonetic": {
+      "uk": "/ˈpɪktʃə(r)/",
+      "us": "/ˈpɪktʃər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take a picture",
+      "motion picture"
+    ],
+    "examples": [
+      "The picture looks beautiful.",
+      "Can you picture what it would be like?"
+    ]
+  },
+  "pie": {
+    "definition": "n. 馅饼",
+    "phonetic": {
+      "uk": "/paɪ/",
+      "us": "/paɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "apple pie",
+      "piece of the pie"
+    ],
+    "examples": [
+      "She baked an apple pie.",
+      "Everyone wants a piece of the pie."
+    ]
+  },
+  "piece": {
+    "definition": "n. 碎片，一件，一篇",
+    "phonetic": {
+      "uk": "/piːs/",
+      "us": "/piːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "piece of cake",
+      "a piece of"
+    ],
+    "examples": [
+      "Can I have a piece of cake?",
+      "That was a difficult puzzle piece."
+    ]
+  },
+  "pierce": {
+    "definition": "v. 刺穿，穿透，刺破",
+    "phonetic": {
+      "uk": "/pɪəs/",
+      "us": "/pɪrs/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "pierce the heart",
+      "pierce through"
+    ],
+    "examples": [
+      "The needle pierced the fabric.",
+      "Her scream pierced the silence."
+    ]
+  },
+  "pig": {
+    "definition": "n. 猪，猪肉",
+    "phonetic": {
+      "uk": "/pɪɡ/",
+      "us": "/pɪɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pork from pig",
+      "guinea pig"
+    ],
+    "examples": [
+      "The farmer raises pigs.",
+      "Roast pig is delicious."
+    ]
+  },
+  "pigeon": {
+    "definition": "n. 鸽子",
+    "phonetic": {
+      "uk": "/ˈpɪdʒɪn/",
+      "us": "/ˈpɪdʒɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "carrier pigeon",
+      "feed the pigeons"
+    ],
+    "examples": [
+      "Pigeons roost on the building.",
+      "The park is full of pigeons."
+    ]
+  },
+  "pile": {
+    "definition": "n. 堆，大量 v. 堆积，积累",
+    "phonetic": {
+      "uk": "/paɪl/",
+      "us": "/paɪl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pile of books",
+      "pile up"
+    ],
+    "examples": [
+      "There's a pile of papers on my desk.",
+      "Snow piled up during the storm."
+    ]
+  },
+  "pill": {
+    "definition": "n. 药丸，丸剂",
+    "phonetic": {
+      "uk": "/pɪl/",
+      "us": "/pɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sleeping pill",
+      "take a pill"
+    ],
+    "examples": [
+      "Take this pill with water.",
+      "The doctor prescribed sleeping pills."
+    ]
+  },
+  "pillar": {
+    "definition": "n. 柱子，栋梁",
+    "phonetic": {
+      "uk": "/ˈpɪlə(r)/",
+      "us": "/ˈpɪlər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "stone pillar",
+      "pillar of society"
+    ],
+    "examples": [
+      "The temple has large pillars.",
+      "He is a pillar of the community."
+    ]
+  },
+  "pillow": {
+    "definition": "n. 枕头",
+    "phonetic": {
+      "uk": "/ˈpɪləʊ/",
+      "us": "/ˈpɪloʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "soft pillow",
+      "rest your head on a pillow"
+    ],
+    "examples": [
+      "I need a new pillow.",
+      "She rested her head on the pillow."
+    ]
+  },
+  "pilot": {
+    "definition": "n. 飞行员，领航员 v. 驾驶，试行",
+    "phonetic": {
+      "uk": "/ˈpaɪlət/",
+      "us": "/ˈpaɪlət/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "airline pilot",
+      "pilot project"
+    ],
+    "examples": [
+      "The pilot landed the plane safely.",
+      "They are piloting a new program."
+    ]
+  },
+  "pin": {
+    "definition": "n. 别针，钉子 v. 钉住，别住",
+    "phonetic": {
+      "uk": "/pɪn/",
+      "us": "/pɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "safety pin",
+      "pin up"
+    ],
+    "examples": [
+      "She pinned the note to the board.",
+      "Use a safety pin for the diaper."
+    ]
+  },
+  "pine": {
+    "definition": "n. 松树",
+    "phonetic": {
+      "uk": "/paɪn/",
+      "us": "/paɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pine tree",
+      "pine cone"
+    ],
+    "examples": [
+      "The forest is full of pine trees.",
+      "Pine cones are found on the ground."
+    ]
+  },
+  "pink": {
+    "definition": "adj. 粉红色的 n. 粉红色",
+    "phonetic": {
+      "uk": "/pɪŋk/",
+      "us": "/pɪŋk/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "pink dress",
+      "in the pink"
+    ],
+    "examples": [
+      "She wore a pink ribbon.",
+      "He painted the room pink."
+    ]
+  },
+  "pint": {
+    "definition": "n. 品脱",
+    "phonetic": {
+      "uk": "/paɪnt/",
+      "us": "/paɪnt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "order a pint",
+      "half pint"
+    ],
+    "examples": [
+      "I'd like a pint of beer, please.",
+      "The recipe calls for a pint of milk."
+    ]
+  },
+  "pioneer": {
+    "definition": "n. 先锋，先驱 v. 开辟，倡导",
+    "phonetic": {
+      "uk": "/ˌpaɪəˈnɪə(r)/",
+      "us": "/ˌpaɪəˈnɪr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "computer pioneer",
+      "pioneer in"
+    ],
+    "examples": [
+      "She is a pioneer in women's rights.",
+      "The pioneers explored the wilderness."
+    ]
+  },
+  "pipe": {
+    "definition": "n. 管子，烟斗 v. 用管道输送",
+    "phonetic": {
+      "uk": "/paɪp/",
+      "us": "/paɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "water pipe",
+      "smoke a pipe"
+    ],
+    "examples": [
+      "Water flows through the pipe.",
+      "He likes to smoke a pipe."
+    ]
+  },
+  "pit": {
+    "definition": "n. 坑，陷阱",
+    "phonetic": {
+      "uk": "/pɪt/",
+      "us": "/pɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fruit pit",
+      "coal pit"
+    ],
+    "examples": [
+      "Don't fall into the pit.",
+      "Cherry pits are inedible."
+    ]
+  },
+  "pitch": {
+    "definition": "n. 沥青，音高，投掷 v. 投，搭帐篷",
+    "phonetic": {
+      "uk": "/pɪtʃ/",
+      "us": "/pɪtʃ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pitch a tent",
+      "high pitch"
+    ],
+    "examples": [
+      "They pitched a tent in the field.",
+      "Her voice has a high pitch."
+    ]
+  },
+  "pity": {
+    "definition": "n. 遗憾，怜悯 vt. 遗憾",
+    "phonetic": {
+      "uk": "/ˈpɪti/",
+      "us": "/ˈpɪti/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "feel pity",
+      "take pity on"
+    ],
+    "examples": [
+      "It's a pity you couldn't come.",
+      "I feel pity for those in need."
+    ]
+  },
+  "place": {
+    "definition": "n. 地方，位置 v. 放置",
+    "phonetic": {
+      "uk": "/pleɪs/",
+      "us": "/pleɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take place",
+      "public place"
+    ],
+    "examples": [
+      "Please place the book on the table.",
+      "The concert takes place tomorrow."
+    ]
+  },
+  "plague": {
+    "definition": "n. 瘟疫，灾害 vt. 使痛苦",
+    "phonetic": {
+      "uk": "/pleɪɡ/",
+      "us": "/pleɪɡ/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "bubonic plague",
+      "plague of locusts"
+    ],
+    "examples": [
+      "The black plague killed millions.",
+      "He is plagued by nightmares."
+    ]
+  },
+  "plain": {
+    "definition": "adj. 平的，朴素的，清楚的 n. 平原",
+    "phonetic": {
+      "uk": "/pleɪn/",
+      "us": "/pleɪn/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "plain water",
+      "as plain as day"
+    ],
+    "examples": [
+      "She prefers plain clothes.",
+      "The truth is as plain as day."
+    ]
+  },
+  "plan": {
+    "definition": "n. 计划，平面图 v. 计划",
+    "phonetic": {
+      "uk": "/plæn/",
+      "us": "/plæn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "make a plan",
+      "business plan"
+    ],
+    "examples": [
+      "We need to make a plan.",
+      "She plans to visit Europe next year."
+    ]
+  },
+  "plane": {
+    "definition": "n. 飞机，平面",
+    "phonetic": {
+      "uk": "/pleɪn/",
+      "us": "/pleɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take the plane",
+      "plane crash"
+    ],
+    "examples": [
+      "The plane landed safely.",
+      "I prefer traveling by plane."
+    ]
+  },
+  "planet": {
+    "definition": "n. 行星",
+    "phonetic": {
+      "uk": "/ˈplænɪt/",
+      "us": "/ˈplænɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "other planets",
+      "dwarf planet"
+    ],
+    "examples": [
+      "Earth is the third planet from the sun.",
+      "Scientists study other planets."
+    ]
+  },
+  "plant": {
+    "definition": "n. 植物，工厂 v. 种植",
+    "phonetic": {
+      "uk": "/plɑːnt/",
+      "us": "/plænt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "power plant",
+      "plant trees"
+    ],
+    "examples": [
+      "The factory is a large manufacturing plant.",
+      "They planted trees along the road."
+    ]
+  },
+  "plantation": {
+    "definition": "n. 种植园",
+    "phonetic": {
+      "uk": "/plɑːnˈteɪʃ(ə)n/",
+      "us": "/plænˈteɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tea plantation",
+      "coffee plantation"
+    ],
+    "examples": [
+      "They work on a coffee plantation.",
+      "The plantation is huge."
+    ]
+  },
+  "plastic": {
+    "definition": "n. 塑料 adj. 塑料的，可塑的",
+    "phonetic": {
+      "uk": "/ˈplæstɪk/",
+      "us": "/ˈplæstɪk/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "plastic bag",
+      "plastic surgery"
+    ],
+    "examples": [
+      "Please use reusable bags instead of plastic ones.",
+      "The table is made of plastic."
+    ]
+  },
+  "plate": {
+    "definition": "n. 盘子，板，板块",
+    "phonetic": {
+      "uk": "/pleɪt/",
+      "us": "/pleɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "dinner plate",
+      "license plate"
+    ],
+    "examples": [
+      "She served dinner on a large plate.",
+      "Check the license plate of that car."
+    ]
+  },
+  "platform": {
+    "definition": "n. 平台，站台，讲台",
+    "phonetic": {
+      "uk": "/ˈplætfɔːm/",
+      "us": "/ˈplætfɔːrm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "train platform",
+      "online platform"
+    ],
+    "examples": [
+      "The train is arriving at platform 3.",
+      "She launched her business on an online platform."
+    ]
+  },
+  "play": {
+    "definition": "v. 玩，演奏，扮演角色 n. 游戏，剧本",
+    "phonetic": {
+      "uk": "/pleɪ/",
+      "us": "/pleɪ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "play a role",
+      "fair play"
+    ],
+    "examples": [
+      "Children love to play.",
+      "She played the main role in the movie."
+    ]
+  },
+  "player": {
+    "definition": "n. 游戏者，选手，演员",
+    "phonetic": {
+      "uk": "/ˈpleɪə(r)/",
+      "us": "/ˈpleɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "football player",
+      "music player"
+    ],
+    "examples": [
+      "He is a professional tennis player.",
+      "The music player is in the living room."
+    ]
+  }
+}

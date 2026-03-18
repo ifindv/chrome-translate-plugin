@@ -1,0 +1,2434 @@
+{
+  "tournament": {
+    "definition": "n. 锦标赛，联赛",
+    "phonetic": {
+      "uk": "/ˈtʊənəmənt/",
+      "us": "/ˈtɜːrnəmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tennis tournament",
+      "world tournament"
+    ],
+    "examples": [
+      "Our team won the football tournament.",
+      "The tournament attracts players from around the world."
+    ]
+  },
+  "toward": {
+    "definition": " Prep. 朝，向，对于",
+    "phonetic": {
+      "uk": "/təˈwɔːd/",
+      "us": "/təˈwɔːrd/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "move toward",
+      "toward the end"
+    ],
+    "examples": [
+      "She walked toward the exit.",
+      "The economy is moving toward recovery."
+    ]
+  },
+  "towel": {
+    "definition": "n. 毛巾，手巾",
+    "phonetic": {
+      "uk": "/ˈtaʊəl/",
+      "us": "/ˈtaʊəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "paper towel",
+      "bath towel"
+    ],
+    "examples": [
+      "She dried her hair with a towel.",
+      "Please pass me a clean towel."
+    ]
+  },
+  "tower": {
+    "definition": "n. 塔，高楼",
+    "phonetic": {
+      "uk": "/ˈtaʊə(r)/",
+      "us": "/ˈtaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "clock tower",
+      "water tower"
+    ],
+    "examples": [
+      "The Eiffel Tower is a famous landmark.",
+      "The tower offers a great view of the city."
+    ]
+  },
+  "town": {
+    "definition": "n. 城镇，市镇",
+    "phonetic": {
+      "uk": "/taʊn/",
+      "us": "/taʊn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "small town",
+      "go to town"
+    ],
+    "examples": [
+      "I grew up in a small town.",
+      "The town is famous for its cheese."
+    ]
+  },
+  "toy": {
+    "definition": "n. 玩具",
+    "phonetic": {
+      "uk": "/tɔɪ/",
+      "us": "/tɔɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "toy shop",
+      "play with toys"
+    ],
+    "examples": [
+      "The child received many toys for Christmas.",
+      "This is a sophisticated toy for learning."
+    ]
+  },
+  "trace": {
+    "definition": "n. 痕迹，踪迹 v. 追踪，描绘",
+    "phonetic": {
+      "uk": "/treɪs/",
+      "us": "/treɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "trace back",
+      "disappear without a trace"
+    ],
+    "examples": [
+      "The police tried to trace the suspect.",
+      "There was no trace of the missing funds."
+    ]
+  },
+  "track": {
+    "definition": "n. 轨迹，跑道，轨道 v. 追踪",
+    "phonetic": {
+      "uk": "/træk/",
+      "us": "/træk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "track down",
+      "keep track of"
+    ],
+    "examples": [
+      "The train runs on a single track.",
+      "We need to track their progress."
+    ]
+  },
+  "tractor": {
+    "definition": "n. 拖拉机",
+    "phonetic": {
+      "uk": "/ˈtræktə(r)/",
+      "us": "/ˈtræktər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "farm tractor",
+      "tractor trailer"
+    ],
+    "examples": [
+      "The farmer drove his tractor to the field.",
+      "Tractors are essential for modern agriculture."
+    ]
+  },
+  "trade": {
+    "definition": "n. 贸易，行业 v. 交易，交换",
+    "phonetic": {
+      "uk": "/treɪd/",
+      "us": "/treɪd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "international trade",
+      "trade mark"
+    ],
+    "examples": [
+      "International trade benefits both countries.",
+      "They decided to trade places."
+    ]
+  },
+  "trademark": {
+    "definition": "n. 商标",
+    "phonetic": {
+      "uk": "/ˈtreɪdmɑːk/",
+      "us": "/ˈtreɪdmɑːrk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "registered trademark",
+      "trademark symbol"
+    ],
+    "examples": [
+      "The logo is a registered trademark.",
+      "Counterfeit products infringe on our trademark."
+    ]
+  },
+  "tradition": {
+    "definition": "n. 传统，惯例",
+    "phonetic": {
+      "uk": "/trəˈdɪʃ(ə)n/",
+      "us": "/trəˈdɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "family tradition",
+      "cultural tradition"
+    ],
+    "examples": [
+      "We follow a long-standing family tradition.",
+      "It's a tradition to celebrate New Year together."
+    ]
+  },
+  "traditional": {
+    "definition": "adj. 传统的",
+    "phonetic": {
+      "uk": "/trəˈdɪʃən(ə)l/",
+      "us": "/trəˈdɪʃən(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "traditional medicine",
+      "traditional values"
+    ],
+    "examples": [
+      "She prefers traditional cooking methods.",
+      "The festival maintains its traditional format."
+    ]
+  },
+  "traffic": {
+    "definition": "n. 交通，流量",
+    "phonetic": {
+      "uk": "/ˈtræfɪk/",
+      "us": "/ˈtræfɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "traffic jam",
+      "heavy traffic"
+    ],
+    "examples": [
+      "Traffic was very bad this morning.",
+      "The website gets a lot of traffic."
+    ]
+  },
+  "tragedy": {
+    "definition": "n. 悲剧，灾难",
+    "phonetic": {
+      "uk": "/ˈtrædʒədi/",
+      "us": "/ˈtrædʒədi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Greek tragedy",
+      "avoid tragedy"
+    ],
+    "examples": [
+      "The accident was a terrible tragedy.",
+      "He enjoys reading classical tragedies."
+    ]
+  },
+  "trail": {
+    "definition": "n. 痕迹，小径 v. 追踪，拖拽",
+    "phonetic": {
+      "uk": "/treɪl/",
+      "us": "/treɪl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "follow the trail",
+      "trail behind"
+    ],
+    "examples": [
+      "We followed a hiking trail through the forest.",
+      "Her dress trailed on the ground."
+    ]
+  },
+  "train": {
+    "definition": "n. 火车，行列 v. 训练，培养",
+    "phonetic": {
+      "uk": "/treɪn/",
+      "us": "/treɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "catch a train",
+      "train station"
+    ],
+    "examples": [
+      "The train leaves at 8 AM.",
+      "She trains horses for a living."
+    ]
+  },
+  "training": {
+    "definition": "n. 训练，培养",
+    "phonetic": {
+      "uk": "/ˈtreɪnɪŋ/",
+      "us": "/ˈtreɪnɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "job training",
+      "in training"
+    ],
+    "examples": [
+      "She received extensive training for the job.",
+      "Physical training is important for athletes."
+    ]
+  },
+  "transfer": {
+    "definition": "v. 转移，转让，转学 n. 转移，转账",
+    "phonetic": {
+      "uk": "/trænsˈfɜː(r)/",
+      "us": "/trænsˈfɜːr/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "transfer to",
+      "money transfer"
+    ],
+    "examples": [
+      "She transferred to another school.",
+      "Please transfer the funds to my account."
+    ]
+  },
+  "transform": {
+    "definition": "vt. 改变，变换，改造",
+    "phonetic": {
+      "uk": "/trænsˈfɔːm/",
+      "us": "/trænsˈfɔːrm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "transform into",
+      "transform society"
+    ],
+    "examples": [
+      "Technology has transformed our lives.",
+      "The caterpillar transforms into a butterfly."
+    ]
+  },
+  "translate": {
+    "definition": "v. 翻译",
+    "phonetic": {
+      "uk": "/trænsˈleɪt/",
+      "us": "/trænsˈleɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "translate from",
+      "translate into"
+    ],
+    "examples": [
+      "Can you translate this sentence into English?",
+      "She translates books for a publisher."
+    ]
+  },
+  "translation": {
+    "definition": "n. 翻译，译文",
+    "phonetic": {
+      "uk": "/trænzˈleɪʃ(ə)n/",
+      "us": "/trænzˈleɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "literal translation",
+      "good translation"
+    ],
+    "examples": [
+      "The translation is excellent.",
+      "He is doing a translation of the novel."
+    ]
+  },
+  "transmission": {
+    "definition": "n. 传播，传送，传动装置",
+    "phonetic": {
+      "uk": "/trænzˈmɪʃ(ə)n/",
+      "us": "/trænzˈmɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "data transmission",
+      "signal transmission"
+    ],
+    "examples": [
+      "The transmission of the signal was clear.",
+      "The car's transmission needs repair."
+    ]
+  },
+  "transmit": {
+    "definition": "vt. 传播，传送，传达",
+    "phonetic": {
+      "uk": "/trænzˈmɪt/",
+      "us": "/trænzˈmɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "transmit data",
+      "transmit disease"
+    ],
+    "examples": [
+      "Radio transmits signals across distances.",
+      "The disease transmits through contaminated water."
+    ]
+  },
+  "transparent": {
+    "definition": "adj. 透明的，明显的",
+    "phonetic": {
+      "uk": "/trænsˈpærənt/",
+      "us": "/trænsˈpærənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "transparent material",
+      "transparent process"
+    ],
+    "examples": [
+      "The glass is completely transparent.",
+      "The government promised a transparent process."
+    ]
+  },
+  "transport": {
+    "definition": "n. 运输，交通工具 vt. 运输，搬运",
+    "phonetic": {
+      "uk": "/ˈtrænspɔːt/",
+      "us": "/ˈtrænspɔːrt/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "public transport",
+      "transport goods"
+    ],
+    "examples": [
+      "Public transport is very convenient.",
+      "The company transports goods worldwide."
+    ]
+  },
+  "transportation": {
+    "definition": "n. 运输，运送",
+    "phonetic": {
+      "uk": "/ˌtrænspɔːˈteɪʃ(ə)n/",
+      "us": "/ˌtrænspɔːrˈteɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "means of transportation",
+      "transportation system"
+    ],
+    "examples": [
+      "The city has an excellent transportation system.",
+      "Transportation costs have increased."
+    ]
+  },
+  "trap": {
+    "definition": "n. 陷阱，圈套 v. 设陷阱，困住",
+    "phonetic": {
+      "uk": "/træp/",
+      "us": "/træp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "fall into a trap",
+      "trap someone"
+    ],
+    "examples": [
+      "The hunters set a trap for the wolf.",
+      "She felt trapped in her job."
+    ]
+  },
+  "travel": {
+    "definition": "v. 旅行 n. 旅行",
+    "phonetic": {
+      "uk": "/ˈtræv(ə)l/",
+      "us": "/ˈtræv(ə)l/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "travel agency",
+      "business travel"
+    ],
+    "examples": [
+      "She loves to travel abroad.",
+      "The trip was a memorable travel experience."
+    ]
+  },
+  "traveler": {
+    "definition": "n. 旅行者",
+    "phonetic": {
+      "uk": "/ˈtrævələ(r)/",
+      "us": "/ˈtrævələr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "experienced traveler",
+      "time traveler"
+    ],
+    "examples": [
+      "He is a seasoned traveler.",
+      "The hotel welcomes all types of travelers."
+    ]
+  },
+  "tray": {
+    "definition": "n. 托盘，碟",
+    "phonetic": {
+      "uk": "/treɪ/",
+      "us": "/treɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "waiter's tray",
+      "ice cube tray"
+    ],
+    "examples": [
+      "She balanced the tray of drinks carefully.",
+      "The waitress brought our food on a silver tray."
+    ]
+  },
+  "treasure": {
+    "definition": "n. 财宝，珍宝 v. 珍视，珍藏",
+    "phonetic": {
+      "uk": "/ˈtreʒə(r)/",
+      "us": "/ˈtreʒər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "buried treasure",
+      "treasure hunt"
+    ],
+    "examples": [
+      "The pirates hid their treasure on the island.",
+      "I treasure our friendship."
+    ]
+  },
+  "treat": {
+    "definition": "v. 对待，治疗，款待 n. 款待，疗法",
+    "phonetic": {
+      "uk": "/triːt/",
+      "us": "/triːt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "treat as",
+      "special treat"
+    ],
+    "examples": [
+      "She treats everyone with respect.",
+      "Ice cream is a special treat for kids."
+    ]
+  },
+  "treatment": {
+    "definition": "n. 治疗，待遇，处理",
+    "phonetic": {
+      "uk": "/ˈtriːtmənt/",
+      "us": "/ˈtriːtmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "medical treatment",
+      "unfair treatment"
+    ],
+    "examples": [
+      "She's receiving treatment for her illness.",
+      "He complained about the unfair treatment."
+    ]
+  },
+  "treaty": {
+    "definition": "n. 条约，协定",
+    "phonetic": {
+      "uk": "/ˈtriːti/",
+      "us": "/ˈtriːti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "peace treaty",
+      "sign a treaty"
+    ],
+    "examples": [
+      "The two countries signed a peace treaty.",
+      "The treaty was ratified by the government."
+    ]
+  },
+  "tree": {
+    "definition": "n. 树",
+    "phonetic": {
+      "uk": "/triː/",
+      "us": "/triː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "apple tree",
+      "family tree"
+    ],
+    "examples": [
+      "We planted a tree in the garden.",
+      "The tree provides shade in summer."
+    ]
+  },
+  "tremble": {
+    "definition": "v. 发抖，颤抖，摇晃",
+    "phonetic": {
+      "uk": "/ˈtremb(ə)l/",
+      "us": "/ˈtremb(ə)l/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "tremble with fear",
+      "tremble at"
+    ],
+    "examples": [
+      "She trembled with excitement.",
+      "His hands trembled as he opened the letter."
+    ]
+  },
+  "tremendous": {
+    "definition": "adj. 巨大的，极好的",
+    "phonetic": {
+      "uk": "/trɪˈmendəs/",
+      "us": "/trɪˈmendəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tremendous effort",
+      "tremendous success"
+    ],
+    "examples": [
+      "She made tremendous progress.",
+      "The project was a tremendous success."
+    ]
+  },
+  "trend": {
+    "definition": "n. 趋势，倾向",
+    "phonetic": {
+      "uk": "/trend/",
+      "us": "/trend/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "follow the trend",
+      "fashion trend"
+    ],
+    "examples": [
+      "There's a growing trend toward remote work.",
+      "This trend is expected to continue."
+    ]
+  },
+  "trial": {
+    "definition": "n. 试验，审判，试用",
+    "phonetic": {
+      "uk": "/ˈtraɪəl/",
+      "us": "/ˈtraɪəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on trial",
+      "clinical trial"
+    ],
+    "examples": [
+      "The new drug is undergoing clinical trials.",
+      "He is currently on trial for murder."
+    ]
+  },
+  "triangle": {
+    "definition": "n. 三角形",
+    "phonetic": {
+      "uk": "/ˈtraɪæŋɡ(ə)l/",
+      "us": "/ˈtraɪæŋɡ(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "love triangle",
+      "equilateral triangle"
+    ],
+    "examples": [
+      "A triangle has three sides.",
+      "The roof is shaped like a triangle."
+    ]
+  },
+  "trick": {
+    "definition": "n. 诡计，戏法 v. 欺骗，哄骗",
+    "phonetic": {
+      "uk": "/trɪk/",
+      "us": "/trɪk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "play a trick",
+      "trick someone"
+    ],
+    "examples": [
+      "The magician performed an amazing trick.",
+      "Don't let him trick you."
+    ]
+  },
+  "tricky": {
+    "definition": "adj. 狡猾的，困难的，棘手的",
+    "phonetic": {
+      "uk": "/ˈtrɪki/",
+      "us": "/ˈtrɪki/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tricky situation",
+      "tricky question"
+    ],
+    "examples": [
+      "The problem is tricky to solve.",
+      "She faced a tricky situation at work."
+    ]
+  },
+  "trip": {
+    "definition": "n. 旅行，行程 v. 绊倒",
+    "phonetic": {
+      "uk": "/trɪp/",
+      "us": "/trɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "go on a trip",
+      "trip over"
+    ],
+    "examples": [
+      "We're planning a trip to Paris.",
+      "I tripped over a rock while walking."
+    ]
+  },
+  "troop": {
+    "definition": "n. 军队，部队，一群",
+    "phonetic": {
+      "uk": "/truːp/",
+      "us": "/truːp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "troop movement",
+      "scout troop"
+    ],
+    "examples": [
+      "The troops were deployed to the border.",
+      "A troop of soldiers marched by."
+    ]
+  },
+  "tropical": {
+    "definition": "adj. 热带的",
+    "phonetic": {
+      "uk": "/ˈtrɒpɪk(ə)l/",
+      "us": "/ˈtrɑːpɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tropical climate",
+      "tropical fruit"
+    ],
+    "examples": [
+      "He lives in a tropical country.",
+      "Pineapples are a tropical fruit."
+    ]
+  },
+  "trouble": {
+    "definition": "n. 麻烦，困难，烦恼 v. 使麻烦，打扰",
+    "phonetic": {
+      "uk": "/ˈtrʌb(ə)l/",
+      "us": "/ˈtrʌb(ə)l/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in trouble",
+      "make trouble"
+    ],
+    "examples": [
+      "I'm having trouble with my computer.",
+      "Don't trouble yourself over small matters."
+    ]
+  },
+  "troublesome": {
+    "definition": "adj. 令人烦恼的，麻烦的",
+    "phonetic": {
+      "uk": "/ˈtrʌb(ə)lsəm/",
+      "us": "/ˈtrʌb(ə)lsəm/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "troublesome problem",
+      "troublesome child"
+    ],
+    "examples": [
+      "The situation is becoming troublesome.",
+      "He can be quite troublesome sometimes."
+    ]
+  },
+  "trousers": {
+    "definition": "n. 裤子，长裤",
+    "phonetic": {
+      "uk": "/ˈtraʊzəz/",
+      "us": "/ˈtraʊzərz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pair of trousers",
+      "wear trousers"
+    ],
+    "examples": [
+      "He wore black trousers to the interview.",
+      "These trousers are too tight."
+    ]
+  },
+  "truck": {
+    "definition": "n. 卡车，载重汽车",
+    "phonetic": {
+      "uk": "/trʌk/",
+      "us": "/trʌk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fire truck",
+      "delivery truck"
+    ],
+    "examples": [
+      "The truck carries heavy loads.",
+      "He drives a truck for a living."
+    ]
+  },
+  "true": {
+    "definition": "adj. 真实的，正确的",
+    "phonetic": {
+      "uk": "/truː/",
+      "us": "/truː/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "come true",
+      "true friend"
+    ],
+    "examples": [
+      "Is this statement true?",
+      "May your dreams come true."
+    ]
+  },
+  "truly": {
+    "definition": "ad. 真正地，确实",
+    "phonetic": {
+      "uk": "/ˈtruːli/",
+      "us": "/ˈtruːli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "truly believe",
+      "very truly"
+    ],
+    "examples": [
+      "I truly appreciate your help.",
+      "She is truly talented."
+    ]
+  },
+  "trumpet": {
+    "definition": "n. 喇叭，小号",
+    "phonetic": {
+      "uk": "/ˈtrʌmpɪt/",
+      "us": "/ˈtrʌmpɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "blow a trumpet",
+      "trumpet player"
+    ],
+    "examples": [
+      "The trumpet sounded in the distance.",
+      "He plays the trumpet in the school band."
+    ]
+  },
+  "trunk": {
+    "definition": "n. 树干，象鼻，行李箱",
+    "phonetic": {
+      "uk": "/trʌŋk/",
+      "us": "/trʌŋk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "car trunk",
+      "elephant's trunk"
+    ],
+    "examples": [
+      "The tree trunk was very thick.",
+      "Put your luggage in the trunk."
+    ]
+  },
+  "trust": {
+    "definition": "v. 信任，信赖 n. 信任，信托",
+    "phonetic": {
+      "uk": "/trʌst/",
+      "us": "/trʌst/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "trust in",
+      "trust fund"
+    ],
+    "examples": [
+      "I trust you completely.",
+      "Trust is essential in any relationship."
+    ]
+  },
+  "truth": {
+    "definition": "n. 真理，事实，真相",
+    "phonetic": {
+      "uk": "/truːθ/",
+      "us": "/truːθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tell the truth",
+      "the truth is"
+    ],
+    "examples": [
+      "Always tell the truth.",
+      "We seek the truth in this matter."
+    ]
+  },
+  "try": {
+    "definition": "v. 尝试，努力，审判",
+    "phonetic": {
+      "uk": "/traɪ/",
+      "us": "/traɪ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "try on",
+      "try out"
+    ],
+    "examples": [
+      "Try this delicious cake.",
+      "She's trying hard to succeed."
+    ]
+  },
+  "tube": {
+    "definition": "n. 管子，电子管，隧道",
+    "phonetic": {
+      "uk": "/tjuːb/",
+      "us": "/tuːb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "test tube",
+      "subway tube"
+    ],
+    "examples": [
+      "The chemicals were mixed in a test tube.",
+      "The London Underground is also called The Tube."
+    ]
+  },
+  "tune": {
+    "definition": "n. 曲调，和谐 v. 调音，调整",
+    "phonetic": {
+      "uk": "/tjuːn/",
+      "us": "/tuːn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tune in",
+      "out of tune"
+    ],
+    "examples": [
+      "The song has a catchy tune.",
+      "I need to tune my guitar."
+    ]
+  },
+  "tunnel": {
+    "definition": "n. 隧道，地道",
+    "phonetic": {
+      "uk": "/ˈtʌn(ə)l/",
+      "us": "/ˈtʌn(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "railway tunnel",
+      "road tunnel"
+    ],
+    "examples": [
+      "The train goes through a long tunnel.",
+      "Construction of the tunnel took many years."
+    ]
+  },
+  "turbine": {
+    "definition": "n. 涡轮机，汽轮机",
+    "phonetic": {
+      "uk": "/ˈtɜːbaɪn/",
+      "us": "/ˈtɜːrbaɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wind turbine",
+      "steam turbine"
+    ],
+    "examples": [
+      "The power plant uses a steam turbine.",
+      "Wind turbines generate clean energy."
+    ]
+  },
+  "turn": {
+    "definition": "v. 旋转，转向，变成 n. 转动，轮流",
+    "phonetic": {
+      "uk": "/tɜːn/",
+      "us": "/tɜːrn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "turn around",
+      "in turn"
+    ],
+    "examples": [
+      "Please turn the page.",
+      "It's your turn to speak."
+    ]
+  },
+  "turnip": {
+    "definition": "n. 萝卜",
+    "phonetic": {
+      "uk": "/ˈtɜːnɪp/",
+      "us": "/ˈtɜːrnɪp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "turnip greens",
+      "rotten turnip"
+    ],
+    "examples": [
+      "My grandmother makes soup with turnips.",
+      "Turnips are root vegetables."
+    ]
+  },
+  "tutor": {
+    "definition": "n. 家庭教师，导师 v. 辅导，当家庭教师",
+    "phonetic": {
+      "uk": "/ˈtjuːtə(r)/",
+      "us": "/ˈtuːtər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "private tutor",
+      "tutor in"
+    ],
+    "examples": [
+      "She has a math tutor to help her.",
+      "He tutors students in English."
+    ]
+  },
+  "twelve": {
+    "definition": "num. 十二，十二个",
+    "phonetic": {
+      "uk": "/twelv/",
+      "us": "/twelv/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "twelve months",
+      "twelve o'clock"
+    ],
+    "examples": [
+      "There are twelve months in a year.",
+      "I'll pick you up at twelve."
+    ]
+  },
+  "twenty": {
+    "definition": "num. 二十，二十个",
+    "phonetic": {
+      "uk": "/ˈtwenti/",
+      "us": "/ˈtwenti/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "twenty years",
+      "in the twenties"
+    ],
+    "examples": [
+      "She is twenty years old.",
+      "The temperature dropped to twenty degrees."
+    ]
+  },
+  "twice": {
+    "definition": "ad. 两次，两倍",
+    "phonetic": {
+      "uk": "/twaɪs/",
+      "us": "/twaɪs/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "twice a week",
+      "think twice"
+    ],
+    "examples": [
+      "I visit my grandparents twice a week.",
+      "Think twice before you act."
+    ]
+  },
+  "twin": {
+    "definition": "n. 双胞胎 adj. 成对的，双胞胎的",
+    "phonetic": {
+      "uk": "/twɪn/",
+      "us": "/twɪn/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "identical twin",
+      "twin bed"
+    ],
+    "examples": [
+      "She has a twin sister.",
+      "The twins look exactly alike."
+    ]
+  },
+  "twinkle": {
+    "definition": "v. 闪烁，闪耀",
+    "phonetic": {
+      "uk": "/ˈtwɪŋk(ə)l/",
+      "us": "/ˈtwɪŋk(ə)l/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "twinkle like",
+      "twinkle star"
+    ],
+    "examples": [
+      "The stars twinkle in the night sky.",
+      "Her eyes twinkle with joy."
+    ]
+  },
+  "twist": {
+    "definition": "v. 拧，扭转 n. 扭曲，曲折",
+    "phonetic": {
+      "uk": "/twɪst/",
+      "us": "/twɪst/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "twist and turn",
+      "plot twist"
+    ],
+    "examples": [
+      "Twist the cap to open the bottle.",
+      "The story has an unexpected twist."
+    ]
+  },
+  "two": {
+    "definition": "num. 二，两个",
+    "phonetic": {
+      "uk": "/tuː/",
+      "us": "/tuː/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "two weeks",
+      "one or two"
+    ],
+    "examples": [
+      "I have two cats.",
+      "She'll be back in two days."
+    ]
+  },
+  "type": {
+    "definition": "n. 类型，典型 v. 打字",
+    "phonetic": {
+      "uk": "/taɪp/",
+      "us": "/taɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "type of",
+      "typewriter"
+    ],
+    "examples": [
+      "What type of music do you like?",
+      "She types 80 words per minute."
+    ]
+  },
+  "typewriter": {
+    "definition": "n. 打字机",
+    "phonetic": {
+      "uk": "/ˈtaɪpraɪtə(r)/",
+      "us": "/ˈtaɪpraɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "manual typewriter",
+      "electric typewriter"
+    ],
+    "examples": [
+      "Old typewriters are now collector's items.",
+      "She learned to use a typewriter."
+    ]
+  },
+  "typhoon": {
+    "definition": "n. 台风",
+    "phonetic": {
+      "uk": "/taɪˈfuːn/",
+      "us": "/taɪˈfuːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "typhoon warning",
+      "severe typhoon"
+    ],
+    "examples": [
+      "The typhoon caused severe damage.",
+      "People prepared for the approaching typhoon."
+    ]
+  },
+  "typical": {
+    "definition": "adj. 典型的，特有的",
+    "phonetic": {
+      "uk": "/ˈtɪpɪk(ə)l/",
+      "us": "/ˈtɪpɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "typical example",
+      "typical day"
+    ],
+    "examples": [
+      "This is a typical example of his work.",
+      "A typical day starts early."
+    ]
+  },
+  "typist": {
+    "definition": "n. 打字员",
+    "phonetic": {
+      "uk": "/ˈtaɪpɪst/",
+      "us": "/ˈtaɪpɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "professional typist",
+      "skilled typist"
+    ],
+    "examples": [
+      "She works as a typist in a law firm.",
+      "The typist completed the document quickly."
+    ]
+  },
+  "tyre": {
+    "definition": "n. 轮胎（tire的英式拼写）",
+    "phonetic": {
+      "uk": "/ˈtaɪə(r)/",
+      "us": "/ˈtaɪər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "flat tyre",
+      "spare tyre"
+    ],
+    "examples": [
+      "The car needs new tyres.",
+      "I got a flat tyre on the way to work."
+    ]
+  },
+  "ugly": {
+    "definition": "adj. 丑陋的，难看的",
+    "phonetic": {
+      "uk": "/ˈʌɡli/",
+      "us": "/ˈʌɡli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "ugly duckling",
+      "ugly situation"
+    ],
+    "examples": [
+      "The building is quite ugly.",
+      "Don't ugly things discourage you."
+    ]
+  },
+  "ultimate": {
+    "definition": "adj. 最终的，根本的，极限的",
+    "phonetic": {
+      "uk": "/ˈʌltɪmət/",
+      "us": "/ˈʌltɪmət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "ultimate goal",
+      "ultimate solution"
+    ],
+    "examples": [
+      "Our ultimate goal is success.",
+      "This is the ultimate test of character."
+    ]
+  },
+  "ultimately": {
+    "definition": "ad. 最终，根本上",
+    "phonetic": {
+      "uk": "/ˈʌltɪmətli/",
+      "us": "/ˈʌltɪmətli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "ultimately responsible",
+      "ultimately achieve"
+    ],
+    "examples": [
+      "Ultimately, we all want the same thing.",
+      "He ultimately decided to stay."
+    ]
+  },
+  "umbrella": {
+    "definition": "n. 伞，雨伞",
+    "phonetic": {
+      "uk": "/ʌmˈbrelə/",
+      "us": "/ʌmˈbrelə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "open an umbrella",
+      "under an umbrella"
+    ],
+    "examples": [
+      "Don't forget to take an umbrella.",
+      "She walked under an umbrella in the rain."
+    ]
+  },
+  "unable": {
+    "definition": "adj. 不能的，不会的",
+    "phonetic": {
+      "uk": "/ʌnˈeɪb(ə)l/",
+      "us": "/ʌnˈeɪb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unable to",
+      "be unable"
+    ],
+    "examples": [
+      "I'm unable to attend the meeting.",
+      "She was unable to reach the top shelf."
+    ]
+  },
+  "unconscious": {
+    "definition": "adj. 不省人事的，无意识的",
+    "phonetic": {
+      "uk": "/ʌnˈkɒnʃəs/",
+      "us": "/ʌnˈkɑːnʃəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unconscious patient",
+      "unconscious decision"
+    ],
+    "examples": [
+      "The patient remained unconscious for hours.",
+      "She made the choice unconsciously."
+    ]
+  },
+  "uncover": {
+    "definition": "vt. 揭示，揭露，移去遮挡物",
+    "phonetic": {
+      "uk": "/ʌnˈkʌvə(r)/",
+      "us": "/ʌnˈkʌvər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "uncover the truth",
+      "uncover evidence"
+    ],
+    "examples": [
+      "The investigation uncovered new evidence.",
+      "She uncovered the pot to check the food."
+    ]
+  },
+  "under": {
+    "definition": "prep. 在...下面 ad. 在下面",
+    "phonetic": {
+      "uk": "/ˈʌndə(r)/",
+      "us": "/ˈʌndər/"
+    },
+    "partOfSpeech": "prep., ad.",
+    "phrases": [
+      "under control",
+      "go under"
+    ],
+    "examples": [
+      "The cat is under the table.",
+      "Keep the water under control."
+    ]
+  },
+  "undergo": {
+    "definition": "vt. 经历，经受，遭受",
+    "phonetic": {
+      "uk": "/ˌʌndəˈɡəʊ/",
+      "us": "/ˌʌndərˈɡoʊ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "undergo surgery",
+      "undergo changes"
+    ],
+    "examples": [
+      "She underwent major surgery.",
+      "The company will undergo restructuring."
+    ]
+  },
+  "undergraduate": {
+    "definition": "n. 本科生",
+    "phonetic": {
+      "uk": "/ˌʌndəˈɡrædʒuət/",
+      "us": "/ˌʌndərˈɡrædʒuət/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "undergraduate degree",
+      "undergraduate student"
+    ],
+    "examples": [
+      "She is an undergraduate at Oxford.",
+      "The program is for graduate and undergraduate students."
+    ]
+  },
+  "underground": {
+    "definition": "adj. 地下的，秘密的 n. 地铁 ad. 在地下",
+    "phonetic": {
+      "uk": "/ˈʌndəɡraʊnd/",
+      "us": "/ˈʌndərɡraʊnd/"
+    },
+    "partOfSpeech": "adj., n., ad.",
+    "phrases": [
+      "underground rail",
+      "underground parking"
+    ],
+    "examples": [
+      "We went by underground.",
+      "The resistance operated underground."
+    ]
+  },
+  "underline": {
+    "definition": "vt. 在...下面划线，强调",
+    "phonetic": {
+      "uk": "/ˌʌndəˈlaɪn/",
+      "us": "/ˌʌndərˈlaɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "underline the importance",
+      "underline words"
+    ],
+    "examples": [
+      "Please underline the important points.",
+      "The study underlines the need for reform."
+    ]
+  },
+  "undermine": {
+    "definition": "vt. 暗中破坏，削弱",
+    "phonetic": {
+      "uk": "/ˌʌndəˈmaɪn/",
+      "us": "/ˌʌndərˈmaɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "undermine confidence",
+      "undermine authority"
+    ],
+    "examples": [
+      "Her criticism undermined his confidence.",
+      "The scandal undermined public trust."
+    ]
+  },
+  "underneath": {
+    "definition": "prep. 在...下面 ad. 在下面",
+    "phonetic": {
+      "uk": "/ˌʌndəˈniːθ/",
+      "us": "/ˌʌndərˈniːθ/"
+    },
+    "partOfSpeech": "prep., ad.",
+    "phrases": [
+      "underneath the surface",
+      "underneath it all"
+    ],
+    "examples": [
+      "The cat hid underneath the table.",
+      "Underneath his tough exterior, he is kind."
+    ]
+  },
+  "understand": {
+    "definition": "v. 理解，懂，听说",
+    "phonetic": {
+      "uk": "/ˌʌndəˈstænd/",
+      "us": "/ˌʌndərˈstænd/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "understand about",
+      "make understand"
+    ],
+    "examples": [
+      "I understand your point of view.",
+      "Can you make me understand this concept?"
+    ]
+  },
+  "understanding": {
+    "definition": "n. 理解，谅解 adj. 善解人意的",
+    "phonetic": {
+      "uk": "/ˌʌndəˈstændɪŋ/",
+      "us": "/ˌʌndərˈstændɪŋ/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "reach an understanding",
+      "mutual understanding"
+    ],
+    "examples": [
+      "We have a deep understanding of the situation.",
+      "She is an understanding friend."
+    ]
+  },
+  "undertake": {
+    "definition": "vt. 承担，从事，保证",
+    "phonetic": {
+      "uk": "/ˌʌndəˈteɪk/",
+      "us": "/ˌʌndərˈteɪk/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "undertake research",
+      "undertake a project"
+    ],
+    "examples": [
+      "The company undertook a major expansion.",
+      "She undertook the responsibility."
+    ]
+  },
+  "undertaking": {
+    "definition": "n. 事业， undertaking",
+    "phonetic": {
+      "uk": "/ˈʌndəteɪkɪŋ/",
+      "us": "/ˈʌndərteɪkɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "major undertaking",
+      "difficult undertaking"
+    ],
+    "examples": [
+      "Building a bridge was a huge undertaking.",
+      "The research project was a complex undertaking."
+    ]
+  },
+  "undo": {
+    "definition": "vt. 解开，取消，撤销",
+    "phonetic": {
+      "uk": "/ʌnˈduː/",
+      "us": "/ʌnˈduː/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "undo the damage",
+      "undo a mistake"
+    ],
+    "examples": [
+      "It's hard to undo the damage caused.",
+      "You can undo the last action."
+    ]
+  },
+  "undoubtedly": {
+    "definition": "ad. 毫无疑问地，肯定地",
+    "phonetic": {
+      "uk": "/ʌnˈdaʊtɪdli/",
+      "us": "/ʌnˈdaʊtɪdli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "undoubtedly true",
+      "undoubtedly correct"
+    ],
+    "examples": [
+      "He is undoubtedly the best player.",
+      "This method is undoubtedly effective."
+    ]
+  },
+  "uneasy": {
+    "definition": "adj. 心神不宁的，忧虑的",
+    "phonetic": {
+      "uk": "/ʌnˈiːzi/",
+      "us": "/ʌnˈiːzi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "feel uneasy",
+      "uneasy feeling"
+    ],
+    "examples": [
+      "She felt uneasy about the meeting.",
+      "There's an uneasy atmosphere in the room."
+    ]
+  },
+  "unemployment": {
+    "definition": "n. 失业",
+    "phonetic": {
+      "uk": "/ˌʌnɪmˈplɔɪmənt/",
+      "us": "/ˌʌnɪmˈplɔɪmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "unemployment rate",
+      "claim unemployment"
+    ],
+    "examples": [
+      "Unemployment has risen recently.",
+      "The government created programs to reduce unemployment."
+    ]
+  },
+  "unexpected": {
+    "definition": "adj. 意外的，想不到的",
+    "phonetic": {
+      "uk": "/ˌʌnɪkˈspektɪd/",
+      "us": "/ˌʌnɪkˈspektɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unexpected news",
+      "unexpected visitor"
+    ],
+    "examples": [
+      "We received unexpected news yesterday.",
+      "The movie had an unexpected ending."
+    ]
+  },
+  "unfair": {
+    "definition": "adj. 不公平的，不公正的",
+    "phonetic": {
+      "uk": "/ʌnˈfeə(r)/",
+      "us": "/ʌnˈfer/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unfair treatment",
+      "unfair competition"
+    ],
+    "examples": [
+      "The punishment was unfair.",
+      "She complained about unfair treatment."
+    ]
+  },
+  "unfold": {
+    "definition": "vt. 展开，呈现，显露",
+    "phonetic": {
+      "uk": "/ʌnˈfəʊld/",
+      "us": "/ʌnˈfoʊld/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "unfold a story",
+      "unfold before"
+    ],
+    "examples": [
+      "The story unfolded quickly.",
+      "She unfolded the map to plan her route."
+    ]
+  },
+  "unfortunately": {
+    "definition": "ad. 不幸地，遗憾地",
+    "phonetic": {
+      "uk": "/ʌnˈfɔːtʃənətli/",
+      "us": "/ʌnˈfɔːrtʃənətli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "unfortunately often",
+      "unfortunately true"
+    ],
+    "examples": [
+      "Unfortunately, I couldn't attend the event.",
+      "Unfortunately, it's going to rain today."
+    ]
+  },
+  "uniform": {
+    "definition": "n. 制服 adj. 一致的，均匀的",
+    "phonetic": {
+      "uk": "/ˈjuːnɪfɔːm/",
+      "us": "/ˈjuːnɪfɔːrm/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "school uniform",
+      "wear uniform"
+    ],
+    "examples": [
+      "Students wear a uniform to school.",
+      "The standard of quality is uniform."
+    ]
+  },
+  "union": {
+    "definition": "n. 联合，联盟，工会",
+    "phonetic": {
+      "uk": "/ˈjuːniən/",
+      "us": "/ˈjuːniən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "trade union",
+      "labor union"
+    ],
+    "examples": [
+      "The union negotiated better wages.",
+      "The couple celebrated their wedding anniversary in union."
+    ]
+  },
+  "unique": {
+    "definition": "adj. 唯一的，独特的",
+    "phonetic": {
+      "uk": "/juːˈniːk/",
+      "us": "/juːˈniːk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unique opportunity",
+      "unique feature"
+    ],
+    "examples": [
+      "Each person has a unique fingerprint.",
+      "The museum has a unique collection."
+    ]
+  },
+  "unit": {
+    "definition": "n. 单位，单元，部队",
+    "phonetic": {
+      "uk": "/ˈjuːnɪt/",
+      "us": "/ˈjuːnɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "unit of measurement",
+      "military unit"
+    ],
+    "examples": [
+      "This is Part 1, Unit 3.",
+      "The family is the basic unit of society."
+    ]
+  },
+  "unite": {
+    "definition": "v. 联合，统一",
+    "phonetic": {
+      "uk": "/juːˈnaɪt/",
+      "us": "/juːˈnaɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "unite the country",
+      "unite together"
+    ],
+    "examples": [
+      "The team united against their opponent.",
+      "Music can unite people."
+    ]
+  },
+  "unity": {
+    "definition": "n. 统一，团结，一致",
+    "phonetic": {
+      "uk": "/ˈjuːnəti/",
+      "us": "/ˈjuːnəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "national unity",
+      "family unity"
+    ],
+    "examples": [
+      "The call for unity echoed across the nation.",
+      "Unity is strength."
+    ]
+  },
+  "universal": {
+    "definition": "adj. 普遍的，宇宙的",
+    "phonetic": {
+      "uk": "/ˌjuːnɪˈvɜːs(ə)l/",
+      "us": "/ˌjuːnɪˈvɜːrs(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "universal truth",
+      "universal language"
+    ],
+    "examples": [
+      "Mathematics is considered a universal language.",
+      "Music is a universal form of expression."
+    ]
+  },
+  "universe": {
+    "definition": "n. 宇宙，世界",
+    "phonetic": {
+      "uk": "/ˈjuːnɪvɜːs/",
+      "us": "/ˈjuːnɪvɜːrs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "expand the universe",
+      "watch the universe"
+    ],
+    "examples": [
+      "The universe is incredibly vast.",
+      "Scientists study the origins of the universe."
+    ]
+  },
+  "university": {
+    "definition": "n. 大学",
+    "phonetic": {
+      "uk": "/ˌjuːnɪˈvɜːsəti/",
+      "us": "/ˌjuːnɪˈvɜːrsəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "university degree",
+      "university education"
+    ],
+    "examples": [
+      "She studies at Oxford University.",
+      "The university has a beautiful campus."
+    ]
+  },
+  "unless": {
+    "definition": "conj. 除非，如果不",
+    "phonetic": {
+      "uk": "/ənˈles/",
+      "us": "/ənˈles/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": [
+      "unless otherwise",
+      "unless when"
+    ],
+    "examples": [
+      "We'll go out unless it rains.",
+      "You won't succeed unless you work hard."
+    ]
+  },
+  "unlike": {
+    "definition": "prep. 不像，与...不同 adj. 不相似的",
+    "phonetic": {
+      "uk": "/ˌʌnˈlaɪk/",
+      "us": "/ˌʌnˈlaɪk/"
+    },
+    "partOfSpeech": "prep., adj.",
+    "phrases": [
+      "unlike anything",
+      "unlike each other"
+    ],
+    "examples": [
+      "Unlike her brother, she is outgoing.",
+      "The materials are unlike anything we've seen."
+    ]
+  },
+  "unlikely": {
+    "definition": "adj. 不大可能的，靠不住的",
+    "phonetic": {
+      "uk": "/ʌnˈklaɪkli/",
+      "us": "/ʌnˈklaɪkli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unlikely to",
+      "highly unlikely"
+    ],
+    "examples": [
+      "It's unlikely to rain today.",
+      "She seems unlikely to accept the offer."
+    ]
+  },
+  "unload": {
+    "definition": "v. 卸货，退出子弹",
+    "phonetic": {
+      "uk": "/ʌnˈləʊd/",
+      "us": "/ʌnˈloʊd/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "unload cargo",
+      "unload truck"
+    ],
+    "examples": [
+      "The workers will unload the ship tomorrow.",
+      "Please unload the dishwasher."
+    ]
+  },
+  "unlock": {
+    "definition": "vt. 开锁，开启",
+    "phonetic": {
+      "uk": "/ˌʌnˈlɒk/",
+      "us": "/ˌʌnˈlɑːk/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "unlock the door",
+      "unlock potential"
+    ],
+    "examples": [
+      "Insert the key to unlock the door.",
+      "Education can unlock your potential."
+    ]
+  },
+  "unofficial": {
+    "definition": "adj. 非官方的",
+    "phonetic": {
+      "uk": "/ˌʌnəˈfɪʃ(ə)l/",
+      "us": "/ˌʌnəˈfɪʃ(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unofficial report",
+      "unofficial visit"
+    ],
+    "examples": [
+      "This is an unofficial announcement.",
+      "The president made an unofficial visit."
+    ]
+  },
+  "unpleasant": {
+    "definition": "adj. 令人不愉快的，讨厌的",
+    "phonetic": {
+      "uk": "/ʌnˈplez(ə)nt/",
+      "us": "/ʌnˈplez(ə)nt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unpleasant situation",
+      "unpleasant smell"
+    ],
+    "examples": [
+      "The experience was quite unpleasant.",
+      "There's an unpleasant odor in the room."
+    ]
+  },
+  "unsatisfactory": {
+    "definition": "adj. 不能令人满意的",
+    "phonetic": {
+      "uk": "/ʌnˌsætɪsˈfæktəri/",
+      "us": "/ʌnˌsætɪsˈfæktəri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unsatisfactory results",
+      "unsatisfactory performance"
+    ],
+    "examples": [
+      "The results were unsatisfactory.",
+      "His performance was judged unsatisfactory."
+    ]
+  },
+  "unstable": {
+    "definition": "adj. 不稳定的，易变的",
+    "phonetic": {
+      "uk": "/ʌnˈsteɪb(ə)l/",
+      "us": "/ʌnˈsteɪb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unstable condition",
+      "unstable government"
+    ],
+    "examples": [
+      "The political situation remains unstable.",
+      "The patient is in an unstable condition."
+    ]
+  },
+  "unsuitable": {
+    "definition": "adj. 不合适的，不适宜的",
+    "phonetic": {
+      "uk": "/ʌnˈsuːtəb(ə)l/",
+      "us": "/ʌnˈsuːtəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unsuitable for",
+      "unsuitable behavior"
+    ],
+    "examples": [
+      "The material is unsuitable for outdoor use.",
+      "His behavior was unsuitable for a child."
+    ]
+  },
+  "until": {
+    "definition": "conj. 直到...为止 prep. 直到",
+    "phonetic": {
+      "uk": "/ənˈtɪl/",
+      "us": "/ənˈtɪl/"
+    },
+    "partOfSpeech": "conj., prep.",
+    "phrases": [
+      "until now",
+      "wait until"
+    ],
+    "examples": [
+      "She worked until midnight.",
+      "Wait until the light turns green."
+    ]
+  },
+  "unusual": {
+    "definition": "adj. 不平常的，独特的",
+    "phonetic": {
+      "uk": "/ʌnˈjuːʒuəl/",
+      "us": "/ʌnˈjuːʒuəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unusual pattern",
+      "unusual situation"
+    ],
+    "examples": [
+      "It's unusual to see snow in April.",
+      "She has an unusual talent."
+    ]
+  },
+  "unusually": {
+    "definition": "ad. 不平常地，异常地",
+    "phonetic": {
+      "uk": "/ʌnˈjuːʒuəli/",
+      "us": "/ʌnˈjuːʒuəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "unusually high",
+      "unusually quiet"
+    ],
+    "examples": [
+      "The temperature is unusually high today.",
+      "The room was unusually quiet."
+    ]
+  },
+  "unwilling": {
+    "definition": "adj. 不愿意的，不情愿的",
+    "phonetic": {
+      "uk": "/ʌnˈwɪlɪŋ/",
+      "us": "/ʌnˈwɪlɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "unwilling to",
+      "unwilling participant"
+    ],
+    "examples": [
+      "She was unwilling to help.",
+      "He is an unwilling participant in the project."
+    ]
+  },
+  "up": {
+    "definition": "ad. 向上，在上面 prep. 向上，在上",
+    "phonetic": {
+      "uk": "/ʌp/",
+      "us": "/ʌp/"
+    },
+    "partOfSpeech": "ad., prep.",
+    "phrases": [
+      "go up",
+      "get up"
+    ],
+    "examples": [
+      "Look up at the sky.",
+      "She got up early."
+    ]
+  },
+  "upon": {
+    "definition": "prep. 在...上面",
+    "phonetic": {
+      "uk": "/əˈpɒn/",
+      "us": "/əˈpɑːn/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "once upon a time",
+      "look upon"
+    ],
+    "examples": [
+      "Once upon a time, there was a princess.",
+      "They looked upon him as a role model."
+    ]
+  },
+  "upper": {
+    "definition": "adj. 上部的，较高的",
+    "phonetic": {
+      "uk": "/ˈʌpə(r)/",
+      "us": "/ˈʌpər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "upper class",
+      "upper limit"
+    ],
+    "examples": [
+      "She lives on the upper floor.",
+      "The upper half of the body."
+    ]
+  },
+  "upright": {
+    "definition": "adj. 直立的，正直的",
+    "phonetic": {
+      "uk": "/ˈʌpraɪt/",
+      "us": "/ˈʌpraɪt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "sit upright",
+      "upright citizen"
+    ],
+    "examples": [
+      "Please sit upright.",
+      "He is known as an upright citizen."
+    ]
+  },
+  "uproar": {
+    "definition": "n. 骚动，喧嚣",
+    "phonetic": {
+      "uk": "/ˈʌprɔː(r)/",
+      "us": "/ˈʌprɔːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cause an uproar",
+      "uproar over"
+    ],
+    "examples": [
+      "The decision caused an uproar.",
+      "There was an uproar in the parliament."
+    ]
+  },
+  "upset": {
+    "definition": "vt. 使心烦，推翻 adj. 心烦的 n. 翻覆，混乱",
+    "phonetic": {
+      "uk": "/ʌpˈset/",
+      "us": "/ʌpˈset/"
+    },
+    "partOfSpeech": "vt., adj., n.",
+    "phrases": [
+      "feel upset",
+      "upset stomach"
+    ],
+    "examples": [
+      "I was upset by the bad news.",
+      "Don't upset her further."
+    ]
+  },
+  "upstairs": {
+    "definition": "ad. 在楼上，往楼上",
+    "phonetic": {
+      "uk": "/ʌpˈsteəz/",
+      "us": "/ʌpˈsterz/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "go upstairs",
+      "upstairs room"
+    ],
+    "examples": [
+      "My bedroom is upstairs.",
+      "Please go upstairs and wait."
+    ]
+  },
+  "upward": {
+    "definition": "ad. 向上",
+    "phonetic": {
+      "uk": "/ˈʌpwəd/",
+      "us": "/ˈʌpwərd/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "upward trend",
+      "look upward"
+    ],
+    "examples": [
+      "Prices showed an upward trend.",
+      "He looked upward at the ceiling."
+    ]
+  },
+  "uranium": {
+    "definition": "n. 铀",
+    "phonetic": {
+      "uk": "/juəˈreɪniəm/",
+      "us": "/jʊˈreɪniəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "uranium ore",
+      "uranium enrichment"
+    ],
+    "examples": [
+      "Uranium is used in nuclear reactors.",
+      "The country has uranium deposits."
+    ]
+  },
+  "urban": {
+    "definition": "adj. 城市的，都市的",
+    "phonetic": {
+      "uk": "/ˈɜːbən/",
+      "us": "/ˈɜːrbən/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "urban area",
+      "urban planning"
+    ],
+    "examples": [
+      "Life in urban areas has its challenges.",
+      "He prefers urban living to rural."
+    ]
+  },
+  "urge": {
+    "definition": "vt. 催促，强烈要求 n. 强烈的欲望",
+    "phonetic": {
+      "uk": "/ɜːdʒ/",
+      "us": "/ɜːrdʒ/"
+    },
+    "partOfSpeech": "vt., n.",
+    "phrases": [
+      "urge to",
+      "urge someone"
+    ],
+    "examples": [
+      "She had an urge to travel the world.",
+      "I urge you to reconsider."
+    ]
+  },
+  "urgent": {
+    "definition": "adj. 紧急的，急迫的",
+    "phonetic": {
+      "uk": "/ˈɜːdʒənt/",
+      "us": "/ˈɜːrdʒənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "urgent need",
+      "urgent message"
+    ],
+    "examples": [
+      "This is an urgent matter.",
+      "We need urgent assistance."
+    ]
+  },
+  "us": {
+    "definition": "pron. 我们（we的宾格）",
+    "phonetic": {
+      "uk": "/ʌs/",
+      "us": "/ʌs/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "tell us",
+      "give us"
+    ],
+    "examples": [
+      "Please give us some time.",
+      "Tell us about your day."
+    ]
+  },
+  "usage": {
+    "definition": "n. 使用，用法，惯用法",
+    "phonetic": {
+      "uk": "/ˈjuːsɪdʒ/",
+      "us": "/ˈjuːsɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "water usage",
+      "proper usage"
+    ],
+    "examples": [
+      "She explained the correct usage of the word.",
+      "The car has low fuel usage."
+    ]
+  },
+  "use": {
+    "definition": "v. 使用，利用 n. 用途，使用",
+    "phonetic": {
+      "uk": "/juːz/",
+      "us": "/juːz/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "make use of",
+      "in use"
+    ],
+    "examples": [
+      "Can I use your phone?",
+      "This tool has many uses."
+    ]
+  },
+  "used": {
+    "definition": "adj. 旧的，使用过的，习惯于",
+    "phonetic": {
+      "uk": "/juːzd/",
+      "us": "/juːzd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "used to",
+      "get used to"
+    ],
+    "examples": [
+      "I'm not used to waking up this early.",
+      "She used to live here."
+    ]
+  },
+  "useful": {
+    "definition": "adj. 有用的，有益的",
+    "phonetic": {
+      "uk": "/ˈjuːsf(ə)l/",
+      "us": "/ˈjuːsf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "very useful",
+      "useful information"
+    ],
+    "examples": [
+      "This book is very useful for students.",
+      "She gave me some useful advice."
+    ]
+  },
+  "useless": {
+    "definition": "adj. 无用的，无价值的",
+    "phonetic": {
+      "uk": "/ˈjuːzləs/",
+      "us": "/ˈjuːzləs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "completely useless",
+      "useless attempt"
+    ],
+    "examples": [
+      "Without batteries, the flashlight is useless.",
+      "It was a useless attempt to fix it."
+    ]
+  },
+  "user": {
+    "definition": "n. 用户，使用者",
+    "phonetic": {
+      "uk": "/ˈjuːzə(r)/",
+      "us": "/ˈjuːzər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "computer user",
+      "user manual"
+    ],
+    "examples": [
+      "Users can register for free.",
+      "Read the user manual before starting."
+    ]
+  },
+  "usual": {
+    "definition": "adj. 通常的，习惯的",
+    "phonetic": {
+      "uk": "/ˈjuːʒuəl/",
+      "us": "/ˈjuːʒuəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "as usual",
+      "usual practice"
+    ],
+    "examples": [
+      "She arrived at the usual time.",
+      "You're late as usual."
+    ]
+  },
+  "usually": {
+    "definition": "ad. 通常，经常",
+    "phonetic": {
+      "uk": "/ˈjuːʒuəli/",
+      "us": "/ˈjuːʒuəli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "usually go",
+      "usually do"
+    ],
+    "examples": [
+      "I usually wake up at 7 AM.",
+      "She usually eats lunch at noon."
+    ]
+  },
+  "utility": {
+    "definition": "n. 效用，功用，公用事业",
+    "phonetic": {
+      "uk": "/juːˈtɪləti/",
+      "us": "/juːˈtɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public utility",
+      "electric utility"
+    ],
+    "examples": [
+      "The software has great utility.",
+      "Water and electricity are public utilities."
+    ]
+  },
+  "utilize": {
+    "definition": "vt. 利用",
+    "phonetic": {
+      "uk": "/ˈjuːtəlaɪz/",
+      "us": "/ˈjuːtəlaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "utilize resources",
+      "utilize time"
+    ],
+    "examples": [
+      "We need to utilize our resources efficiently.",
+      "The company utilizes renewable energy."
+    ]
+  },
+  "utmost": {
+    "definition": "adj. 极度的，最大的 n. 极限，最大可能",
+    "phonetic": {
+      "uk": "/ˈʌtməʊst/",
+      "us": "/ˈʌtmoʊst/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "utmost importance",
+      "do one's utmost"
+    ],
+    "examples": [
+      "Your safety is of utmost importance.",
+      "She did her utmost to help us."
+    ]
+  },
+  "utter": {
+    "definition": "adj. 完全的，彻底的 vt. 说，发出声音",
+    "phonetic": {
+      "uk": "/ˈʌtə(r)/",
+      "us": "/ˈʌtər/"
+    },
+    "partOfSpeech": "adj., vt.",
+    "phrases": [
+      "utter silence",
+      "utter a word"
+    ],
+    "examples": [
+      "There was utter silence in the room.",
+      "She couldn't utter a word."
+    ]
+  },
+  "utterance": {
+    "definition": "n. 说话，发声",
+    "phonetic": {
+      "uk": "/ˈʌtərəns/",
+      "us": "/ˈʌtərəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an utterance",
+      "every utterance"
+    ],
+    "examples": [
+      "Her every utterance was analyzed carefully.",
+      "He was surprised by his sudden utterance."
+    ]
+  }
+}

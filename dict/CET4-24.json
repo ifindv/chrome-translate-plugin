@@ -1,0 +1,1602 @@
+{
+  "sovereign": {
+    "definition": "adj. 主权的，至高无上的 n. 君主，元首",
+    "phonetic": {
+      "uk": "/ˈsɒvrɪn/",
+      "us": "/ˈsɑːvrɪn/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "sovereign state",
+      "sovereign power"
+    ],
+    "examples": [
+      "Each nation is a sovereign state.",
+      "The king is the sovereign ruler."
+    ]
+  },
+  "sow": {
+    "definition": "v. 播种，散布",
+    "phonetic": {
+      "uk": "/səʊ/",
+      "us": "/soʊ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "sow seeds",
+      "sow doubt"
+    ],
+    "examples": [
+      "Farmers sow seeds in spring.",
+      "You reap what you sow."
+    ]
+  },
+  "space": {
+    "definition": "n. 空间，太空，距离 v. 隔开",
+    "phonetic": {
+      "uk": "/speɪs/",
+      "us": "/speɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "outer space",
+      "living space"
+    ],
+    "examples": [
+      "Astronauts travel to outer space.",
+      "We need more space for storage."
+    ]
+  },
+  "spacecraft": {
+    "definition": "n. 航天器，宇宙飞船",
+    "phonetic": {
+      "uk": "/ˈspeɪskrɑːft/",
+      "us": "/ˈspeɪskræft/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "spacecraft launch",
+      "manned spacecraft"
+    ],
+    "examples": [
+      "The spacecraft landed safely.",
+      "Russia sent a spacecraft to Mars."
+    ]
+  },
+  "spade": {
+    "definition": "n. 铲子，黑桃",
+    "phonetic": {
+      "uk": "/speɪd/",
+      "us": "/speɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "dig with a spade",
+      "call a spade a spade"
+    ],
+    "examples": [
+      "He used a spade to plant the tree.",
+      "Let's call a spade a spade."
+    ]
+  },
+  "span": {
+    "definition": "n. 跨度，期间 v. 横跨，跨越",
+    "phonetic": {
+      "uk": "/spæn/",
+      "us": "/spæn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "span of time",
+      "life span"
+    ],
+    "examples": [
+      "The bridge has a span of 200 meters.",
+      "The events spanned several days."
+    ]
+  },
+  "spare": {
+    "definition": "adj. 备用的，多余的 v. 抽出，饶恕 n. 备用品",
+    "phonetic": {
+      "uk": "/speə(r)/",
+      "us": "/sper/"
+    },
+    "partOfSpeech": "adj., v., n.",
+    "phrases": [
+      "spare time",
+      "spare tire"
+    ],
+    "examples": [
+      "Do you have any spare time today?",
+      "I have a spare key."
+    ]
+  },
+  "spark": {
+    "definition": "n. 火花，火花 v. 发火花，引发",
+    "phonetic": {
+      "uk": "/spɑːk/",
+      "us": "/spɑːrk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "spark plug",
+      "spark interest"
+    ],
+    "examples": [
+      "The fire started with a spark.",
+      "The news sparked a debate."
+    ]
+  },
+  "sparkle": {
+    "definition": "v. 闪烁，发火花",
+    "phonetic": {
+      "uk": "/ˈspɑːk(ə)l/",
+      "us": "/ˈspɑːrk(ə)l/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "sparkle with",
+      "diamond sparkle"
+    ],
+    "examples": [
+      "Her eyes sparkle with excitement.",
+      "The diamond sparkles in the light."
+    ]
+  },
+  "sparrow": {
+    "definition": "n. 麻雀",
+    "phonetic": {
+      "uk": "/ˈspærəʊ/",
+      "us": "/ˈspæroʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "house sparrow",
+      "little sparrow"
+    ],
+    "examples": [
+      "A sparrow landed on the windowsill.",
+      "Sparrows are common birds."
+    ]
+  },
+  "speak": {
+    "definition": "v. 说话，演讲，说某种语言",
+    "phonetic": {
+      "uk": "/spiːk/",
+      "us": "/spiːk/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "speak up",
+      "speak with"
+    ],
+    "examples": [
+      "Can you speak English?",
+      "Please speak louder."
+    ]
+  },
+  "speaker": {
+    "definition": "n. 说话者，扬声器，演说家",
+    "phonetic": {
+      "uk": "/ˈspiːkə(r)/",
+      "us": "/ˈspiːkər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "guest speaker",
+      "loudspeaker"
+    ],
+    "examples": [
+      "The speaker held the audience's attention.",
+      "The speakers are very loud."
+    ]
+  },
+  "special": {
+    "definition": "adj. 特别的，专门的 n. 特别节目，特色菜",
+    "phonetic": {
+      "uk": "/ˈspeʃ(ə)l/",
+      "us": "/ˈspeʃ(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "special occasion",
+      "special offer"
+    ],
+    "examples": [
+      "Today is a special day.",
+      "We have a special menu."
+    ]
+  },
+  "specialist": {
+    "definition": "n. 专家，专科医生",
+    "phonetic": {
+      "uk": "/ˈspeʃəlɪst/",
+      "us": "/ˈspeʃəlɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "medical specialist",
+      "subject specialist"
+    ],
+    "examples": [
+      "He is a heart specialist.",
+      "You should see a specialist."
+    ]
+  },
+  "specialize": {
+    "definition": "vi. 专攻，专门研究",
+    "phonetic": {
+      "uk": "/ˈspeʃəlaɪz/",
+      "us": "/ˈspeʃəlaɪz/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "specialize in",
+      "specialize field"
+    ],
+    "examples": [
+      "She specializes in children's literature.",
+      "The company specializes in software."
+    ]
+  },
+  "specialty": {
+    "definition": "n. 特性，特长，特色菜",
+    "phonetic": {
+      "uk": "/ˈspeʃəlti/",
+      "us": "/ˈspeʃəlti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "my specialty",
+      "local specialty"
+    ],
+    "examples": [
+      "Pasta is my specialty.",
+      "This restaurant's specialty is seafood."
+    ]
+  },
+  "species": {
+    "definition": "n. 物种，种类",
+    "phonetic": {
+      "uk": "/ˈspiːʃiːz/",
+      "us": "/ˈspiːʃiːz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "endangered species",
+      "human species"
+    ],
+    "examples": [
+      "Many species are endangered.",
+      "Humans belong to the species Homo sapiens."
+    ]
+  },
+  "specific": {
+    "definition": "adj. 特定的，明确的，具体的",
+    "phonetic": {
+      "uk": "/spəˈsɪfɪk/",
+      "us": "/spəˈsɪfɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "specific reason",
+      "specific date"
+    ],
+    "examples": [
+      "I need specific information.",
+      "Please give me a specific example."
+    ]
+  },
+  "specifically": {
+    "definition": "ad. 特别地，明确地，特地",
+    "phonetic": {
+      "uk": "/spəˈsɪfɪkli/",
+      "us": "/spəˈsɪfɪkli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "specifically designed",
+      "specifically mentioned"
+    ],
+    "examples": [
+      "I specifically asked for tea.",
+      "This room is specifically for meetings."
+    ]
+  },
+  "specify": {
+    "definition": "vt. 指定，详细说明",
+    "phonetic": {
+      "uk": "/ˈspesɪfaɪ/",
+      "us": "/ˈspesɪfaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "specify details",
+      "specify requirements"
+    ],
+    "examples": [
+      "Please specify your preferences.",
+      "The contract specifies the terms."
+    ]
+  },
+  "specimen": {
+    "definition": "n. 样本，标本，试样",
+    "phonetic": {
+      "uk": "/ˈspesɪmɪn/",
+      "us": "/ˈspesəmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "blood specimen",
+      "specimen collection"
+    ],
+    "examples": [
+      "The scientists collected specimens.",
+      "Please provide a specimen of your work."
+    ]
+  },
+  "spectacle": {
+    "definition": "n. 眼镜，景象，壮观场面",
+    "phonetic": {
+      "uk": "/ˈspektək(ə)l/",
+      "us": "/ˈspektək(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a spectacle",
+      "grand spectacle"
+    ],
+    "examples": [
+      "The fireworks were a magnificent spectacle.",
+      "He made a spectacle of himself."
+    ]
+  },
+  "spectacular": {
+    "definition": "adj. 壮观的，引人注目的",
+    "phonetic": {
+      "uk": "/spekˈtækjələ(r)/",
+      "us": "/spekˈtækjələr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "spectacular view",
+      "spectacular performance"
+    ],
+    "examples": [
+      "The view from the top is spectacular.",
+      "The team delivered a spectacular performance."
+    ]
+  },
+  "spectator": {
+    "definition": "n. 观众，旁观者",
+    "phonetic": {
+      "uk": "/spekˈteɪtə(r)/",
+      "us": "/ˈspekteɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "spectator sports",
+      "spectator seats"
+    ],
+    "examples": [
+      "Thousands of spectators watched the game.",
+      "Cheering spectators filled the stadium."
+    ]
+  },
+  "spectrum": {
+    "definition": "n. 光谱，范围，系列",
+    "phonetic": {
+      "uk": "/ˈspektrəm/",
+      "us": "/ˈspektrəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "light spectrum",
+      "broad spectrum"
+    ],
+    "examples": [
+      "Rain contains the full spectrum of colors.",
+      "Opinions across the political spectrum vary."
+    ]
+  },
+  "speculate": {
+    "definition": "v. 推测，投机，思索",
+    "phonetic": {
+      "uk": "/ˈspekjʊleɪt/",
+      "us": "/ˈspekjʊleɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "speculate on",
+      "speculate about"
+    ],
+    "examples": [
+      "Scientists speculate about life on other planets.",
+      "He likes to speculate in stocks."
+    ]
+  },
+  "speech": {
+    "definition": "n. 演讲，说话，言语",
+    "phonetic": {
+      "uk": "/spiːtʃ/",
+      "us": "/spiːtʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a speech",
+      "freedom of speech"
+    ],
+    "examples": [
+      "She gave an inspiring speech.",
+      "His speech was well-received."
+    ]
+  },
+  "speed": {
+    "definition": "n. 速度，速率 v. 加速，超速",
+    "phonetic": {
+      "uk": "/spiːd/",
+      "us": "/spiːd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "speed up",
+      "at high speed"
+    ],
+    "examples": [
+      "The car was moving at high speed.",
+      "Please speed up the process."
+    ]
+  },
+  "spell": {
+    "definition": "v. 拼写，意味着 n. 咒语，魔法",
+    "phonetic": {
+      "uk": "/spel/",
+      "us": "/spel/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spell out",
+      "cast a spell"
+    ],
+    "examples": [
+      "Please spell your name clearly.",
+      "The witch cast a spell."
+    ]
+  },
+  "spelling": {
+    "definition": "n. 拼写，拼法",
+    "phonetic": {
+      "uk": "/ˈspelɪŋ/",
+      "us": "/ˈspelɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "correct spelling",
+      "spelling bee"
+    ],
+    "examples": [
+      "Pay attention to your spelling.",
+      "She won the spelling contest."
+    ]
+  },
+  "spend": {
+    "definition": "v. 花费，度过，消磨",
+    "phonetic": {
+      "uk": "/spend/",
+      "us": "/spend/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "spend money",
+      "spend time"
+    ],
+    "examples": [
+      "How much did you spend?",
+      "I spent the weekend reading."
+    ]
+  },
+  "sphere": {
+    "definition": "n. 球体，范围，领域",
+    "phonetic": {
+      "uk": "/sfɪə(r)/",
+      "us": "/sfɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sphere of influence",
+      "hemisphere"
+    ],
+    "examples": [
+      "The earth is a sphere.",
+      "This is outside my sphere of knowledge."
+    ]
+  },
+  "spice": {
+    "definition": "n. 香料，调味品 v. 加香料于",
+    "phonetic": {
+      "uk": "/spaɪs/",
+      "us": "/spaɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "spice up",
+      "herbs and spices"
+    ],
+    "examples": [
+      "Add some spice to the dish.",
+      "Variety is the spice of life."
+    ]
+  },
+  "spicy": {
+    "definition": "adj. 辛辣的，加香料的",
+    "phonetic": {
+      "uk": "/ˈspaɪsi/",
+      "us": "/ˈspaɪsi/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "spicy food",
+      "spicy chicken"
+    ],
+    "examples": [
+      "I love spicy food.",
+      "The curry is very spicy."
+    ]
+  },
+  "spider": {
+    "definition": "n. 蜘蛛",
+    "phonetic": {
+      "uk": "/ˈspaɪdə(r)/",
+      "us": "/ˈspaɪdər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "spider web",
+      "spider bite"
+    ],
+    "examples": [
+      "A spider spun a web in the corner.",
+      "Many people are afraid of spiders."
+    ]
+  },
+  "spike": {
+    "definition": "n. 尖峰，尖刺 v. 猛增，用钉刺",
+    "phonetic": {
+      "uk": "/spaɪk/",
+      "us": "/spaɪk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "price spike",
+      "spike up"
+    ],
+    "examples": [
+      "Prices spiked unexpectedly.",
+      "The runner wears track spikes."
+    ]
+  },
+  "spill": {
+    "definition": "v. 溢出，洒出 n. 溢出，洒落物",
+    "phonetic": {
+      "uk": "/spɪl/",
+      "us": "/spɪl/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spill over",
+      "oil spill"
+    ],
+    "examples": [
+      "Be careful not to spill your drink.",
+      "Clean up the spill immediately."
+    ]
+  },
+  "spin": {
+    "definition": "v. 旋转，纺纱 n. 旋转",
+    "phonetic": {
+      "uk": "/spɪn/",
+      "us": "/spɪn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spin around",
+      "spin doctor"
+    ],
+    "examples": [
+      "The wheel spins rapidly.",
+      "She spun silk into thread."
+    ]
+  },
+  "spiral": {
+    "definition": "n. 螺旋 adj. 螺旋的 v. 盘旋",
+    "phonetic": {
+      "uk": "/ˈspaɪərəl/",
+      "us": "/ˈspaɪrəl/"
+    },
+    "partOfSpeech": "n., adj., v.",
+    "phrases": [
+      "spiral staircase",
+      "spiral downward"
+    ],
+    "examples": [
+      "The staircase has a spiral design.",
+      "Prices spiraled out of control."
+    ]
+  },
+  "spirit": {
+    "definition": "n. 精神，心灵，烈酒，灵魂",
+    "phonetic": {
+      "uk": "/ˈspɪrɪt/",
+      "us": "/ˈspɪrɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "team spirit",
+      "high spirits"
+    ],
+    "examples": [
+      "She has a fighting spirit.",
+      "The team showed great spirit."
+    ]
+  },
+  "spiritual": {
+    "definition": "adj. 精神的，心灵的，宗教的",
+    "phonetic": {
+      "uk": "/ˈspɪrɪtʃuəl/",
+      "us": "/ˈspɪrɪtʃuəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "spiritual leader",
+      "spiritual growth"
+    ],
+    "examples": [
+      "He values spiritual health.",
+      "She seeks spiritual enlightenment."
+    ]
+  },
+  "spit": {
+    "definition": "v. 吐痰，吐出 n. 唾液",
+    "phonetic": {
+      "uk": "/spɪt/",
+      "us": "/spɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spit out",
+      "spit and polish"
+    ],
+    "examples": [
+      "Don't spit in public.",
+      "Please spit the gum out."
+    ]
+  },
+  "spite": {
+    "definition": "n. 恶意，怨恨",
+    "phonetic": {
+      "uk": "/spaɪt/",
+      "us": "/spaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in spite of",
+      "out of spite"
+    ],
+    "examples": [
+      "He did it out of spite.",
+      "Despite the rain, we went out."
+    ]
+  },
+  "splash": {
+    "definition": "v. 溅，泼 n. 溅水声，斑点",
+    "phonetic": {
+      "uk": "/splæʃ/",
+      "us": "/splæʃ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "make a splash",
+      "splash out"
+    ],
+    "examples": [
+      "The children splashed in the pool.",
+      "The paint made a splash on the wall."
+    ]
+  },
+  "splendid": {
+    "definition": "adj. 极好的，辉煌的，壮观的",
+    "phonetic": {
+      "uk": "/ˈsplendɪd/",
+      "us": "/ˈsplendɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "splendid view",
+      "splendid idea"
+    ],
+    "examples": [
+      "The palace is absolutely splendid.",
+      "We had a splendid time."
+    ]
+  },
+  "split": {
+    "definition": "v. 分裂，分开 n. 分裂，裂口",
+    "phonetic": {
+      "uk": "/splɪt/",
+      "us": "/splɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "split up",
+      "split the bill"
+    ],
+    "examples": [
+      "Let's split the bill evenly.",
+      "The team split into two groups."
+    ]
+  },
+  "spoil": {
+    "definition": "v. 损坏，溺爱，变质 n. 赃物",
+    "phonetic": {
+      "uk": "/spɔɪl/",
+      "us": "/spɔɪl/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spilt child",
+      "spilt for choice"
+    ],
+    "examples": [
+      "The rain spoiled our picnic.",
+      "Don't spoil the children too much."
+    ]
+  },
+  "spokesman": {
+    "definition": "n. 发言人",
+    "phonetic": {
+      "uk": "/ˈspəʊksmən/",
+      "us": "/ˈspoʊksmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "official spokesman",
+      "company spokesman"
+    ],
+    "examples": [
+      "The spokesman made a statement.",
+      "The government spokesman denied the rumor."
+    ]
+  },
+  "spokeswoman": {
+    "definition": "n. 女发言人",
+    "phonetic": {
+      "uk": "/ˈspəʊksˌwʊmən/",
+      "us": "/ˈspoʊksˌwʊmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "official spokeswoman",
+      "company spokeswoman"
+    ],
+    "examples": [
+      "The spokeswoman addressed the media.",
+      "She acts as the spokeswoman for the organization."
+    ]
+  },
+  "sponge": {
+    "definition": "n. 海绵 v. 用海绵擦拭，吸水",
+    "phonetic": {
+      "uk": "/spʌndʒ/",
+      "us": "/spʌndʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sponge off",
+      "sponge cake"
+    ],
+    "examples": [
+      "Clean the table with a sponge.",
+      "Sponges absorb water quickly."
+    ]
+  },
+  "sponsor": {
+    "definition": "n. 赞助人，发起人 v. 赞助，发起",
+    "phonetic": {
+      "uk": "/ˈspɒnsə(r)/",
+      "us": "/ˈspɑːnsər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sponsor the event",
+      "main sponsor"
+    ],
+    "examples": [
+      "The company sponsors the football team.",
+      "She is the sponsor of the bill."
+    ]
+  },
+  "spontaneous": {
+    "definition": "adj. 自发的，自然的，无意识的",
+    "phonetic": {
+      "uk": "/spɒnˈteɪniəs/",
+      "us": "/spɑːnˈteɪniəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "spontaneous applause",
+      "spontaneous combustion"
+    ],
+    "examples": [
+      "The audience gave spontaneous applause.",
+      "Her smile was spontaneous and genuine."
+    ]
+  },
+  "spoon": {
+    "definition": "n. 匙，勺子",
+    "phonetic": {
+      "uk": "/spuːn/",
+      "us": "/spuːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tablespoon",
+      "silver spoon"
+    ],
+    "examples": [
+      "Stir the soup with a spoon.",
+      "She was born with a silver spoon in her mouth."
+    ]
+  },
+  "sport": {
+    "definition": "n. 运动，体育 v. 嬉戏，炫耀",
+    "phonetic": {
+      "uk": "/spɔːt/",
+      "us": "/spɔːrt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "team sport",
+      "extreme sport"
+    ],
+    "examples": [
+      "Football is a popular sport.",
+      "She likes to sport her new car."
+    ]
+  },
+  "sportsman": {
+    "definition": "n. 运动员，有体育精神的人",
+    "phonetic": {
+      "uk": "/ˈspɔːtsmən/",
+      "us": "/ˈspɔːrtsmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "professional sportsman",
+      "good sportsman"
+    ],
+    "examples": [
+      "He is a skilled sportsman.",
+      "A true sportsman respects the rules."
+    ]
+  },
+  "spot": {
+    "definition": "n. 地点，斑点，现场 v. 认出，发现",
+    "phonetic": {
+      "uk": "/spɒt/",
+      "us": "/spɑːt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "on the spot",
+      "scenic spot"
+    ],
+    "examples": [
+      "I spotted a mistake in the document.",
+      "This is a perfect spot for a picnic."
+    ]
+  },
+  "spouse": {
+    "definition": "n. 配偶",
+    "phonetic": {
+      "uk": "/spaʊs/",
+      "us": "/spaʊs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "one's spouse",
+      "spouse and children"
+    ],
+    "examples": [
+      "Please bring your spouse to the event.",
+      "Your spouse is welcome to join us."
+    ]
+  },
+  "spray": {
+    "definition": "v. 喷射，喷洒 n. 浪花，喷雾器",
+    "phonetic": {
+      "uk": "/spreɪ/",
+      "us": "/spreɪ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "bug spray",
+      "spray paint"
+    ],
+    "examples": [
+      "Spray some water on the plants.",
+      "The perfume spray smells wonderful."
+    ]
+  },
+  "spread": {
+    "definition": "v. 传播，散布，伸展 n. 传播，范围",
+    "phonetic": {
+      "uk": "/spred/",
+      "us": "/spred/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spread out",
+      "fake spread"
+    ],
+    "examples": [
+      "The news spread quickly.",
+      "Spread the butter on the bread."
+    ]
+  },
+  "spring": {
+    "definition": "n. 春天，弹簧，泉水 v. 跳跃，突然出现",
+    "phonetic": {
+      "uk": "/sprɪŋ/",
+      "us": "/sprɪŋ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "spring festival",
+      "spring break"
+    ],
+    "examples": [
+      "Spring is my favorite season.",
+      "The spring is loose."
+    ]
+  },
+  "sprinkle": {
+    "definition": "v. 撒，洒，下小雨 n. 少量，微量",
+    "phonetic": {
+      "uk": "/ˈsprɪŋk(ə)l/",
+      "us": "/ˈsprɪŋk(ə)l/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "sprinkle with",
+      "a sprinkle"
+    ],
+    "examples": [
+      "Sprinkle some salt on the salad.",
+      "There was just a sprinkle of rain."
+    ]
+  },
+  "sprout": {
+    "definition": "v. 发芽，萌芽 n. 嫩芽",
+    "phonetic": {
+      "uk": "/spraʊt/",
+      "us": "/spraʊt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "bean sprouts",
+      "sprout up"
+    ],
+    "examples": [
+      "The seeds began to sprout.",
+      "Sprouts are nutritious vegetables."
+    ]
+  },
+  "spur": {
+    "definition": "v. 刺激，激励 n. 刺激物，马刺",
+    "phonetic": {
+      "uk": "/spɜː(r)/",
+      "us": "/spɜːr/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "spur on",
+      "spur economic growth"
+    ],
+    "examples": [
+      "The promise of reward spurred him on.",
+      "This project will spur economic development."
+    ]
+  },
+  "spy": {
+    "definition": "n. 间谍，特务 v. 侦察，当间谍",
+    "phonetic": {
+      "uk": "/spaɪ/",
+      "us": "/spaɪ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "spy on",
+      "spy satellite"
+    ],
+    "examples": [
+      "He was caught spying.",
+      "Don't spy on your neighbors."
+    ]
+  },
+  "square": {
+    "definition": "n. 正方形，广场 adj. 正方形的，直角的",
+    "phonetic": {
+      "uk": "/skweə(r)/",
+      "us": "/skwer/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "town square",
+      "square meter"
+    ],
+    "examples": [
+      "We met in the town square.",
+      "The room is square in shape."
+    ]
+  },
+  "squeeze": {
+    "definition": "v. 挤压，榨取 n. 挤压",
+    "phonetic": {
+      "uk": "/skwiːz/",
+      "us": "/skwiːz/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "squeeze out",
+      "tight squeeze"
+    ],
+    "examples": [
+      "Squeeze the lemon juice.",
+      "We were in a tight squeeze."
+    ]
+  },
+  "squirrel": {
+    "definition": "n. 松鼠",
+    "phonetic": {
+      "uk": "/ˈskwɪrəl/",
+      "us": "/ˈskwɪrəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "gray squirrel",
+      "ground squirrel"
+    ],
+    "examples": [
+      "The squirrel gathered nuts for winter.",
+      "Squirrels climb trees quickly."
+    ]
+  },
+  "stab": {
+    "definition": "v. 刺，戳 n. 刺伤，尝试",
+    "phonetic": {
+      "uk": "/stæb/",
+      "us": "/stæb/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "stab in the back",
+      "take a stab at"
+    ],
+    "examples": [
+      "He was stabbed in the back.",
+      "Let me take a stab at solving this."
+    ]
+  },
+  "stability": {
+    "definition": "n. 稳定，稳定性",
+    "phonetic": {
+      "uk": "/stəˈbɪləti/",
+      "us": "/stəˈbɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "political stability",
+      "economic stability"
+    ],
+    "examples": [
+      "The country enjoys political stability.",
+      "Financial stability is important for families."
+    ]
+  },
+  "stabilize": {
+    "definition": "vt. 使稳定，使稳固",
+    "phonetic": {
+      "uk": "/ˈsteɪbəlaɪz/",
+      "us": "/ˈsteɪbəlaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "stabilize prices",
+      "stabilize situation"
+    ],
+    "examples": [
+      "The government is trying to stabilize prices.",
+      "We need to stabilize the patient's condition."
+    ]
+  },
+  "stable": {
+    "definition": "adj. 稳定的，稳固的 n. 马厩",
+    "phonetic": {
+      "uk": "/ˈsteɪb(ə)l/",
+      "us": "/ˈsteɪb(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "stable job",
+      "horse stable"
+    ],
+    "examples": [
+      "He has a stable income.",
+      "The horses are in the stable."
+    ]
+  },
+  "stack": {
+    "definition": "n. 堆，一堆 v. 堆积，堆叠",
+    "phonetic": {
+      "uk": "/stæk/",
+      "us": "/stæk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "stack of books",
+      "stack up"
+    ],
+    "examples": [
+      "There's a stack of papers on my desk.",
+      "Don't stack the boxes too high."
+    ]
+  },
+  "stadium": {
+    "definition": "n. 体育场",
+    "phonetic": {
+      "uk": "/ˈsteɪdiəm/",
+      "us": "/ˈsteɪdiəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "football stadium",
+      "Olympic stadium"
+    ],
+    "examples": [
+      "The stadium can seat 50,000 people.",
+      "The game was held at the stadium."
+    ]
+  },
+  "staff": {
+    "definition": "n. 全体职员，棒，支柱",
+    "phonetic": {
+      "uk": "/stɑːf/",
+      "us": "/stæf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "staff member",
+      "support staff"
+    ],
+    "examples": [
+      "The hotel staff is very helpful.",
+      "She manages a team of 20 staff members."
+    ]
+  },
+  "stage": {
+    "definition": "n. 舞台，阶段 v. 上演，举行",
+    "phonetic": {
+      "uk": "/steɪdʒ/",
+      "us": "/steɪdʒ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "on stage",
+      "early stage"
+    ],
+    "examples": [
+      "She walked onto the stage confidently.",
+      "The project is still in the early stage."
+    ]
+  },
+  "stagger": {
+    "definition": "v. 蹒跚，使震惊 n. 蹒跚",
+    "phonetic": {
+      "uk": "/ˈstæɡə(r)/",
+      "us": "/ˈstæɡər/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "stagger around",
+      "stagger back"
+    ],
+    "examples": [
+      "He staggered home after the party.",
+      "The news made her stagger."
+    ]
+  },
+  "stain": {
+    "definition": "n. 污渍，瑕疵 v. 污染，染色",
+    "phonetic": {
+      "uk": "/steɪn/",
+      "us": "/steɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "blood stain",
+      "stain removal"
+    ],
+    "examples": [
+      "There's a stain on your shirt.",
+      "Coffee will stain the carpet."
+    ]
+  },
+  "stair": {
+    "definition": "n. 楼梯，梯级",
+    "phonetic": {
+      "uk": "/steə(r)/",
+      "us": "/ster/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "up the stairs",
+      "down the stairs"
+    ],
+    "examples": [
+      "She climbed the stairs slowly.",
+      "My apartment is up the stairs."
+    ]
+  },
+  "staircase": {
+    "definition": "n. 楼梯间",
+    "phonetic": {
+      "uk": "/ˈsteəkeɪs/",
+      "us": "/ˈsterkeɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "spiral staircase",
+      "main staircase"
+    ],
+    "examples": [
+      "The staircase leads to the second floor.",
+      "She stood at the bottom of the staircase."
+    ]
+  },
+  "stake": {
+    "definition": "n. 桩，赌注，股份 v. 以...打赌",
+    "phonetic": {
+      "uk": "/steɪk/",
+      "us": "/steɪk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "stake out",
+      "have a stake in"
+    ],
+    "examples": [
+      "He staked the young tree.",
+      "I have a stake in this business."
+    ]
+  },
+  "stale": {
+    "definition": "adj. 陈腐的，不新鲜的",
+    "phonetic": {
+      "uk": "/steɪl/",
+      "us": "/steɪl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "stale bread",
+      "stale joke"
+    ],
+    "examples": [
+      "The bread is stale.",
+      "His jokes are getting stale."
+    ]
+  },
+  "stalk": {
+    "definition": "n. 茎，柄 v. 悄悄跟踪，高视阔步",
+    "phonetic": {
+      "uk": "/stɔːk/",
+      "us": "/stɔːk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "flower stalk",
+      "stalk prey"
+    ],
+    "examples": [
+      "The flower has a long stalk.",
+      "The hunter stalked the deer."
+    ]
+  },
+  "stall": {
+    "definition": "n. 货摊，厩 v. 停止，拖延",
+    "phonetic": {
+      "uk": "/stɔːl/",
+      "us": "/stɔːl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "market stall",
+      "stall for time"
+    ],
+    "examples": [
+      "She bought fruit at the market stall.",
+      "The car stalled at the intersection."
+    ]
+  },
+  "stamp": {
+    "definition": "n. 邮票，印章，跺脚 v. 贴邮票，盖印，跺脚",
+    "phonetic": {
+      "uk": "/stæmp/",
+      "us": "/stæmp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "stamp collection",
+      "foot stamp"
+    ],
+    "examples": [
+      "I need to buy a stamp for this letter.",
+      "She stamped her foot in anger."
+    ]
+  },
+  "stand": {
+    "definition": "v. 站立，承受，主张 n. 立场，摊位",
+    "phonetic": {
+      "uk": "/stænd/",
+      "us": "/stænd/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "stand by",
+      "take a stand"
+    ],
+    "examples": [
+      "Please stand up when the teacher enters.",
+      "Where do you stand on this issue?"
+    ]
+  },
+  "standard": {
+    "definition": "n. 标准，水准 adj. 标准的，普通的",
+    "phonetic": {
+      "uk": "/ˈstændəd/",
+      "us": "/ˈstændərd/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "standard of living",
+      "high standard"
+    ],
+    "examples": [
+      "This product meets high standards.",
+      "The standard of living has improved."
+    ]
+  },
+  "standardize": {
+    "definition": "vt. 使标准化",
+    "phonetic": {
+      "uk": "/ˈstændədaɪz/",
+      "us": "/ˈstændərdaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "standardize process",
+      "standardize equipment"
+    ],
+    "examples": [
+      "We need to standardize our procedures.",
+      "The company standardized its products."
+    ]
+  },
+  "standing": {
+    "definition": "adj. 永久的，直立的 n. 地位，身份",
+    "phonetic": {
+      "uk": "/ˈstændɪŋ/",
+      "us": "/ˈstændɪŋ/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "standing ovation",
+      "high standing"
+    ],
+    "examples": [
+      "The audience gave a standing ovation.",
+      "She has a high standing in the community."
+    ]
+  },
+  "standpoint": {
+    "definition": "n. 立场，观点",
+    "phonetic": {
+      "uk": "/ˈstændpɔɪnt/",
+      "us": "/ˈstændpɔɪnt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "from a standpoint",
+      "economic standpoint"
+    ],
+    "examples": [
+      "From a safety standpoint, it's not advisable.",
+      "Let's look at this from another standpoint."
+    ]
+  },
+  "staple": {
+    "definition": "n. 主食，主要产品 v. 用钉书钉钉住",
+    "phonetic": {
+      "uk": "/ˈsteɪp(ə)l/",
+      "us": "/ˈsteɪp(ə)l/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "staple food",
+      "office staple"
+    ],
+    "examples": [
+      "Rice is a staple food in Asia.",
+      "Please staple these pages together."
+    ]
+  },
+  "star": {
+    "definition": "n. 星，恒星，明星 v. 主演",
+    "phonetic": {
+      "uk": "/stɑː(r)/",
+      "us": "/stɑːr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "movie star",
+      "shooting star"
+    ],
+    "examples": [
+      "The sun is a star.",
+      "She starred in the new film."
+    ]
+  },
+  "stare": {
+    "definition": "v. 盯，凝视 n. 盯视",
+    "phonetic": {
+      "uk": "/steə(r)/",
+      "us": "/ster/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "stare at",
+      "fixed stare"
+    ],
+    "examples": [
+      "Don't stare at people.",
+      "She stared at the painting in wonder."
+    ]
+  },
+  "start": {
+    "definition": "v. 开始，启动 n. 开始，起点",
+    "phonetic": {
+      "uk": "/stɑːt/",
+      "us": "/stɑːrt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "start from scratch",
+      "get a start"
+    ],
+    "examples": [
+      "The movie starts at 8 PM.",
+      "Let's start the meeting."
+    ]
+  },
+  "startle": {
+    "definition": "vt. 使惊吓，使吃惊",
+    "phonetic": {
+      "uk": "/ˈstɑːt(ə)l/",
+      "us": "/ˈstɑːrt(ə)l/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "startled by",
+      "startle someone"
+    ],
+    "examples": [
+      "The noise startled me.",
+      "She was startled by the sudden movement."
+    ]
+  },
+  "starve": {
+    "definition": "v. 饿死，挨饿",
+    "phonetic": {
+      "uk": "/stɑːv/",
+      "us": "/stɑːrv/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "starve to death",
+      "starving children"
+    ],
+    "examples": [
+      "Many animals starved during the drought.",
+      "He's starving after the long hike."
+    ]
+  },
+  "state": {
+    "definition": "n. 国家，州，状态 v. 说明，陈述",
+    "phonetic": {
+      "uk": "/steɪt/",
+      "us": "/steɪt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "state of mind",
+      "United States"
+    ],
+    "examples": [
+      "She stated her opinion clearly.",
+      "The building is in a poor state."
+    ]
+  },
+  "statement": {
+    "definition": "n. 声明，陈述，说明",
+    "phonetic": {
+      "uk": "/ˈsteɪtmənt/",
+      "us": "/ˈsteɪtmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a statement",
+      "bank statement"
+    ],
+    "examples": [
+      "The president made a statement.",
+      "Your bank statement has arrived."
+    ]
+  },
+  "statesman": {
+    "definition": "n. 政治家，国务活动家",
+    "phonetic": {
+      "uk": "/ˈsteɪtsmən/",
+      "us": "/ˈsteɪtsmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "great statesman",
+      "statesmanlike behavior"
+    ],
+    "examples": [
+      "He was respected as a statesman.",
+      "A true statesman serves the people."
+    ]
+  },
+  "static": {
+    "definition": "adj. 静止的，静电的，静态的",
+    "phonetic": {
+      "uk": "/ˈstætɪk/",
+      "us": "/ˈstætɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "static electricity",
+      "static analysis"
+    ],
+    "examples": [
+      "The picture is static.",
+      "I felt a static shock."
+    ]
+  },
+  "station": {
+    "definition": "n. 车站，所，台 v. 安置，驻扎",
+    "phonetic": {
+      "uk": "/ˈsteɪʃ(ə)n/",
+      "us": "/ˈsteɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "train station",
+      "police station"
+    ],
+    "examples": [
+      "I'll meet you at the train station.",
+      "Troops were stationed at the border."
+    ]
+  }
+}

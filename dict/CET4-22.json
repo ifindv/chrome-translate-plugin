@@ -1,0 +1,1602 @@
+{
+  "share": {
+    "definition": "v. 分享，分担，共有 n. 份额，股份",
+    "phonetic": {
+      "uk": "/ʃeə(r)/",
+      "us": "/ʃer/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "share with",
+      "fair share"
+    ],
+    "examples": [
+      "Please share your toys with your sister.",
+      "She owns a large share of the company."
+    ]
+  },
+  "sharp": {
+    "definition": "adj. 锋利的，敏锐的 ad. 正好",
+    "phonetic": {
+      "uk": "/ʃɑːp/",
+      "us": "/ʃɑːrp/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "sharp knife",
+      "sharp turn"
+    ],
+    "examples": [
+      "Be careful with that sharp knife.",
+      "The turn came up very sharp."
+    ]
+  },
+  "shave": {
+    "definition": "v. 剃，刮 n. 刮脸",
+    "phonetic": {
+      "uk": "/ʃeɪv/",
+      "us": "/ʃeɪv/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shave off",
+      "close shave"
+    ],
+    "examples": [
+      "He shaves every morning.",
+      "It was a close shave but we made it."
+    ]
+  },
+  "she": {
+    "definition": "pron. 她",
+    "phonetic": {
+      "uk": "/ʃi/",
+      "us": "/ʃi/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "she and he",
+      "she says"
+    ],
+    "examples": [
+      "She is my best friend.",
+      "She loves to read books."
+    ]
+  },
+  "sheep": {
+    "definition": "n. 羊，绵羊",
+    "phonetic": {
+      "uk": "/ʃiːp/",
+      "us": "/ʃiːp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "count sheep",
+      "lost sheep"
+    ],
+    "examples": [
+      "The farmer keeps many sheep.",
+      "Counting sheep helps me fall asleep."
+    ]
+  },
+  "sheet": {
+    "definition": "n. 床单，纸张，薄片",
+    "phonetic": {
+      "uk": "/ʃiːt/",
+      "us": "/ʃiːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bed sheet",
+      "sheet of paper"
+    ],
+    "examples": [
+      "Please change the bed sheets.",
+      "Hand me a sheet of paper."
+    ]
+  },
+  "shelf": {
+    "definition": "n. 架子，搁板",
+    "phonetic": {
+      "uk": "/ʃelf/",
+      "us": "/ʃelf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on the shelf",
+      "bookshelf"
+    ],
+    "examples": [
+      "Put the book back on the shelf.",
+      "The shelf is too high for me to reach."
+    ]
+  },
+  "shell": {
+    "definition": "n. 壳，外壳，炮弹",
+    "phonetic": {
+      "uk": "/ʃel/",
+      "us": "/ʃel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "egg shell",
+      "seashell"
+    ],
+    "examples": [
+      "The turtle has a hard shell.",
+      "Children collected seashells on the beach."
+    ]
+  },
+  "shelter": {
+    "definition": "n. 庇护所，遮蔽物 v. 庇护，遮蔽",
+    "phonetic": {
+      "uk": "/ˈʃeltə(r)/",
+      "us": "/ˈʃeltər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take shelter",
+      "animal shelter"
+    ],
+    "examples": [
+      "We found shelter from the rain.",
+      "The organization shelters homeless people."
+    ]
+  },
+  "shepherd": {
+    "definition": "n. 牧羊人 v. 牧羊，带领",
+    "phonetic": {
+      "uk": "/ˈʃepəd/",
+      "us": "/ˈʃepərd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "shepherd dog",
+      "shepherd the flock"
+    ],
+    "examples": [
+      "The shepherd watched over his sheep.",
+      "She shepherded the children to safety."
+    ]
+  },
+  "sheriff": {
+    "definition": "n. 警长，县治安官",
+    "phonetic": {
+      "uk": "/ˈʃerɪf/",
+      "us": "/ˈʃerɪf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "deputy sheriff",
+      "sheriff's office"
+    ],
+    "examples": [
+      "The sheriff arrested the thief.",
+      "The new sheriff vows to fight crime."
+    ]
+  },
+  "shield": {
+    "definition": "n. 盾，盾牌 v. 保护，掩护",
+    "phonetic": {
+      "uk": "/ʃiːld/",
+      "us": "/ʃiːld/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "heat shield",
+      "shield from"
+    ],
+    "examples": [
+      "The knight carried a shield into battle.",
+      "She raised her hand to shield her eyes."
+    ]
+  },
+  "shift": {
+    "definition": "v. 转移，改变，移动 n. 轮班，转变",
+    "phonetic": {
+      "uk": "/ʃɪft/",
+      "us": "/ʃɪft/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shift work",
+      "night shift"
+    ],
+    "examples": [
+      "She works the night shift.",
+      "Public opinion has shifted on this issue."
+    ]
+  },
+  "shilling": {
+    "definition": "n. 先令（英国旧货币单位）",
+    "phonetic": {
+      "uk": "/ˈʃɪlɪŋ/",
+      "us": "/ˈʃɪlɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "five shillings",
+      "old shilling"
+    ],
+    "examples": [
+      "The book costs two shillings.",
+      "The shilling was used before decimalization."
+    ]
+  },
+  "shine": {
+    "definition": "v. 照耀，发光 n. 光泽，阳光",
+    "phonetic": {
+      "uk": "/ʃaɪn/",
+      "us": "/ʃaɪn/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shine bright",
+      "take a shine to"
+    ],
+    "examples": [
+      "The sun shines brightly today.",
+      "Her hair has a beautiful shine."
+    ]
+  },
+  "ship": {
+    "definition": "n. 船，舰 v. 航运，运送",
+    "phonetic": {
+      "uk": "/ʃɪp/",
+      "us": "/ʃɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "by ship",
+      "passenger ship"
+    ],
+    "examples": [
+      "The ship sailed across the ocean.",
+      "They will ship the goods tomorrow."
+    ]
+  },
+  "shirt": {
+    "definition": "n. 衬衫",
+    "phonetic": {
+      "uk": "/ʃɜːt/",
+      "us": "/ʃɜːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "T-shirt",
+      "dress shirt"
+    ],
+    "examples": [
+      "He is wearing a white shirt.",
+      "She bought a new shirt for work."
+    ]
+  },
+  "shiver": {
+    "definition": "v. 颤抖，哆嗦 n. 颤抖",
+    "phonetic": {
+      "uk": "/ˈʃɪvə(r)/",
+      "us": "/ˈʃɪvər/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shiver with cold",
+      "give me the shivers"
+    ],
+    "examples": [
+      "She shivered in the cold wind.",
+      "The horror movie gave him the shivers."
+    ]
+  },
+  "shock": {
+    "definition": "n. 震惊，休克，电击 v. 使震惊",
+    "phonetic": {
+      "uk": "/ʃɒk/",
+      "us": "/ʃɑːk/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in shock",
+      "culture shock"
+    ],
+    "examples": [
+      "She was in shock after the accident.",
+      "The news shocked everyone."
+    ]
+  },
+  "shoe": {
+    "definition": "n. 鞋",
+    "phonetic": {
+      "uk": "/ʃuː/",
+      "us": "/ʃuː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "shoe shop",
+      "in someone's shoes"
+    ],
+    "examples": [
+      "She bought a new pair of shoes.",
+      "If I were in your shoes..."
+    ]
+  },
+  "shoot": {
+    "definition": "v. 射击，拍摄，发芽 n. 嫩枝，拍摄",
+    "phonetic": {
+      "uk": "/ʃuːt/",
+      "us": "/ʃuːt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shoot down",
+      "photo shoot"
+    ],
+    "examples": [
+      "They will shoot the movie next week.",
+      "Don't shoot!"
+    ]
+  },
+  "shop": {
+    "definition": "n. 商店，店铺 v. 购物",
+    "phonetic": {
+      "uk": "/ʃɒp/",
+      "us": "/ʃɑːp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "go shopping",
+      "coffee shop"
+    ],
+    "examples": [
+      "Let's go shopping this weekend.",
+      "There's a new shop opening downtown."
+    ]
+  },
+  "shore": {
+    "definition": "n. 岸，海滨",
+    "phonetic": {
+      "uk": "/ʃɔː(r)/",
+      "us": "/ʃɔːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on shore",
+      "sea shore"
+    ],
+    "examples": [
+      "We walked along the shore.",
+      "The boat reached the shore safely."
+    ]
+  },
+  "short": {
+    "definition": "adj. 短的，矮的，短缺的",
+    "phonetic": {
+      "uk": "/ʃɔːt/",
+      "us": "/ʃɔːrt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "short of",
+      "in short"
+    ],
+    "examples": [
+      "The movie was quite short.",
+      "We're running short of time."
+    ]
+  },
+  "shortage": {
+    "definition": "n. 不足，缺少",
+    "phonetic": {
+      "uk": "/ˈʃɔːtɪdʒ/",
+      "us": "/ˈʃɔːrtɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "water shortage",
+      "shortage of funds"
+    ],
+    "examples": [
+      "There is a shortage of doctors in rural areas.",
+      "The drought caused a severe water shortage."
+    ]
+  },
+  "shortcoming": {
+    "definition": "n. 缺点，短处",
+    "phonetic": {
+      "uk": "/ˈʃɔːtkʌmɪŋ/",
+      "us": "/ˈʃɔːrtkʌmɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "major shortcoming",
+      "overcome shortcomings"
+    ],
+    "examples": [
+      "Despite his shortcomings, he tries hard.",
+      "We need to address the shortcomings of the plan."
+    ]
+  },
+  "shortcut": {
+    "definition": "n. 捷径",
+    "phonetic": {
+      "uk": "/ˈʃɔːtkʌt/",
+      "us": "/ˈʃɔːrtkʌt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take a shortcut",
+      "keyboard shortcut"
+    ],
+    "examples": [
+      "Taking a shortcut saved us half an hour.",
+      "Learn the keyboard shortcuts to work faster."
+    ]
+  },
+  "shorthand": {
+    "definition": "n. 速记",
+    "phonetic": {
+      "uk": "/ˈʃɔːthænd/",
+      "us": "/ˈʃɔːrthænd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take shorthand",
+      "in shorthand"
+    ],
+    "examples": [
+      "She learned shorthand for her job.",
+      "The secretary took notes in shorthand."
+    ]
+  },
+  "shortly": {
+    "definition": "ad. 不久，立刻",
+    "phonetic": {
+      "uk": "/ˈʃɔːtli/",
+      "us": "/ˈʃɔːrtli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "shortly after",
+      "shortly before"
+    ],
+    "examples": [
+      "The train will arrive shortly.",
+      "He left shortly before I arrived."
+    ]
+  },
+  "shot": {
+    "definition": "n. 射击，镜头，注射 v. shoot的过去式和过去分词",
+    "phonetic": {
+      "uk": "/ʃɒt/",
+      "us": "/ʃɑːt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take a shot",
+      "gun shot"
+    ],
+    "examples": [
+      "The photographer took a great shot.",
+      "He scored a goal with one shot."
+    ]
+  },
+  "should": {
+    "definition": "aux. 应该，将会，万一",
+    "phonetic": {
+      "uk": "/ʃʊd/",
+      "us": "/ʃʊd/"
+    },
+    "partOfSpeech": "aux.",
+    "phrases": [
+      "should have",
+      "why should"
+    ],
+    "examples": [
+      "You should wear a coat.",
+      "We should leave soon."
+    ]
+  },
+  "shoulder": {
+    "definition": "n. 肩膀 v. 肩负，承担",
+    "phonetic": {
+      "uk": "/ˈʃəʊldə(r)/",
+      "us": "/ˈʃoʊldər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "shoulder to shoulder",
+      "cold shoulder"
+    ],
+    "examples": [
+      "She rested her head on my shoulder.",
+      "He shouldered the responsibility himself."
+    ]
+  },
+  "shout": {
+    "definition": "v. 呼喊，喊叫 n. 呼喊",
+    "phonetic": {
+      "uk": "/ʃaʊt/",
+      "us": "/ʃaʊt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shout at",
+      "shout for"
+    ],
+    "examples": [
+      "Don't shout at the children.",
+      "She shouted for help."
+    ]
+  },
+  "show": {
+    "definition": "v. 显示，展示 n. 表演，展览",
+    "phonetic": {
+      "uk": "/ʃəʊ/",
+      "us": "/ʃoʊ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "show off",
+      "talk show"
+    ],
+    "examples": [
+      "Please show me your ticket.",
+      "The show starts at 8 PM."
+    ]
+  },
+  "shower": {
+    "definition": "n. 淋浴，阵雨 v. 淋浴，倾注",
+    "phonetic": {
+      "uk": "/ˈʃaʊə(r)/",
+      "us": "/ˈʃaʊər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take a shower",
+      "baby shower"
+    ],
+    "examples": [
+      "I take a shower every morning.",
+      "There will be a shower tomorrow."
+    ]
+  },
+  "shred": {
+    "definition": "n. 碎片，少量 v. 撕碎，切碎",
+    "phonetic": {
+      "uk": "/ʃred/",
+      "us": "/ʃred/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "shred of hope",
+      "shred paper"
+    ],
+    "examples": [
+      "There isn't a shred of evidence.",
+      "She shredded the documents before throwing them away."
+    ]
+  },
+  "shrewd": {
+    "definition": "adj. 精明的，机灵的",
+    "phonetic": {
+      "uk": "/ʃruːd/",
+      "us": "/ʃruːd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "shrewd businessman",
+      "shrewd investment"
+    ],
+    "examples": [
+      "She made a shrewd business decision.",
+      "He's a shrewd negotiator."
+    ]
+  },
+  "shriek": {
+    "definition": "v. 尖叫 n. 尖叫声",
+    "phonetic": {
+      "uk": "/ʃriːk/",
+      "us": "/ʃriːk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shriek with laughter",
+      "let out a shriek"
+    ],
+    "examples": [
+      "She shrieked when she saw the mouse.",
+      "His shrieks could be heard from far away."
+    ]
+  },
+  "shrill": {
+    "definition": "adj. 尖锐的，刺耳的",
+    "phonetic": {
+      "uk": "/ʃrɪl/",
+      "us": "/ʃrɪl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "shrill voice",
+      "shrill whistle"
+    ],
+    "examples": [
+      "The baby let out a shrill cry.",
+      "Her voice became shrill when she was angry."
+    ]
+  },
+  "shrimp": {
+    "definition": "n. 虾",
+    "phonetic": {
+      "uk": "/ʃrɪmp/",
+      "us": "/ʃrɪmp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fried shrimp",
+      "shrimp cocktail"
+    ],
+    "examples": [
+      "He ordered grilled shrimp for dinner.",
+      "The restaurant serves fresh shrimp."
+    ]
+  },
+  "shrine": {
+    "definition": "n. 神龛，圣地",
+    "phonetic": {
+      "uk": "/ʃraɪn/",
+      "us": "/ʃraɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "visit a shrine",
+      "shrine to"
+    ],
+    "examples": [
+      "Pilgrims visit the holy shrine every year.",
+      "The museum serves as a shrine to ancient art."
+    ]
+  },
+  "shrink": {
+    "definition": "v. 收缩，退缩，减少",
+    "phonetic": {
+      "uk": "/ʃrɪŋk/",
+      "us": "/ʃrɪŋk/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "shrink from",
+      "shrink away"
+    ],
+    "examples": [
+      "The shirt will shrink if you wash it in hot water.",
+      "He never shrank from a challenge."
+    ]
+  },
+  "shrug": {
+    "definition": "v. 耸肩 n. 耸肩",
+    "phonetic": {
+      "uk": "/ʃrʌɡ/",
+      "us": "/ʃrʌɡ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "shrug off",
+      "shrug shoulders"
+    ],
+    "examples": [
+      "She shrugged her shoulders in response.",
+      "He tried to shrug off the criticism."
+    ]
+  },
+  "shut": {
+    "definition": "v. 关上，关闭 adj. 关着的",
+    "phonetic": {
+      "uk": "/ʃʌt/",
+      "us": "/ʃʌt/"
+    },
+    "partOfSpeech": "v., adj.",
+    "phrases": [
+      "shut down",
+      "shut up"
+    ],
+    "examples": [
+      "Please shut the door.",
+      "The shop is shut today."
+    ]
+  },
+  "shutter": {
+    "definition": "n. 百叶窗，快门 v. 关上",
+    "phonetic": {
+      "uk": "/ˈʃʌtə(r)/",
+      "us": "/ˈʃʌtər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "put up shutters",
+      "window shutter"
+    ],
+    "examples": [
+      "They closed the wooden shutters.",
+      "The camera shutter clicked."
+    ]
+  },
+  "shy": {
+    "definition": "adj. 害羞的，胆怯的",
+    "phonetic": {
+      "uk": "/ʃaɪ/",
+      "us": "/ʃaɪ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "shy away",
+      "camera shy"
+    ],
+    "examples": [
+      "She is too shy to speak in public.",
+      "Don't be shy about asking questions."
+    ]
+  },
+  "sick": {
+    "definition": "adj. 生病的，恶心的，厌烦的",
+    "phonetic": {
+      "uk": "/sɪk/",
+      "us": "/sɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "sick and tired",
+      "call in sick"
+    ],
+    "examples": [
+      "She felt sick after eating the bad food.",
+      "He called in sick today."
+    ]
+  },
+  "sickness": {
+    "definition": "n. 疾病，恶心",
+    "phonetic": {
+      "uk": "/ˈsɪknəs/",
+      "us": "/ˈsɪknəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "altitude sickness",
+      "morning sickness"
+    ],
+    "examples": [
+      "The sickness spread quickly.",
+      "She suffers from motion sickness."
+    ]
+  },
+  "side": {
+    "definition": "n. 侧面，边，一方 adj. 旁边的，次要的",
+    "phonetic": {
+      "uk": "/saɪd/",
+      "us": "/saɪd/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "side by side",
+      "on the side"
+    ],
+    "examples": [
+      "They walked side by side.",
+      "What's on the other side of the river?"
+    ]
+  },
+  "sideways": {
+    "definition": "ad. 向侧面，斜着 adv. 侧身地",
+    "phonetic": {
+      "uk": "/ˈsaɪdweɪz/",
+      "us": "/ˈsaɪdweɪz/"
+    },
+    "partOfSpeech": "ad., adv.",
+    "phrases": [
+      "move sideways",
+      "glance sideways"
+    ],
+    "examples": [
+      "The crab moves sideways.",
+      "She glanced sideways at him."
+    ]
+  },
+  "siege": {
+    "definition": "n. 包围，围攻",
+    "phonetic": {
+      "uk": "/siːdʒ/",
+      "us": "/siːdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "under siege",
+      "lay siege to"
+    ],
+    "examples": [
+      "The city was under siege for months.",
+      "The army laid siege to the fortress."
+    ]
+  },
+  "sieve": {
+    "definition": "n. 筛子，滤网 v. 筛，滤",
+    "phonetic": {
+      "uk": "/sɪv/",
+      "us": "/sɪv/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sieve through",
+      "head like a sieve"
+    ],
+    "examples": [
+      "She sifted flour through a sieve.",
+      "My memory is like a sieve."
+    ]
+  },
+  "sift": {
+    "definition": "v. 筛，筛选，细查",
+    "phonetic": {
+      "uk": "/sɪft/",
+      "us": "/sɪft/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "sift through",
+      "sift flour"
+    ],
+    "examples": [
+      "She sifted through the papers.",
+      "Sift the flour before mixing."
+    ]
+  },
+  "sigh": {
+    "definition": "v. 叹气，叹息 n. 叹息",
+    "phonetic": {
+      "uk": "/saɪ/",
+      "us": "/saɪ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "heave a sigh",
+      "sigh with relief"
+    ],
+    "examples": [
+      "She sighed with relief.",
+      "He let out a deep sigh."
+    ]
+  },
+  "sight": {
+    "definition": "n. 视力，景象，名胜 v. 看见",
+    "phonetic": {
+      "uk": "/saɪt/",
+      "us": "/saɪt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "at first sight",
+      "catch sight of"
+    ],
+    "examples": [
+      "It was love at first sight.",
+      "The Grand Canyon is a magnificent sight."
+    ]
+  },
+  "sightseeing": {
+    "definition": "n. 观光，游览",
+    "phonetic": {
+      "uk": "/ˈsaɪtsiːɪŋ/",
+      "us": "/ˈsaɪtsiːɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go sightseeing",
+      "sightseeing tour"
+    ],
+    "examples": [
+      "We went sightseeing around the city.",
+      "Tourists enjoy sightseeing in Paris."
+    ]
+  },
+  "sign": {
+    "definition": "n. 标志，符号，迹象 v. 签名，签字",
+    "phonetic": {
+      "uk": "/saɪn/",
+      "us": "/saɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sign up",
+      "traffic sign"
+    ],
+    "examples": [
+      "Please sign your name here.",
+      "Look for the exit sign."
+    ]
+  },
+  "signal": {
+    "definition": "n. 信号，暗号 v. 发信号，标志",
+    "phonetic": {
+      "uk": "/ˈsɪɡnəl/",
+      "us": "/ˈsɪɡnəl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "traffic signal",
+      "signal for help"
+    ],
+    "examples": [
+      "The traffic light is a signal to stop.",
+      "He signaled for the waiter."
+    ]
+  },
+  "signature": {
+    "definition": "n. 签名，签字，特征",
+    "phonetic": {
+      "uk": "/ˈsɪɡnətʃə(r)/",
+      "us": "/ˈsɪɡnətʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "put signature",
+      "digital signature"
+    ],
+    "examples": [
+      "Please put your signature at the bottom.",
+      "His signature is difficult to read."
+    ]
+  },
+  "significance": {
+    "definition": "n. 重要性，意义",
+    "phonetic": {
+      "uk": "/sɪɡˈnɪfɪkəns/",
+      "us": "/sɪɡˈnɪfɪkəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "great significance",
+      "historical significance"
+    ],
+    "examples": [
+      "The discovery has great scientific significance.",
+      "We must understand the significance of this day."
+    ]
+  },
+  "significant": {
+    "definition": "adj. 重要的，有意义的，显著的",
+    "phonetic": {
+      "uk": "/sɪɡˈnɪfɪkənt/",
+      "us": "/sɪɡˈnɪfɪkənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "significant improvement",
+      "statistically significant"
+    ],
+    "examples": [
+      "A significant number of people attended.",
+      "This is a significant change in policy."
+    ]
+  },
+  "signify": {
+    "definition": "v. 表示，意味着，预示",
+    "phonetic": {
+      "uk": "/ˈsɪɡnɪfaɪ/",
+      "us": "/ˈsɪɡnɪfaɪ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "signify support",
+      "signify nothing"
+    ],
+    "examples": [
+      "White flags signify surrender.",
+      "This gesture signifies respect."
+    ]
+  },
+  "silence": {
+    "definition": "n. 沉默，寂静 v. 使沉默",
+    "phonetic": {
+      "uk": "/ˈsaɪləns/",
+      "us": "/ˈsaɪləns/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in silence",
+      "break the silence"
+    ],
+    "examples": [
+      "He sat in silence.",
+      "The teacher silenced the noisy class."
+    ]
+  },
+  "silent": {
+    "definition": "adj. 沉默的，无声的",
+    "phonetic": {
+      "uk": "/ˈsaɪlənt/",
+      "us": "/ˈsaɪlənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "remain silent",
+      "silent night"
+    ],
+    "examples": [
+      "Please remain silent during the exam.",
+      "The forest was silent at night."
+    ]
+  },
+  "silk": {
+    "definition": "n. 丝，丝绸",
+    "phonetic": {
+      "uk": "/sɪlk/",
+      "us": "/sɪlk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "silk dress",
+      "pure silk"
+    ],
+    "examples": [
+      "She wore a beautiful silk dress.",
+      "Silk is produced by silkworms."
+    ]
+  },
+  "silly": {
+    "definition": "adj. 傻的，愚蠢的，无聊的",
+    "phonetic": {
+      "uk": "/ˈsɪli/",
+      "us": "/ˈsɪli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "silly question",
+      "silly mistake"
+    ],
+    "examples": [
+      "Don't be silly.",
+      "It was a silly thing to do."
+    ]
+  },
+  "silver": {
+    "definition": "n. 银，银器 adj. 银色的，银制的",
+    "phonetic": {
+      "uk": "/ˈsɪlvə(r)/",
+      "us": "/ˈsɪlvər/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "silver medal",
+      "silver lining"
+    ],
+    "examples": [
+      "She won a silver medal in the Olympics.",
+      "Every cloud has a silver lining."
+    ]
+  },
+  "similar": {
+    "definition": "adj. 相似的，类似的",
+    "phonetic": {
+      "uk": "/ˈsɪmələ(r)/",
+      "us": "/ˈsɪmələr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "similar to",
+      "similar situation"
+    ],
+    "examples": [
+      "Our tastes are quite similar.",
+      "This problem is similar to the last one."
+    ]
+  },
+  "similarity": {
+    "definition": "n. 相似，类似",
+    "phonetic": {
+      "uk": "/ˌsɪməˈlærəti/",
+      "us": "/ˌsɪməˈlærəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "similarity between",
+      "striking similarity"
+    ],
+    "examples": [
+      "There are many similarities between the twins.",
+      "I noticed a similarity in their styles."
+    ]
+  },
+  "simple": {
+    "definition": "adj. 简单的，朴素的，单纯的",
+    "phonetic": {
+      "uk": "/ˈsɪmp(ə)l/",
+      "us": "/ˈsɪmp(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "keep it simple",
+      "simple life"
+    ],
+    "examples": [
+      "The solution was simple.",
+      "She lives a simple life in the countryside."
+    ]
+  },
+  "simplicity": {
+    "definition": "n. 简单，朴素，单纯",
+    "phonetic": {
+      "uk": "/sɪmˈplɪsəti/",
+      "us": "/sɪmˈplɪsəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beauty of simplicity",
+      "simplicity itself"
+    ],
+    "examples": [
+      "I admire the simplicity of her design.",
+      "The instructions are written with great simplicity."
+    ]
+  },
+  "simplify": {
+    "definition": "vt. 简化，使单纯",
+    "phonetic": {
+      "uk": "/ˈsɪmplɪfaɪ/",
+      "us": "/ˈsɪmplɪfaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "simplify the process",
+      "simplify life"
+    ],
+    "examples": [
+      "They simplified the instructions.",
+      "Technology can simplify daily tasks."
+    ]
+  },
+  "sin": {
+    "definition": "n. 罪恶，过失",
+    "phonetic": {
+      "uk": "/sɪn/",
+      "us": "/sɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sin against",
+      "commit a sin"
+    ],
+    "examples": [
+      "He confessed his sins.",
+      "Telling lies is considered a sin."
+    ]
+  },
+  "since": {
+    "definition": "prep. 自从 conj. 既然，因为",
+    "phonetic": {
+      "uk": "/sɪns/",
+      "us": "/sɪns/"
+    },
+    "partOfSpeech": "prep., conj.",
+    "phrases": [
+      "ever since",
+      "since then"
+    ],
+    "examples": [
+      "I have been waiting here since morning.",
+      "Since you're here, let's start."
+    ]
+  },
+  "sincere": {
+    "definition": "adj. 真诚的，真挚的",
+    "phonetic": {
+      "uk": "/sɪnˈsɪə(r)/",
+      "us": "/sɪnˈsɪr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "sincere apology",
+      "sincere thanks"
+    ],
+    "examples": [
+      "Please accept my sincere apologies.",
+      "She gave a sincere smile."
+    ]
+  },
+  "sincerity": {
+    "definition": "n. 真诚，诚实",
+    "phonetic": {
+      "uk": "/sɪnˈserəti/",
+      "us": "/sɪnˈserəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "with sincerity",
+      "genuine sincerity"
+    ],
+    "examples": [
+      "She spoke with great sincerity.",
+      "I admire his sincerity."
+    ]
+  },
+  "sing": {
+    "definition": "v. 唱歌，演唱",
+    "phonetic": {
+      "uk": "/sɪŋ/",
+      "us": "/sɪŋ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "sing along",
+      "sing a song"
+    ],
+    "examples": [
+      "She likes to sing in the shower.",
+      "Can you sing that song again?"
+    ]
+  },
+  "single": {
+    "definition": "adj. 单一的，单身的 n. 单打，单身者",
+    "phonetic": {
+      "uk": "/ˈsɪŋɡ(ə)l/",
+      "us": "/ˈsɪŋɡ(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "single room",
+      "single ticket"
+    ],
+    "examples": [
+      "I booked a single room.",
+      "She is still single."
+    ]
+  },
+  "singular": {
+    "definition": "adj. 单数的，非凡的，独特的",
+    "phonetic": {
+      "uk": "/ˈsɪŋɡjələ(r)/",
+      "us": "/ˈsɪŋɡjələr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "singular form",
+      "singular beauty"
+    ],
+    "examples": [
+      "The singular form of 'children' is 'child'.",
+      "Her talent is singular."
+    ]
+  },
+  "sink": {
+    "definition": "v. 下沉，沉没，减弱 n. 水槽，洗碗池",
+    "phonetic": {
+      "uk": "/sɪŋk/",
+      "us": "/sɪŋk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "sink in",
+      "kitchen sink"
+    ],
+    "examples": [
+      "The ship sank in the storm.",
+      "Please wash the dishes in the sink."
+    ]
+  },
+  "sir": {
+    "definition": "n. 先生，阁下",
+    "phonetic": {
+      "uk": "/sɜː(r)/",
+      "us": "/sɜːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Yes sir",
+      "Dear sir"
+    ],
+    "examples": [
+      "Yes sir, I understand.",
+      "The letter was addressed to Dear Sir."
+    ]
+  },
+  "siren": {
+    "definition": "n. 警报器，汽笛，海妖",
+    "phonetic": {
+      "uk": "/ˈsaɪrən/",
+      "us": "/ˈsaɪrən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "police siren",
+      "fire truck siren"
+    ],
+    "examples": [
+      "We heard the siren of an ambulance.",
+      "The factory's siren blew at noon."
+    ]
+  },
+  "sister": {
+    "definition": "n. 姐妹，修女",
+    "phonetic": {
+      "uk": "/ˈsɪstə(r)/",
+      "us": "/ˈsɪstər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "older sister",
+      "younger sister"
+    ],
+    "examples": [
+      "My sister is coming to visit.",
+      "She became a nun and is now Sister Mary."
+    ]
+  },
+  "sit": {
+    "definition": "v. 坐，位于",
+    "phonetic": {
+      "uk": "/sɪt/",
+      "us": "/sɪt/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "sit down",
+      "sit up"
+    ],
+    "examples": [
+      "Please sit down.",
+      "The house sits on a hill."
+    ]
+  },
+  "site": {
+    "definition": "n. 地点，场所，网站",
+    "phonetic": {
+      "uk": "/saɪt/",
+      "us": "/saɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "construction site",
+      "web site"
+    ],
+    "examples": [
+      "This is the site of the ancient temple.",
+      "Visit our website for more information."
+    ]
+  },
+  "situation": {
+    "definition": "n. 情况，处境，形势，位置",
+    "phonetic": {
+      "uk": "/ˌsɪtʃuˈeɪʃ(ə)n/",
+      "us": "/ˌsɪtʃuˈeɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "current situation",
+      "difficult situation"
+    ],
+    "examples": [
+      "The situation is improving.",
+      "We need to assess the current situation."
+    ]
+  },
+  "size": {
+    "definition": "n. 大小，尺寸，尺码",
+    "phonetic": {
+      "uk": "/saɪz/",
+      "us": "/saɪz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "full size",
+      "extra large size"
+    ],
+    "examples": [
+      "What size do you wear?",
+      "The size of the room is impressive."
+    ]
+  },
+  "skate": {
+    "definition": "v. 滑冰 n. 滑冰鞋",
+    "phonetic": {
+      "uk": "/skeɪt/",
+      "us": "/skeɪt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "ice skate",
+      "roller skate"
+    ],
+    "examples": [
+      "They like to skate in winter.",
+      "She bought new skates."
+    ]
+  },
+  "skeptical": {
+    "definition": "adj. 怀疑的，多疑的",
+    "phonetic": {
+      "uk": "/ˈskeptɪk(ə)l/",
+      "us": "/ˈskeptɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "skeptical about",
+      "remain skeptical"
+    ],
+    "examples": [
+      "I'm skeptical about his promises.",
+      "Scientists remain skeptical of the claims."
+    ]
+  },
+  "sketch": {
+    "definition": "n. 素描，草图，概略 v. 画素描，草拟",
+    "phonetic": {
+      "uk": "/sketʃ/",
+      "us": "/sketʃ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "sketch out",
+      "quick sketch"
+    ],
+    "examples": [
+      "The artist made a quick sketch.",
+      "She sketched the landscape."
+    ]
+  },
+  "ski": {
+    "definition": "v. 滑雪 n. 滑雪板",
+    "phonetic": {
+      "uk": "/skiː/",
+      "us": "/skiː/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "go skiing",
+      "water ski"
+    ],
+    "examples": [
+      "We go skiing every winter.",
+      "She learned to ski as a child."
+    ]
+  },
+  "skill": {
+    "definition": "n. 技能，技巧，熟练",
+    "phonetic": {
+      "uk": "/skɪl/",
+      "us": "/skɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "communication skill",
+      "learn a skill"
+    ],
+    "examples": [
+      "Driving is a useful skill.",
+      "She has excellent language skills."
+    ]
+  },
+  "skillful": {
+    "definition": "adj. 熟练的，灵巧的",
+    "phonetic": {
+      "uk": "/ˈskɪlf(ə)l/",
+      "us": "/ˈskɪlf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "skillful worker",
+      "skillful performance"
+    ],
+    "examples": [
+      "She is a skillful negotiator.",
+      "His playing is skillful and expressive."
+    ]
+  },
+  "skim": {
+    "definition": "v. 撇去，浏览，略读",
+    "phonetic": {
+      "uk": "/skɪm/",
+      "us": "/skɪm/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "skim through",
+      "skim milk"
+    ],
+    "examples": [
+      "She skimmed through the report.",
+      "Skim the fat off the soup."
+    ]
+  },
+  "skin": {
+    "definition": "n. 皮肤，皮，外壳 v. 剥皮",
+    "phonetic": {
+      "uk": "/skɪn/",
+      "us": "/skɪn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "deep under the skin",
+      "skin care"
+    ],
+    "examples": [
+      "She has beautiful skin.",
+      "He skinned his knee when he fell."
+    ]
+  },
+  "skip": {
+    "definition": "v. 跳过，略过，跳绳",
+    "phonetic": {
+      "uk": "/skɪp/",
+      "us": "/skɪp/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "skip a class",
+      "skip rope"
+    ],
+    "examples": [
+      "She decided to skip breakfast.",
+      "The children skip rope in the playground."
+    ]
+  },
+  "skirt": {
+    "definition": "n. 裙子 v. 位于...边缘，绕过",
+    "phonetic": {
+      "uk": "/skɜːt/",
+      "us": "/skɜːrt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "mini skirt",
+      "skirt around"
+    ],
+    "examples": [
+      "She wore a beautiful skirt.",
+      "The road skirts the edge of the forest."
+    ]
+  },
+  "skull": {
+    "definition": "n. 头骨，颅骨",
+    "phonetic": {
+      "uk": "/skʌl/",
+      "us": "/skʌl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "human skull",
+      "thick skull"
+    ],
+    "examples": [
+      "The scientist studied the ancient skull.",
+      "He broke his skull in the accident."
+    ]
+  },
+  "sky": {
+    "definition": "n. 天空",
+    "phonetic": {
+      "uk": "/skaɪ/",
+      "us": "/skaɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "blue sky",
+      "under the sky"
+    ],
+    "examples": [
+      "The sky is clear today.",
+      "Stars appear in the night sky."
+    ]
+  },
+  "skyscraper": {
+    "definition": "n. 摩天大楼",
+    "phonetic": {
+      "uk": "/ˈskaɪskreɪpə(r)/",
+      "us": "/ˈskaɪskreɪpər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tall skyscraper",
+      "city skyscrapers"
+    ],
+    "examples": [
+      "New York is famous for its skyscrapers.",
+      "The skyscraper dominates the skyline."
+    ]
+  }
+}

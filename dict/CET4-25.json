@@ -1,0 +1,2354 @@
+{
+  "table": {
+    "definition": "n. 桌子，表格 v. 把...制成表格",
+    "phonetic": {
+      "uk": "/ˈteɪb(ə)l/",
+      "us": "/ˈteɪb(ə)l/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "dining table",
+      "table of contents"
+    ],
+    "examples": [
+      "The family gathered around the dining table.",
+      "Please include a table of contents in your report."
+    ]
+  },
+  "tailor": {
+    "definition": "n. 裁缝 v. 裁制，量身定做",
+    "phonetic": {
+      "uk": "/ˈteɪlə(r)/",
+      "us": "/ˈteɪlər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tailor-made",
+      "tailor for"
+    ],
+    "examples": [
+      "The tailor made a suit for him.",
+      "The course is tailored to individual needs."
+    ]
+  },
+  "take": {
+    "definition": "v. 拿，取，花费，接受 n. 捕获量",
+    "phonetic": {
+      "uk": "/teɪk/",
+      "us": "/teɪk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "take care of",
+      "take place"
+    ],
+    "examples": [
+      "It takes about an hour to get there.",
+      "She takes care of her elderly mother."
+    ]
+  },
+  "tale": {
+    "definition": "n. 故事，传说",
+    "phonetic": {
+      "uk": "/teɪl/",
+      "us": "/teɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fairy tale",
+      "tale of"
+    ],
+    "examples": [
+      "She told us an amazing tale of adventure.",
+      "The movie is based on a classic fairy tale."
+    ]
+  },
+  "talent": {
+    "definition": "n. 天赋，才能，人才",
+    "phonetic": {
+      "uk": "/ˈtælənt/",
+      "us": "/ˈtælənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "talent show",
+      "have a talent for"
+    ],
+    "examples": [
+      "She has a talent for painting.",
+      "The talent show attracted many young performers."
+    ]
+  },
+  "talk": {
+    "definition": "v. 说话，谈论 n. 谈话，演讲",
+    "phonetic": {
+      "uk": "/tɔːk/",
+      "us": "/tɔːk/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "talk about",
+      "talk to"
+    ],
+    "examples": [
+      "Let's talk about your plans for the future.",
+      "She gave a talk on environmental protection."
+    ]
+  },
+  "tall": {
+    "definition": "adj. 高的，身材高的",
+    "phonetic": {
+      "uk": "/tɔːl/",
+      "us": "/tɔːl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tall building",
+      "tall and thin"
+    ],
+    "examples": [
+      "He's very tall for his age.",
+      "There are many tall buildings in the city."
+    ]
+  },
+  "tank": {
+    "definition": "n. 坦克，水箱，储罐",
+    "phonetic": {
+      "uk": "/tæŋk/",
+      "us": "/tæŋk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fish tank",
+      "water tank"
+    ],
+    "examples": [
+      "The fish tank needs to be cleaned.",
+      "The army used tanks to break through enemy lines."
+    ]
+  },
+  "tap": {
+    "definition": "n. 水龙头，轻敲 v. 轻敲，利用",
+    "phonetic": {
+      "uk": "/tæp/",
+      "us": "/tæp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tap water",
+      "tap on"
+    ],
+    "examples": [
+      "Don't drink the tap water here.",
+      "She tapped on the door gently."
+    ]
+  },
+  "tape": {
+    "definition": "n. 磁带，胶带 v. 录音，用胶带粘",
+    "phonetic": {
+      "uk": "/teɪp/",
+      "us": "/teɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "video tape",
+      "tape measure"
+    ],
+    "examples": [
+      "Please tape the box shut.",
+      "She recorded the interview on tape."
+    ]
+  },
+  "target": {
+    "definition": "n. 目标，靶子 v. 瞄准，以...为目标",
+    "phonetic": {
+      "uk": "/ˈtɑːɡɪt/",
+      "us": "/ˈtɑːrɡɪt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "hit the target",
+      "target audience"
+    ],
+    "examples": [
+      "We reached our sales target this month.",
+      "The program targets young children."
+    ]
+  },
+  "task": {
+    "definition": "n. 任务，作业",
+    "phonetic": {
+      "uk": "/tɑːsk/",
+      "us": "/tæsk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "home task",
+      "take on a task"
+    ],
+    "examples": [
+      "Completing the project was a difficult task.",
+      "Her main task is to organize the files."
+    ]
+  },
+  "taste": {
+    "definition": "n. 味道，品味，鉴赏力 v. 尝起来，品尝",
+    "phonetic": {
+      "uk": "/teɪst/",
+      "us": "/teɪst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "have a taste for",
+      "taste of"
+    ],
+    "examples": [
+      "She has very good taste in music.",
+      "This cake tastes delicious."
+    ]
+  },
+  "tax": {
+    "definition": "n. 税，税款 v. 对...征税",
+    "phonetic": {
+      "uk": "/tæks/",
+      "us": "/tæks/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "income tax",
+      "tax rate"
+    ],
+    "examples": [
+      "We need to pay taxes every year.",
+      "The government decided to tax luxury items."
+    ]
+  },
+  "taxi": {
+    "definition": "n. 出租车",
+    "phonetic": {
+      "uk": "/ˈtæksi/",
+      "us": "/ˈtæksi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take a taxi",
+      "taxi driver"
+    ],
+    "examples": [
+      "We took a taxi to the airport.",
+      "The taxi arrived five minutes late."
+    ]
+  },
+  "tea": {
+    "definition": "n. 茶，茶叶树",
+    "phonetic": {
+      "uk": "/tiː/",
+      "us": "/tiː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "green tea",
+      "drink tea"
+    ],
+    "examples": [
+      "Would you like some tea?",
+      "She prefers green tea to black tea."
+    ]
+  },
+  "teach": {
+    "definition": "v. 教，讲授，教导",
+    "phonetic": {
+      "uk": "/tiːtʃ/",
+      "us": "/tiːtʃ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "teach someone",
+      "teach a lesson"
+    ],
+    "examples": [
+      "He teaches English at a university.",
+      "The experience taught him a valuable lesson."
+    ]
+  },
+  "teacher": {
+    "definition": "n. 教师，老师",
+    "phonetic": {
+      "uk": "/ˈtiːtʃə(r)/",
+      "us": "/ˈtiːtʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "art teacher",
+      "science teacher"
+    ],
+    "examples": [
+      "My teacher is very patient with me.",
+      "She wants to become a teacher."
+    ]
+  },
+  "team": {
+    "definition": "n. 队，组 v. 协作",
+    "phonetic": {
+      "uk": "/tiːm/",
+      "us": "/tiːm/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "team member",
+      "team up"
+    ],
+    "examples": [
+      "Our team won the championship game.",
+      "The doctors teamed up to save the patient."
+    ]
+  },
+  "tear": {
+    "definition": "n. 眼泪，裂口 v. 撕开，流泪",
+    "phonetic": {
+      "uk": "/tɪə(r)/",
+      "us": "/tɪr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tear down",
+      "in tears"
+    ],
+    "examples": [
+      "She cried tears of joy.",
+      "He tore the letter into pieces."
+    ]
+  },
+  "technical": {
+    "definition": "adj. 技术的，工艺的",
+    "phonetic": {
+      "uk": "/ˈteknɪk(ə)l/",
+      "us": "/ˈteknɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "technical support",
+      "technical problem"
+    ],
+    "examples": [
+      "The company provides technical support 24/7.",
+      "She has excellent technical skills."
+    ]
+  },
+  "technique": {
+    "definition": "n. 技术，技巧，方法",
+    "phonetic": {
+      "uk": "/tekˈniːk/",
+      "us": "/tekˈniːk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "painting technique",
+      "new technique"
+    ],
+    "examples": [
+      "He learned a new painting technique.",
+      "This technique is very effective."
+    ]
+  },
+  "technology": {
+    "definition": "n. 技术，工艺，科技",
+    "phonetic": {
+      "uk": "/tekˈnɒlədʒi/",
+      "us": "/tekˈnɑːlədʒi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high technology",
+      "information technology"
+    ],
+    "examples": [
+      "Technology has changed our lives significantly.",
+      "The company invests heavily in new technology."
+    ]
+  },
+  "teenager": {
+    "definition": "n. 青少年",
+    "phonetic": {
+      "uk": "/ˈtiːneɪdʒə(r)/",
+      "us": "/ˈtiːneɪdʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "teenager's problem",
+      "young teenager"
+    ],
+    "examples": [
+      "Being a teenager can be challenging.",
+      "The club is designed for teenagers."
+    ]
+  },
+  "telegram": {
+    "definition": "n. 电报",
+    "phonetic": {
+      "uk": "/ˈtelɪɡræm/",
+      "us": "/ˈtelɪɡræm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "send a telegram",
+      "telegram service"
+    ],
+    "examples": [
+      "He sent a telegram to announce his arrival.",
+      "Telegrams were once the fastest way to communicate."
+    ]
+  },
+  "telegraph": {
+    "definition": "n. 电报机 v. 打电报",
+    "phonetic": {
+      "uk": "/ˈtelɪɡrɑːf/",
+      "us": "/ˈtelɪɡræf/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "telegraph pole",
+      "telegraph message"
+    ],
+    "examples": [
+      "The telegraph revolutionized communication.",
+      "He telegraphed the news to his family."
+    ]
+  },
+  "telephone": {
+    "definition": "n. 电话，电话机 v. 打电话",
+    "phonetic": {
+      "uk": "/ˈtelɪfəʊn/",
+      "us": "/ˈtelɪfoʊn/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "mobile telephone",
+      "answer the telephone"
+    ],
+    "examples": [
+      "The telephone rang early in the morning.",
+      "Can I use your telephone?"
+    ]
+  },
+  "telescope": {
+    "definition": "n. 望远镜",
+    "phonetic": {
+      "uk": "/ˈtelɪskəʊp/",
+      "us": "/ˈtelɪskoʊp/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "space telescope",
+      "radio telescope"
+    ],
+    "examples": [
+      "The telescope allows us to see distant stars.",
+      "She looked through the telescope at the comet."
+    ]
+  },
+  "television": {
+    "definition": "n. 电视，电视机",
+    "phonetic": {
+      "uk": "/ˈtelɪvɪʒ(ə)n/",
+      "us": "/ˈtelɪvɪʒ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "watch television",
+      "television program"
+    ],
+    "examples": [
+      "They watch television every evening.",
+      "The news is on television now."
+    ]
+  },
+  "tell": {
+    "definition": "v. 告诉，讲述，辨别",
+    "phonetic": {
+      "uk": "/tel/",
+      "us": "/tel/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "tell a story",
+      "tell the truth"
+    ],
+    "examples": [
+      "Can you tell me the time?",
+      "She told him about her new job."
+    ]
+  },
+  "temper": {
+    "definition": "n. 性情，脾气，韧度 v. 调和，锻炼",
+    "phonetic": {
+      "uk": "/ˈtempə(r)/",
+      "us": "/ˈtempər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "lose one's temper",
+      "keep one's temper"
+    ],
+    "examples": [
+      "He has a quick temper.",
+      "Please try to control your temper."
+    ]
+  },
+  "temperature": {
+    "definition": "n. 温度",
+    "phonetic": {
+      "uk": "/ˈtemprətʃə(r)/",
+      "us": "/ˈtemprətʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "body temperature",
+      "room temperature"
+    ],
+    "examples": [
+      "The temperature dropped below freezing.",
+      "Check the temperature before cooking."
+    ]
+  },
+  "temple": {
+    "definition": "n. 庙宇，寺院",
+    "phonetic": {
+      "uk": "/ˈtempl/",
+      "us": "/ˈtempl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ancient temple",
+      "Buddhist temple"
+    ],
+    "examples": [
+      "We visited an ancient temple in Kyoto.",
+      "The temple is a sacred place for worshippers."
+    ]
+  },
+  "temporary": {
+    "definition": "adj. 暂时的，临时的",
+    "phonetic": {
+      "uk": "/ˈtemprəri/",
+      "us": "/ˈtempəreri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "temporary job",
+      "temporary solution"
+    ],
+    "examples": [
+      "This is a temporary housing arrangement.",
+      "We need a temporary solution to this problem."
+    ]
+  },
+  "tempt": {
+    "definition": "vt. 引诱，诱惑",
+    "phonetic": {
+      "uk": "/tempt/",
+      "us": "/tempt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "tempt to",
+      "tempt fate"
+    ],
+    "examples": [
+      "Don't let him tempt you into making a bad decision.",
+      "The smell of fresh bread tempted me."
+    ]
+  },
+  "ten": {
+    "definition": "num. 十，十个",
+    "phonetic": {
+      "uk": "/ten/",
+      "us": "/ten/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "ten to one",
+      "ten percent"
+    ],
+    "examples": [
+      "I have ten fingers.",
+      "She counted to ten in her head."
+    ]
+  },
+  "tend": {
+    "definition": "v. 趋向于，照料，易于",
+    "phonetic": {
+      "uk": "/tend/",
+      "us": "/tend/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "tend to",
+      "tendency to"
+    ],
+    "examples": [
+      "People tend to forget names quickly.",
+      "She tends to her garden every morning."
+    ]
+  },
+  "tendency": {
+    "definition": "n. 倾向，趋势",
+    "phonetic": {
+      "uk": "/ˈtendənsi/",
+      "us": "/ˈtendənsi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have a tendency to",
+      "natural tendency"
+    ],
+    "examples": [
+      "There's a tendency for people to procrastinate.",
+      "Prices show an upward tendency."
+    ]
+  },
+  "tender": {
+    "definition": "adj. 温柔的，嫩的，脆弱的 v. 提出 n. 投标",
+    "phonetic": {
+      "uk": "/ˈtendə(r)/",
+      "us": "/ˈtendər/"
+    },
+    "partOfSpeech": "adj., v., n.",
+    "phrases": [
+      "tender heart",
+      "tender age"
+    ],
+    "examples": [
+      "She gave him a tender kiss.",
+      "The meat is very tender and juicy."
+    ]
+  },
+  "tennis": {
+    "definition": "n. 网球",
+    "phonetic": {
+      "uk": "/ˈtenɪs/",
+      "us": "/ˈtenɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "play tennis",
+      "tennis court"
+    ],
+    "examples": [
+      "She plays tennis twice a week.",
+      "The tennis match was exciting."
+    ]
+  },
+  "tense": {
+    "definition": "adj. 紧张的，拉紧的 n. 时态，紧张状态",
+    "phonetic": {
+      "uk": "/tens/",
+      "us": "/tens/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "past tense",
+      "tense atmosphere"
+    ],
+    "examples": [
+      "The situation became very tense.",
+      "Please use the correct verb tense."
+    ]
+  },
+  "tension": {
+    "definition": "n. 张力，拉力，紧张",
+    "phonetic": {
+      "uk": "/ˈtenʃ(ə)n/",
+      "us": "/ˈtenʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "surface tension",
+      "reduce tension"
+    ],
+    "examples": [
+      "There was a lot of tension in the room.",
+      "Massage helps relieve muscle tension."
+    ]
+  },
+  "tent": {
+    "definition": "n. 帐篷",
+    "phonetic": {
+      "uk": "/tent/",
+      "us": "/tent/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pitch a tent",
+      "camp tent"
+    ],
+    "examples": [
+      "They set up their tent by the lake.",
+      "The shelter is made of tent material."
+    ]
+  },
+  "tenth": {
+    "definition": "num. 第十，十分之一",
+    "phonetic": {
+      "uk": "/tenθ/",
+      "us": "/tenθ/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "tenth anniversary",
+      "tenth grade"
+    ],
+    "examples": [
+      "This is the tenth time I've called.",
+      "October is the tenth month."
+    ]
+  },
+  "term": {
+    "definition": "n. 学期，术语，期限，条款",
+    "phonetic": {
+      "uk": "/tɜːm/",
+      "us": "/tɜːrm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "long term",
+      "in terms of"
+    ],
+    "examples": [
+      "The term starts in September.",
+      "The contract terms are clearly stated."
+    ]
+  },
+  "terminal": {
+    "definition": "n. 终点站，终端 adj. 末期的，晚期的",
+    "phonetic": {
+      "uk": "/ˈtɜːmɪn(ə)l/",
+      "us": "/ˈtɜːrmɪn(ə)l/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "bus terminal",
+      "terminal illness"
+    ],
+    "examples": [
+      "The train arrived at the terminal station.",
+      "The patient is suffering from terminal cancer."
+    ]
+  },
+  "terrible": {
+    "definition": "adj. 可怕的，糟糕的，极度的",
+    "phonetic": {
+      "uk": "/ˈterəb(ə)l/",
+      "us": "/ˈterəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "terrible weather",
+      "feel terrible"
+    ],
+    "examples": [
+      "The movie was terrible.",
+      "She feels terrible about the mistake."
+    ]
+  },
+  "territory": {
+    "definition": "n. 领土，版图，领域",
+    "phonetic": {
+      "uk": "/ˈterətri/",
+      "us": "/ˈterətɔːri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "enemy territory",
+      "vast territory"
+    ],
+    "examples": [
+      "The country expanded its territory.",
+      "This is uncharted territory for us."
+    ]
+  },
+  "terror": {
+    "definition": "n. 恐怖，惊恐",
+    "phonetic": {
+      "uk": "/ˈterə(r)/",
+      "us": "/ˈterər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "live in terror",
+      "in terror"
+    ],
+    "examples": [
+      "The tornado filled villagers with terror.",
+      "She screamed in terror."
+    ]
+  },
+  "test": {
+    "definition": "n. 测试，试验，考试 v. 测试，检验",
+    "phonetic": {
+      "uk": "/test/",
+      "us": "/test/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pass the test",
+      "blood test"
+    ],
+    "examples": [
+      "I have a math test tomorrow.",
+      "You should test the software before releasing it."
+    ]
+  },
+  "text": {
+    "definition": "n. 正文，课文，文本 v. 发短信",
+    "phonetic": {
+      "uk": "/tekst/",
+      "us": "/tekst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "send a text",
+      "text message"
+    ],
+    "examples": [
+      "The text contains many useful tips.",
+      "She texted me the good news."
+    ]
+  },
+  "textbook": {
+    "definition": "n. 教科书",
+    "phonetic": {
+      "uk": "/ˈtekstbʊk/",
+      "us": "/ˈtekstbʊk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "medical textbook",
+      "history textbook"
+    ],
+    "examples": [
+      "Please bring your textbooks to class.",
+      "The textbook teaches grammar systematically."
+    ]
+  },
+  "than": {
+    "definition": "conj. 比，除...之外 prep. 相比",
+    "phonetic": {
+      "uk": "/ðæn/",
+      "us": "/ðæn/"
+    },
+    "partOfSpeech": "conj., prep.",
+    "phrases": [
+      "better than",
+      "rather than"
+    ],
+    "examples": [
+      "She is taller than her brother.",
+      "I would rather walk than drive."
+    ]
+  },
+  "thank": {
+    "definition": "v. 感谢，谢谢",
+    "phonetic": {
+      "uk": "/θæŋk/",
+      "us": "/θæŋk/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "thank you",
+      "thank for"
+    ],
+    "examples": [
+      "Thank you for your help.",
+      "I want to thank everyone who came."
+    ]
+  },
+  "that": {
+    "definition": "pron. 那，那个 adj. 那个 conj. 那",
+    "phonetic": {
+      "uk": "/ðæt/",
+      "us": "/ðæt/"
+    },
+    "partOfSpeech": "pron., adj., conj.",
+    "phrases": [
+      "that is",
+      "like that"
+    ],
+    "examples": [
+      "That is my book.",
+      "I know that he is coming."
+    ]
+  },
+  "the": {
+    "definition": "art. 这，那（定冠词）",
+    "phonetic": {
+      "uk": "/ðə/",
+      "us": "/ðə/"
+    },
+    "partOfSpeech": "art.",
+    "phrases": [
+      "the same",
+      "the other"
+    ],
+    "examples": [
+      "The sun rises in the east.",
+      "Where is the nearest train station?"
+    ]
+  },
+  "theater": {
+    "definition": "n. 戏院，剧场",
+    "phonetic": {
+      "uk": "/ˈθɪətə(r)/",
+      "us": "/ˈθiːətər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "movie theater",
+      "opera theater"
+    ],
+    "examples": [
+      "We went to see a play at the theater.",
+      "The theater was built in 1920."
+    ]
+  },
+  "theatre": {
+    "definition": "n. 剧院，戏剧（theater的英式拼写）",
+    "phonetic": {
+      "uk": "/ˈθɪətə(r)/",
+      "us": "/ˈθiːətər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "West End theatre",
+      "live theatre"
+    ],
+    "examples": [
+      "She has a great love for theatre.",
+      "The play was performed at the Royal Theatre."
+    ]
+  },
+  "their": {
+    "definition": "pron. 他们的，她们的，它们的",
+    "phonetic": {
+      "uk": "/ðeə(r)/",
+      "us": "/ðer/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "on their own",
+      "of their own"
+    ],
+    "examples": [
+      "They decorated their house beautifully.",
+      "Everyone has their own opinion."
+    ]
+  },
+  "them": {
+    "definition": "pron. 他们，她们，它们",
+    "phonetic": {
+      "uk": "/ðem/",
+      "us": "/ðem/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "with them",
+      "one of them"
+    ],
+    "examples": [
+      "I saw them at the party.",
+      "Please give them to me."
+    ]
+  },
+  "theme": {
+    "definition": "n. 主题，题目",
+    "phonetic": {
+      "uk": "/θiːm/",
+      "us": "/θiːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "theme park",
+      "main theme"
+    ],
+    "examples": [
+      "The theme of the book is about friendship.",
+      "They discussed several possible themes."
+    ]
+  },
+  "themselves": {
+    "definition": "pron. 他们自己",
+    "phonetic": {
+      "uk": "/ðəˈselvz/",
+      "us": "/ðəˈselvz/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "by themselves",
+      "for themselves"
+    ],
+    "examples": [
+      "They built the house by themselves.",
+      "The children looked after themselves."
+    ]
+  },
+  "then": {
+    "definition": "ad. 那么，当时，然后",
+    "phonetic": {
+      "uk": "/ðen/",
+      "us": "/ðen/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "by then",
+      "since then"
+    ],
+    "examples": [
+      "We ate dinner and then watched a movie.",
+      "If you finish early, you can go home then."
+    ]
+  },
+  "theoretical": {
+    "definition": "adj. 理论的",
+    "phonetic": {
+      "uk": "/ˌθɪəˈretɪk(ə)l/",
+      "us": "/ˌθiːəˈretɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "theoretical framework",
+      "theoretical knowledge"
+    ],
+    "examples": [
+      "This is a theoretical model, not a practical one.",
+      "She has a strong theoretical background."
+    ]
+  },
+  "theory": {
+    "definition": "n. 理论，学说",
+    "phonetic": {
+      "uk": "/ˈθɪəri/",
+      "us": "/ˈθiːəri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in theory",
+      "theory of relativity"
+    ],
+    "examples": [
+      "In theory, it should work perfectly.",
+      "The theory needs to be tested experimentally."
+    ]
+  },
+  "there": {
+    "definition": "ad. 在那里，往那里 int. 那里",
+    "phonetic": {
+      "uk": "/ðeə(r)/",
+      "us": "/ðer/"
+    },
+    "partOfSpeech": "ad., int.",
+    "phrases": [
+      "there is",
+      "over there"
+    ],
+    "examples": [
+      "The book is over there.",
+      "There are many people waiting."
+    ]
+  },
+  "therefore": {
+    "definition": "ad. 因此，所以",
+    "phonetic": {
+      "uk": "/ˈðeəfɔː(r)/",
+      "us": "/ˈðerfɔːr/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "and therefore",
+      "is therefore"
+    ],
+    "examples": [
+      "It was raining, therefore we stayed inside.",
+      "The costs are high, therefore we need to cut expenses."
+    ]
+  },
+  "thermal": {
+    "definition": "adj. 热的，保暖的",
+    "phonetic": {
+      "uk": "/ˈθɜːm(ə)l/",
+      "us": "/ˈθɜːrm(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "thermal energy",
+      "thermal underwear"
+    ],
+    "examples": [
+      "Thermal underwear keeps you warm in winter.",
+      "The power plant uses thermal energy."
+    ]
+  },
+  "thermometer": {
+    "definition": "n. 温度计",
+    "phonetic": {
+      "uk": "/θəˈmɒmɪtə(r)/",
+      "us": "/θəˈmɑːmɪtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "clinical thermometer",
+      "thermometer reading"
+    ],
+    "examples": [
+      "The thermometer shows 38 degrees.",
+      "Use a thermometer to check your temperature."
+    ]
+  },
+  "these": {
+    "definition": "pron. 这些 adj. 这些",
+    "phonetic": {
+      "uk": "/ðiːz/",
+      "us": "/ðiːz/"
+    },
+    "partOfSpeech": "pron., adj.",
+    "phrases": [
+      "these days",
+      "all these"
+    ],
+    "examples": [
+      "These are my favorite books.",
+      "These days, many people work from home."
+    ]
+  },
+  "they": {
+    "definition": "pron. 他们，她们，它们",
+    "phonetic": {
+      "uk": "/ðeɪ/",
+      "us": "/ðeɪ/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "they are",
+      "they were"
+    ],
+    "examples": [
+      "They arrived late.",
+      "Did they enjoy the party?"
+    ]
+  },
+  "thick": {
+    "definition": "adj. 厚的，浓的，粗的",
+    "phonetic": {
+      "uk": "/θɪk/",
+      "us": "/θɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "thick fog",
+      "thick book"
+    ],
+    "examples": [
+      "The fog was very thick this morning.",
+      "This book is too thick to carry easily."
+    ]
+  },
+  "thief": {
+    "definition": "n. 小偷，贼",
+    "phonetic": {
+      "uk": "/θiːf/",
+      "us": "/θiːf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "car thief",
+      "catch a thief"
+    ],
+    "examples": [
+      "The thief stole my wallet.",
+      "A thief broke into the house."
+    ]
+  },
+  "thin": {
+    "definition": "adj. 薄的，瘦的，稀少的",
+    "phonetic": {
+      "uk": "/θɪn/",
+      "us": "/θɪn/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "thin air",
+      "thin layer"
+    ],
+    "examples": [
+      "She's very thin after her illness.",
+      "The ice is too thin to walk on."
+    ]
+  },
+  "thing": {
+    "definition": "n. 东西，事情，事物",
+    "phonetic": {
+      "uk": "/θɪŋ/",
+      "us": "/θɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "one thing",
+      "make a thing of"
+    ],
+    "examples": [
+      "What's that thing on the table?",
+      "The most important thing is honesty."
+    ]
+  },
+  "think": {
+    "definition": "v. 想，认为，思考",
+    "phonetic": {
+      "uk": "/θɪŋk/",
+      "us": "/θɪŋk/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "think about",
+      "think of"
+    ],
+    "examples": [
+      "I think this is a great idea.",
+      "What are you thinking about?"
+    ]
+  },
+  "third": {
+    "definition": "num. 第三，三分之一",
+    "phonetic": {
+      "uk": "/θɜːd/",
+      "us": "/θɜːrd/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "third party",
+      "one third"
+    ],
+    "examples": [
+      "He came in third in the race.",
+      "March is the third month."
+    ]
+  },
+  "thirst": {
+    "definition": "n. 口渴，渴",
+    "phonetic": {
+      "uk": "/θɜːst/",
+      "us": "/θɜːrst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "thirst for knowledge",
+      "die of thirst"
+    ],
+    "examples": [
+      "He quenched his thirst with cold water.",
+      "She has a thirst for adventure."
+    ]
+  },
+  "thirsty": {
+    "definition": "adj. 口渴的",
+    "phonetic": {
+      "uk": "/ˈθɜːsti/",
+      "us": "/ˈθɜːrsti/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "feel thirsty",
+      "thirsty work"
+    ],
+    "examples": [
+      "I'm quite thirsty after jogging.",
+      "Working in the hot sun makes you thirsty."
+    ]
+  },
+  "thirteen": {
+    "definition": "num. 十三，十三个",
+    "phonetic": {
+      "uk": "/ˌθɜːˈtiːn/",
+      "us": "/ˌθɜːrˈtiːn/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "thirteen years old",
+      "chapter thirteen"
+    ],
+    "examples": [
+      "She is thirteen years old.",
+      "The movie starts at thirteen hundred hours."
+    ]
+  },
+  "thirty": {
+    "definition": "num. 三十，三十个",
+    "phonetic": {
+      "uk": "/ˈθɜːti/",
+      "us": "/ˈθɜːrti/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "in the thirties",
+      "thirty minutes"
+    ],
+    "examples": [
+      "She is thirty years old.",
+      "The shop opens at thirty past nine."
+    ]
+  },
+  "this": {
+    "definition": "pron. 这，这个 adj. 这个",
+    "phonetic": {
+      "uk": "/ðɪs/",
+      "us": "/ðɪs/"
+    },
+    "partOfSpeech": "pron., adj.",
+    "phrases": [
+      "this is",
+      "like this"
+    ],
+    "examples": [
+      "This is my favorite restaurant.",
+      "I like this color better."
+    ]
+  },
+  "those": {
+    "definition": "pron. 那些 adj. 那些",
+    "phonetic": {
+      "uk": "/ðəʊz/",
+      "us": "/ðoʊz/"
+    },
+    "partOfSpeech": "pron., adj.",
+    "phrases": [
+      "those who",
+      "those days"
+    ],
+    "examples": [
+      "Those are my shoes.",
+      "Those who work hard will succeed."
+    ]
+  },
+  "though": {
+    "definition": "conj. 虽然，尽管 ad. 可是，然而",
+    "phonetic": {
+      "uk": "/ðəʊ/",
+      "us": "/ðoʊ/"
+    },
+    "partOfSpeech": "conj., ad.",
+    "phrases": [
+      "even though",
+      "as though"
+    ],
+    "examples": [
+      "Though it rained, we went out.",
+      "She looks tired, though."
+    ]
+  },
+  "thought": {
+    "definition": "n. 思想，想法，思考 v. think的过去式",
+    "phonetic": {
+      "uk": "/θɔːt/",
+      "us": "/θɔːt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "deep thought",
+      "take thought for"
+    ],
+    "examples": [
+      "I gave the matter some serious thought.",
+      "She thought about her family back home."
+    ]
+  },
+  "thoughtful": {
+    "definition": "adj. 沉思的，体贴的",
+    "phonetic": {
+      "uk": "/ˈθɔːtf(ə)l/",
+      "us": "/ˈθɔːtf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "thoughtful gift",
+      "thoughtful gesture"
+    ],
+    "examples": [
+      "It was thoughtful of you to remember.",
+      "She's always considerate and thoughtful."
+    ]
+  },
+  "thousand": {
+    "definition": "num. 一千，一千个 n. 成千上万",
+    "phonetic": {
+      "uk": "/ˈθaʊz(ə)nd/",
+      "us": "/ˈθaʊz(ə)nd/"
+    },
+    "partOfSpeech": "num., n.",
+    "phrases": [
+      "thousands of",
+      "per thousand"
+    ],
+    "examples": [
+      "There are thousands of people at the concert.",
+      "The car cost ten thousand dollars."
+    ]
+  },
+  "thread": {
+    "definition": "n. 线，线索，螺纹 v. 穿线，穿过",
+    "phonetic": {
+      "uk": "/θred/",
+      "us": "/θred/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "thread of conversation",
+      "needle and thread"
+    ],
+    "examples": [
+      "She used a needle and thread to fix the tear.",
+      "I lost the thread of the conversation."
+    ]
+  },
+  "threat": {
+    "definition": "n. 威胁，恐吓",
+    "phonetic": {
+      "uk": "/θret/",
+      "us": "/θret/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a threat",
+      "under threat"
+    ],
+    "examples": [
+      "He received a threat letter.",
+      "The virus is a serious threat to public health."
+    ]
+  },
+  "threaten": {
+    "definition": "vt. 威胁，恐吓",
+    "phonetic": {
+      "uk": "/ˈθret(ə)n/",
+      "us": "/ˈθret(ə)n/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "threaten to",
+      "threaten with"
+    ],
+    "examples": [
+      "He threatened to reveal the secret.",
+      "The storm threatens the coastal areas."
+    ]
+  },
+  "three": {
+    "definition": "num. 三，三个",
+    "phonetic": {
+      "uk": "/θriː/",
+      "us": "/θriː/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "take three",
+      "three times"
+    ],
+    "examples": [
+      "I have three brothers.",
+      "Please count to three."
+    ]
+  },
+  "thrill": {
+    "definition": "n. 激动，兴奋 v. 使激动",
+    "phonetic": {
+      "uk": "/θrɪl/",
+      "us": "/θrɪl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "thrill seeker",
+      "thrill of"
+    ],
+    "examples": [
+      "The roller coaster gave me a real thrill.",
+      "It thrilled me to meet my favorite author."
+    ]
+  },
+  "throat": {
+    "definition": "n. 咽喉，喉咙",
+    "phonetic": {
+      "uk": "/θrəʊt/",
+      "us": "/θroʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sore throat",
+      "clear one's throat"
+    ],
+    "examples": [
+      "I have a sore throat today.",
+      "He cleared his throat before speaking."
+    ]
+  },
+  "through": {
+    "definition": "prep. 穿过，通过 ad. 穿过，自始至终",
+    "phonetic": {
+      "uk": "/θruː/",
+      "us": "/θruː/"
+    },
+    "partOfSpeech": "prep., ad.",
+    "phrases": [
+      "get through",
+      "through and through"
+    ],
+    "examples": [
+      "The train goes through the tunnel.",
+      "We drove through the city."
+    ]
+  },
+  "throughout": {
+    "definition": "prep. 贯穿，遍及 ad. 到处，始终",
+    "phonetic": {
+      "uk": "/θruːˈaʊt/",
+      "us": "/θruːˈaʊt/"
+    },
+    "partOfSpeech": "prep., ad.",
+    "phrases": [
+      "throughout the world",
+      "throughout the year"
+    ],
+    "examples": [
+      "She traveled throughout Europe.",
+      "The museum is open throughout the week."
+    ]
+  },
+  "throw": {
+    "definition": "v. 扔，投，抛 n. 投掷",
+    "phonetic": {
+      "uk": "/θrəʊ/",
+      "us": "/θroʊ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "throw away",
+      "throw out"
+    ],
+    "examples": [
+      "Throw the ball to me.",
+      "She threw the old clothes away."
+    ]
+  },
+  "thumb": {
+    "definition": "n. 拇指",
+    "phonetic": {
+      "uk": "/θʌm/",
+      "us": "/θʌm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "green thumb",
+      "rule of thumb"
+    ],
+    "examples": [
+      "She hurt her thumb while hammering.",
+      "It's a general rule of thumb."
+    ]
+  },
+  "thunder": {
+    "definition": "n. 雷，雷声 v. 打雷，怒喝",
+    "phonetic": {
+      "uk": "/ˈθʌndə(r)/",
+      "us": "/ˈθʌndər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "thunder and lightning",
+      "thunder storm"
+    ],
+    "examples": [
+      "The thunder was extremely loud.",
+      "He spoke with a voice like thunder."
+    ]
+  },
+  "thursday": {
+    "definition": "n. 星期四",
+    "phonetic": {
+      "uk": "/ˈθɜːzdeɪ/",
+      "us": "/ˈθɜːrzdeɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on Thursday",
+      "Thursday night"
+    ],
+    "examples": [
+      "We have a meeting on Thursday.",
+      "Thursday is my favorite day of the week."
+    ]
+  },
+  "thus": {
+    "definition": "ad. 如此，这样，因此",
+    "phonetic": {
+      "uk": "/ðʌs/",
+      "us": "/ðʌs/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "thus far",
+      "and thus"
+    ],
+    "examples": [
+      "The company failed, thus leaving many unemployed.",
+      "Thus, the theory was proven correct."
+    ]
+  },
+  "ticket": {
+    "definition": "n. 票，券，标签",
+    "phonetic": {
+      "uk": "/ˈtɪkɪt/",
+      "us": "/ˈtɪkɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "train ticket",
+      "movie ticket"
+    ],
+    "examples": [
+      "I need to book a ticket to London.",
+      "Show your ticket to the conductor."
+    ]
+  },
+  "tide": {
+    "definition": "n. 潮汐，潮水，趋势",
+    "phonetic": {
+      "uk": "/taɪd/",
+      "us": "/taɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high tide",
+      "turn the tide"
+    ],
+    "examples": [
+      "We went fishing at low tide.",
+      "The tide is turning in our favor."
+    ]
+  },
+  "tidy": {
+    "definition": "adj. 整洁的，整齐的 v. 整理，使整洁",
+    "phonetic": {
+      "uk": "/ˈtaɪdi/",
+      "us": "/ˈtaɪdi/"
+    },
+    "partOfSpeech": "adj., v.",
+    "phrases": [
+      "tidy room",
+      "tidy up"
+    ],
+    "examples": [
+      "Please keep your room tidy.",
+      "She tidied the desk before leaving."
+    ]
+  },
+  "tie": {
+    "definition": "n. 领带，联系，平局 v. 系，打结",
+    "phonetic": {
+      "uk": "/taɪ/",
+      "us": "/taɪ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tie up",
+      "wear a tie"
+    ],
+    "examples": [
+      "He always wears a tie to work.",
+      "Please tie the package securely."
+    ]
+  },
+  "tiger": {
+    "definition": "n. 老虎",
+    "phonetic": {
+      "uk": "/ˈtaɪɡə(r)/",
+      "us": "/ˈtaɪɡər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "paper tiger",
+      "tiger mother"
+    ],
+    "examples": [
+      "The tiger is the largest cat species.",
+      "Tigers are known for their distinctive stripes."
+    ]
+  },
+  "tight": {
+    "definition": "adj. 紧的，密集的 adv. 紧紧地",
+    "phonetic": {
+      "uk": "/taɪt/",
+      "us": "/taɪt/"
+    },
+    "partOfSpeech": "adj., adv.",
+    "phrases": [
+      "tight schedule",
+      "tight budget"
+    ],
+    "examples": [
+      "The shoes are too tight for me.",
+      "We have a tight deadline."
+    ]
+  },
+  "till": {
+    "definition": "prep. 直到 conj. 直到...为止",
+    "phonetic": {
+      "uk": "/tɪl/",
+      "us": "/tɪl/"
+    },
+    "partOfSpeech": "prep., conj.",
+    "phrases": [
+      "work till",
+      "from morning till night"
+    ],
+    "examples": [
+      "I'll wait till you come back.",
+      "Shopkeepers keep their shops open till late."
+    ]
+  },
+  "time": {
+    "definition": "n. 时间，次数，倍",
+    "phonetic": {
+      "uk": "/taɪm/",
+      "us": "/taɪm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on time",
+      "take time off"
+    ],
+    "examples": [
+      "What time is it?",
+      "Take your time, there's no rush."
+    ]
+  },
+  "timely": {
+    "definition": "adj. 及时的，适时的",
+    "phonetic": {
+      "uk": "/ˈtaɪmli/",
+      "us": "/ˈtaɪmli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "timely intervention",
+      "timely manner"
+    ],
+    "examples": [
+      "Thank you for your timely help.",
+      "The report was presented in a timely manner."
+    ]
+  },
+  "tin": {
+    "definition": "n. 锡，罐头",
+    "phonetic": {
+      "uk": "/tɪn/",
+      "us": "/tɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tin can",
+      "tin opener"
+    ],
+    "examples": [
+      "Please hand me the tin of beans.",
+      "The roof is made of tin sheets."
+    ]
+  },
+  "tiny": {
+    "definition": "adj. 微小的，极小的",
+    "phonetic": {
+      "uk": "/ˈtaɪni/",
+      "us": "/ˈtaɪni/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tiny amount",
+      "tiny room"
+    ],
+    "examples": [
+      "She has tiny feet.",
+      "The island is tiny but beautiful."
+    ]
+  },
+  "tip": {
+    "definition": "n. 尖端，小费，提示 v. 给小费，倾斜",
+    "phonetic": {
+      "uk": "/tɪp/",
+      "us": "/tɪp/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "tip of the iceberg",
+      "tip over"
+    ],
+    "examples": [
+      "I left a tip for the waiter.",
+      "Can you give me some study tips?"
+    ]
+  },
+  "tire": {
+    "definition": "n. 轮胎 v. 疲劳，厌倦",
+    "phonetic": {
+      "uk": "/ˈtaɪə(r)/",
+      "us": "/ˈtaɪər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "spare tire",
+      "tire of"
+    ],
+    "examples": [
+      "The car has a flat tire.",
+      "Reading tires my eyes."
+    ]
+  },
+  "tired": {
+    "definition": "adj. 疲劳的，累的",
+    "phonetic": {
+      "uk": "/ˈtaɪəd/",
+      "us": "/ˈtaɪərd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tired of",
+      "get tired"
+    ],
+    "examples": [
+      "I'm tired after working all day.",
+      "She never gets tired of helping others."
+    ]
+  },
+  "tiresome": {
+    "definition": "adj. 令人讨厌的，烦人的",
+    "phonetic": {
+      "uk": "/ˈtaɪəsəm/",
+      "us": "/ˈtaɪərsəm/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tiresome work",
+      "tiresome journey"
+    ],
+    "examples": [
+      "The paperwork is tiresome but necessary.",
+      "The long journey was tiresome for everyone."
+    ]
+  },
+  "tissue": {
+    "definition": "n. 组织，薄纸，手巾纸",
+    "phonetic": {
+      "uk": "/ˈtɪʃuː/",
+      "us": "/ˈtɪʃuː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "facial tissue",
+      "toilet tissue"
+    ],
+    "examples": [
+      "Please pass me a tissue.",
+      "The study examined brain tissue."
+    ]
+  },
+  "title": {
+    "definition": "n. 标题，头衔，资格",
+    "phonetic": {
+      "uk": "/ˈtaɪt(ə)l/",
+      "us": "/ˈtaɪt(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "job title",
+      "title page"
+    ],
+    "examples": [
+      "The title of the book is ambiguous.",
+      "She earned the title of queen."
+    ]
+  },
+  "to": {
+    "definition": "prep. 向，到，对于",
+    "phonetic": {
+      "uk": "/tuː/",
+      "us": "/tuː/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "to begin with",
+      "to some extent"
+    ],
+    "examples": [
+      "She walked to the store.",
+      "I would like to speak to the manager."
+    ]
+  },
+  "toast": {
+    "definition": "n. 烤面包，祝酒 v. 烤，祝酒",
+    "phonetic": {
+      "uk": "/təʊst/",
+      "us": "/toʊst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "make a toast",
+      "French toast"
+    ],
+    "examples": [
+      "I had toast and eggs for breakfast.",
+      "They made a toast to the happy couple."
+    ]
+  },
+  "tobacco": {
+    "definition": "n. 烟草，烟叶",
+    "phonetic": {
+      "uk": "/təˈbækəʊ/",
+      "us": "/təˈbækoʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tobacco smoke",
+      "tobacco industry"
+    ],
+    "examples": [
+      "Smoking tobacco is harmful to health.",
+      "The government taxes tobacco products heavily."
+    ]
+  },
+  "today": {
+    "definition": "ad. 今天 n. 今天",
+    "phonetic": {
+      "uk": "/təˈdeɪ/",
+      "us": "/təˈdeɪ/"
+    },
+    "partOfSpeech": "ad., n.",
+    "phrases": [
+      "today's weather",
+      "today is"
+    ],
+    "examples": [
+      "Today is a beautiful day.",
+      "I'm very busy today."
+    ]
+  },
+  "toe": {
+    "definition": "n. 脚趾，足尖",
+    "phonetic": {
+      "uk": "/təʊ/",
+      "us": "/toʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "big toe",
+      "tip of toe"
+    ],
+    "examples": [
+      "I stubbed my toe on the table.",
+      "She walked on her tiptoes."
+    ]
+  },
+  "together": {
+    "definition": "ad. 一起，共同，合计",
+    "phonetic": {
+      "uk": "/təˈɡeðə(r)/",
+      "us": "/təˈɡeðər/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "work together",
+      "get together"
+    ],
+    "examples": [
+      "Let's work together to solve this.",
+      "They live together as partners."
+    ]
+  },
+  "toilet": {
+    "definition": "n. 厕所，盥洗室",
+    "phonetic": {
+      "uk": "/ˈtɔɪlət/",
+      "us": "/ˈtɔɪlət/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public toilet",
+      "toilet paper"
+    ],
+    "examples": [
+      "Where is the toilet?",
+      "Please buy more toilet paper."
+    ]
+  },
+  "tolerance": {
+    "definition": "n. 宽容，容忍，公差",
+    "phonetic": {
+      "uk": "/ˈtɒlərəns/",
+      "us": "/ˈtɑːlərəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "drug tolerance",
+      "tolerance for"
+    ],
+    "examples": [
+      "She has great tolerance for noise.",
+      "The medication builds tolerance over time."
+    ]
+  },
+  "tolerate": {
+    "definition": "vt. 容忍，忍受",
+    "phonetic": {
+      "uk": "/ˈtɒləreɪt/",
+      "us": "/ˈtɑːləreɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "tolerate pain",
+      "tolerate behavior"
+    ],
+    "examples": [
+      "I cannot tolerate such rude behavior.",
+      "The body can tolerate only certain foods."
+    ]
+  },
+  "toll": {
+    "definition": "n. 通行费，损失（伤亡人数） v. 敲钟",
+    "phonetic": {
+      "uk": "/təʊl/",
+      "us": "/toʊl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "take a toll",
+      "toll booth"
+    ],
+    "examples": [
+      "The war took a heavy toll on the population.",
+      "You need to pay a toll to use the highway."
+    ]
+  },
+  "tomato": {
+    "definition": "n. 西红柿，番茄",
+    "phonetic": {
+      "uk": "/təˈmɑːtəʊ/",
+      "us": "/təˈmeɪtoʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tomato sauce",
+      "eating tomatoes"
+    ],
+    "examples": [
+      "Tomatoes are rich in lycopene.",
+      "She added tomatoes to the salad."
+    ]
+  },
+  "tomb": {
+    "definition": "n. 坟墓",
+    "phonetic": {
+      "uk": "/tuːm/",
+      "us": "/tuːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tomb stone",
+      "ancient tomb"
+    ],
+    "examples": [
+      "The archaeologists discovered an ancient tomb.",
+      "Visitors pay respects at the hero's tomb."
+    ]
+  },
+  "tomorrow": {
+    "definition": "ad. 明天 n. 明天",
+    "phonetic": {
+      "uk": "/təˈmɒrəʊ/",
+      "us": "/təˈmɑːroʊ/"
+    },
+    "partOfSpeech": "ad., n.",
+    "phrases": [
+      "tomorrow morning",
+      "until tomorrow"
+    ],
+    "examples": [
+      "I'll do it tomorrow.",
+      "Tomorrow is another day."
+    ]
+  },
+  "ton": {
+    "definition": "n. 吨，大量",
+    "phonetic": {
+      "uk": "/tʌn/",
+      "us": "/tʌn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "metric ton",
+      "tons of"
+    ],
+    "examples": [
+      "The ship carries tons of cargo.",
+      "We have tons of work to do."
+    ]
+  },
+  "tone": {
+    "definition": "n. 语气，音调，色调",
+    "phonetic": {
+      "uk": "/təʊn/",
+      "us": "/toʊn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tone of voice",
+      "skin tone"
+    ],
+    "examples": [
+      "She spoke in a gentle tone.",
+      "The walls have a warm tone."
+    ]
+  },
+  "tongue": {
+    "definition": "n. 舌头，语言",
+    "phonetic": {
+      "uk": "/tʌŋ/",
+      "us": "/tʌŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mother tongue",
+      "foreign tongue"
+    ],
+    "examples": [
+      "She can speak three languages with ease.",
+      "He burned his tongue on hot soup."
+    ]
+  },
+  "tonight": {
+    "definition": "ad. 今晚 n. 今晚",
+    "phonetic": {
+      "uk": "/təˈnaɪt/",
+      "us": "/təˈnaɪt/"
+    },
+    "partOfSpeech": "ad., n.",
+    "phrases": [
+      "tonight's performance",
+      "see you tonight"
+    ],
+    "examples": [
+      "We're going to the movies tonight.",
+      "Tonight is the night."
+    ]
+  },
+  "too": {
+    "definition": "ad. 也，太，非常",
+    "phonetic": {
+      "uk": "/tuː/",
+      "us": "/tuː/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "too much",
+      "too many"
+    ],
+    "examples": [
+      "I want to go too.",
+      "The coffee is too hot."
+    ]
+  },
+  "tool": {
+    "definition": "n. 工具，器具",
+    "phonetic": {
+      "uk": "/tuːl/",
+      "us": "/tuːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "power tool",
+      "hand tool"
+    ],
+    "examples": [
+      "You need the right tool for the job.",
+      "The carpenter uses many different tools."
+    ]
+  },
+  "tooth": {
+    "definition": "n. 牙齿",
+    "phonetic": {
+      "uk": "/tuːθ/",
+      "us": "/tuːθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brush one's teeth",
+      "sweet tooth"
+    ],
+    "examples": [
+      "She brushes her teeth twice a day.",
+      "The dentist extracted a wisdom tooth."
+    ]
+  },
+  "top": {
+    "definition": "n. 顶部，顶端 adj. 顶部的，最高的",
+    "phonetic": {
+      "uk": "/tɒp/",
+      "us": "/tɑːp/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "at the top",
+      "on top of"
+    ],
+    "examples": [
+      "The books are on the top shelf.",
+      "She's the top student in her class."
+    ]
+  },
+  "topic": {
+    "definition": "n. 题目，话题，主题",
+    "phonetic": {
+      "uk": "/ˈtɒpɪk/",
+      "us": "/ˈtɑːpɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hot topic",
+      "discuss a topic"
+    ],
+    "examples": [
+      "What's your topic for the presentation?",
+      "Politics is a sensitive topic."
+    ]
+  },
+  "torch": {
+    "definition": "n. 手电筒，火炬",
+    "phonetic": {
+      "uk": "/tɔːtʃ/",
+      "us": "/tɔːrtʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Olympic torch",
+      "torch light"
+    ],
+    "examples": [
+      "He used a torch to find his way in the dark.",
+      "The Olympic torch travels around the world."
+    ]
+  },
+  "tortoise": {
+    "definition": "n. 乌龟",
+    "phonetic": {
+      "uk": "/ˈtɔːtəs/",
+      "us": "/ˈtɔːrtəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tortoise shell",
+      "tortoise and hare"
+    ],
+    "examples": [
+      "The tortoise moves slowly but steadily.",
+      "Tortoises can live for a long time."
+    ]
+  },
+  "toss": {
+    "definition": "v. 扔，抛，翻动 n. 抛掷",
+    "phonetic": {
+      "uk": "/tɒs/",
+      "us": "/tɑːs/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "toss and turn",
+      "toss a coin"
+    ],
+    "examples": [
+      "Let's toss a coin to decide.",
+      "She tossed the ball to her friend."
+    ]
+  },
+  "total": {
+    "definition": "adj. 总的，完全的 n. 总数 v. 合计",
+    "phonetic": {
+      "uk": "/ˈtəʊt(ə)l/",
+      "us": "/ˈtoʊt(ə)l/"
+    },
+    "partOfSpeech": "adj., n., v.",
+    "phrases": [
+      "total amount",
+      "in total"
+    ],
+    "examples": [
+      "The total cost is $500.",
+      "What's the total population?"
+    ]
+  },
+  "touch": {
+    "definition": "v. 触摸，接触，触动 n. 接触，触觉",
+    "phonetic": {
+      "uk": "/tʌtʃ/",
+      "us": "/tʌtʃ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "keep in touch",
+      "lose touch"
+    ],
+    "examples": [
+      "Please don't touch the exhibits.",
+      "Let's keep in touch after you move."
+    ]
+  },
+  "tough": {
+    "definition": "adj. 坚韧的，艰难的，强硬的",
+    "phonetic": {
+      "uk": "/tʌf/",
+      "us": "/tʌf/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "tough job",
+      "stay tough"
+    ],
+    "examples": [
+      "She's a tough negotiator.",
+      "It was a tough decision to make."
+    ]
+  },
+  "tour": {
+    "definition": "n. 旅行，旅游 v. 游览",
+    "phonetic": {
+      "uk": "/tʊə(r)/",
+      "us": "/tʊr/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "go on a tour",
+      "tour guide"
+    ],
+    "examples": [
+      "We took a tour of the city.",
+      "The band is on a world tour."
+    ]
+  },
+  "tourist": {
+    "definition": "n. 旅游者，观光者",
+    "phonetic": {
+      "uk": "/ˈtʊərɪst/",
+      "us": "/ˈtʊrɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tourist attraction",
+      "tourist destination"
+    ],
+    "examples": [
+      "The city attracts many tourists.",
+      "Tourists love visiting the old town."
+    ]
+  }
+}

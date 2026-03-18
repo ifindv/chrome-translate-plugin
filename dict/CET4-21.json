@@ -1,0 +1,2594 @@
+{
+  "playground": {
+    "definition": "n. 操场，游乐场",
+    "phonetic": {
+      "uk": "/ˈpleɪɡraʊnd/",
+      "us": "/ˈpleɪɡraʊnd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "children's playground",
+      "school playground"
+    ],
+    "examples": [
+      "The children played on the swings at the playground.",
+      "There is a new playground in the park."
+    ]
+  },
+  "playmate": {
+    "definition": "n. 玩伴",
+    "phonetic": {
+      "uk": "/ˈpleɪmeɪt/",
+      "us": "/ˈpleɪmeɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "childhood playmate",
+      "have a playmate"
+    ],
+    "examples": [
+      "She met her childhood playmate after many years.",
+      "Children need playmates to learn social skills."
+    ]
+  },
+  "pleasant": {
+    "definition": "adj. 令人愉快的，愉快的",
+    "phonetic": {
+      "uk": "/ˈplez(ə)nt/",
+      "us": "/ˈplez(ə)nt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "pleasant surprise",
+      "pleasant weather"
+    ],
+    "examples": [
+      "It was a pleasant surprise to see you.",
+      "The weather is pleasant today."
+    ]
+  },
+  "please": {
+    "definition": "vt. 使高兴 ad. 请",
+    "phonetic": {
+      "uk": "/pliːz/",
+      "us": "/pliːz/"
+    },
+    "partOfSpeech": "vt., ad.",
+    "phrases": [
+      "if you please",
+      "pleasing to"
+    ],
+    "examples": [
+      "Please come in.",
+      "Your presence pleases me."
+    ]
+  },
+  "pleased": {
+    "definition": "adj. 高兴的，满意的",
+    "phonetic": {
+      "uk": "/pliːzd/",
+      "us": "/pliːzd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "pleased with",
+      "pleased to meet"
+    ],
+    "examples": [
+      "I'm pleased with the results.",
+      "I'm pleased to meet you."
+    ]
+  },
+  "pleasure": {
+    "definition": "n. 快乐，乐趣，高兴",
+    "phonetic": {
+      "uk": "/ˈpleʒə(r)/",
+      "us": "/ˈpleʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "with pleasure",
+      "take pleasure in"
+    ],
+    "examples": [
+      "It gives me pleasure to help you.",
+      "She reads for pleasure."
+    ]
+  },
+  "pledge": {
+    "definition": "n. 誓言，保证 vt. 保证，发誓",
+    "phonetic": {
+      "uk": "/pledʒ/",
+      "us": "/pledʒ/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "make a pledge",
+      "pledge allegiance"
+    ],
+    "examples": [
+      "He made a pledge to stop smoking.",
+      "They pledged to support the project."
+    ]
+  },
+  "plentiful": {
+    "definition": "adj. 丰富的，富裕的",
+    "phonetic": {
+      "uk": "/ˈplentɪf(ə)l/",
+      "us": "/ˈplentɪfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "plentiful supply",
+      "plentiful harvest"
+    ],
+    "examples": [
+      "Food was plentiful in the feast.",
+      "The region has a plentiful water supply."
+    ]
+  },
+  "plenty": {
+    "definition": "n. 丰富，大量",
+    "phonetic": {
+      "uk": "/ˈplenti/",
+      "us": "/ˈplemti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "plenty of",
+      "in plenty"
+    ],
+    "examples": [
+      "There is plenty of time.",
+      "They have plenty of money."
+    ]
+  },
+  "plot": {
+    "definition": "n. 情节，小块土地，阴谋 v. 策划，绘图",
+    "phonetic": {
+      "uk": "/plɒt/",
+      "us": "/plɑːt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "plot twist",
+      "plot against"
+    ],
+    "examples": [
+      "The movie has an interesting plot.",
+      "They plotted to overthrow the government."
+    ]
+  },
+  "plough": {
+    "definition": "n. 犁 v. 耕，犁",
+    "phonetic": {
+      "uk": "/plaʊ/",
+      "us": "/plaʊ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "plough the field",
+      "plough through"
+    ],
+    "examples": [
+      "Farmers plough the fields in spring.",
+      "We need to plough through this work."
+    ]
+  },
+  "plow": {
+    "definition": "n. 犁 v. 耕，犁（plough的美式拼写）",
+    "phonetic": {
+      "uk": "/plaʊ/",
+      "us": "/plaʊ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "snow plow",
+      "plow the road"
+    ],
+    "examples": [
+      "The snow plow cleared the street.",
+      "He plows the field every year."
+    ]
+  },
+  "plug": {
+    "definition": "n. 插头，塞子 v. 塞住，插上插头",
+    "phonetic": {
+      "uk": "/plʌɡ/",
+      "us": "/plʌɡ/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pull the plug",
+      "plug in"
+    ],
+    "examples": [
+      "Plug the cable into the socket.",
+      "We need a plug for the bathtub."
+    ]
+  },
+  "plunge": {
+    "definition": "v. 投入，陷入，猛跌 n. 投入，跳水",
+    "phonetic": {
+      "uk": "/plʌndʒ/",
+      "us": "/plʌndʒ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "take the plunge",
+      "plunge into"
+    ],
+    "examples": [
+      "He took the plunge and started his own business.",
+      "Prices plunged after the announcement."
+    ]
+  },
+  "plural": {
+    "definition": "adj. 复数的 n. 复数",
+    "phonetic": {
+      "uk": "/ˈplʊərəl/",
+      "us": "/ˈplʊrəl/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "plural form",
+      "plural noun"
+    ],
+    "examples": [
+      "The plural of 'child' is 'children'.",
+      "Use the plural form for more than one."
+    ]
+  },
+  "plus": {
+    "definition": "prep. 加，加上 adj. 正的 n. 加号，优势",
+    "phonetic": {
+      "uk": "/plʌs/",
+      "us": "/plʌs/"
+    },
+    "partOfSpeech": "prep., adj., n.",
+    "phrases": [
+      "plus and minus",
+      "plus sign"
+    ],
+    "examples": [
+      "Five plus three equals eight.",
+      "Experience is a definite plus."
+    ]
+  },
+  "PM": {
+    "definition": "abbr. 下午，午后",
+    "phonetic": {
+      "uk": "/ˌpiː ˈem/",
+      "us": "/ˌpiː ˈem/"
+    },
+    "partOfSpeech": "abbr.",
+    "phrases": [
+      "at 3 PM",
+      "PM shift"
+    ],
+    "examples": [
+      "The meeting is at 2 PM.",
+      "She works the PM shift."
+    ]
+  },
+  "pocket": {
+    "definition": "n. 衣袋，口袋",
+    "phonetic": {
+      "uk": "/ˈpɒkɪt/",
+      "us": "/ˈpɑːkɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pocket money",
+      "pickpocket"
+    ],
+    "examples": [
+      "I keep my keys in my pocket.",
+      "He gave his son pocket money."
+    ]
+  },
+  "poem": {
+    "definition": "n. 诗，韵文",
+    "phonetic": {
+      "uk": "/ˈpəʊɪm/",
+      "us": "/ˈpoʊəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "write a poem",
+      "love poem"
+    ],
+    "examples": [
+      "She wrote a poem about spring.",
+      "The poem touched everyone's heart."
+    ]
+  },
+  "poet": {
+    "definition": "n. 诗人",
+    "phonetic": {
+      "uk": "/ˈpəʊɪt/",
+      "us": "/ˈpoʊət/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "famous poet",
+      "romantic poet"
+    ],
+    "examples": [
+      "Shakespeare was a great poet and playwright.",
+      "She is a young poet with great potential."
+    ]
+  },
+  "poetry": {
+    "definition": "n. 诗歌，诗集",
+    "phonetic": {
+      "uk": "/ˈpəʊətri/",
+      "us": "/ˈpoʊətri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "modern poetry",
+      "love poetry"
+    ],
+    "examples": [
+      "She enjoys reading poetry.",
+      "The library has a section for poetry."
+    ]
+  },
+  "point": {
+    "definition": "n. 点，要点，分数 v. 指向，指出",
+    "phonetic": {
+      "uk": "/pɔɪnt/",
+      "us": "/pɔɪnt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "point out",
+      "make a point"
+    ],
+    "examples": [
+      "Please point out the errors.",
+      "She made a valid point."
+    ]
+  },
+  "poison": {
+    "definition": "n. 毒，毒药 vt. 毒害",
+    "phonetic": {
+      "uk": "/ˈpɔɪzən/",
+      "us": "/ˈpɔɪz(ə)n/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "rat poison",
+      "poison someone"
+    ],
+    "examples": [
+      "The poisoned food killed the rats.",
+      "Pollution poisons the environment."
+    ]
+  },
+  "poisonous": {
+    "definition": "adj. 有毒的，有害的",
+    "phonetic": {
+      "uk": "/ˈpɔɪz(ə)nəs/",
+      "us": "/ˈpɔɪz(ə)nəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "poisonous snake",
+      "poisonous fumes"
+    ],
+    "examples": [
+      "The snake is poisonous.",
+      "Be careful of poisonous plants."
+    ]
+  },
+  "pole": {
+    "definition": "n. 杆，柱，极",
+    "phonetic": {
+      "uk": "/pəʊl/",
+      "us": "/poʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "north pole",
+      "telephone pole"
+    ],
+    "examples": [
+      "They planted a pole in the ground.",
+      "The North Pole is very cold."
+    ]
+  },
+  "police": {
+    "definition": "n. 警察，警方",
+    "phonetic": {
+      "uk": "/pəˈliːs/",
+      "us": "/pəˈliːs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "police officer",
+      "police station"
+    ],
+    "examples": [
+      "The police arrested the suspect.",
+      "Call the police immediately."
+    ]
+  },
+  "policeman": {
+    "definition": "n. 警察",
+    "phonetic": {
+      "uk": "/pəˈliːsmən/",
+      "us": "/pəˈliːsmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "traffic policeman",
+      "plainclothes policeman"
+    ],
+    "examples": [
+      "The policeman directed traffic.",
+      "A policeman helped us find the way."
+    ]
+  },
+  "policy": {
+    "definition": "n. 政策，方针",
+    "phonetic": {
+      "uk": "/ˈpɒləsi/",
+      "us": "/ˈpɑːləsi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign policy",
+      "company policy"
+    ],
+    "examples": [
+      "The government announced a new policy.",
+      "It's against company policy."
+    ]
+  },
+  "polish": {
+    "definition": "v. 磨光，擦亮 n. 擦光剂，光泽",
+    "phonetic": {
+      "uk": "/ˈpɒlɪʃ/",
+      "us": "/ˈpɑːlɪʃ/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "polish the furniture",
+      "shoe polish"
+    ],
+    "examples": [
+      "She polished her shoes.",
+      "The floor shines nicely after polish."
+    ]
+  },
+  "polite": {
+    "definition": "adj. 有礼貌的，客气的",
+    "phonetic": {
+      "uk": "/pəˈlaɪt/",
+      "us": "/pəˈlaɪt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "polite request",
+      "be polite"
+    ],
+    "examples": [
+      "Please be polite to your elders.",
+      "He made a polite request."
+    ]
+  },
+  "political": {
+    "definition": "adj. 政治的，政治上的",
+    "phonetic": {
+      "uk": "/pəˈlɪtɪk(ə)l/",
+      "us": "/pəˈlɪtɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "political party",
+      "political views"
+    ],
+    "examples": [
+      "She is interested in political science.",
+      "They have different political views."
+    ]
+  },
+  "politician": {
+    "definition": "n. 政治家，政客",
+    "phonetic": {
+      "uk": "/ˌpɒləˈtɪʃ(ə)n/",
+      "us": "/ˌpɑːləˈtɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "local politician",
+      "aspiring politician"
+    ],
+    "examples": [
+      "The politician promised to lower taxes.",
+      "Many politicians visit this region before elections."
+    ]
+  },
+  "politics": {
+    "definition": "n. 政治，政治学",
+    "phonetic": {
+      "uk": "/ˈpɒlətɪks/",
+      "us": "/ˈpɑːlətɪks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "study politics",
+      "office politics"
+    ],
+    "examples": [
+      "He studies politics at university.",
+      "Office politics can be complicated."
+    ]
+  },
+  "poll": {
+    "definition": "n. 民意调查，投票 v. 投票，对...进行民意调查",
+    "phonetic": {
+      "uk": "/pəʊl/",
+      "us": "/poʊl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "opinion poll",
+      "conduct a poll"
+    ],
+    "examples": [
+      "The poll shows the candidate is ahead.",
+      "They polled recent voters."
+    ]
+  },
+  "pollute": {
+    "definition": "vt. 污染",
+    "phonetic": {
+      "uk": "/pəˈluːt/",
+      "us": "/pəˈluːt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "pollute the air",
+      "pollute the water"
+    ],
+    "examples": [
+      "Factories pollute the air and water.",
+      "We must work to reduce pollution."
+    ]
+  },
+  "pollution": {
+    "definition": "n. 污染",
+    "phonetic": {
+      "uk": "/pəˈluːʃ(ə)n/",
+      "us": "/pəˈluːʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "air pollution",
+      "environmental pollution"
+    ],
+    "examples": [
+      "Air pollution is a serious problem.",
+      "The city has high levels of pollution."
+    ]
+  },
+  "pond": {
+    "definition": "n. 池塘",
+    "phonetic": {
+      "uk": "/pɒnd/",
+      "us": "/pɑːnd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fish pond",
+      "duck pond"
+    ],
+    "examples": [
+      "There is a koi pond in the garden.",
+      "Ducks swim in the pond."
+    ]
+  },
+  "pool": {
+    "definition": "n. 水池，游泳池，共同资金 v. 共用，集中",
+    "phonetic": {
+      "uk": "/puːl/",
+      "us": "/puːl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "swimming pool",
+      "car pool"
+    ],
+    "examples": [
+      "Let's go to the swimming pool.",
+      "We car pool to work to save money."
+    ]
+  },
+  "poor": {
+    "definition": "adj. 贫穷的，可怜的，低劣的",
+    "phonetic": {
+      "uk": "/pɔː(r)/",
+      "us": "/pʊr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "poor family",
+      "poor health"
+    ],
+    "examples": [
+      "The poor need help.",
+      "He is in poor health."
+    ]
+  },
+  "pop": {
+    "definition": "v. 突然出现，发出砰声 n. 流行音乐，汽水",
+    "phonetic": {
+      "uk": "/pɒp/",
+      "us": "/pɑːp/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pop music",
+      "pop up"
+    ],
+    "examples": [
+      "She listens to pop music.",
+      "The balloon popped."
+    ]
+  },
+  "popular": {
+    "definition": "adj. 流行的，受欢迎的",
+    "phonetic": {
+      "uk": "/ˈpɒpjələ(r)/",
+      "us": "/ˈpɑːpjələr/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "popular song",
+      "be popular with"
+    ],
+    "examples": [
+      "This song is very popular.",
+      "She is popular with her classmates."
+    ]
+  },
+  "population": {
+    "definition": "n. 人口，全体居民",
+    "phonetic": {
+      "uk": "/ˌpɒpjuˈleɪʃ(ə)n/",
+      "us": "/ˌpɑːpjuˈleɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "population growth",
+      "rural population"
+    ],
+    "examples": [
+      "The city has a large population.",
+      "The population of China is over one billion."
+    ]
+  },
+  "pork": {
+    "definition": "n. 猪肉",
+    "phonetic": {
+      "uk": "/pɔːk/",
+      "us": "/pɔːrk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pork chop",
+      "roast pork"
+    ],
+    "examples": [
+      "I don't eat pork.",
+      "She ordered pork and vegetables."
+    ]
+  },
+  "port": {
+    "definition": "n. 港口，口岸",
+    "phonetic": {
+      "uk": "/pɔːt/",
+      "us": "/pɔːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sea port",
+      "harbor port"
+    ],
+    "examples": [
+      "The ship arrived at the port.",
+      "Shanghai is a major port city."
+    ]
+  },
+  "portable": {
+    "definition": "adj. 轻便的，便携的",
+    "phonetic": {
+      "uk": "/ˈpɔːtəb(ə)l/",
+      "us": "/ˈpɔːrtəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "portable computer",
+      "portable device"
+    ],
+    "examples": [
+      "I bought a portable music player.",
+      "The portable stove is convenient for camping."
+    ]
+  },
+  "porter": {
+    "definition": "n. 搬运工人，守门人",
+    "phonetic": {
+      "uk": "/ˈpɔːtə(r)/",
+      "us": "/ˈpɔːrtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "train porter",
+      "hotel porter"
+    ],
+    "examples": [
+      "The porter helped with the luggage.",
+      "The porter stands at the hotel entrance."
+    ]
+  },
+  "portion": {
+    "definition": "n. 部分，一份",
+    "phonetic": {
+      "uk": "/ˈpɔːʃ(ə)n/",
+      "us": "/ˈpɔːrʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "portion of",
+      "large portion"
+    ],
+    "examples": [
+      "I want a small portion.",
+      "A large portion of the budget goes to education."
+    ]
+  },
+  "portrait": {
+    "definition": "n. 肖像，画像",
+    "phonetic": {
+      "uk": "/ˈpɔːtreɪt/",
+      "us": "/ˈpɔːrtreɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "family portrait",
+      "painted portrait"
+    ],
+    "examples": [
+      "The portrait was painted by a famous artist.",
+      "We took a family portrait last year."
+    ]
+  },
+  "portray": {
+    "definition": "vt. 描绘，扮演",
+    "phonetic": {
+      "uk": "/pɔːˈtreɪ/",
+      "us": "/pɔːrˈtreɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "portray as",
+      "portray accurately"
+    ],
+    "examples": [
+      "The movie portrays life in the 19th century.",
+      "She portrayed the queen in the play."
+    ]
+  },
+  "pose": {
+    "definition": "v. 摆姿势，造成，提出 n. 姿势",
+    "phonetic": {
+      "uk": "/pəʊz/",
+      "us": "/poʊz/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "pose a question",
+      "pose for a photo"
+    ],
+    "examples": [
+      "She posed for the photographer.",
+      "This situation poses a threat to our safety."
+    ]
+  },
+  "position": {
+    "definition": "n. 位置，职位，立场",
+    "phonetic": {
+      "uk": "/pəˈzɪʃ(ə)n/",
+      "us": "/pəˈzɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in position",
+      "apply for a position"
+    ],
+    "examples": [
+      "What is your position on this issue?",
+      "She applied for the position of manager."
+    ]
+  },
+  "positive": {
+    "definition": "adj. 积极的，正数的，确定的",
+    "phonetic": {
+      "uk": "/ˈpɒzətɪv/",
+      "us": "/ˈpɑːzətɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "positive attitude",
+      "positive number"
+    ],
+    "examples": [
+      "Stay positive in difficult times.",
+      "Five is a positive number."
+    ]
+  },
+  "possess": {
+    "definition": "vt. 拥有，持有",
+    "phonetic": {
+      "uk": "/pəˈzes/",
+      "us": "/pəˈzes/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "possess qualities",
+      "possess wealth"
+    ],
+    "examples": [
+      "She possesses great leadership qualities.",
+      "They possess many valuable paintings."
+    ]
+  },
+  "possession": {
+    "definition": "n. 拥有，财产，所有权",
+    "phonetic": {
+      "uk": "/pəˈzeʃ(ə)n/",
+      "us": "/pəˈzeʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take possession",
+      "personal possession"
+    ],
+    "examples": [
+      "They took possession of the house.",
+      "The painting is now in his possession."
+    ]
+  },
+  "possibility": {
+    "definition": "n. 可能性，可能的事",
+    "phonetic": {
+      "uk": "/ˌpɒsəˈbɪləti/",
+      "us": "/ˌpɑːsəˈbɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "explore possibilities",
+      "real possibility"
+    ],
+    "examples": [
+      "We need to explore all possibilities.",
+      "There is a real possibility of rain."
+    ]
+  },
+  "possible": {
+    "definition": "adj. 可能的",
+    "phonetic": {
+      "uk": "/ˈpɒsəb(ə)l/",
+      "us": "/ˈpɑːsəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "as soon as possible",
+      "whenever possible"
+    ],
+    "examples": [
+      "It's possible for anyone to learn.",
+      "Please reply as soon as possible."
+    ]
+  },
+  "possibly": {
+    "definition": "ad. 可能，也许",
+    "phonetic": {
+      "uk": "/ˈpɒsəbli/",
+      "us": "/ˈpɑːsəbli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "as possibly",
+      "possibly true"
+    ],
+    "examples": [
+      "It might possibly rain today.",
+      "Could you possibly help me?"
+    ]
+  },
+  "post": {
+    "definition": "n. 邮件，柱子，职位 v. 邮寄，张贴，发布",
+    "phonetic": {
+      "uk": "/pəʊst/",
+      "us": "/poʊst/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "post office",
+      "post a letter"
+    ],
+    "examples": [
+      "She works as a postal worker.",
+      "I posted the notice on the board."
+    ]
+  },
+  "postage": {
+    "definition": "n. 邮费，邮资",
+    "phonetic": {
+      "uk": "/ˈpəʊstɪdʒ/",
+      "us": "/ˈpoʊstɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pay postage",
+      "postage stamp"
+    ],
+    "examples": [
+      "Please include postage.",
+      "The postage will be paid by the sender."
+    ]
+  },
+  "postcard": {
+    "definition": "n. 明信片",
+    "phonetic": {
+      "uk": "/ˈpəʊstkɑːd/",
+      "us": "/ˈpoʊstkɑːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "send a postcard",
+      "picture postcard"
+    ],
+    "examples": [
+      "She sent me a postcard from Paris.",
+      "I collect picture postcards."
+    ]
+  },
+  "poster": {
+    "definition": "n. 海报，招贴画",
+    "phonetic": {
+      "uk": "/ˈpəʊstə(r)/",
+      "us": "/ˈpoʊstər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "movie poster",
+      "wall poster"
+    ],
+    "examples": [
+      "The concert poster is on the door.",
+      "She put up posters to advertise the event."
+    ]
+  },
+  "postman": {
+    "definition": "n. 邮递员",
+    "phonetic": {
+      "uk": "/ˈpəʊstmən/",
+      "us": "/ˈpoʊstmən/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "loyal postman",
+      "postman delivers"
+    ],
+    "examples": [
+      "The postman delivers mail every morning.",
+      "Our postman is very reliable."
+    ]
+  },
+  "postpone": {
+    "definition": "vt. 推迟，延期",
+    "phonetic": {
+      "uk": "/pəˈspəʊn/",
+      "us": "/poʊˈspoʊn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "postpone the meeting",
+      "postpone until"
+    ],
+    "examples": [
+      "We had to postpone the trip.",
+      "Let's postpone the meeting until next week."
+    ]
+  },
+  "pot": {
+    "definition": "n. 锅，壶，罐",
+    "phonetic": {
+      "uk": "/pɒt/",
+      "us": "/pɑːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cooking pot",
+      "flower pot"
+    ],
+    "examples": [
+      "She planted flowers in a pot.",
+      "The soup is boiling in the pot."
+    ]
+  },
+  "potato": {
+    "definition": "n. 土豆，马铃薯",
+    "phonetic": {
+      "uk": "/pəˈteɪtəʊ/",
+      "us": "/pəˈteɪtoʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sweet potato",
+      "mashed potato"
+    ],
+    "examples": [
+      "Potatoes are a common food.",
+      "She likes baked potatoes."
+    ]
+  },
+  "potential": {
+    "definition": "adj. 潜在的，可能的 n. 潜力",
+    "phonetic": {
+      "uk": "/pəˈtenʃ(ə)l/",
+      "us": "/pəˈtenʃ(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "potential customer",
+      "realize one's potential"
+    ],
+    "examples": [
+      "She has great potential as a singer.",
+      "The project has potential risks."
+    ]
+  },
+  "pound": {
+    "definition": "n. 磅，英镑 v. 捣碎，敲打",
+    "phonetic": {
+      "uk": "/paʊnd/",
+      "us": "/paʊnd/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "pound of meat",
+      "pound on the door"
+    ],
+    "examples": [
+      "I need half a pound of butter.",
+      "He pounded the dough."
+    ]
+  },
+  "pour": {
+    "definition": "v. 倒，灌，倾注",
+    "phonetic": {
+      "uk": "/pɔː(r)/",
+      "us": "/pɔːr/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "pour rain",
+      "pour into"
+    ],
+    "examples": [
+      "Please pour me a cup of tea.",
+      "It's pouring outside."
+    ]
+  },
+  "poverty": {
+    "definition": "n. 贫穷，贫困",
+    "phonetic": {
+      "uk": "/ˈpɒvəti/",
+      "us": "/ˈpɑːvərti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "live in poverty",
+      "poverty line"
+    ],
+    "examples": [
+      "Many people struggle with poverty.",
+      "The organization fights against poverty."
+    ]
+  },
+  "powder": {
+    "definition": "n. 粉末，火药",
+    "phonetic": {
+      "uk": "/ˈpaʊdə(r)/",
+      "us": "/ˈpaʊdər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "baby powder",
+      "baking powder"
+    ],
+    "examples": [
+      "Put some powder on the baby.",
+      "She used baking powder in the cake."
+    ]
+  },
+  "power": {
+    "definition": "n. 力，能力，权力，电力",
+    "phonetic": {
+      "uk": "/ˈpaʊə(r)/",
+      "us": "/ˈpaʊər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "power plant",
+      "come to power"
+    ],
+    "examples": [
+      "He has great power in the company.",
+      "The power went out during the storm."
+    ]
+  },
+  "powerful": {
+    "definition": "adj. 强大的，有权的，强力的",
+    "phonetic": {
+      "uk": "/ˈpaʊəf(ə)l/",
+      "us": "/ˈpaʊərf(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "powerful country",
+      "powerful argument"
+    ],
+    "examples": [
+      "The powerful storm destroyed the houses.",
+      "She is a powerful speaker."
+    ]
+  },
+  "practical": {
+    "definition": "adj. 实际的，实用的",
+    "phonetic": {
+      "uk": "/ˈpræktɪk(ə)l/",
+      "us": "/ˈpræktɪk(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "practical application",
+      "practical experience"
+    ],
+    "examples": [
+      "She has practical experience in this field.",
+      "This is a practical solution to the problem."
+    ]
+  },
+  "practically": {
+    "definition": "ad. 实际上，几乎",
+    "phonetic": {
+      "uk": "/ˈpræktɪkəli/",
+      "us": "/ˈpræktɪkli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "practically speaking",
+      "practically impossible"
+    ],
+    "examples": [
+      "It's practically done.",
+      "Practically everyone knew the news."
+    ]
+  },
+  "practice": {
+    "definition": "n. 练习，实践 v. 练习，从事",
+    "phonetic": {
+      "uk": "/ˈpræktɪs/",
+      "us": "/ˈpræktɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "practice makes perfect",
+      "medical practice"
+    ],
+    "examples": [
+      "Practice makes perfect.",
+      "She practices the piano every day."
+    ]
+  },
+  "practise": {
+    "definition": "v. 练习，实践（practice的英式拼写）",
+    "phonetic": {
+      "uk": "/ˈpræktɪs/",
+      "us": "/ˈpræktɪs/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "practise medicine",
+      "practise regularly"
+    ],
+    "examples": [
+      "She practises law in London.",
+      "You need to practise more."
+    ]
+  },
+  "praise": {
+    "definition": "vt. 赞扬，表扬 n. 赞扬",
+    "phonetic": {
+      "uk": "/preɪz/",
+      "us": "/preɪz/"
+    },
+    "partOfSpeech": "vt., n.",
+    "phrases": [
+      "speak highly of",
+      "highly praised"
+    ],
+    "examples": [
+      "The teacher praised the student for his effort.",
+      "She received praise for her performance."
+    ]
+  },
+  "pray": {
+    "definition": "v. 祈祷，请求",
+    "phonetic": {
+      "uk": "/preɪ/",
+      "us": "/preɪ/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "pray for",
+      "pray to"
+    ],
+    "examples": [
+      "She prays for her family's health.",
+      "They pray every morning."
+    ]
+  },
+  "prayer": {
+    "definition": "n. 祈祷，祷告",
+    "phonetic": {
+      "uk": "/preə(r)/",
+      "us": "/prer/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "say a prayer",
+      "in prayer"
+    ],
+    "examples": [
+      "She says a prayer before every meal.",
+      "He sat in prayer for hours."
+    ]
+  },
+  "preach": {
+    "definition": "vt. 布道，宣扬",
+    "phonetic": {
+      "uk": "/priːtʃ/",
+      "us": "/priːtʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "preach peace",
+      "preach to"
+    ],
+    "examples": [
+      "The priest preaches every Sunday.",
+      "He preaches kindness to animals."
+    ]
+  },
+  "precaution": {
+    "definition": "n. 预防，警惕",
+    "phonetic": {
+      "uk": "/prɪˈkɔːʃ(ə)n/",
+      "us": "/prɪˈkɔːʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take precautions",
+      "safety precaution"
+    ],
+    "examples": [
+      "Take precautions against fire.",
+      "We must take all necessary precautions."
+    ]
+  },
+  "precede": {
+    "definition": "vt. 先于，领先",
+    "phonetic": {
+      "uk": "/prɪˈsiːd/",
+      "us": "/priːˈsiːd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "precede an event",
+      "precede by"
+    ],
+    "examples": [
+      "A flash of lightning preceded the thunder.",
+      "Dinner preceded the speech."
+    ]
+  },
+  "preceding": {
+    "definition": "adj. 在前的，先前的",
+    "phonetic": {
+      "uk": "/prəˈsiːdɪŋ/",
+      "us": "/priːˈsiːdɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "preceding paragraph",
+      "preceding year"
+    ],
+    "examples": [
+      "Refer to the preceding chapter.",
+      "The preceding month was cold."
+    ]
+  },
+  "precious": {
+    "definition": "adj. 珍贵的，贵重的",
+    "phonetic": {
+      "uk": "/ˈpreʃəs/",
+      "us": "/ˈpreʃəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "precious metal",
+      "precious stone"
+    ],
+    "examples": [
+      "Time is precious.",
+      "Diamonds are precious stones."
+    ]
+  },
+  "precise": {
+    "definition": "adj. 精确的，准确的",
+    "phonetic": {
+      "uk": "/prɪˈsaɪs/",
+      "us": "/prɪˈsaɪs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "precise measurement",
+      "be precise"
+    ],
+    "examples": [
+      "Please be more precise with your instructions.",
+      "The watch shows precise time."
+    ]
+  },
+  "precision": {
+    "definition": "n. 精确，准确",
+    "phonetic": {
+      "uk": "/prɪˈsɪʒ(ə)n/",
+      "us": "/prɪˈsɪʒ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "with precision",
+      "scientific precision"
+    ],
+    "examples": [
+      "She performed the surgery with great precision.",
+      "The instrument measures with precision."
+    ]
+  },
+  "predict": {
+    "definition": "vt. 预言，预测",
+    "phonetic": {
+      "uk": "/prɪˈdɪkt/",
+      "us": "/prɪˈdɪkt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "predict the future",
+      "predict weather"
+    ],
+    "examples": [
+      "Experts predict economic growth.",
+      "It's difficult to predict the winner."
+    ]
+  },
+  "prediction": {
+    "definition": "n. 预言，预测",
+    "phonetic": {
+      "uk": "/prɪˈdɪkʃ(ə)n/",
+      "us": "/prɪˈdɪkʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a prediction",
+      "weather prediction"
+    ],
+    "examples": [
+      "His prediction came true.",
+      "According to weather predictions, it will rain."
+    ]
+  },
+  "prefer": {
+    "definition": "vt. 宁愿，更喜欢",
+    "phonetic": {
+      "uk": "/prɪˈfɜː(r)/",
+      "us": "/prɪˈfɜːr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "prefer to",
+      "would prefer"
+    ],
+    "examples": [
+      "I prefer tea to coffee.",
+      "She prefers working alone."
+    ]
+  },
+  "preference": {
+    "definition": "n. 偏爱，优先选择",
+    "phonetic": {
+      "uk": "/ˈprefrəns/",
+      "us": "/ˈprefrəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "personal preference",
+      "show preference to"
+    ],
+    "examples": [
+      "She has a preference for classical music.",
+      "Candidates were chosen without preference."
+    ]
+  },
+  "pregnant": {
+    "definition": "adj. 怀孕的",
+    "phonetic": {
+      "uk": "/ˈpreɡnənt/",
+      "us": "/ˈpreɡnənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "get pregnant",
+      "pregnant woman"
+    ],
+    "examples": [
+      "She is pregnant with her first child.",
+      "Take prenatal vitamins if you are pregnant."
+    ]
+  },
+  "prejudice": {
+    "definition": "n. 偏见，成见 v. 使抱偏见",
+    "phonetic": {
+      "uk": "/ˈpredʒədɪs/",
+      "us": "/ˈpredʒədɪs/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "racial prejudice",
+      "prejudice against"
+    ],
+    "examples": [
+      "He has a prejudice against foreigners.",
+      "We must fight against prejudice."
+    ]
+  },
+  "preliminary": {
+    "definition": "adj. 初步的，预备的",
+    "phonetic": {
+      "uk": "/prɪˈlɪmɪn(ə)ri/",
+      "us": "/prɪˈlɪmɪneri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "preliminary results",
+      "preliminary examination"
+    ],
+    "examples": [
+      "We need to conduct preliminary research.",
+      "The preliminary results are encouraging."
+    ]
+  },
+  "premier": {
+    "definition": "n. 首相，总理 adj. 首位的",
+    "phonetic": {
+      "uk": "/ˈpremiə(r)/",
+      "us": "/ˈpriːmɪr/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "premier minister",
+      "premier league"
+    ],
+    "examples": [
+      "The premier addressed the nation.",
+      "This is the premier event of the year."
+    ]
+  },
+  "premise": {
+    "definition": "n. 前提，房屋",
+    "phonetic": {
+      "uk": "/ˈpremɪs/",
+      "us": "/ˈpremɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on the premise",
+      "business premise"
+    ],
+    "examples": [
+      "The argument is based on a false premise.",
+      "They opened a new business premise."
+    ]
+  },
+  "premium": {
+    "definition": "n. 保险费，奖金 adj. 优质的，高价的",
+    "phonetic": {
+      "uk": "/ˈpriːmiəm/",
+      "us": "/ˈpriːmiəm/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "pay a premium",
+      "premium quality"
+    ],
+    "examples": [
+      "We pay a monthly premium for insurance.",
+      "This wine is premium quality."
+    ]
+  },
+  "preparation": {
+    "definition": "n. 准备，预备",
+    "phonetic": {
+      "uk": "/ˌprepəˈreɪʃ(ə)n/",
+      "us": "/ˌprepəˈreɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in preparation",
+      "make preparations"
+    ],
+    "examples": [
+      "The project is in preparation.",
+      "Make preparations for the trip."
+    ]
+  },
+  "prepare": {
+    "definition": "v. 准备，预备",
+    "phonetic": {
+      "uk": "/prɪˈpeə(r)/",
+      "us": "/prɪˈper/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "prepare for",
+      "prepare dinner"
+    ],
+    "examples": [
+      "Please prepare for the exam.",
+      "Mother is preparing dinner."
+    ]
+  },
+  "preposition": {
+    "definition": "n. 介词",
+    "phonetic": {
+      "uk": "/ˌprepəˈzɪʃ(ə)n/",
+      "us": "/ˌprepəˈzɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "prepositional phrase",
+      "preposition of place"
+    ],
+    "examples": [
+      "In, on, and at are common prepositions.",
+      "Use the correct preposition in the sentence."
+    ]
+  },
+  "prescribe": {
+    "definition": "vt. 开处方，规定",
+    "phonetic": {
+      "uk": "/prɪˈskraɪb/",
+      "us": "/prɪˈskraɪb/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "prescribe medicine",
+      "prescribed by doctor"
+    ],
+    "examples": [
+      "The doctor prescribed antibiotics.",
+      "The law prescribes severe penalties for crimes."
+    ]
+  },
+  "presence": {
+    "definition": "n. 出席，在场，存在",
+    "phonetic": {
+      "uk": "/ˈprez(ə)ns/",
+      "us": "/ˈprez(ə)ns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in someone's presence",
+      "presence of mind"
+    ],
+    "examples": [
+      "Your presence at the meeting is required.",
+      "She maintained her presence of mind in the emergency."
+    ]
+  },
+  "present": {
+    "definition": "adj. 现在的，出席的 n. 礼物，现在 vt. 赠送，呈现",
+    "phonetic": {
+      "uk": "/ˈprez(ə)nt/",
+      "us": "/ˈprez(ə)nt/"
+    },
+    "partOfSpeech": "adj., n., vt.",
+    "phrases": [
+      "present time",
+      "at present"
+    ],
+    "examples": [
+      "I need to finish the work at present.",
+      "She presented him with a bouquet of flowers."
+    ]
+  },
+  "presentation": {
+    "definition": "n. 介绍，呈现，表演",
+    "phonetic": {
+      "uk": "/ˌprez(ə)nˈteɪʃ(ə)n/",
+      "us": "/ˌpriːzenˈteɪʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "give a presentation",
+      "visual presentation"
+    ],
+    "examples": [
+      "She gave an excellent presentation.",
+      "The presentation was very informative."
+    ]
+  },
+  "presently": {
+    "definition": "ad. 不久，目前",
+    "phonetic": {
+      "uk": "/ˈprez(ə)ntli/",
+      "us": "/ˈprez(ə)ntli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "presently available",
+      "presently working"
+    ],
+    "examples": [
+      "She will be arriving presently.",
+      "I am presently working on a new project."
+    ]
+  },
+  "preserve": {
+    "definition": "vt. 保护，保存 n. 蜜饯，果酱",
+    "phonetic": {
+      "uk": "/prɪˈzɜːv/",
+      "us": "/prɪˈzɜːrv/"
+    },
+    "partOfSpeech": "vt., n.",
+    "phrases": [
+      "preserve nature",
+      "fruit preserve"
+    ],
+    "examples": [
+      "We must preserve our cultural heritage.",
+      "Strawberry preserves are delicious on toast."
+    ]
+  },
+  "president": {
+    "definition": "n. 总统，校长，董事长",
+    "phonetic": {
+      "uk": "/ˈprezɪdənt/",
+      "us": "/ˈprezɪdənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "president of the country",
+      "company president"
+    ],
+    "examples": [
+      "The president will give a speech tomorrow.",
+      "She was elected president of the organization."
+    ]
+  },
+  "press": {
+    "definition": "v. 按，压，逼迫 n. 新闻界，压机",
+    "phonetic": {
+      "uk": "/pres/",
+      "us": "/pres/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "press conference",
+      "press the button"
+    ],
+    "examples": [
+      "The press released the news.",
+      "Please press the button to start."
+    ]
+  },
+  "pressure": {
+    "definition": "n. 压力，强制 v. 对...施加压力",
+    "phonetic": {
+      "uk": "/ˈpreʃə(r)/",
+      "us": "/ˈpreʃər/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "under pressure",
+      "high blood pressure"
+    ],
+    "examples": [
+      "He performs well under pressure.",
+      "The doctor is concerned about her blood pressure."
+    ]
+  },
+  "presumably": {
+    "definition": "ad. 大概，推测起来",
+    "phonetic": {
+      "uk": "/prɪˈzjuːməbli/",
+      "us": "/prɪˈzuːməbli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "presumably true",
+      "presumably because"
+    ],
+    "examples": [
+      "Presumably, he will arrive soon.",
+      "The meeting was cancelled, presumably due to the weather."
+    ]
+  },
+  "presume": {
+    "definition": "vt. 假定，推测",
+    "phonetic": {
+      "uk": "/prɪˈzjuːm/",
+      "us": "/prɪˈzuːm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "presume innocence",
+      "presume that"
+    ],
+    "examples": [
+      "We presume him innocent until proven guilty.",
+      "I presume you will come to the party."
+    ]
+  },
+  "pretend": {
+    "definition": "v. 假装，伪装",
+    "phonetic": {
+      "uk": "/prɪˈtend/",
+      "us": "/prɪˈtend/"
+    },
+    "partOfSpeech": "v.",
+    "phrases": [
+      "pretend to be",
+      "pretend to do"
+    ],
+    "examples": [
+      "Children pretend to be superheroes.",
+      "Don't pretend that everything is fine."
+    ]
+  },
+  "pretty": {
+    "definition": "adj. 漂亮的，优美的 ad. 相当",
+    "phonetic": {
+      "uk": "/ˈprɪti/",
+      "us": "/ˈprɪti/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "pretty good",
+      "pretty much"
+    ],
+    "examples": [
+      "The flowers are very pretty.",
+      "It's pretty good for a beginner."
+    ]
+  },
+  "prevail": {
+    "definition": "vi. 胜过，流行，盛行",
+    "phonetic": {
+      "uk": "/prɪˈveɪl/",
+      "us": "/prɪˈveɪl/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "prevail over",
+      "prevail in"
+    ],
+    "examples": [
+      "Truth shall prevail over falsehood.",
+      "This view still prevails in some regions."
+    ]
+  },
+  "prevalent": {
+    "definition": "adj. 流行的，盛行的",
+    "phonetic": {
+      "uk": "/ˈprevələnt/",
+      "us": "/ˈprevələnt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "prevalent disease",
+      "prevalent belief"
+    ],
+    "examples": [
+      "This disease is prevalent in tropical regions.",
+      "It's a prevalent belief among young people."
+    ]
+  },
+  "prevent": {
+    "definition": "vt. 防止，预防",
+    "phonetic": {
+      "uk": "/prɪˈvent/",
+      "us": "/prɪˈvent/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "prevent from",
+      "prevent accident"
+    ],
+    "examples": [
+      "Vaccines can prevent diseases.",
+      "What can we do to prevent this?"
+    ]
+  },
+  "prevention": {
+    "definition": "n. 预防，防止",
+    "phonetic": {
+      "uk": "/prɪˈvenʃ(ə)n/",
+      "us": "/prɪˈvenʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "disease prevention",
+      "crime prevention"
+    ],
+    "examples": [
+      "Prevention is better than cure.",
+      "The program focuses on prevention of fire hazards."
+    ]
+  },
+  "previous": {
+    "definition": "adj. 先前的，过早的",
+    "phonetic": {
+      "uk": "/ˈpriːviəs/",
+      "us": "/ˈpriːviəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "previous experience",
+      "in previous years"
+    ],
+    "examples": [
+      "She had previous experience in this field.",
+      "The previous owner of the house was famous."
+    ]
+  },
+  "previously": {
+    "definition": "ad. 以前，先前",
+    "phonetic": {
+      "uk": "/ˈpriːviəsli/",
+      "us": "/ˈpriːviəsli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "previously known",
+      "previously mentioned"
+    ],
+    "examples": [
+      "She previously worked as a teacher.",
+      "This fact was previously unknown."
+    ]
+  },
+  "price": {
+    "definition": "n. 价格，代价",
+    "phonetic": {
+      "uk": "/praɪs/",
+      "us": "/praɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ask a price",
+      "high price"
+    ],
+    "examples": [
+      "What is the price of this book?",
+      "We paid a high price for freedom."
+    ]
+  },
+  "pride": {
+    "definition": "n. 骄傲，自豪 vt. 使得意，以...自豪",
+    "phonetic": {
+      "uk": "/praɪd/",
+      "us": "/praɪd/"
+    },
+    "partOfSpeech": "n., vt.",
+    "phrases": [
+      "take pride in",
+      "pride and prejudice"
+    ],
+    "examples": [
+      "She takes pride in her work.",
+      "He is a man of great pride."
+    ]
+  },
+  "priest": {
+    "definition": "n. 教士，牧师，神父",
+    "phonetic": {
+      "uk": "/priːst/",
+      "us": "/priːst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Catholic priest",
+      "high priest"
+    ],
+    "examples": [
+      "The priest conducted the wedding ceremony.",
+      "The priest gave a sermon on Sunday."
+    ]
+  },
+  "primary": {
+    "definition": "adj. 主要的，初级的",
+    "phonetic": {
+      "uk": "/ˈpraɪm(ə)ri/",
+      "us": "/ˈpraɪmeri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "primary school",
+      "primary concern"
+    ],
+    "examples": [
+      "His primary concern is his family's safety.",
+      "Children in the UK start primary school at age 5."
+    ]
+  },
+  "prime": {
+    "definition": "adj. 首要的，最好的 n. 全盛时期",
+    "phonetic": {
+      "uk": "/praɪm/",
+      "us": "/praɪm/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "prime minister",
+      "prime time"
+    ],
+    "examples": [
+      "The show airs during prime time.",
+      "This is a prime example of what went wrong."
+    ]
+  },
+  "primitive": {
+    "definition": "adj. 原始的，简单的",
+    "phonetic": {
+      "uk": "/ˈprɪmətɪv/",
+      "us": "/ˈprɪmətɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "primitive tools",
+      "primitive society"
+    ],
+    "examples": [
+      "The cave contains primitive paintings.",
+      "They used primitive tools to build shelter."
+    ]
+  },
+  "prince": {
+    "definition": "n. 王子，亲王",
+    "phonetic": {
+      "uk": "/prɪns/",
+      "us": "/prɪns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Prince Charming",
+      "crown prince"
+    ],
+    "examples": [
+      "The Prince will become King one day.",
+      "She dreams of marrying Prince Charming."
+    ]
+  },
+  "princess": {
+    "definition": "n. 公主，王妃",
+    "phonetic": {
+      "uk": "/ˌprɪnˈses/",
+      "us": "/ˌprɪnˈses/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Princess Diana",
+      "fairy princess"
+    ],
+    "examples": [
+      "The princess lived in a beautiful castle.",
+      "Every little girl wants to be a princess."
+    ]
+  },
+  "principal": {
+    "definition": "adj. 最重要的 n. 校长，资本",
+    "phonetic": {
+      "uk": "/ˈprɪnsəp(ə)l/",
+      "us": "/ˈprɪnsəp(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "school principal",
+      "principal reason"
+    ],
+    "examples": [
+      "The principal reason for his success is hard work.",
+      "The school principal announced the new policy."
+    ]
+  },
+  "principle": {
+    "definition": "n. 原则，原理",
+    "phonetic": {
+      "uk": "/ˈprɪnsɪp(ə)l/",
+      "us": "/ˈprɪnsəp(ə)l/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "basic principle",
+      "moral principle"
+    ],
+    "examples": [
+      "She stands by her principles.",
+      "This is a fundamental principle of physics."
+    ]
+  },
+  "print": {
+    "definition": "v. 印刷，出版 n. 印刷品",
+    "phonetic": {
+      "uk": "/prɪnt/",
+      "us": "/prɪnt/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "in print",
+      "print out"
+    ],
+    "examples": [
+      "Please print this document.",
+      "The book is still in print."
+    ]
+  },
+  "prior": {
+    "definition": "adj. 优先的，更重要的 ad. 在前",
+    "phonetic": {
+      "uk": "/ˈpraɪə(r)/",
+      "us": "/ˈpraɪər/"
+    },
+    "partOfSpeech": "adj., ad.",
+    "phrases": [
+      "prior to",
+      "prior notice"
+    ],
+    "examples": [
+      "Please give us prior notice.",
+      "Prior to this job, she was a teacher."
+    ]
+  },
+  "priority": {
+    "definition": "n. 优先，重点",
+    "phonetic": {
+      "uk": "/praɪˈɒrəti/",
+      "us": "/praɪˈɔːrəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high priority",
+      "give priority to"
+    ],
+    "examples": [
+      "Education should be a top priority.",
+      "We need to give priority to safety."
+    ]
+  },
+  "prison": {
+    "definition": "n. 监狱",
+    "phonetic": {
+      "uk": "/ˈprɪz(ə)n/",
+      "us": "/ˈprɪz(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "be in prison",
+      "prison sentence"
+    ],
+    "examples": [
+      "He was sent to prison for theft.",
+      "The prison is heavily guarded."
+    ]
+  },
+  "prisoner": {
+    "definition": "n. 囚犯",
+    "phonetic": {
+      "uk": "/ˈprɪzənə(r)/",
+      "us": "/ˈprɪzənər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "political prisoner",
+      "prisoner of war"
+    ],
+    "examples": [
+      "The prisoners were released after five years.",
+      "She visited her husband in prison."
+    ]
+  },
+  "private": {
+    "definition": "adj. 私人的，私有的 n. 士兵",
+    "phonetic": {
+      "uk": "/ˈpraɪvət/",
+      "us": "/ˈpraɪvət/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "private property",
+      "private school"
+    ],
+    "examples": [
+      "This is a private property.",
+      "He attends a private school."
+    ]
+  },
+  "privilege": {
+    "definition": "n. 特权，优惠",
+    "phonetic": {
+      "uk": "/ˈprɪvəlɪdʒ/",
+      "us": "/ˈprɪvəlɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have the privilege",
+      "grant privilege"
+    ],
+    "examples": [
+      "It is a privilege to serve you.",
+      "Education should be a right, not a privilege."
+    ]
+  },
+  "prize": {
+    "definition": "n. 奖，奖品 adj. 得奖的",
+    "phonetic": {
+      "uk": "/praɪz/",
+      "us": "/praɪz/"
+    },
+    "partOfSpeech": "n., adj.",
+    "phrases": [
+      "win a prize",
+      "Nobel Prize"
+    ],
+    "examples": [
+      "She won first prize in the competition.",
+      "He was awarded the Nobel Prize in Literature."
+    ]
+  },
+  "probability": {
+    "definition": "n. 可能性，概率",
+    "phonetic": {
+      "uk": "/ˌprɒbəˈbɪləti/",
+      "us": "/ˌprɑːbəˈbɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high probability",
+      "in all probability"
+    ],
+    "examples": [
+      "There is a high probability of rain.",
+      "In all probability, they will win."
+    ]
+  },
+  "probable": {
+    "definition": "adj. 很可能的，大概的",
+    "phonetic": {
+      "uk": "/ˈprɒbəb(ə)l/",
+      "us": "/ˈprɑːbəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "probable cause",
+      "most probable"
+    ],
+    "examples": [
+      "It is probable that it will rain tomorrow.",
+      "The most probable outcome is a draw."
+    ]
+  },
+  "probably": {
+    "definition": "ad. 大概，或许",
+    "phonetic": {
+      "uk": "/ˈprɒbəbli/",
+      "us": "/ˈprɑːbəbli/"
+    },
+    "partOfSpeech": "ad.",
+    "phrases": [
+      "probably will",
+      "most probably"
+    ],
+    "examples": [
+      "She probably won't come tonight.",
+      "The problem will probably be solved soon."
+    ]
+  },
+  "probe": {
+    "definition": "n. 探针 v. 探查，探究",
+    "phonetic": {
+      "uk": "/prəʊb/",
+      "us": "/proʊb/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "space probe",
+      "probe into"
+    ],
+    "examples": [
+      "The space probe sent back images of Mars.",
+      "We need to probe deeper into the issue."
+    ]
+  },
+  "problem": {
+    "definition": "n. 问题，难题",
+    "phonetic": {
+      "uk": "/ˈprɒbləm/",
+      "us": "/ˈprɑːbləm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "solve the problem",
+      "big problem"
+    ],
+    "examples": [
+      "We need to solve this problem quickly.",
+      "What's the problem with your car?"
+    ]
+  },
+  "procedure": {
+    "definition": "n. 程序，手续",
+    "phonetic": {
+      "uk": "/prəˈsiːdʒə(r)/",
+      "us": "/prəˈsiːdʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "standard procedure",
+      "safety procedure"
+    ],
+    "examples": [
+      "Follow the proper procedure.",
+      "The procedure changed last year."
+    ]
+  },
+  "proceed": {
+    "definition": "vi. 进行，继续",
+    "phonetic": {
+      "uk": "/prəˈsiːd/",
+      "us": "/proʊˈsiːd/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "proceed with",
+      "proceed to"
+    ],
+    "examples": [
+      "We will proceed with the plan as discussed.",
+      "Please proceed to the next step."
+    ]
+  },
+  "process": {
+    "definition": "n. 过程，进程 v. 加工，处理",
+    "phonetic": {
+      "uk": "/ˈprəʊses/",
+      "us": "/ˈprɑːses/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "in process",
+      "process information"
+    ],
+    "examples": [
+      "The process takes about an hour.",
+      "We process personal data carefully."
+    ]
+  },
+  "procession": {
+    "definition": "n. 队伍，行列",
+    "phonetic": {
+      "uk": "/prəˈseʃ(ə)n/",
+      "us": "/prəˈseʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "funeral procession",
+      "procession route"
+    ],
+    "examples": [
+      "The wedding procession marched through the streets.",
+      "Crowds lined the procession route."
+    ]
+  },
+  "produce": {
+    "definition": "v. 生产，制造 n. 产品，农产品",
+    "phonetic": {
+      "uk": "/prəˈdjuːs/",
+      "us": "/prəˈduːs/"
+    },
+    "partOfSpeech": "v., n.",
+    "phrases": [
+      "produce goods",
+      "fresh produce"
+    ],
+    "examples": [
+      "The factory produces electronic devices.",
+      "Local farmers sell fresh produce at the market."
+    ]
+  },
+  "product": {
+    "definition": "n. 产品，结果",
+    "phonetic": {
+      "uk": "/ˈprɒdʌkt/",
+      "us": "/ˈprɑːdʌkt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "product launch",
+      "quality product"
+    ],
+    "examples": [
+      "This product is made in China.",
+      "The result is the product of hard work."
+    ]
+  },
+  "production": {
+    "definition": "n. 生产，产品，制作",
+    "phonetic": {
+      "uk": "/prəˈdʌkʃ(ə)n/",
+      "us": "/prəˈdʌkʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mass production",
+      "production line"
+    ],
+    "examples": [
+      "The factory increased production by 50%.",
+      "She works in film production."
+    ]
+  },
+  "productive": {
+    "definition": "adj. 多产的，富饶的",
+    "phonetic": {
+      "uk": "/prəˈdʌktɪv/",
+      "us": "/prəˈdʌktɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "productive day",
+      "productive farmland"
+    ],
+    "examples": [
+      "Today was a productive day at work.",
+      "This region has productive farmland."
+    ]
+  },
+  "productivity": {
+    "definition": "n. 生产力，生产率",
+    "phonetic": {
+      "uk": "/ˌprɒdʌkˈtɪvəti/",
+      "us": "/ˌprɑːdʌkˈtɪvəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "increase productivity",
+      "labor productivity"
+    ],
+    "examples": [
+      "New tools can increase productivity.",
+      "The company focuses on improving productivity."
+    ]
+  },
+  "profession": {
+    "definition": "n. 职业，专业",
+    "phonetic": {
+      "uk": "/prəˈfeʃ(ə)n/",
+      "us": "/prəˈfeʃ(ə)n/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "choose a profession",
+      "legal profession"
+    ],
+    "examples": [
+      "Teaching is a noble profession.",
+      "She chose medicine as her profession."
+    ]
+  },
+  "professional": {
+    "definition": "adj. 专业的，职业的 n. 专业人士",
+    "phonetic": {
+      "uk": "/prəˈfeʃ(ə)n(ə)l/",
+      "us": "/prəˈfeʃ(ə)n(ə)l/"
+    },
+    "partOfSpeech": "adj., n.",
+    "phrases": [
+      "professional athlete",
+      "professional advice"
+    ],
+    "examples": [
+      "She is a professional photographer.",
+      "Seek professional advice if needed."
+    ]
+  },
+  "professor": {
+    "definition": "n. 教授",
+    "phonetic": {
+      "uk": "/prəˈfesə(r)/",
+      "us": "/prəˈfesər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "associate professor",
+      "full professor"
+    ],
+    "examples": [
+      "She is a professor of mathematics.",
+      "The professor gave an interesting lecture."
+    ]
+  },
+  "profile": {
+    "definition": "n. 侧面轮廓，简介 v. 描绘...轮廓",
+    "phonetic": {
+      "uk": "/ˈprəʊfaɪl/",
+      "us": "/ˈproʊfaɪl/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "high profile",
+      "draw up a profile"
+    ],
+    "examples": [
+      "The company keeps a low profile.",
+      "Write a brief profile of the candidate."
+    ]
+  },
+  "profit": {
+    "definition": "n. 利润，益处 v. 有益于，获利",
+    "phonetic": {
+      "uk": "/ˈprɒfɪt/",
+      "us": "/ˈprɑːfɪt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "make a profit",
+      "net profit"
+    ],
+    "examples": [
+      "The company made a huge profit last year.",
+      "Regular exercise will profit your health."
+    ]
+  },
+  "profitable": {
+    "definition": "adj. 有利可图的，有益的",
+    "phonetic": {
+      "uk": "/ˈprɒfɪtəb(ə)l/",
+      "us": "/ˈprɑːfɪtəb(ə)l/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "profitable business",
+      "highly profitable"
+    ],
+    "examples": [
+      "This is a very profitable business.",
+      "The investment turned out to be profitable."
+    ]
+  },
+  "program": {
+    "definition": "n. 节目，计划，程序",
+    "phonetic": {
+      "uk": "/ˈprəʊɡræm/",
+      "us": "/ˈproʊɡræm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "TV program",
+      "computer program"
+    ],
+    "examples": [
+      "She watched a program on history.",
+      "I need to install a new program."
+    ]
+  },
+  "progress": {
+    "definition": "n. 进步，前进 v. 前进，进步",
+    "phonetic": {
+      "uk": "/ˈprəʊɡres/",
+      "us": "/ˈprɑːɡres/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "make progress",
+      "in progress"
+    ],
+    "examples": [
+      "She is making good progress in learning English.",
+      "Construction is in progress."
+    ]
+  },
+  "progressive": {
+    "definition": "adj. 进步的，前进的",
+    "phonetic": {
+      "uk": "/prəˈɡresɪv/",
+      "us": "/prəˈɡresɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "progressive movement",
+      "progressive tax"
+    ],
+    "examples": [
+      "The company supports progressive policies.",
+      "Doctors take a progressive approach to treatment."
+    ]
+  },
+  "prohibit": {
+    "definition": "vt. 禁止，阻止",
+    "phonetic": {
+      "uk": "/prəˈhɪbɪt/",
+      "us": "/proʊˈhɪbɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "prohibit smoking",
+      "prohibit by law"
+    ],
+    "examples": [
+      "The law prohibits discrimination.",
+      "Smoking is prohibited in public places."
+    ]
+  },
+  "project": {
+    "definition": "n. 项目，计划 v. 投射，设计",
+    "phonetic": {
+      "uk": "/ˈprɒdʒekt/",
+      "us": "/ˈprɑːdʒekt/"
+    },
+    "partOfSpeech": "n., v.",
+    "phrases": [
+      "research project",
+      "project images"
+    ],
+    "examples": [
+      "We are working on a new project.",
+      "The projector projects images onto the screen."
+    ]
+  },
+  "prominent": {
+    "definition": "adj. 突出的，显著的，杰出的",
+    "phonetic": {
+      "uk": "/ˈprɒmɪnənt/",
+      "us": "/ˈprɑːmɪnənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "prominent figure",
+      "prominent feature"
+    ],
+    "examples": [
+      "She is a prominent scientist.",
+      "His nose is his most prominent feature."
+    ]
+  }
+}
