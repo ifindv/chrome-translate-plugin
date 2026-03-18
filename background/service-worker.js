@@ -632,6 +632,12 @@ chrome.runtime.onStartup.addListener(async () => {
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   (async () => {
     try {
+      // 确保 translationService 已初始化
+      if (!translationService) {
+        translationService = new TranslationService();
+        await translationService.init();
+      }
+
       switch (message.action) {
         case 'translate':
           const translationResult = await translationService.translate(
