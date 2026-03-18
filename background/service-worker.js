@@ -138,7 +138,29 @@ const DICT_FILES = [
   'dict/CET4-2.json',
   'dict/CET4-3.json',
   'dict/CET4-4.json',
-  'dict/CET4-5.json'
+  'dict/CET4-5.json',
+  'dict/CET4-6.json',
+  'dict/CET4-7.json',
+  'dict/CET4-8.json',
+  'dict/CET4-9.json',
+  'dict/CET4-10.json',
+  'dict/CET4-11.json',
+  'dict/CET4-12.json',
+  'dict/CET4-13.json',
+  'dict/CET4-14.json',
+  'dict/CET4-15.json',
+  'dict/CET4-16.json',
+  'dict/CET4-17.json',
+  'dict/CET4-18.json',
+  'dict/CET4-19.json',
+  'dict/CET4-20.json',
+  'dict/CET4-21.json',
+  'dict/CET4-22.json',
+  'dict/CET4-23.json',
+  'dict/CET4-24.json',
+  'dict/CET4-25.json',
+  'dict/CET4-26.json',
+  'dict/CET4-27.json'
 ];
 
 /**
