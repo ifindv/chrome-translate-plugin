@@ -1,0 +1,21 @@
+/**
+ * QuickTranslate - Content Script 样式文件
+ *
+ * 虽然主要样式通过JavaScript动态注入到Shadow DOM中，
+ * 此文件保留用于全局样式（如有需要）
+ *
+ * @module content
+ * @version 1.0.0
+ */
+
+/* 全局样式重置，避免与页面样式冲突 */
+#qt-bubble-container {
+  all: initial;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+/* 当QuickTranslate处于活动状态时，可以添加提示样式 */
+body.qt-translating {
+  cursor: crosshair;
+}

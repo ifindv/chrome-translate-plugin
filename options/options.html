@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickTranslate - 设置</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div class="qt-options">
+    <!-- 头部区域 -->
+    <header class="qt-header">
+      <div class="qt-logo">
+        <svg width="40" height="40" viewBox="0 0 32 32">
+          <rect x="4" y="4" width="10" height="10" rx="2" fill="#4A90E2"/>
+          <rect x="18" y="4" width="10" height="10" rx="2" fill="#50C878"/>
+          <text x="9" y="13" font-size="8" fill="white" text-anchor="middle">中</text>
+          <text x="23" y="13" font-size="8" fill="white" text-anchor="middle">En</text>
+        </svg>
+        <div>
+          <h1 class="qt-title">QuickTranslate</h1>
+          <p class="qt-subtitle">智能翻译助手 - 设置</p>
+        </div>
+      </div>
+      <div class="qt-version-badge">v1.0.0</div>
+    </header>
+
+    <!-- 主容器 -->
+    <main class="qt-main">
+      <!-- 左侧侧边栏 -->
+      <aside class="qt-sidebar">
+        <nav class="qt-nav">
+          <button class="qt-nav-btn qt-nav-btn--active" data-section="general">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="3"></circle>
+              <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+            </svg>
+            通用设置
+          </button>
+          <button class="qt-nav-btn" data-section="translation">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            </svg>
+            翻译设置
+          </button>
+          <button class="qt-nav-btn" data-section="appearance">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="5"></circle>
+              <path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>
+            </svg>
+            外观设置
+          </button>
+          <button class="qt-nav-btn" data-section="about">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+              <line x1="12" y1="17" x2="12.01" y2="17"></line>
+            </svg>
+            关于
+          </button>
+        </nav>
+      </aside>
+
+      <!-- 右侧内容区域 -->
+      <section class="qt-content">
+        <!-- 通用设置 -->
+        <div class="qt-section qt-section--active" id="section-general">
+          <h2 class="qt-section-title">通用设置</h2>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">快捷键</h3>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">划词翻译快捷键</span>
+                <span class="qt-setting-desc">按下快捷键翻译当前选中的文本</span>
+              </label>
+              <div class="qt-setting-value">
+                <select id="qt-shortcut" class="qt-select">
+                  <option value="Ctrl+Shift+T">Ctrl + Shift + T</option>
+                  <option value="Ctrl+Shift+X">Ctrl + Shift + X</option>
+                  <option value="Alt+Shift+T">Alt + Shift + T</option>
+                </select>
+                <button id="qt-save-shortcut" class="qt-btn qt-btn--primary">保存</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">翻译行为</h3>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">自动翻译</span>
+                <span class="qt-setting-desc">停止输入后自动进行翻译</span>
+              </label>
+              <div class="qt-setting-value">
+                <label class="qt-switch">
+                  <input type="checkbox" id="qt-auto-translate" checked>
+                  <span class="qt-switch-slider"></span>
+                </label>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">自动检测语言</span>
+                <span class="qt-setting-desc">自动识别源语言</span>
+              </label>
+              <div class="qt-setting-value">
+                <label class="qt-switch">
+                  <input type="checkbox" id="qt-auto-detect" checked>
+                  <span class="qt-switch-slider"></span>
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">显示选项</h3>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">显示音标</span>
+                <span class="qt-setting-desc">查询单词时显示音标</span>
+              </label>
+              <div class="qt-setting-value">
+                <label class="qt-switch">
+                  <input type="checkbox" id="qt-show-phonetic" checked>
+                  <span class="qt-switch-slider"></span>
+                </label>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">气泡自动关闭</span>
+                <span class="qt-setting-desc">翻译结果气泡自动关闭延迟</span>
+              </label>
+              <div class="qt-setting-value">
+                <input type="number" id="qt-bubble-close-delay" class="qt-input qt-input--number" value="2000" min="1000" max="10000" step="1000">
+                <span class="qt-input-unit">毫秒</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 翻译设置 -->
+        <div class="qt-section" id="section-translation">
+          <h2 class="qt-section-title">翻译设置</h2>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">离线词典</h3>
+            <p class="qt-setting-note">
+              支持导入 JSON 格式的词典数据。请使用标准格式：{"word": {"definition": "释义", "phonetic": {"uk": "/音标/", "us": "/音标/"}}}
+            </p>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">词典统计</span>
+                <span class="qt-setting-desc">当前已导入的词典条目数量</span>
+              </label>
+              <div class="qt-setting-value">
+                <span id="qt-stats-en-zh" class="qt-stats">英汉: 0</span>
+                <span id="qt-stats-zh-en" class="qt-stats">汉英: 0</span>
+                <button id="qt-refresh-stats" class="qt-btn qt-btn--small">刷新</button>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">导入英汉词典</span>
+                <span class="qt-setting-desc">导入英语到中文的词典数据</span>
+              </label>
+              <div class="qt-setting-value">
+                <input type="file" id="qt-import-en-zh" accept=".json" class="qt-file-input">
+                <button id="qt-import-en-zh-btn" class="qt-btn">导入</button>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">导入汉英词典</span>
+                <span class="qt-setting-desc">导入中文到英语的词典数据</span>
+              </label>
+              <div class="qt-setting-value">
+                <input type="file" id="qt-import-zh-en" accept=".json" class="qt-file-input">
+                <button id="qt-import-zh-en-btn" class="qt-btn">导入</button>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">清空词典</span>
+                <span class="qt-setting-desc">删除所有已导入的词典数据</span>
+              </label>
+              <div class="qt-setting-value">
+                <select id="qt-clear-dict-select" class="qt-select">
+                  <option value="en_zh">英汉词典</option>
+                  <option value="zh_en">汉英词典</option>
+                  <option value="all">全部词典</option>
+                </select>
+                <button id="qt-clear-dict-btn" class="qt-btn qt-btn--danger">清空</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">缓存管理</h3>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">翻译缓存</span>
+                <span class="qt-setting-desc">已缓存过去的翻译结果，可加速重复翻译</span>
+              </label>
+              <div class="qt-setting-value">
+                <button id="qt-clear-cache" class="qt-btn qt-btn--danger">清空缓存</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 外观设置 -->
+        <div class="qt-section" id="section-appearance">
+          <h2 class="qt-section-title">外观设置</h2>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">主题</h3>
+            <div class="qt-theme-selector">
+              <button type="button" class="qt-theme-btn qt-theme-btn--active" data-theme="light">
+                <div class="qt-theme-preview qt-theme-preview--light">
+                  <span>浅色</span>
+                </div>
+                <span class="qt-theme-name">浅色模式</span>
+              </button>
+              <button type="button" class="qt-theme-btn" data-theme="dark">
+                <div class="qt-theme-preview qt-theme-preview--dark">
+                  <span>深色</span>
+                </div>
+                <span class="qt-theme-name">深色模式</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="qt-setting-group">
+            <h3 class="qt-setting-group-title">字体</h3>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">字体大小</span>
+                <span class="qt-setting-desc">翻译结果的字体大小</span>
+              </label>
+              <div class="qt-setting-value">
+                <select id="qt-font-size" class="qt-select">
+                  <option value="small">小</option>
+                  <option value="medium" selected>中</option>
+                  <option value="large">大</option>
+                </select>
+              </div>
+            </div>
+            <div class="qt-setting-item">
+              <label class="qt-setting-label">
+                <span class="qt-setting-name">字体类型</span>
+                <span class="qt-setting-desc">翻译结果的字体类型</span>
+              </label>
+              <div class="qt-setting-value">
+                <select id="qt-font-family" class="qt-select">
+                  <option value="system">系统默认</option>
+                  <option value="sans">无衬线</option>
+                  <option value="serif">衬线</option>
+                  <option value="mono">等宽</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 关于 -->
+        <div class="qt-section" id="section-about">
+          <h2 class="qt-section-title">关于</h2>
+
+          <div class="qt-about">
+            <div class="qt-about-logo">
+              <svg width="64" height="64" viewBox="0 0 32 32">
+                <rect x="4" y="4" width="10" height="10" rx="2" fill="#4A90E2"/>
+                <rect x="18" y="4" width="10" height="10" rx="2" fill="#50C878"/>
+                <text x="9" y="13" font-size="8" fill="white" text-anchor="middle">中</text>
+                <text x="23" y="13" font-size="8" fill="white" text-anchor="middle">En</text>
+              </svg>
+            </div>
+            <h3 class="qt-about-name">QuickTranslate</h3>
+            <p class="qt-about-version">版本 1.0.0</p>
+
+            <p class="qt-about-desc">
+              QuickTranslate 是一款简洁高效的Chrome翻译插件，支持中英划词翻译、语音朗读和音标显示。
+            </p>
+
+            <div class="qt-about-features">
+              <h4>主要功能</h4>
+              <ul>
+                <li>实时划词翻译，自动检测语言</li>
+                <li>百度翻译 + MyMemory 双引擎支持</li>
+                <li>语音朗读功能和音标显示</li>
+                <li>支持浅色/深色主题切换</li>
+                <li>快捷键翻译，提高效率</li>
+              </ul>
+            </div>
+
+            <div class="qt-about-links">
+              <a href="https://github.com/your-username/QuickTranslate" target="_blank" rel="noopener" class="qt-link">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.05-.015-2.055-3.33.72-4.035-1.605-4.035-1.605-.54-1.38-1.335-1.755-1.335-1.755-1.095-.75.075-.735.075-.735 1.215.075 1.86 1.245 1.86 1.245 1.08 1.845 2.805 1.305 3.495 1 .12-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.965-.405 2.97-.405.99.015 1.995.135 2.97.405 2.295-1.545 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.92 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.285 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12Z"/>
+                </svg>
+                GitHub 仓库
+              </a>
+              <a href="https://github.com/your-username/QuickTranslate/issues" target="_blank" rel="noopener" class="qt-link">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+                  <line x1="12" y1="9" x2="12" y2="13"></line>
+                  <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                </svg>
+                问题反馈
+              </a>
+            </div>
+
+            <p class="qt-about-copyright">
+              © 2024 QuickTranslate Team. All rights reserved.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- 底部动作按钮 -->
+    <footer class="qt-footer">
+      <button id="qt-reset-btn" class="qt-btn qt-btn--ghost">重置设置</button>
+      <div class="qt-footer-actions">
+        <span id="qt-save-status" class="qt-save-status"></span>
+        <button id="qt-save-btn" class="qt-btn qt-btn--primary">保存设置</button>
+      </div>
+    </footer>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

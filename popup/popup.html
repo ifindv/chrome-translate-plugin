@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickTranslate - 快捷翻译</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="qt-popup">
+    <!-- 头部区域 -->
+    <header class="qt-header">
+      <div class="qt-logo">
+        <svg width="32" height="32" viewBox="0 0 32 32">
+          <rect x="4" y="4" width="10" height="10" rx="2" fill="#4A90E2"/>
+          <rect x="18" y="4" width="10" height="10" rx="2" fill="#50C878"/>
+          <text x="9" y="13" font-size="8" fill="white" text-anchor="middle">中</text>
+          <text x="23" y="13" font-size="8" fill="white" text-anchor="middle">En</text>
+        </svg>
+        <span class="qt-app-name">QuickTranslate</span>
+      </div>
+      <div class="qt-actions">
+        <button id="qt-settings-btn" class="qt-icon-btn" title="设置">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="3"></circle>
+            <path d="M12 1v6m0 10v6M1 12h6m10 0h6M4.2 4.2l4.3 4.3m11 11l4.3 4.3M4.2 19.8l4.3-4.3m11-11l4.3-4.3"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- 输入区域 -->
+    <div class="qt-input-section">
+      <div class="qt-language-selector">
+        <select id="qt-source-lang" class="qt-lang-select">
+          <option value="auto">自动检测</option>
+          <option value="zh">中文</option>
+          <option value="en">英语</option>
+        </select>
+        <button id="qt-swap-lang" class="qt-swap-btn" title="交换语言">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+            <path d="M8 1L3 6h3v7H3l5 5 5-5h-3V6h3L8 1z"/>
+          </svg>
+        </button>
+        <select id="qt-target-lang" class="qt-lang-select">
+          <option value="zh">中文</option>
+          <option value="en">英语</option>
+        </select>
+      </div>
+
+      <div class="qt-textarea-container">
+        <textarea
+          id="qt-source-text"
+          class="qt-textarea"
+          placeholder="输入或粘贴要翻译的文本..."
+          maxlength="5000"
+        ></textarea>
+        <div class="qt-textarea-actions">
+          <button id="qt-clear-btn" class="qt-text-btn" title="清空">清空</button>
+          <span id="qt-source-count" class="qt-text-count">0/5000</span>
+        </div>
+      </div>
+
+      <button id="qt-translate-btn" class="qt-translate-btn">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M5 8l6 6"></path>
+          <path d="M4 14h6"></path>
+          <path d="M2 5h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2"></path>
+          <path d="M15 4l6 16"></path>
+          <path d="M17 4h-2"></path>
+          <path d="M23 19h-4"></path>
+        </svg>
+        翻译
+      </button>
+    </div>
+
+    <!-- 结果区域 -->
+    <div class="qt-result-section" id="qt-result-section">
+      <div class="qt-result-header">
+        <span class="qt-result-title">翻译结果</span>
+        <div class="qt-result-actions">
+          <button id="qt-speak-result-btn" class="qt-icon-btn qt-btn-sm" title="朗读">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+              <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+            </svg>
+          </button>
+          <button id="qt-copy-result-btn" class="qt-icon-btn qt-btn-sm" title="复制">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div id="qt-result-text" class="qt-result-text">
+        <div class="qt-placeholder">翻译结果将显示在这里</div>
+      </div>
+      <div class="qt-result-meta">
+        <span id="qt-result-source" class="qt-source-badge"></span>
+      </div>
+    </div>
+
+    <!-- 加载状态 -->
+    <div id="qt-loading" class="qt-loading" style="display: none;">
+      <div class="qt-spinner"></div>
+      <span class="qt-loading-text">翻译中...</span>
+    </div>
+
+    <!-- 快捷提示 -->
+    <div class="qt-tips">
+      <div class="qt-tip-item">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"></circle>
+          <path d="M12 16v-4"></path>
+          <path d="M12 8h.01"></path>
+        </svg>
+        <span>在网页上直接划词翻译</span>
+      </div>
+      <div class="qt-tip-item">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+          <line x1="8" y1="21" x2="16" y2="21"></line>
+          <line x1="12" y1="17" x2="12" y2="21"></line>
+        </svg>
+        <span>快捷键: Ctrl+Shift+T</span>
+      </div>
+    </div>
+
+    <!-- 底部信息 -->
+    <footer class="qt-footer">
+      <span class="qt-version">v1.0.0</span>
+      <a href="#" class="qt-help-link" id="qt-help-link">帮助</a>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

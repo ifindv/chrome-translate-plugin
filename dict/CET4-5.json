@@ -1,0 +1,1378 @@
+{
+  "daily": {
+    "definition": "adj. 每日的；日常的",
+    "phonetic": {
+      "uk": "/ˈdeɪli/",
+      "us": "/ˈdeɪli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "daily life",
+      "daily routine"
+    ],
+    "examples": [
+      "She reads the daily newspaper.",
+      "Physical exercise is part of her daily routine."
+    ]
+  },
+  "dairy": {
+    "definition": "n. 牛奶场；乳制品",
+    "phonetic": {
+      "uk": "/ˈdeəri/",
+      "us": "/ˈderi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "dairy farm",
+      "dairy products"
+    ],
+    "examples": [
+      "The dairy produces fresh milk daily.",
+      "He is lactose intolerant to dairy."
+    ]
+  },
+  "dam": {
+    "definition": "n. 水坝，水堤；障碍物",
+    "phonetic": {
+      "uk": "/dæm/",
+      "us": "/dæm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "build a dam",
+      "dam wall"
+    ],
+    "examples": [
+      "The dam provides electricity.",
+      "The farmers built a small dam."
+    ]
+  },
+  "damage": {
+    "definition": "vt. 损害，毁坏 n. 损害",
+    "phonetic": {
+      "uk": "/ˈdæmɪdʒ/",
+      "us": "/ˈdæmɪdʒ/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "cause damage",
+      "repair damage"
+    ],
+    "examples": [
+      "The storm caused severe damage.",
+      "The insurance company assessed the damage."
+    ]
+  },
+  "damn": {
+    "definition": "vt. 诅咒 n. 诅咒；丝毫",
+    "phonetic": {
+      "uk": "/dæm/",
+      "us": "/dæm/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "give a damn",
+      "damn it"
+    ],
+    "examples": [
+      "I don't give a damn.",
+      "The movie was damn good."
+    ]
+  },
+  "damp": {
+    "definition": "adj. 潮湿的，有湿气的",
+    "phonetic": {
+      "uk": "/dæmp/",
+      "us": "/dæmp/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "damp cloth",
+      "damp weather"
+    ],
+    "examples": [
+      "The basement feels damp.",
+      "The damp air made everything sticky."
+    ]
+  },
+  "dance": {
+    "definition": "vi. 跳舞；舞蹈 n. 舞",
+    "phonetic": {
+      "uk": "/dɑːns/",
+      "us": "/dæns/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "dance to music",
+      "folk dance"
+    ],
+    "examples": [
+      "They danced all night.",
+      "She loves folk dancing."
+    ]
+  },
+  "danger": {
+    "definition": "n. 危险；威胁",
+    "phonetic": {
+      "uk": "/ˈdeɪndʒər/",
+      "us": "/ˈdeɪndʒər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in danger",
+      "out of danger"
+    ],
+    "examples": [
+      "The situation is full of danger.",
+      "She warned us of the danger."
+    ]
+  },
+  "dangerous": {
+    "definition": "adj. 危险的，不安全的",
+    "phonetic": {
+      "uk": "/ˈdeɪndʒərəs/",
+      "us": "/ˈdeɪndʒərəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "dangerous animal",
+      "dangerous situation"
+    ],
+    "examples": [
+      "The road is dangerous at night.",
+      "Dynamite is a dangerous explosive."
+    ]
+  },
+  "dare": {
+    "definition": "vt. 敢；竟敢",
+    "phonetic": {
+      "uk": "/deər/",
+      "us": "/der/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "dare to do",
+      "how dare you"
+    ],
+    "examples": [
+      "I dare not tell him.",
+      "How dare you speak to me that way!"
+    ]
+  },
+  "dark": {
+    "definition": "adj. 暗的；黑色的",
+    "phonetic": {
+      "uk": "/dɑːk/",
+      "us": "/dɑːrk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "in the dark",
+      "dark clouds"
+    ],
+    "examples": [
+      "The room was dark.",
+      "The dark clouds predicted rain."
+    ]
+  },
+  "darkness": {
+    "definition": "n. 黑暗，阴暗",
+    "phonetic": {
+      "uk": "/ˈdɑːknəs/",
+      "us": "/ˈdɑːrknəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pitch darkness",
+      "total darkness"
+    ],
+    "examples": [
+      "The darkness made it hard to see.",
+      "Fear of darkness is common."
+    ]
+  },
+  "darling": {
+    "definition": "n. 亲爱的人；宠儿",
+    "phonetic": {
+      "uk": "/ˈdɑːlɪŋ/",
+      "us": "/ˈdɑːrlɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "my darling",
+      "little darling"
+    ],
+    "examples": [
+      "My darling, I missed you.",
+      "She is the family darling."
+    ]
+  },
+  "dash": {
+    "definition": "vt. 使猛冲 vi. 猛冲",
+    "phonetic": {
+      "uk": "/dæʃ/",
+      "us": "/dæʃ/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "dash off",
+      "make a dash for"
+    ],
+    "examples": [
+      "He dashed to catch the bus.",
+      "She dashed off a quick note."
+    ]
+  },
+  "data": {
+    "definition": "n. 数据；资料",
+    "phonetic": {
+      "uk": "/ˈdeɪtə/",
+      "us": "/ˈdeɪtə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "collect data",
+      "data analysis"
+    ],
+    "examples": [
+      "The data supports the conclusion.",
+      "We need more data for research."
+    ]
+  },
+  "date": {
+    "definition": "n. 日期 vi. 注日期",
+    "phonetic": {
+      "uk": "/deɪt/",
+      "us": "/deɪt/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "up to date",
+      "date of birth"
+    ],
+    "examples": [
+      "What's today's date?",
+      "The documents are not up to date."
+    ]
+  },
+  "daughter": {
+    "definition": "n. 女儿",
+    "phonetic": {
+      "uk": "/ˈdɔːtər/",
+      "us": "/ˈdɔːtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "only daughter",
+      "daughter-in-law"
+    ],
+    "examples": [
+      "She has two daughters.",
+      "Their daughter is getting married."
+    ]
+  },
+  "dawn": {
+    "definition": "n. 黎明；开端 vi. 破晓",
+    "phonetic": {
+      "uk": "/dɔːn/",
+      "us": "/dɔːn/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "at dawn",
+      "dawn on"
+    ],
+    "examples": [
+      "The sun rises at dawn.",
+      "The truth finally dawned on me."
+    ]
+  },
+  "day": {
+    "definition": "n. (一天，白昼",
+    "phonetic": {
+      "uk": "/deɪ/",
+      "us": "/deɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "day and night",
+      "every day"
+    ],
+    "examples": [
+      "What day is today?",
+      "We work during the day."
+    ]
+  },
+  "daylight": {
+    "definition": "n. 白昼，日光；黎明",
+    "phonetic": {
+      "uk": "/ˈdeɪlaɪt/",
+      "us": "/ˈdeɪlaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "by daylight",
+      "daylight saving"
+    ],
+    "examples": [
+      "The robbery happened in broad daylight.",
+      "Daylight saving begins in spring."
+    ]
+  },
+  "dead": {
+    "definition": "adj. 死的；无生命的",
+    "phonetic": {
+      "uk": "/ded/",
+      "us": "/ded/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "dead tired",
+      "dead end"
+    ],
+    "examples": [
+      "The plant is dead.",
+      "I am dead tired after the long trip."
+    ]
+  },
+  "deadly": {
+    "definition": "adj. 致命的，死一般的",
+    "phonetic": {
+      "uk": "/ˈdedli/",
+      "us": "/ˈdedli/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "deadly weapon",
+      "deadly disease"
+    ],
+    "examples": [
+      "Snake venom can be deadly.",
+      "The earthquake was deadly."
+    ]
+  },
+  "deaf": {
+    "definition": "adj. 聋的；不愿听的",
+    "phonetic": {
+      "uk": "/def/",
+      "us": "/def/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "deaf to",
+      "turn a deaf ear"
+    ],
+    "examples": [
+      "She became deaf after illness.",
+      "He is deaf to criticism."
+    ]
+  },
+  "deal": {
+    "definition": "n. 买卖；协议 vt. 给予",
+    "phonetic": {
+      "uk": "/diːl/",
+      "us": "/diːl/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "deal with",
+      "make a deal"
+    ],
+    "examples": [
+      "We need to deal with this problem.",
+      "They made a business deal."
+    ]
+  },
+  "dear": {
+    "definition": "adj. 亲爱的 int. 啊",
+    "phonetic": {
+      "uk": "/dɪər/",
+      "us": "/dɪr/"
+    },
+    "partOfSpeech": "adj./int.",
+    "phrases": [
+      "dear friend",
+      "dear to"
+    ],
+    "examples": [
+      "My dear friend, how are you?",
+      "This house is dear to my heart."
+    ]
+  },
+  "death": {
+    "definition": "n. 死，死亡；灭亡",
+    "phonetic": {
+      "uk": "/deθ/",
+      "us": "/deθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cause of death",
+      "sudden death"
+    ],
+    "examples": [
+      "The news of his death shocked everyone.",
+      "His death was sudden and unexpected."
+    ]
+  },
+  "debate": {
+    "definition": "n. & vi. 争论，辩论",
+    "phonetic": {
+      "uk": "/dɪˈbeɪt/",
+      "us": "/dɪˈbeɪt/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "heated debate",
+      "debate over"
+    ],
+    "examples": [
+      "They debated the issue for hours.",
+      "The debate resulted in consensus."
+    ]
+  },
+  "debt": {
+    "definition": "n. 债，债务，欠款",
+    "phonetic": {
+      "uk": "/det/",
+      "us": "/det/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pay off debt",
+      "in debt"
+    ],
+    "examples": [
+      "The country has a large national debt.",
+      "She is trying to pay off her debts."
+    ]
+  },
+  "decade": {
+    "definition": "n. 十年",
+    "phonetic": {
+      "uk": "/ˈdekeɪd/",
+      "us": "/ˈdekeɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "past decade",
+      "over the decade"
+    ],
+    "examples": [
+      "The last decade brought many changes.",
+      "A decade passed since we met."
+    ]
+  },
+  "deceive": {
+    "definition": "vt. 欺骗，蒙蔽，行骗",
+    "phonetic": {
+      "uk": "/dɪˈsiːv/",
+      "us": "/dɪˈsiːv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "deceive oneself",
+      "deceive into"
+    ],
+    "examples": [
+      "He deceived his friends about his wealth.",
+      "Don't deceive yourself about this."
+    ]
+  },
+  "december": {
+    "definition": "n. 十二月",
+    "phonetic": {
+      "uk": "/dɪˈsembər/",
+      "us": "/dɪˈsembər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in December",
+      "December holidays"
+    ],
+    "examples": [
+      "Christmas is in December.",
+      "December is the last month of the year."
+    ]
+  },
+  "decide": {
+    "definition": "vt. 决定，决意；解决",
+    "phonetic": {
+      "uk": "/dɪˈsaɪd/",
+      "us": "/dɪˈsaɪd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "decide to do",
+      "decide against"
+    ],
+    "examples": [
+      "I decided to go home early.",
+      "We need to decide on a date."
+    ]
+  },
+  "decision": {
+    "definition": "n. 决定，决心；果断",
+    "phonetic": {
+      "uk": "/dɪˈsɪʒn/",
+      "us": "/dɪˈsɪʒn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make a decision",
+      "final decision"
+    ],
+    "examples": [
+      "They made the right decision.",
+      "Her decision was final."
+    ]
+  },
+  "declare": {
+    "definition": "vt. 断言；声明；申报",
+    "phonetic": {
+      "uk": "/dɪˈkleər/",
+      "us": "/dɪˈkler/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "declare war",
+      "declare independence"
+    ],
+    "examples": [
+      "The company declared bankruptcy.",
+      "She declared her love for him."
+    ]
+  },
+  "decline": {
+    "definition": "vt. 下降；谢绝 vi. 下落",
+    "phonetic": {
+      "uk": "/dɪˈklaɪn/",
+      "us": "/dɪˈklaɪn/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "decline an offer",
+      "in decline"
+    ],
+    "examples": [
+      "Sales declined last quarter.",
+      "He declined the invitation politely."
+    ]
+  },
+  "decorate": {
+    "definition": "vt. 装饰",
+    "phonetic": {
+      "uk": "/ˈdekəreɪt/",
+      "us": "/ˈdekəreɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "decorate a room",
+      "decorate for Christmas"
+    ],
+    "examples": [
+      "She decorated the room with flowers.",
+      "The hotel is decorated elegantly."
+    ]
+  },
+  "decrease": {
+    "definition": "vi. & vt. & n. 减少",
+    "phonetic": {
+      "uk": "/dɪˈkriːs/",
+      "us": "/dɪˈkriːs/"
+    },
+    "partOfSpeech": "vi./vt./n.",
+    "phrases": [
+      "decrease in",
+      "gradually decrease"
+    ],
+    "examples": [
+      "Prices decreased slightly this week.",
+      "A decrease in productivity was noted."
+    ]
+  },
+  "deer": {
+    "definition": "n. 鹿",
+    "phonetic": {
+      "uk": "/dɪər/",
+      "us": "/dɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "deer hunter",
+      "like a deer"
+    ],
+    "examples": [
+      "A deer crossed the road.",
+      "Deer are commonly found in forests."
+    ]
+  },
+  "defeat": {
+    "definition": "vt. 战胜，击败；挫败",
+    "phonetic": {
+      "uk": "/dɪˈfiːt/",
+      "us": "/dɪˈfiːt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "defeat the enemy",
+      "accept defeat"
+    ],
+    "examples": [
+      "The team defeated their rivals.",
+      "Failure to defeat the plan."
+    ]
+  },
+  "defect": {
+    "definition": "n. 缺点，缺陷，不足",
+    "phonetic": {
+      "uk": "/ˈdiːfekt/",
+      "us": "/ˈdiːfekt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "birth defect",
+      "product defect"
+    ],
+    "examples": [
+      "The product had a manufacturing defect.",
+      "His greatest defect is impatience."
+    ]
+  },
+  "defend": {
+    "definition": "vt. 保卫，防守",
+    "phonetic": {
+      "uk": "/dɪˈfend/",
+      "us": "/dɪˈfend/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "defend against",
+      "defend oneself"
+    ],
+    "examples": [
+      "He defended his country in the war.",
+      "She defended her thesis before the committee."
+    ]
+  },
+  "defense": {
+    "definition": "n. 防御；防务；辩护",
+    "phonetic": {
+      "uk": "/dɪˈfens/",
+      "us": "/dɪˈfens/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "national defense",
+      "defense attorney"
+    ],
+    "examples": [
+      "The city's defense systems are modern.",
+      "The lawyer presented a strong defense."
+    ]
+  },
+  "deficit": {
+    "definition": "n. 赤字，亏空，亏损",
+    "phonetic": {
+      "uk": "/ˈdefɪsɪt/",
+      "us": "/ˈdefəsɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "budget deficit",
+      "trade deficit"
+    ],
+    "examples": [
+      "The government faces a huge deficit.",
+      "Reducing the deficit is a priority."
+    ]
+  },
+  "define": {
+    "definition": "vt. 给…下定义；限定",
+    "phonetic": {
+      "uk": "/dɪˈfaɪn/",
+      "us": "/dɪˈfaɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "define terms",
+      "define oneself"
+    ],
+    "examples": [
+      "Please define your terms.",
+      "This event defined her career."
+    ]
+  },
+  "definite": {
+    "definition": "adj. 明确的；肯定的",
+    "phonetic": {
+      "uk": "/ˈdefɪnət/",
+      "us": "/ˈdefɪnət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "definite answer",
+      "definite evidence"
+    ],
+    "examples": [
+      "We need a definite answer today.",
+      "Is there a definite plan?"
+    ]
+  },
+  "definition": {
+    "definition": "n. 定义，解说；清晰度",
+    "phonetic": {
+      "uk": "/ˌdefɪˈnɪʃn/",
+      "us": "/ˌdefɪˈnɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "by definition",
+      "dictionary definition"
+    ],
+    "examples": [
+      "The definition of success varies.",
+      "Clear definition helps understanding."
+    ]
+  },
+  "deformation": {
+    "definition": "n. 变形，形状损坏",
+    "phonetic": {
+      "uk": "/ˌdiːfɔːˈmeɪʃn/",
+      "us": "/ˌdiːfɔːrˈmeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "plastic deformation",
+      "wound deformation"
+    ],
+    "examples": [
+      "The metal showed slight deformation after impact.",
+      "Deformation of the container indicated damage."
+    ]
+  },
+  "degree": {
+    "definition": "n. 程度；度；学位",
+    "phonetic": {
+      "uk": "/dɪˈɡriː/",
+      "us": "/dɪˈɡriː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "to some degree",
+      "university degree"
+    ],
+    "examples": [
+      "She holds a degree in economics.",
+      "The angle measures 45 degrees."
+    ]
+  },
+  "delay": {
+    "definition": "vt. 推迟；耽搁；延误",
+    "phonetic": {
+      "uk": "/dɪˈleɪ/",
+      "us": "/dɪˈleɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "delay the flight",
+      "without delay"
+    ],
+    "examples": [
+      "Bad weather delayed our departure.",
+      "We apologize for the delay."
+    ]
+  },
+  "delete": {
+    "definition": "vt. 删除；擦掉",
+    "phonetic": {
+      "uk": "/dɪˈliːt/",
+      "us": "/dɪˈliːt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "delete file",
+      "delete account"
+    ],
+    "examples": [
+      "Please delete the file.",
+      "She deleted the embarrassing photo."
+    ]
+  },
+  "delicate": {
+    "definition": "adj. 纤细的；易碎的",
+    "phonetic": {
+      "uk": "/ˈdelɪkət/",
+      "us": "/ˈdelɪkət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "delicate flower",
+      "delicate condition"
+    ],
+    "examples": [
+      "Handle the delicate vase carefully.",
+      "The situation is delicate."
+    ]
+  },
+  "delicious": {
+    "definition": "adj. 美味的，怡人的",
+    "phonetic": {
+      "uk": "/dɪˈlɪʃəs/",
+      "us": "/dɪˈlɪʃəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "delicious food",
+      "absolutely delicious"
+    ],
+    "examples": [
+      "The dinner was delicious.",
+      "The cake tasted absolutely delicious."
+    ]
+  },
+  "delight": {
+    "definition": "n. 快乐 vt. 使高兴",
+    "phonetic": {
+      "uk": "/dɪˈlaɪt/",
+      "us": "/dɪˈlaɪt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "take delight in",
+      "to one's delight"
+    ],
+    "examples": [
+      "She takes delight in reading.",
+      "To our delight, the concert was wonderful."
+    ]
+  },
+  "deliver": {
+    "definition": "vt. 投递，送交；发表",
+    "phonetic": {
+      "uk": "/dɪˈlɪvər/",
+      "us": "/dɪˈlɪvər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "deliver a speech",
+      "deliver a baby"
+    ],
+    "examples": [
+      "The postman delivers mail daily.",
+      "She delivered a powerful speech."
+    ]
+  },
+  "delivery": {
+    "definition": "n. 投递；交付；分娩",
+    "phonetic": {
+      "uk": "/dɪˈlɪvəri/",
+      "us": "/dɪˈlɪvəri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "door to door delivery",
+      "safe delivery"
+    ],
+    "examples": [
+      "Free delivery on orders over $50.",
+      "The mother had a safe delivery."
+    ]
+  },
+  "demand": {
+    "definition": "vt. 要求；需要；询问",
+    "phonetic": {
+      "uk": "/dɪˈmɑːnd/",
+      "us": "/dɪˈmænd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "demand for",
+      "in demand"
+    ],
+    "examples": [
+      "Workers demanded higher wages.",
+      "There's a great demand for skilled workers."
+    ]
+  },
+  "democracy": {
+    "definition": "n. 民主，民主制",
+    "phonetic": {
+      "uk": "/dɪˈmɒkrəsi/",
+      "us": "/dɪˈmɑːkrəsi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "direct democracy",
+      "representative democracy"
+    ],
+    "examples": [
+      "Democracy requires active citizenship.",
+      "The country values democracy."
+    ]
+  },
+  "demonstrate": {
+    "definition": "vt. 说明；论证；表露",
+    "phonetic": {
+      "uk": "/ˈdemənstreɪt/",
+      "us": "/ˈdemənstreɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "demonstrate how",
+      "demonstrate support"
+    ],
+    "examples": [
+      "She demonstrated the new technique.",
+      "The protest demonstrated public concern."
+    ]
+  },
+  "dense": {
+    "definition": "adj. 密集的；浓厚的",
+    "phonetic": {
+      "uk": "/dens/",
+      "us": "/dens/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "dense forest",
+      "dense population"
+    ],
+    "examples": [
+      "The forest is dense with trees.",
+      "Fog made the air dense."
+    ]
+  },
+  "density": {
+    "definition": "n. 密集，稠密；密度",
+    "phonetic": {
+      "uk": "/ˈdensəti/",
+      "us": "/ˈdensəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "population density",
+      "high density"
+    ],
+    "examples": [
+      "The density of material affects weight.",
+      "Urban areas have high population density."
+    ]
+  },
+  "deny": {
+    "definition": "vt. 否定；拒绝相信",
+    "phonetic": {
+      "uk": "/dɪˈnaɪ/",
+      "us": "/dɪˈnaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "deny the allegation",
+      "deny nothing"
+    ],
+    "examples": [
+      "He firmly denied the accusation.",
+      "Don't deny your mistakes."
+    ]
+  },
+  "depart": {
+    "definition": "vi. 离开，起程；出发",
+    "phonetic": {
+      "uk": "/dɪˈpɑːt/",
+      "us": "/dɪˈpɑːrt/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "depart from",
+      "depart for"
+    ],
+    "examples": [
+      "The train departs at noon.",
+      "They departed for the airport."
+    ]
+  },
+  "department": {
+    "definition": "n. 部，司，局，处，系",
+    "phonetic": {
+      "uk": "/dɪˈpɑːtmənt/",
+      "us": "/dɪˈpɑːrtmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "police department",
+      "department store"
+    ],
+    "examples": [
+      "She works in the human resources department.",
+      "The department handles customer complaints."
+    ]
+  },
+  "departure": {
+    "definition": "n. 离开，出发，起程",
+    "phonetic": {
+      "uk": "/dɪˈpɑːtʃər/",
+      "us": "/dɪˈpɑːrtʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "departure time",
+      "sudden departure"
+    ],
+    "examples": [
+      "The departure hall is crowded.",
+      "His sudden departure surprised everyone."
+    ]
+  },
+  "depend": {
+    "definition": "vi. 依靠，依赖；信赖",
+    "phonetic": {
+      "uk": "/dɪˈpend/",
+      "us": "/dɪˈpend/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "depend on",
+      "it depends"
+    ],
+    "examples": [
+      "We depend on oxygen for life.",
+      "It depends on the weather."
+    ]
+  },
+  "dependent": {
+    "definition": "adj. 依靠的，依赖的",
+    "phonetic": {
+      "uk": "/dɪˈpendənt/",
+      "us": "/dɪˈpendənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "dependent on",
+      "dependent variable"
+    ],
+    "examples": [
+      "The outcome is dependent on many factors.",
+      "Young children are dependent on their parents."
+    ]
+  },
+  "deposit": {
+    "definition": "vt. 使沉淀；存放",
+    "phonetic": {
+      "uk": "/dɪˈpɒzɪt/",
+      "us": "/dɪˈpɑːzɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bank deposit",
+      "make a deposit"
+    ],
+    "examples": [
+      "She deposited money into her account.",
+      "Minerals are deposited in the soil."
+    ]
+  },
+  "depress": {
+    "definition": "vt. 使沮丧；按下",
+    "phonetic": {
+      "uk": "/dɪˈpres/",
+      "us": "/dɪˈpres/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "depress the button",
+      "economically depress"
+    ],
+    "examples": [
+      "The news depressed him.",
+      "Press the button to start."
+    ]
+  },
+  "depth": {
+    "definition": "n. 深度；深厚；深处",
+    "phonetic": {
+      "uk": "/depθ/",
+      "us": "/depθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in depth",
+      "depth of"
+    ],
+    "examples": [
+      "The ocean has great depth.",
+      "We studied the topic in depth."
+    ]
+  },
+  "derive": {
+    "definition": "vt. 取得 vi. 起源",
+    "phonetic": {
+      "uk": "/dɪˈraɪv/",
+      "us": "/dɪˈraɪv/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "derive from",
+      "derive benefit"
+    ],
+    "examples": [
+      "Many English words derive from Latin.",
+      "We derive pleasure from our hobbies."
+    ]
+  },
+  "describe": {
+    "definition": "vt. 形容；描写，描绘",
+    "phonetic": {
+      "uk": "/dɪˈskraɪb/",
+      "us": "/dɪˈskraɪb/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "describe as",
+      "can hardly describe"
+    ],
+    "examples": [
+      "She described the incident.",
+      "Can you describe your ideal holiday?"
+    ]
+  },
+  "description": {
+    "definition": "n. 描写，形容；种类",
+    "phonetic": {
+      "uk": "/dɪˈskrɪpʃn/",
+      "us": "/dɪˈskrɪpʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beyond description",
+      "give a description"
+    ],
+    "examples": [
+      "Her description was vivid.",
+      "The garden is beautiful beyond description."
+    ]
+  },
+  "desert": {
+    "definition": "n. 沙漠 vt. 离弃；擅离",
+    "phonetic": {
+      "uk": "/ˈdezət/",
+      "us": "/ˈdezərt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "Sahara Desert",
+      "desert island"
+    ],
+    "examples": [
+      "The Sahara is a large desert.",
+      "The soldier deserted his post."
+    ]
+  },
+  "deserve": {
+    "definition": "vt. 应受，值得",
+    "phonetic": {
+      "uk": "/dɪˈzɜːv/",
+      "us": "/dɪˈzɜːrv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "deserve to",
+      "deserve better"
+    ],
+    "examples": [
+      "She deserves the promotion.",
+      "Good work deserves recognition."
+    ]
+  },
+  "design": {
+    "definition": "vt. 设计 n. 设计；图样",
+    "phonetic": {
+      "uk": "/dɪˈzaɪn/",
+      "us": "/dɪˈzaɪn/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "design a building",
+      "graphic design"
+    ],
+    "examples": [
+      "She designed her own wedding dress.",
+      "The design is innovative."
+    ]
+  },
+  "desirable": {
+    "definition": "adj. 值得相望的；可取的",
+    "phonetic": {
+      "uk": "/dɪˈzaɪrəbl/",
+      "us": "/dɪˈzaɪrəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "desirable quality",
+      "highly desirable"
+    ],
+    "examples": [
+      "He has many desirable qualities.",
+      "This property is highly desirable."
+    ]
+  },
+  "desire": {
+    "definition": "vt. 相望；要求 n. 愿望",
+    "phonetic": {
+      "uk": "/dɪˈzaɪər/",
+      "us": "/dɪˈzaɪər/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "desire for",
+      "fulfill one's desire"
+    ],
+    "examples": [
+      "I desire to travel the world.",
+      "Her greatest desire was to help others."
+    ]
+  },
+  "desk": {
+    "definition": "n. 书桌，办公桌",
+    "phonetic": {
+      "uk": "/desk/",
+      "us": "/desk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "office desk",
+      "information desk"
+    ],
+    "examples": [
+      "The desk is cluttered with papers.",
+      "She organized her desk."
+    ]
+  },
+  "despair": {
+    "definition": "n. 绝望 vi. 绝望",
+    "phonetic": {
+      "uk": "/dɪˈspeər/",
+      "us": "/dɪˈsper/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "in despair",
+      "drive someone to despair"
+    ],
+    "examples": [
+      "He was in deep despair.",
+      "Don't despair; try again."
+    ]
+  },
+  "desperate": {
+    "definition": "adj. 拼死的；绝望的",
+    "phonetic": {
+      "uk": "/ˈdespərət/",
+      "us": "/ˈdespərət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "desperate situation",
+      "desperate for"
+    ],
+    "examples": [
+      "The desperate search continued for days.",
+      "She is desperate for a job."
+    ]
+  },
+  "despite": {
+    "definition": "prep. 不管，不顾",
+    "phonetic": {
+      "uk": "/dɪˈspaɪt/",
+      "us": "/dɪˈspaɪt/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "despite the fact",
+      "in despite of"
+    ],
+    "examples": [
+      "Despite the rain, we continued.",
+      "Despite what happened, she remained positive."
+    ]
+  },
+  "destination": {
+    "definition": "n. 目的地，终点；目标",
+    "phonetic": {
+      "uk": "/ˌdestɪˈneɪʃn/",
+      "us": "/ˌdestɪˈneɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "final destination",
+      "popular destination"
+    ],
+    "examples": [
+      "Our destination is Paris.",
+      "The flight reached its destination."
+    ]
+  },
+  "destiny": {
+    "definition": "n. 命运，天数",
+    "phonetic": {
+      "uk": "/ˈdestəni/",
+      "us": "/ˈdestəni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fulfill one's destiny",
+      "change one's destiny"
+    ],
+    "examples": [
+      "It was his destiny to become king.",
+      "We can shape our own destiny."
+    ]
+  },
+  "destroy": {
+    "definition": "vt. 破坏；摧毁；消灭",
+    "phonetic": {
+      "uk": "/dɪˈstrɔɪ/",
+      "us": "/dɪˈstrɔɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "destroy evidence",
+      "completely destroy"
+    ],
+    "examples": [
+      "The fire destroyed the building.",
+      "Anger can destroy relationships."
+    ]
+  },
+  "destruction": {
+    "definition": "n. 破坏，毁灭，消灭",
+    "phonetic": {
+      "uk": "/dɪˈstrʌkʃn/",
+      "us": "/dɪˈstrʌkʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cause destruction",
+      "wide-scale destruction"
+    ],
+    "examples": [
+      "The bomb caused massive destruction.",
+      "The destruction of rainforests continues."
+    ]
+  },
+  "detail": {
+    "definition": "n. 细节；枝节；零件",
+    "phonetic": {
+      "uk": "/ˈdiːteɪl/",
+      "us": "/ˈdiːteɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "detail information",
+      "in detail"
+    ],
+    "examples": [
+      "Please give me all the details.",
+      "She described the scene in detail."
+    ]
+  }
+}

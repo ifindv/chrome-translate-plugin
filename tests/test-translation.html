@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickTranslate 划词翻译测试页面</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+      padding: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 30px;
+      border-bottom: 3px solid #4A90E2;
+      padding-bottom: 15px;
+    }
+
+    .test-section {
+      margin-bottom: 40px;
+      padding: 20px;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      background: #f9f9f9;
+    }
+
+    .test-section h2 {
+      color: #4A90E2;
+      margin-bottom: 15px;
+      font-size: 18px;
+    }
+
+    .test-item {
+      padding: 15px;
+      margin-bottom: 15px;
+      background: white;
+      border-radius: 6px;
+      border-left: 4px solid #4A90E2;
+    }
+
+    .test-item:hover {
+      background: #f0f7ff;
+      border-left-color: #2E7BB6;
+    }
+
+    .test-note {
+      font-size: 12px;
+      color: #666;
+      margin-top: 8px;
+      font-style: italic;
+    }
+
+    .long-text {
+      font-size: 14px;
+    }
+
+    .controls {
+      margin-bottom: 30px;
+      padding: 20px;
+      background: #4A90E2;
+      color: white;
+      border-radius: 8px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 14px;
+      border: none;
+      border-radius: 4px;
+      background: white;
+      color: #4A90E2;
+      cursor: pointer;
+      margin-right: 10px;
+      transition: all 0.2s;
+    }
+
+    button:hover {
+      background: #f0f7ff;
+    }
+
+    .status {
+      margin-left: 20px;
+      font-weight: bold;
+    }
+
+    .test-results {
+      margin-top: 20px;
+      padding: 15px;
+      background: white;
+      border-radius: 6px;
+    }
+
+    .result-item {
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 4px;
+    }
+
+    .result-item.pass {
+      background: #d4edda;
+      color: #155724;
+    }
+
+    .result-item.fail {
+      background: #f8d7da;
+      color: #721c24;
+    }
+
+    .result-item.pending {
+      background: #fff3cd;
+      color: #856404;
+    }
+  </style>
+</head>
+<body>
+  <h1>QuickTranslate 划词翻译测试页面</h1>
+
+  <div class="controls">
+    <button onclick="runAllTests()">运行所有测试</button>
+    <button onclick="clearSelection()">清除选区</button>
+    <button onclick="logSelection()">记录当前选区</button>
+    <span class="status" id="status">准备就绪</span>
+  </div>
+
+  <div class="test-results" id="testResults">
+    <h2>测试结果</h2>
+    <div class="result-item pending">等待测试...</div>
+  </div>
+
+  <!-- 测试案例 1: 单个英文单词 -->
+  <div class="test-section">
+    <h2>测试案例 1: 单个英文单词</h2>
+    <div class="test-item">
+      word
+      <div class="test-note">预期: 显示翻译结果和音标（如果启用）</div>
+    </div>
+    <div class="test-item">
+      translation
+      <div class="test-note">预期: 显示中文翻译结果</div>
+    </div>
+    <div class="test-item">
+      hello
+      <div class="test-note">预期: 显示"你好"</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 2: 英文句子 -->
+  <div class="test-section">
+    <h2>测试案例 2: 英文句子</h2>
+    <div class="test-item">
+      This is a test sentence for translation.
+      <div class="test-note">预期: 显示中文翻译结果，不显示音标</div>
+    </div>
+    <div class="test-item">
+      Artificial Intelligence is transforming the world.
+      <div class="test-note">预期: 翻译到中文</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 3: 中文单词 -->
+  <div class="test-section">
+    <h2>测试案例 3: 中文单词</h2>
+    <div class="test-item">
+      翻译
+      <div class="test-note">预期: 显示英文翻译</div>
+    </div>
+    <div class="test-item">
+      人工智能
+      <div class="test-note">预期: 显示"Artificial Intelligence"</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 4: 中文句子 -->
+  <div class="test-section">
+    <h2>测试案例 4: 中文句子</h2>
+    <div class="test-item">
+      这是一个测试句子。
+      <div class="test-note">预期: 显示英文翻译结果</div>
+    </div>
+    <div class="test-item">
+      人工智能正在改变世界。
+      <div class="test-note">预期: 翻译到英文</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 5: 混合文本 -->
+  <div class="test-section">
+    <h2>测试案例 5: 混合文本</h2>
+    <div class="test-item">
+      你好 world
+      <div class="test-note">预期: 根据中文字符比例判断语言方向</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 6: 边界条件 -->
+  <div class="test-section">
+    <h2>测试案例 6: 边界条件</h2>
+    <div class="test-item">
+      <span id="shortTest">a</span>
+      <div class="test-note">预期: 单个字符也能翻译</div>
+    </div>
+    <div class="test-item long-text">
+      这是一段较长的文本，用测试翻译功能在处理较长文本时是否仍然正常工作。请注意，如果文本超过5000字符，应该被过滤掉不进行翻译。这样可以避免过长的文本占用过多资源和时间。
+      <div class="test-note">预期: 正常翻译中等长度文本</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 7: 特殊字符 -->
+  <div class="test-section">
+    <h2>测试案例 7: 特殊字符</h2>
+    <div class="test-item">
+      Don't stop believing.
+      <div class="test-note">预期: 正确处理撇号</div>
+    </div>
+    <div class="test-item">
+      Test &amp; Testing
+      <div class="test-note">预期: 正确处理HTML实体符号</div>
+    </div>
+  </div>
+
+  <!-- 测试案例 8: 气泡UI测试 -->
+  <div class="test-section">
+    <h2>测试案例 8: 气泡UI测试</h2>
+    <div class="test-item">
+      测试气泡显示
+      <div class="test-note">预期: 气泡显示在选中文本附近，不超出屏幕边界</div>
+    </div>
+    <div class="test-item">
+      测试自动关闭
+      <div class="test-note">预期: 2秒后自动关闭（鼠标未进入气泡时）</div>
+    </div>
+    <div class="test-item">
+      测试点击外部关闭
+      <div class="test-note">预期: 点击页面其他区域关闭气泡</div>
+    </div>
+    <div class="test-item" style="margin-top: 30px;">
+      测试ESC键关闭
+      <div class="test-note">预期: 按下ESC键关闭气泡</div>
+    </div>
+  </div>
+
+  <script>
+    // 测试结果存储
+    const testResults = [];
+
+    function runAllTests() {
+      console.log('开始运行所有测试...');
+      updateStatus('测试进行中...');
+
+      // 执行手动测试指引
+      console.log('请手动选择上方各测试文本进行测试');
+      alert('请手动选择上方各测试文本进行划词翻译测试\n\n点击确定后将开始监控测试...');
+
+      // 开始监听气泡事件用于测试
+      startMonitoring();
+    }
+
+    function clearSelection() {
+      if (window.getSelection) {
+        window.getSelection().removeAllRanges();
+      }
+      updateStatus('选区已清除');
+    }
+
+    function logSelection() {
+      const selection = window.getSelection();
+      const text = selection.toString();
+      console.log('当前选中文本:', text);
+      console.log('选区信息:', {
+        text: text,
+        length: text.length,
+        isCollapsed: selection.isCollapsed
+      });
+      updateStatus('选区已记录到控制台');
+    }
+
+    function updateStatus(message) {
+      document.getElementById('status').textContent = message;
+    }
+
+    function addTestResult(testName, status, message) {
+      const resultsDiv = document.getElementById('testResults');
+      const resultItem = document.createElement('div');
+      resultItem.className = `result-item ${status}`;
+      resultItem.textContent = `${testName}: ${message}`;
+      resultsDiv.appendChild(resultItem);
+    }
+
+    // 监控气泡创建和显示
+    function startMonitoring() {
+      console.log('开始监控气泡活动...');
+
+      // 监控DOM变化
+      const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          mutation.addedNodes.forEach((node) => {
+            if (node.id === 'qt-bubble-container') {
+              console.log('检测到气泡创建:', node);
+              addTestResult('气泡创建', 'pass', '气泡容器已创建');
+
+              // 检查气泡位置是否合理
+              checkBubblePosition(node);
+
+              // 检查气泡内容
+              setTimeout(() => checkBubbleContent(node), 500);
+            }
+          });
+          mutation.removedNodes.forEach((node) => {
+            if (node.id === 'qt-bubble-container') {
+              console.log('检测到气泡移除:', node);
+              addTestResult('气泡移除', 'pass', '气泡已正确移除');
+            }
+          });
+        });
+      });
+
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+
+      // 监听mouseup事件
+      document.addEventListener('mouseup', handleTestSelection);
+
+      updateStatus('监控中，请尝试划词');
+    }
+
+    function handleTestSelection(event) {
+      const selection = window.getSelection();
+      const selectedText = selection.toString().trim();
+
+      if (selectedText) {
+        console.log('选中文本:', selectedText);
+        console.log('选区长度:', selectedText.length);
+
+        // 检查文本长度限制
+        if (selectedText.length > 5000) {
+          addTestResult('文本长度检查', 'fail', '选中文本超过5000字符，应该被过滤');
+        } else if (selectedText.length === 0) {
+          addTestResult('选中文本', 'pending', '选区为空');
+        } else {
+          addTestResult('选中文本', 'pass', `选中文本长度: ${selectedText.length}`);
+        }
+      }
+    }
+
+    function checkBubblePosition(bubble) {
+      const rect = bubble.getBoundingClientRect();
+      const viewport = {
+        width: window.innerWidth,
+        height: window.innerHeight
+      };
+
+      if (rect.right > viewport.width) {
+        addTestResult('气泡位置', 'fail', `气泡超出右边界 (${rect.right} > ${viewport.width})`);
+      } else if (rect.bottom > viewport.height) {
+        addTestResult('气泡位置', 'fail', `气泡超出下边界 (${rect.bottom} > ${viewport.height})`);
+      } else if (rect.left < 0) {
+        addTestResult('气泡位置', 'fail', `气泡超出左边界 (${rect.left} < 0)`);
+      } else if (rect.top < 0) {
+        addTestResult('气泡位置', 'fail', `气泡超出上边界 (${rect.top} < 0)`);
+      } else {
+        addTestResult('气泡位置', 'pass', `气泡位置: ${rect.left}, ${rect.top}`);
+      }
+    }
+
+    function checkBubbleContent(bubble) {
+      const shadowRoot = bubble.shadowRoot;
+      if (!shadowRoot) {
+        addTestResult('气泡Shadow DOM', 'fail', '未找到Shadow DOM');
+        return;
+      }
+
+      const bubbleElement = bubble.querySelector('.qt-bubble') ||
+                           shadowRoot.querySelector('.qt-bubble');
+
+      if (!bubbleElement) {
+        addTestResult('气泡内容', 'pending', '气泡内容尚未加载');
+        return;
+      }
+
+      const content = bubbleElement.textContent || bubbleElement.innerHTML;
+
+      if (content.includes('spinner')) {
+        addTestResult('气泡内容', 'pending', '正在加载中...');
+      } else if (content.includes('QuickTranslate')) {
+        addTestResult('气泡内容', 'pass', '翻译结果已显示');
+      } else if (content.includes('错误') || content.includes('失败')) {
+        addTestResult('气泡内容', 'fail', '显示错误信息');
+      }
+    }
+
+    // 测试快捷键
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') {
+        console.log('ESC键被按下');
+        addTestResult('ESC关闭', 'pass', 'ESC键事件被触发');
+      }
+    });
+
+    // 页面加载完成提示
+    window.addEventListener('load', () => {
+      console.log('测试页面加载完成');
+      console.log('请确保QuickTranslate扩展已加载');
+      updateStatus('测试页面已就绪，请点击"运行所有测试"');
+    });
+  </script>
+</body>
+</html>

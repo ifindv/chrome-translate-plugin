@@ -1,0 +1,3395 @@
+{
+  "ability": {
+    "definition": "n. 能力，本领；才能",
+    "phonetic": {
+      "uk": "/əˈbɪləti/",
+      "us": "/əˈbɪləti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have the ability to do sth.",
+      "intellectual ability"
+    ],
+    "examples": [
+      "She has the ability to solve complex problems.",
+      "He showed great musical ability from an early age."
+    ]
+  },
+  "abnormal": {
+    "definition": "adj. 反常的，变态的",
+    "phonetic": {
+      "uk": "/æbˈnɔːml/",
+      "us": "/æbˈnɔːrml/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "abnormal behavior",
+      "abnormal weather"
+    ],
+    "examples": [
+      "The patient showed abnormal symptoms.",
+      "It was abnormal for him to be late."
+    ]
+  },
+  "aboard": {
+    "definition": "adv./prep. 在船(车、飞机)上，上船(车、飞机)",
+    "phonetic": {
+      "uk": "/əˈbɔːd/",
+      "us": "/əˈbɔːrd/"
+    },
+    "partOfSpeech": "adv./prep.",
+    "phrases": [
+      "go aboard",
+      "welcome aboard"
+    ],
+    "examples": [
+      "All passengers are aboard the plane.",
+      "Welcome aboard our new team member."
+    ]
+  },
+  "abolish": {
+    "definition": "vt. 废除，取消",
+    "phonetic": {
+      "uk": "/əˈbɒlɪʃ/",
+      "us": "/əˈbɑːlɪʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "abolish slavery",
+      "abolish a law"
+    ],
+    "examples": [
+      "The government abolished the death penalty.",
+      "We should abolish this outdated system."
+    ]
+  },
+  "abortion": {
+    "definition": "n. 流产，堕胎",
+    "phonetic": {
+      "uk": "/əˈbɔːʃn/",
+      "us": "/əˈbɔːrʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "abortion rate",
+      "illegal abortion"
+    ],
+    "examples": [
+      "The topic of abortion is controversial.",
+      "Medical abortion is available in early pregnancy."
+    ]
+  },
+  "abroad": {
+    "definition": "ad. (在)国外；到处",
+    "phonetic": {
+      "uk": "/əˈbrɔːd/",
+      "us": "/əˈbrɔːd/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "go abroad",
+      "study abroad"
+    ],
+    "examples": [
+      "She plans to travel abroad next year.",
+      "Many students choose to study abroad."
+    ]
+  },
+  "abrupt": {
+    "definition": "adj. 突然的；粗鲁的",
+    "phonetic": {
+      "uk": "/əˈbrʌpt/",
+      "us": "/əˈbrʌpt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "abrupt change",
+      "abrupt manner"
+    ],
+    "examples": [
+      "The conversation came to an abrupt end.",
+      "He has an abrupt way of speaking."
+    ]
+  },
+  "absence": {
+    "definition": "n. 缺席，不在场；缺乏",
+    "phonetic": {
+      "uk": "/ˈæbsəns/",
+      "us": "/ˈæbsəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the absence of",
+      "absence from work"
+    ],
+    "examples": [
+      "Her absence was noticed by everyone.",
+      "In the absence of evidence, we cannot proceed."
+    ]
+  },
+  "absent": {
+    "definition": "adj. 缺席，不在场；心不在焉的",
+    "phonetic": {
+      "uk": "/ˈæbsənt/",
+      "us": "/ˈæbsənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "absent from",
+      "absent-minded"
+    ],
+    "examples": [
+      "He was absent from school yesterday.",
+      "She looked absent during the meeting."
+    ]
+  },
+  "absolute": {
+    "definition": "adj. 绝对的；纯粹的",
+    "phonetic": {
+      "uk": "/ˈæbsəluːt/",
+      "us": "/ˈæbsəluːt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "absolute power",
+      "absolute truth"
+    ],
+    "examples": [
+      "I have absolute confidence in my decision.",
+      "The temperature reached absolute zero in the lab."
+    ]
+  },
+  "absorb": {
+    "definition": "vt. 吸收；使专心",
+    "phonetic": {
+      "uk": "/əbˈsɔːb/",
+      "us": "/əbˈzɔːrb/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "absorb knowledge",
+      "absorb shock"
+    ],
+    "examples": [
+      "Plants absorb water through their roots.",
+      "She was completely absorbed in her book."
+    ]
+  },
+  "abstract": {
+    "definition": "adj. 抽象的；深奥的 n. 摘要",
+    "phonetic": {
+      "uk": "/ˈæbstrækt/",
+      "us": "/ˈæbstrækt/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "abstract concept",
+      "abstract art"
+    ],
+    "examples": [
+      "Love is an abstract concept.",
+      "Please write an abstract of your paper."
+    ]
+  },
+  "abundant": {
+    "definition": "adj. 丰富的；大量的",
+    "phonetic": {
+      "uk": "/əˈbʌndənt/",
+      "us": "/əˈbʌndənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "abundant resources",
+      "abundant in"
+    ],
+    "examples": [
+      "The region is abundant in oil reserves.",
+      "We have abundant food supplies."
+    ]
+  },
+  "abuse": {
+    "definition": "vt./n. 滥用；虐待",
+    "phonetic": {
+      "uk": "/əˈbjuːs/",
+      "us": "/əˈbjuːs/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "abuse of power",
+      "child abuse"
+    ],
+    "examples": [
+      "He was accused of abusing his authority.",
+      "Drug abuse is a serious social problem."
+    ]
+  },
+  "academic": {
+    "definition": "adj. 学院的；学术的",
+    "phonetic": {
+      "uk": "/ˌækəˈdemɪk/",
+      "us": "/ˌækəˈdemɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "academic year",
+      "academic achievement"
+    ],
+    "examples": [
+      "She has an excellent academic record.",
+      "The conference focuses on academic research."
+    ]
+  },
+  "academy": {
+    "definition": "n. 私立中学；专科学校",
+    "phonetic": {
+      "uk": "/əˈkædəmi/",
+      "us": "/əˈkædəmi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "military academy",
+      "art academy"
+    ],
+    "examples": [
+      "He graduated from the police academy.",
+      "The film won several Academy Awards."
+    ]
+  },
+  "accelerate": {
+    "definition": "vt. 使加速 vi. 加速",
+    "phonetic": {
+      "uk": "/əkˈseləreɪt/",
+      "us": "/əkˈseləreɪt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "accelerate growth",
+      "accelerate the process"
+    ],
+    "examples": [
+      "The car began to accelerate.",
+      "We need to accelerate the project."
+    ]
+  },
+  "acceleration": {
+    "definition": "n. 加速；加速度",
+    "phonetic": {
+      "uk": "/əkˌseləˈreɪʃn/",
+      "us": "/əkˌseləˈreɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "acceleration of population growth",
+      "rapid acceleration"
+    ],
+    "examples": [
+      "The car has excellent acceleration.",
+      "The acceleration of climate change is alarming."
+    ]
+  },
+  "accent": {
+    "definition": "n. 口音，腔调；重音",
+    "phonetic": {
+      "uk": "/ˈæksent/",
+      "us": "/ˈæksent/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "foreign accent",
+      "strong accent"
+    ],
+    "examples": [
+      "She speaks English with a French accent.",
+      "Please put the accent on the first syllable."
+    ]
+  },
+  "accept": {
+    "definition": "vt. 接受；同意",
+    "phonetic": {
+      "uk": "/əkˈsept/",
+      "us": "/əkˈsept/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accept an offer",
+      "readily accept"
+    ],
+    "examples": [
+      "I cannot accept this gift.",
+      "She accepted the job offer immediately."
+    ]
+  },
+  "acceptable": {
+    "definition": "adj. 可接受的，合意的",
+    "phonetic": {
+      "uk": "/əkˈseptəbl/",
+      "us": "/əkˈseptəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "socially acceptable",
+      "acceptable level"
+    ],
+    "examples": [
+      "Your work is not up to acceptable standards.",
+      "Is this price acceptable to you?"
+    ]
+  },
+  "access": {
+    "definition": "n. 接近；通道，入口",
+    "phonetic": {
+      "uk": "/ˈækses/",
+      "us": "/ˈækses/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have access to",
+      "internet access"
+    ],
+    "examples": [
+      "Students need access to good libraries.",
+      "The building has wheelchair access."
+    ]
+  },
+  "accident": {
+    "definition": "n. 意外的；事故",
+    "phonetic": {
+      "uk": "/ˈæksɪdənt/",
+      "us": "/ˈæksɪdənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "traffic accident",
+      "by accident"
+    ],
+    "examples": [
+      "He was injured in a car accident.",
+      "I met her by accident at the party."
+    ]
+  },
+  "accommodate": {
+    "definition": "vt. 容纳；供应，供给",
+    "phonetic": {
+      "uk": "/əˈkɒmədeɪt/",
+      "us": "/əˈkɑːmədeɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accommodate guests",
+      "accommodate requests"
+    ],
+    "examples": [
+      "The hotel can accommodate 200 guests.",
+      "We will try to accommodate your schedule."
+    ]
+  },
+  "accommodation": {
+    "definition": "n. 招待设备；预定铺位",
+    "phonetic": {
+      "uk": "/əˌkɒməˈdeɪʃn/",
+      "us": "/əˌkɑːməˈdeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hotel accommodation",
+      "make accommodation for"
+    ],
+    "examples": [
+      "The price includes breakfast and accommodation.",
+      "We need to find suitable accommodation."
+    ]
+  },
+  "accompany": {
+    "definition": "vt. 陪伴，陪同；伴奏",
+    "phonetic": {
+      "uk": "/əˈkʌmpəni/",
+      "us": "/əˈkʌmpəni/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accompany someone",
+      "accompany with"
+    ],
+    "examples": [
+      "He accompanied her to the station.",
+      "The singer was accompanied by a piano."
+    ]
+  },
+  "accomplish": {
+    "definition": "vt. 达到目的；完成",
+    "phonetic": {
+      "uk": "/əˈkʌmplɪʃ/",
+      "us": "/əˈkʌmplɪʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accomplish a goal",
+      "accomplish a task"
+    ],
+    "examples": [
+      "We accomplished our mission successfully.",
+      "It took us three years to accomplish this project."
+    ]
+  },
+  "accord": {
+    "definition": "vt. 使一致；给予",
+    "phonetic": {
+      "uk": "/əˈkɔːd/",
+      "us": "/əˈkɔːrd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "in accord with",
+      "of one's own accord"
+    ],
+    "examples": [
+      "His actions are not in accord with his words.",
+      "She left the room of her own accord."
+    ]
+  },
+  "accordance": {
+    "definition": "n. 一致；和谐",
+    "phonetic": {
+      "uk": "/əˈkɔːrdəns/",
+      "us": "/əˈkɔːrdəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in accordance with",
+      "accordance with the rules"
+    ],
+    "examples": [
+      "The project proceeded in accordance with the plan.",
+      "All employees must act in accordance with company policy."
+    ]
+  },
+  "accordingly": {
+    "definition": "ad. 因此，于是；相应地",
+    "phonetic": {
+      "uk": "/əˈkɔːdɪŋli/",
+      "us": "/əˈkɔːrdɪŋli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "act accordingly",
+      "plan accordingly"
+    ],
+    "examples": [
+      "The situation changed, so we adjusted our plans accordingly.",
+      "He was tired and left early accordingly."
+    ]
+  },
+  "account": {
+    "definition": "n. 记述；解释；账目",
+    "phonetic": {
+      "uk": "/əˈkaʊnt/",
+      "us": "/əˈkaʊnt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take into account",
+      "bank account"
+    ],
+    "examples": [
+      "Please take my opinion into account.",
+      "She gave a detailed account of the incident."
+    ]
+  },
+  "accumulate": {
+    "definition": "vt. 积累 vi. 堆积",
+    "phonetic": {
+      "uk": "/əˈkjuːmjəleɪt/",
+      "us": "/əˈkjuːmjəleɪt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "accumulate wealth",
+      "accumulate knowledge"
+    ],
+    "examples": [
+      "Dust accumulated on the furniture.",
+      "She has accumulated great experience over the years."
+    ]
+  },
+  "accurate": {
+    "definition": "adj. 准确的，正确无误的",
+    "phonetic": {
+      "uk": "/ˈækjərət/",
+      "us": "/ˈækjərət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "accurate information",
+      "accurate measurement"
+    ],
+    "examples": [
+      "Please provide accurate information.",
+      "The weather forecast proved to be accurate."
+    ]
+  },
+  "accuse": {
+    "definition": "vt. 指责；归咎于",
+    "phonetic": {
+      "uk": "/əˈkjuːz/",
+      "us": "/əˈkjuːz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accuse someone of",
+      "false accusation"
+    ],
+    "examples": [
+      "He was accused of stealing money.",
+      "Don't accuse me without evidence."
+    ]
+  },
+  "accustom": {
+    "definition": "vt. 使习惯",
+    "phonetic": {
+      "uk": "/əˈkʌstəm/",
+      "us": "/əˈkʌstəm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "accustom oneself to",
+      "become accustomed to"
+    ],
+    "examples": [
+      "You need to accustom yourself to the new environment.",
+      "She quickly became accustomed to the job."
+    ]
+  },
+  "accustomed": {
+    "definition": "adj. 惯常的；习惯的",
+    "phonetic": {
+      "uk": "/əˈkʌstəmd/",
+      "us": "/əˈkʌstəmd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be accustomed to",
+      "accustomed to doing"
+    ],
+    "examples": [
+      "I am accustomed to getting up early.",
+      "He is accustomed to hard work."
+    ]
+  },
+  "achievement": {
+    "definition": "n. 完成；成就，成绩",
+    "phonetic": {
+      "uk": "/əˈtʃiːvmənt/",
+      "us": "/əˈtʃiːvmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sense of achievement",
+      "academic achievement"
+    ],
+    "examples": [
+      "Winning the competition was a great achievement.",
+      "We should celebrate our achievements."
+    ]
+  },
+  "acknowledge": {
+    "definition": "vt. 承认；告知收到",
+    "phonetic": {
+      "uk": "/əkˈnɒlɪdʒ/",
+      "us": "/əkˈnɑːlɪdʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "acknowledge receipt",
+      "acknowledge the fact"
+    ],
+    "examples": [
+      "He acknowledged his mistake.",
+      "Please acknowledge receipt of this email."
+    ]
+  },
+  "acquaint": {
+    "definition": "vt. 使认识，使了解",
+    "phonetic": {
+      "uk": "/əˈkweɪnt/",
+      "us": "/əˈkweɪnt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "acquaint with",
+      "make acquaintance with"
+    ],
+    "examples": [
+      "Please acquaint yourself with the new procedures.",
+      "I was acquainted with his work."
+    ]
+  },
+  "acquaintance": {
+    "definition": "n. 认识；了解；熟人",
+    "phonetic": {
+      "uk": "/əˈkweɪntəns/",
+      "us": "/əˈkweɪntəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "nodding acquaintance",
+      "make the acquaintance of"
+    ],
+    "examples": [
+      "She is just an acquaintance, not a close friend.",
+      "I have only a passing acquaintance with the subject."
+    ]
+  },
+  "acquire": {
+    "definition": "vt. 取得；获得；学到",
+    "phonetic": {
+      "uk": "/əˈkwaɪər/",
+      "us": "/əˈkwaɪər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "acquire knowledge",
+      "acquire skills"
+    ],
+    "examples": [
+      "She acquired fluency in Spanish.",
+      "The company acquired a new subsidiary."
+    ]
+  },
+  "acquisition": {
+    "definition": "n. 获得，获得物",
+    "phonetic": {
+      "uk": "/ˌækwiˈzɪʃn/",
+      "us": "/ˌækwiˈzɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "language acquisition",
+      "merger and acquisition"
+    ],
+    "examples": [
+      "Language acquisition requires practice and patience.",
+      "The acquisition of the company was announced yesterday."
+    ]
+  },
+  "acre": {
+    "definition": "n. 英亩(=6.07亩)",
+    "phonetic": {
+      "uk": "/ˈeɪkər/",
+      "us": "/ˈeɪkər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "acre of land",
+      "50-acre farm"
+    ],
+    "examples": [
+      "They own 500 acres of farmland.",
+      "The forest covers thousands of acres."
+    ]
+  },
+  "across": {
+    "definition": "prep. 横过；在…对面",
+    "phonetic": {
+      "uk": "/əˈkrɒs/",
+      "us": "/əˈkrɔːs/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "across the street",
+      "go across"
+    ],
+    "examples": [
+      "She walked across the bridge.",
+      "The bank is just across the street."
+    ]
+  },
+  "action": {
+    "definition": "n. 行动；作用；功能",
+    "phonetic": {
+      "uk": "/ˈækʃn/",
+      "us": "/ˈækʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take action",
+      "put into action"
+    ],
+    "examples": [
+      "We need to take immediate action.",
+      "Her quick action saved the child's life."
+    ]
+  },
+  "active": {
+    "definition": "adj. 活跃的；积极的",
+    "phonetic": {
+      "uk": "/ˈæktɪv/",
+      "us": "/ˈæktɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "active volcano",
+      "take an active part"
+    ],
+    "examples": [
+      "He is very active in sports.",
+      "The volcano is currently active."
+    ]
+  },
+  "activity": {
+    "definition": "n. 活动；活力；行动",
+    "phonetic": {
+      "uk": "/ækˈtɪvəti/",
+      "us": "/ækˈtɪvəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "physical activity",
+      "outdoor activity"
+    ],
+    "examples": [
+      "Outdoor activities are good for health.",
+      "The school offers various extracurricular activities."
+    ]
+  },
+  "actor": {
+    "definition": "n. 男演员；演戏的人",
+    "phonetic": {
+      "uk": "/ˈæktər/",
+      "us": "/ˈæktər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "film actor",
+      "stage actor"
+    ],
+    "examples": [
+      "He is a famous Hollywood actor.",
+      "The actor won an award for his performance."
+    ]
+  },
+  "actress": {
+    "definition": "n. 女演员",
+    "phonetic": {
+      "uk": "/ˈæktrəs/",
+      "us": "/ˈæktrəs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "talented actress",
+      "award-winning actress"
+    ],
+    "examples": [
+      "She is my favorite actress.",
+      "The actress captivated the audience."
+    ]
+  },
+  "actual": {
+    "definition": "adj. 实际的；现行的",
+    "phonetic": {
+      "uk": "/ˈæktʃuəl/",
+      "us": "/ˈæktʃuəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "actual situation",
+      "actual cost"
+    ],
+    "examples": [
+      "The actual cost was higher than estimated.",
+      "This is the actual reason for his resignation."
+    ]
+  },
+  "actually": {
+    "definition": "ad. 实际上；竟然",
+    "phonetic": {
+      "uk": "/ˈæktʃuəli/",
+      "us": "/ˈæktʃuəli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "actually speaking",
+      "actually happen"
+    ],
+    "examples": [
+      "Actually, I haven't decided yet.",
+      "It actually rained yesterday despite the forecast."
+    ]
+  },
+  "acute": {
+    "definition": "adj. 尖的，锐的；敏锐的",
+    "phonetic": {
+      "uk": "/əˈkjuːt/",
+      "us": "/əˈkjuːt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "acute pain",
+      "acute angle"
+    ],
+    "examples": [
+      "She suffered from acute appendicitis.",
+      "He has an acute sense of hearing."
+    ]
+  },
+  "ad": {
+    "definition": "n. 广告",
+    "phonetic": {
+      "uk": "/æd/",
+      "us": "/æd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "TV ad",
+      "place an ad"
+    ],
+    "examples": [
+      "I saw an ad for this product on TV.",
+      "She placed an ad in the newspaper."
+    ]
+  },
+  "adapt": {
+    "definition": "vt. 使适应；改编",
+    "phonetic": {
+      "uk": "/əˈdæpt/",
+      "us": "/əˈdæpt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "adapt to",
+      "adapt oneself to"
+    ],
+    "examples": [
+      "Animals adapt to their environment.",
+      "The novel was adapted into a film."
+    ]
+  },
+  "add": {
+    "definition": "vt. 添加，附加，加",
+    "phonetic": {
+      "uk": "/æd/",
+      "us": "/æd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "add up",
+      "add to"
+    ],
+    "examples": [
+      "Please add some sugar to the coffee.",
+      "Add the numbers and tell me the result."
+    ]
+  },
+  "addition": {
+    "definition": "n. 加，加法；附加物",
+    "phonetic": {
+      "uk": "/əˈdɪʃn/",
+      "us": "/əˈdɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in addition",
+      "in addition to"
+    ],
+    "examples": [
+      "In addition to English, she speaks French.",
+      "The new addition to the building is beautiful."
+    ]
+  },
+  "additional": {
+    "definition": "adj. 附加的，追加的",
+    "phonetic": {
+      "uk": "/əˈdɪʃənl/",
+      "us": "/əˈdɪʃənl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "additional information",
+      "additional cost"
+    ],
+    "examples": [
+      "Please provide additional details.",
+      "There was an additional charge for luggage."
+    ]
+  },
+  "address": {
+    "definition": "n. 地址；演说；谈吐",
+    "phonetic": {
+      "uk": "/əˈdres/",
+      "us": "/əˈdres/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "home address",
+      "email address"
+    ],
+    "examples": [
+      "Please send the package to this address.",
+      "The president delivered a televised address."
+    ]
+  },
+  "adequate": {
+    "definition": "adj. 足够的；可以胜任的",
+    "phonetic": {
+      "uk": "/ˈædɪkwət/",
+      "us": "/ˈædɪkwət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "adequate resources",
+      "adequate for"
+    ],
+    "examples": [
+      "We have adequate time to complete the task.",
+      "Is your salary adequate for your needs?"
+    ]
+  },
+  "adjust": {
+    "definition": "vt. 调整，调节；校正",
+    "phonetic": {
+      "uk": "/əˈdʒʌst/",
+      "us": "/əˈdʒʌst/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "adjust to",
+      "adjust the volume"
+    ],
+    "examples": [
+      "You need to adjust your watch.",
+      "She adjusted to the new job quickly."
+    ]
+  },
+  "administration": {
+    "definition": "n. 管理；管理部门",
+    "phonetic": {
+      "uk": "/ədˌmɪnɪˈstreɪʃn/",
+      "us": "/ədˌmɪnɪˈstreɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "business administration",
+      "public administration"
+    ],
+    "examples": [
+      "He works in hospital administration.",
+      "The administration approved the new policy."
+    ]
+  },
+  "administrative": {
+    "definition": "adj. 管理的，行政的",
+    "phonetic": {
+      "uk": "/ədˈmɪnɪstrətɪv/",
+      "us": "/ədˈmɪnɪstrətɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "administrative work",
+      "administrative assistant"
+    ],
+    "examples": [
+      "She handles all administrative tasks.",
+      "This is an administrative decision."
+    ]
+  },
+  "admire": {
+    "definition": "vt. 钦佩，羡慕，赞赏",
+    "phonetic": {
+      "uk": "/ədˈmaɪər/",
+      "us": "/ədˈmaɪər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "admire someone for",
+      "greatly admire"
+    ],
+    "examples": [
+      "I admire her courage.",
+      "He is admired by everyone in the community."
+    ]
+  },
+  "admission": {
+    "definition": "n. 允许进入；承认",
+    "phonetic": {
+      "uk": "/ədˈmɪʃn/",
+      "us": "/ədˈmɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "admission ticket",
+      "gain admission to"
+    ],
+    "examples": [
+      "The admission fee is $10.",
+      "She gained admission to a prestigious university."
+    ]
+  },
+  "admit": {
+    "definition": "vt. 承认；准许进入",
+    "phonetic": {
+      "uk": "/ədˈmɪt/",
+      "us": "/ədˈmɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "admit to",
+      "admit defeat"
+    ],
+    "examples": [
+      "He admitted his mistake.",
+      "The theater admits 500 people."
+    ]
+  },
+  "adopt": {
+    "definition": "vt. 收养；采用；采取",
+    "phonetic": {
+      "uk": "/əˈdɒpt/",
+      "us": "/əˈdɑːpt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "adopt a child",
+      "adopt a method"
+    ],
+    "examples": [
+      "They decided to adopt a baby.",
+      "The company adopted new technology."
+    ]
+  },
+  "adult": {
+    "definition": "n. 成年人 adj. 成年的",
+    "phonetic": {
+      "uk": "/ˈædʌlt/",
+      "us": "/ˈædʌlt/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "adult education",
+      "adult population"
+    ],
+    "examples": [
+      "Only adults are allowed in this area.",
+      "Adults should set a good example for children."
+    ]
+  },
+  "advance": {
+    "definition": "vi. 前进；提高 n. 进展",
+    "phonetic": {
+      "uk": "/ədˈvɑːns/",
+      "us": "/ədˈvæns/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "in advance",
+      "make great advances"
+    ],
+    "examples": [
+      "Please book your ticket in advance.",
+      "Technology has made great advances."
+    ]
+  },
+  "advanced": {
+    "definition": "adj. 先进的；高等的",
+    "phonetic": {
+      "uk": "/ədˈvɑːnst/",
+      "us": "/ədˈvænst/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "advanced technology",
+      "advanced level"
+    ],
+    "examples": [
+      "This equipment uses advanced technology.",
+      "She is taking an advanced math course."
+    ]
+  },
+  "advantage": {
+    "definition": "n. 优势，有利条件",
+    "phonetic": {
+      "uk": "/ədˈvɑːntɪdʒ/",
+      "us": "/ədˈvæntɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take advantage of",
+      "competitive advantage"
+    ],
+    "examples": [
+      "Her experience gave her an advantage.",
+      "We should take advantage of this opportunity."
+    ]
+  },
+  "advantageous": {
+    "definition": "adj. 有利的，有助的",
+    "phonetic": {
+      "uk": "/ˌædvənˈteɪdʒəs/",
+      "us": "/ˌædvənˈteɪdʒəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "advantageous position",
+      "advantageous deal"
+    ],
+    "examples": [
+      "The new location is advantageous for business.",
+      "This arrangement is advantageous for both parties."
+    ]
+  },
+  "adventure": {
+    "definition": "n. 冒险；惊险活动",
+    "phonetic": {
+      "uk": "/ədˈventʃər/",
+      "us": "/ədˈventʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go on an adventure",
+      "adventure story"
+    ],
+    "examples": [
+      "Life is full of adventure.",
+      "They went on a mountain adventure."
+    ]
+  },
+  "adverb": {
+    "definition": "n. 副词",
+    "phonetic": {
+      "uk": "/ˈædvɜːb/",
+      "us": "/ˈædvɜːrb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "adverb phrase",
+      "modify with an adverb"
+    ],
+    "examples": [
+      "She speaks very quickly.",
+      "An adverb modifies a verb."
+    ]
+  },
+  "adverse": {
+    "definition": "adj. 不利的，敌对的",
+    "phonetic": {
+      "uk": "/ˈædvɜːs/",
+      "us": "/ˈædvɜːrs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "adverse effect",
+      "adverse conditions"
+    ],
+    "examples": [
+      "The drug has adverse side effects.",
+      "The game was cancelled due to adverse weather."
+    ]
+  },
+  "advertise": {
+    "definition": "vt. 通知 vi. 登广告",
+    "phonetic": {
+      "uk": "/ˈædvətaɪz/",
+      "us": "/ˈædvərtaɪz/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "advertise a product",
+      "widely advertise"
+    ],
+    "examples": [
+      "They advertised the job opening online.",
+      "The company advertises on TV."
+    ]
+  },
+  "advertisement": {
+    "definition": "n. 广告；公告；登广告",
+    "phonetic": {
+      "uk": "/ədˈvɜːtɪsmənt/",
+      "us": "/ˌædvərˈtaɪzmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "place an advertisement",
+      "TV advertisement"
+    ],
+    "examples": [
+      "I saw an advertisement for a job.",
+      "The advertisement attracted many customers."
+    ]
+  },
+  "advice": {
+    "definition": "n. 劝告；忠告；意见",
+    "phonetic": {
+      "uk": "/ədˈvaɪs/",
+      "us": "/ədˈvaɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "give advice",
+      "take advice"
+    ],
+    "examples": [
+      "Please give me some advice.",
+      "He gave me good advice about career."
+    ]
+  },
+  "advisable": {
+    "definition": "adj. 明智的；可取的",
+    "phonetic": {
+      "uk": "/ədˈvaɪzəbl/",
+      "us": "/ədˈvaɪzəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "it is advisable",
+      "highly advisable"
+    ],
+    "examples": [
+      "It is advisable to book in advance.",
+      "It is not advisable to go out in this weather."
+    ]
+  },
+  "advise": {
+    "definition": "vt. 劝告；建议；通知",
+    "phonetic": {
+      "uk": "/ədˈvaɪz/",
+      "us": "/ədˈvaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "advise someone to",
+      "advise against"
+    ],
+    "examples": [
+      "I advise you to study harder.",
+      "The doctor advised him to quit smoking."
+    ]
+  },
+  "advocate": {
+    "definition": "n. 辩护者 vt. 拥护",
+    "phonetic": {
+      "uk": "/ˈædvəkət/",
+      "us": "/ˈædvəkət/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "advocate for",
+      "strong advocate"
+    ],
+    "examples": [
+      "She is an advocate for animal rights.",
+      "We advocate peaceful resolution of conflicts."
+    ]
+  },
+  "aerial": {
+    "definition": "adj. 空中的；航空的",
+    "phonetic": {
+      "uk": "/ˈeəriəl/",
+      "us": "/ˈeriəl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "aerial view",
+      "aerial photography"
+    ],
+    "examples": [
+      "We got an aerial view of the city.",
+      "The battle involved aerial bombardment."
+    ]
+  },
+  "aeroplane": {
+    "definition": "n. 飞机",
+    "phonetic": {
+      "uk": "/ˈeərəpleɪn/",
+      "us": "/ˈerəpleɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "board the aeroplane",
+      "aeroplane crash"
+    ],
+    "examples": [
+      "The aeroplane took off on time.",
+      "He travels by aeroplane every week."
+    ]
+  },
+  "aerospace": {
+    "definition": "n. 航空宇宙",
+    "phonetic": {
+      "uk": "/ˈeərəʊspeɪs/",
+      "us": "/ˈeroʊspeɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "aerospace industry",
+      "aerospace engineering"
+    ],
+    "examples": [
+      "He works in the aerospace industry.",
+      "The company specializes in aerospace technology."
+    ]
+  },
+  "affair": {
+    "definition": "n. 事情，事件；事务",
+    "phonetic": {
+      "uk": "/əˈfeər/",
+      "us": "/əˈfer/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "state affairs",
+      "foreign affairs"
+    ],
+    "examples": [
+      "It's my personal affair.",
+      "The minister handles foreign affairs."
+    ]
+  },
+  "affect": {
+    "definition": "vt. 影响；感动",
+    "phonetic": {
+      "uk": "/əˈfekt/",
+      "us": "/əˈfekt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "affect deeply",
+      "adversely affect"
+    ],
+    "examples": [
+      "The weather affected our plans.",
+      "His speech affected everyone deeply."
+    ]
+  },
+  "affection": {
+    "definition": "n. 慈爱，爱；爱慕",
+    "phonetic": {
+      "uk": "/əˈfekʃn/",
+      "us": "/əˈfekʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "show affection",
+      "deep affection"
+    ],
+    "examples": [
+      "She showed great affection for her children.",
+      "They have mutual affection for each other."
+    ]
+  },
+  "afford": {
+    "definition": "vt. 担负得起…；提供",
+    "phonetic": {
+      "uk": "/əˈfɔːd/",
+      "us": "/əˈfɔːrd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "can afford",
+      "can't afford to"
+    ],
+    "examples": [
+      "I can't afford this car.",
+      "We can afford to wait a few more days."
+    ]
+  },
+  "afraid": {
+    "definition": "adj. 害怕的；担心的",
+    "phonetic": {
+      "uk": "/əˈfreɪd/",
+      "us": "/əˈfreɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be afraid of",
+      "afraid to"
+    ],
+    "examples": [
+      "Don't be afraid of making mistakes.",
+      "I'm afraid I can't help you."
+    ]
+  },
+  "africa": {
+    "definition": "n. 非洲",
+    "phonetic": {
+      "uk": "/ˈæfrɪkə/",
+      "us": "/ˈæfrɪkə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "South Africa",
+      "North Africa"
+    ],
+    "examples": [
+      "Many countries in Africa are developing rapidly.",
+      "Safari tours attract tourists to Africa."
+    ]
+  },
+  "african": {
+    "definition": "adj. 非洲的 n. 非洲人",
+    "phonetic": {
+      "uk": "/ˈæfrɪkən/",
+      "us": "/ˈæfrɪkən/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "African elephant",
+      "South African"
+    ],
+    "examples": [
+      "He is an African artist.",
+      "African music is very rhythmic."
+    ]
+  },
+  "after": {
+    "definition": "prep. 在…以后；后面",
+    "phonetic": {
+      "uk": "/ˈɑːftər/",
+      "us": "/ˈæftər/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "after all",
+      "shortly after"
+    ],
+    "examples": [
+      "Let's meet after lunch.",
+      "After all, it's not that difficult."
+    ]
+  },
+  "afternoon": {
+    "definition": "n. 下午，午后",
+    "phonetic": {
+      "uk": "/ˌɑːftəˈnuːn/",
+      "us": "/ˌæftərˈnuːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the afternoon",
+      "good afternoon"
+    ],
+    "examples": [
+      "I'll see you this afternoon.",
+      "Good afternoon, everyone."
+    ]
+  },
+  "afterwards": {
+    "definition": "ad. 后来，后来",
+    "phonetic": {
+      "uk": "/ˈɑːftəwədz/",
+      "us": "/ˈæftərwərdz/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "shortly afterwards",
+      "soon afterwards"
+    ],
+    "examples": [
+      "We had dinner and went home afterwards.",
+      "She left the party after an hour."
+    ]
+  },
+  "again": {
+    "definition": "ad. 再一次；又，",
+    "phonetic": {
+      "uk": "/əˈɡen/",
+      "us": "/əˈɡen/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "over and over again",
+      "once again"
+    ],
+    "examples": [
+      "Let's try again.",
+      "I'll tell you the story again."
+    ]
+  },
+  "against": {
+    "definition": "prep. 倚；反对，逆",
+    "phonetic": {
+      "uk": "/əˈɡenst/",
+      "us": "/əˈɡenst/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "fight against",
+      "go against"
+    ],
+    "examples": [
+      "She leaned against the wall.",
+      "We are fighting against pollution."
+    ]
+  },
+  "age": {
+    "definition": "n. 年龄；时代 vt. 变老",
+    "phonetic": {
+      "uk": "/eɪdʒ/",
+      "us": "/eɪdʒ/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "at the age of",
+      "middle age"
+    ],
+    "examples": [
+      "He started playing piano at the age of five.",
+      "The computer age has changed how we work."
+    ]
+  },
+  "aggression": {
+    "definition": "n. 侵略；侵略行为；进攻",
+    "phonetic": {
+      "uk": "/əˈɡreʃn/",
+      "us": "/əˈɡreʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "act of aggression",
+      "verbal aggression"
+    ],
+    "examples": [
+      "The country condemned the military aggression.",
+      "His aggression toward others is concerning."
+    ]
+  },
+  "aggressive": {
+    "definition": "adj. 侵略的；好斗的",
+    "phonetic": {
+      "uk": "/əˈɡresɪv/",
+      "us": "/əˈɡresɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "aggressive behavior",
+      "aggressive approach"
+    ],
+    "examples": [
+      "The dog showed aggressive behavior.",
+      "She took an aggressive approach to sales."
+    ]
+  },
+  "ago": {
+    "definition": "ad. 以前",
+    "phonetic": {
+      "uk": "/əˈɡəʊ/",
+      "us": "/əˈɡoʊ/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "long ago",
+      "a few days ago"
+    ],
+    "examples": [
+      "I saw him two days ago.",
+      "It happened a long time ago."
+    ]
+  },
+  "agreed": {
+    "definition": "adj. 同意的；商定的",
+    "phonetic": {
+      "uk": "/əˈɡriːd/",
+      "us": "/əˈɡriːd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "mutually agreed",
+      "agreed upon"
+    ],
+    "examples": [
+      "We reached a mutually agreed solution.",
+      "The price was agreed upon by both parties."
+    ]
+  },
+  "agreement": {
+    "definition": "n. 协定，协议；同意",
+    "phonetic": {
+      "uk": "/əˈɡriːmənt/",
+      "us": "/əˈɡriːmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "reach an agreement",
+      "come to an agreement"
+    ],
+    "examples": [
+      "They signed a peace agreement.",
+      "We came to an agreement about the price."
+    ]
+  },
+  "agriculture": {
+    "definition": "n. 农业，农艺；农学",
+    "phonetic": {
+      "uk": "/ˈæɡrɪkʌltʃər/",
+      "us": "/ˈæɡrɪkʌltʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "modern agriculture",
+      "organic agriculture"
+    ],
+    "examples": [
+      "Agriculture is important for the nation's economy.",
+      "Modern agriculture uses advanced technology."
+    ]
+  },
+  "ahead": {
+    "definition": "ad. 在前；向前；提前",
+    "phonetic": {
+      "uk": "/əˈhed/",
+      "us": "/əˈhed/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "go ahead",
+      "ahead of"
+    ],
+    "examples": [
+      "Take your time, we are ahead of schedule.",
+      "Please go ahead with your presentation."
+    ]
+  },
+  "aid": {
+    "definition": "n. 帮助，救护；助手",
+    "phonetic": {
+      "uk": "/eɪd/",
+      "us": "/eɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "first aid",
+      "financial aid"
+    ],
+    "examples": [
+      "Please give me first aid.",
+      "The organization provides aid to refugees."
+    ]
+  },
+  "aim": {
+    "definition": "n. 目标，目的 vi. 瞄准",
+    "phonetic": {
+      "uk": "/eɪm/",
+      "us": "/eɪm/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "aim for",
+      "take aim at"
+    ],
+    "examples": [
+      "His aim is to become a doctor.",
+      "You should aim for higher goals."
+    ]
+  },
+  "air": {
+    "definition": "n. 空气；大气",
+    "phonetic": {
+      "uk": "/eər/",
+      "us": "/er/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fresh air",
+      "in the air"
+    ],
+    "examples": [
+      "Let's go out for some fresh air.",
+      "Spring is in the air."
+    ]
+  },
+  "aircraft": {
+    "definition": "n. 飞机，飞行器",
+    "phonetic": {
+      "uk": "/ˈeəkrɑːft/",
+      "us": "/ˈerkræft/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "military aircraft",
+      "passenger aircraft"
+    ],
+    "examples": [
+      "The airport handles many aircraft daily.",
+      "Aircraft technology has improved significantly."
+    ]
+  },
+  "airline": {
+    "definition": "n. 航空公司；航线",
+    "phonetic": {
+      "uk": "/ˈeəlaɪn/",
+      "us": "/ˈerlaɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "major airline",
+      "airline ticket"
+    ],
+    "examples": [
+      "I booked a flight with a major airline.",
+      "The airline serves 50 cities worldwide."
+    ]
+  },
+  "airplane": {
+    "definition": "n. 飞机",
+    "phonetic": {
+      "uk": "/ˈeəpleɪn/",
+      "us": "/ˈerpleɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "board the airplane",
+      "airplane ticket"
+    ],
+    "examples": [
+      "The airplane landed safely.",
+      "We traveled by airplane."
+    ]
+  },
+  "airport": {
+    "definition": "n. 机场，航空站",
+    "phonetic": {
+      "uk": "/ˈeəpɔːt/",
+      "us": "/ˈerpɔːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "international airport",
+      "airport terminal"
+    ],
+    "examples": [
+      "I'll pick you up from the airport.",
+      "The airport is about 30 minutes away."
+    ]
+  },
+  "alarm": {
+    "definition": "n. 惊恐，忧虑；警报",
+    "phonetic": {
+      "uk": "/əˈlɑːm/",
+      "us": "/əˈlɑːrm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fire alarm",
+      "set off the alarm"
+    ],
+    "examples": [
+      "The smoke detectors triggered the alarm.",
+      "Don't raise the alarm unnecessarily."
+    ]
+  },
+  "album": {
+    "definition": "n. 集邮本；照相本；专辑",
+    "phonetic": {
+      "uk": "/ˈælbəm/",
+      "us": "/ˈælbəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "photo album",
+      "music album"
+    ],
+    "examples": [
+      "She keeps all her photos in an album.",
+      "The band released their new album yesterday."
+    ]
+  },
+  "alcohol": {
+    "definition": "n. 酒精，乙醇",
+    "phonetic": {
+      "uk": "/ˈælkəhɒl/",
+      "us": "/ˈælkəhɑːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "alcohol content",
+      "drink alcohol"
+    ],
+    "examples": [
+      "This drink contains 5% alcohol.",
+      "Excessive alcohol consumption is harmful."
+    ]
+  },
+  "alert": {
+    "definition": "adj. 警惕的；活跃的",
+    "phonetic": {
+      "uk": "/əˈlɜːt/",
+      "us": "/əˈlɜːrt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "stay alert",
+      "on alert"
+    ],
+    "examples": [
+      "Stay alert while driving.",
+      "The security system is on high alert."
+    ]
+  },
+  "allergic": {
+    "definition": "adj. 过敏的",
+    "phonetic": {
+      "uk": "/əˈlɜːdʒɪk/",
+      "us": "/əˈlɜːrdʒɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "allergic to",
+      "allergic reaction"
+    ],
+    "examples": [
+      "I'm allergic to peanuts.",
+      "She had an allergic reaction to the medicine."
+    ]
+  },
+  "alliance": {
+    "definition": "n. 结盟，联盟",
+    "phonetic": {
+      "uk": "/əˈlaɪəns/",
+      "us": "/əˈlaɪəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "form an alliance",
+      "strategic alliance"
+    ],
+    "examples": [
+      "The two countries formed a military alliance.",
+      "A strategic alliance was announced between the companies."
+    ]
+  },
+  "allied": {
+    "definition": "adj. 联合的；联姻的",
+    "phonetic": {
+      "uk": "/ˈælaɪd/",
+      "us": "/ˈælaɪd/",
+      "us": "/ˈælaɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "allied forces",
+      "allied health"
+    ],
+    "examples": [
+      "The allied forces won the battle.",
+      "Allied health professionals include nurses and therapists."
+    ]
+  },
+  "allow": {
+    "definition": "vt. 允许，准许；给予",
+    "phonetic": {
+      "uk": "/əˈlaʊ/",
+      "us": "/əˈlaʊ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "allow for",
+      "allow someone to"
+    ],
+    "examples": [
+      "Please allow me to explain.",
+      "Smoking is not allowed in this building."
+    ]
+  },
+  "allowance": {
+    "definition": "n. 津贴，补助费",
+    "phonetic": {
+      "uk": "/əˈlaʊəns/",
+      "us": "/əˈlaʊəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make allowance for",
+      "daily allowance"
+    ],
+    "examples": [
+      "Parents give their children weekly allowance.",
+      "We made allowances for his inexperience."
+    ]
+  },
+  "ally": {
+    "definition": "n. 同盟国，同盟者",
+    "phonetic": {
+      "uk": "/ˈælaɪ/",
+      "us": "/ˈælaɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "close ally",
+      "ally with"
+    ],
+    "examples": [
+      "Britain was a close ally of the United States.",
+      "The company allied itself with a tech firm."
+    ]
+  },
+  "almost": {
+    "definition": "ad. 几乎，差不多",
+    "phonetic": {
+      "uk": "/ˈɔːlməʊst/",
+      "us": "/ˈɔːlmoʊst/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "almost always",
+      "almost never"
+    ],
+    "examples": [
+      "The meeting is almost over.",
+      "I almost missed the bus this morning."
+    ]
+  },
+  "alone": {
+    "definition": "adj. 单独的 ad. 单独地",
+    "phonetic": {
+      "uk": "/əˈləʊn/",
+      "us": "/əˈloʊn/"
+    },
+    "partOfSpeech": "adj./adv.",
+    "phrases": [
+      "live alone",
+      "let alone"
+    ],
+    "examples": [
+      "I prefer to work alone.",
+      "Let alone do that, he can't even speak."
+    ]
+  },
+  "aloud": {
+    "definition": "ad. 出声地，大声地",
+    "phonetic": {
+      "uk": "/əˈlaʊd/",
+      "us": "/əˈlaʊd/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "read aloud",
+      "think aloud"
+    ],
+    "examples": [
+      "Please read the text aloud.",
+      "He often thinks aloud when solving problems."
+    ]
+  },
+  "alphabet": {
+    "definition": "n. 字母表，字母系统",
+    "phonetic": {
+      "uk": "/ˈælfəbet/",
+      "us": "/ˈælfəbet/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "English alphabet",
+      "alphabetical order"
+    ],
+    "examples": [
+      "Children learn the alphabet at school.",
+      "The English alphabet has 26 letters."
+    ]
+  },
+  "alter": {
+    "definition": "vt. 改变，变更；改做",
+    "phonetic": {
+      "uk": "/ˈɔːltər/",
+      "us": "/ˈɔːltər/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "alter one's mind",
+      "alter the plan"
+    ],
+    "examples": [
+      "The tailor altered the dress.",
+      "Events may alter the course of history."
+    ]
+  },
+  "alternative": {
+    "definition": "n. 替换物；取舍，抉择",
+    "phonetic": {
+      "uk": "/ɔːlˈtɜːnətɪv/",
+      "us": "/ɔːlˈtɜːrnətɪv/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "no alternative",
+      "alternative energy"
+    ],
+    "examples": [
+      "We have no alternative but to leave.",
+      "Solar power is a good alternative energy source."
+    ]
+  },
+  "although": {
+    "definition": "conj. 尽管，虽然",
+    "phonetic": {
+      "uk": "/ɔːlˈðəʊ/",
+      "us": "/ɔːlˈðoʊ/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": [
+      "even though",
+      "although"
+    ],
+    "examples": [
+      "Although it rained, we went for a picnic.",
+      "She is young, although very mature."
+    ]
+  },
+  "altitude": {
+    "definition": "n. 高，高度；高处",
+    "phonetic": {
+      "uk": "/ˈæltɪtjuːd/",
+      "us": "/ˈæltɪtuːd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "high altitude",
+      "at an altitude of"
+    ],
+    "examples": [
+      "The plane flew at an altitude of 30,000 feet.",
+      "High altitude can cause breathing difficulties."
+    ]
+  },
+  "altogether": {
+    "definition": "ad. 完全；总共",
+    "phonetic": {
+      "uk": "/ˌɔːltəˈɡeðər/",
+      "us": "/ˌɔːltəˈɡeðər/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "altogether different",
+      "cost altogether"
+    ],
+    "examples": [
+      "That's an altogether different matter.",
+      "The trip cost $500 altogether."
+    ]
+  },
+  "always": {
+    "definition": "ad. 总是，一直；永远",
+    "phonetic": {
+      "uk": "/ˈɔːlweɪz/",
+      "us": "/ˈɔːlweɪz/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "always be",
+      "as always"
+    ],
+    "examples": [
+      "I always drink coffee in the morning.",
+      "He was always kind and helpful."
+    ]
+  },
+  "amaze": {
+    "definition": "vt. 使吃惊，使惊叹",
+    "phonetic": {
+      "uk": "/əˈmeɪz/",
+      "us": "/əˈmeɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "amaze at",
+      "be amazed by"
+    ],
+    "examples": [
+      "Her performance amazed everyone.",
+      "I was amazed by the beauty of the landscape."
+    ]
+  },
+  "amazing": {
+    "definition": "adj. 令人吃惊的，惊人的",
+    "phonetic": {
+      "uk": "/əˈmeɪzɪŋ/",
+      "us": "/əˈmeɪzɪŋ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "amazing grace",
+      "truly amazing"
+    ],
+    "examples": [
+      "The view from the top is amazing.",
+      "She has amazing talent for music."
+    ]
+  },
+  "ambition": {
+    "definition": "n. 雄心，抱负，野心",
+    "phonetic": {
+      "uk": "/æmˈbɪʃn/",
+      "us": "/æmˈbɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "achieve one's ambition",
+      "political ambition"
+    ],
+    "examples": [
+      "His ambition is to become a pilot.",
+      "Ambition drove him to succeed in business."
+    ]
+  },
+  "ambitious": {
+    "definition": "adj. 有雄心的；宏大的",
+    "phonetic": {
+      "uk": "/æmˈbɪʃəs/",
+      "us": "/æmˈbɪʃəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "ambitious plan",
+      "ambitious goal"
+    ],
+    "examples": [
+      "She has ambitious plans for her career.",
+      "The ambitious project attracted international attention."
+    ]
+  },
+  "ambulance": {
+    "definition": "n. 救护车；野战医院",
+    "phonetic": {
+      "uk": "/ˈæmbjələns/",
+      "us": "/ˈæmbjələns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ambulance service",
+      "call an ambulance"
+    ],
+    "examples": [
+      "The injured man was taken to hospital by ambulance.",
+      "Please call an ambulance immediately."
+    ]
+  },
+  "among": {
+    "definition": "prep. 在…之中",
+    "phonetic": {
+      "uk": "/əˈmʌŋ/",
+      "us": "/əˈmʌŋ/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "among the",
+      "among friends"
+    ],
+    "examples": [
+      "The disease spread among the population.",
+      "She is popular among her classmates."
+    ]
+  },
+  "amount": {
+    "definition": "n. 总数；数量；和",
+    "phonetic": {
+      "uk": "/əˈmaʊnt/",
+      "us": "/əˈmaʊnt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "amount of",
+      "a large amount of"
+    ],
+    "examples": [
+      "A significant amount of rain fell yesterday.",
+      "The total amount was higher than expected."
+    ]
+  },
+  "amuse": {
+    "definition": "vt. 逗…乐；给…娱乐",
+    "phonetic": {
+      "uk": "/əˈmjuːz/",
+      "us": "/əˈmjuːz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "amuse oneself",
+      "highly amusing"
+    ],
+    "examples": [
+      "The children amused themselves with games.",
+      "His stories always amuse us."
+    ]
+  },
+  "amusement": {
+    "definition": "n. 娱乐，消遣，乐趣",
+    "phonetic": {
+      "uk": "/əˈmjuːzmənt/",
+      "us": "/əˈmjuːzmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "amusement park",
+      "to one's amusement"
+    ],
+    "examples": [
+      "We went to an amusement park on holiday.",
+      "To my amusement, he didn't recognize me."
+    ]
+  },
+  "analyse": {
+    "definition": "vt. 分析，分解，解析",
+    "phonetic": {
+      "uk": "/ˈænəlaɪz/",
+      "us": "/ˈænəlaɪz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "analyze data",
+      "analyze the situation"
+    ],
+    "examples": [
+      "We need to analyze the problem carefully.",
+      "Scientists analyze samples in the laboratory."
+    ]
+  },
+  "analysis": {
+    "definition": "n. 分析，分解，解析",
+    "phonetic": {
+      "uk": "/əˈnæləsɪs/",
+      "us": "/əˈnæləsɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "careful analysis",
+      "statistical analysis"
+    ],
+    "examples": [
+      "The analysis showed interesting results.",
+      "We need further analysis of the data."
+    ]
+  },
+  "ancestor": {
+    "definition": "n. 祖宗，祖先",
+    "phonetic": {
+      "uk": "/ˈænsestər/",
+      "us": "/ˈænsestər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "common ancestor",
+      "distant ancestor"
+    ],
+    "examples": [
+      "Our ancestors lived in caves.",
+      "Humans share a common ancestor with apes."
+    ]
+  },
+  "anchor": {
+    "definition": "n. 锚 vi. 抛锚，停泊",
+    "phonetic": {
+      "uk": "/ˈæŋkər/",
+      "us": "/ˈæŋkər/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "drop anchor",
+      "news anchor"
+    ],
+    "examples": [
+      "The ship dropped anchor in the bay.",
+      "She is a news anchor for the local TV station."
+    ]
+  },
+  "ancient": {
+    "definition": "adj. 古代的，古老的",
+    "phonetic": {
+      "uk": "/ˈeɪnʃənt/",
+      "us": "/ˈeɪnʃənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "ancient history",
+      "ancient civilization"
+    ],
+    "examples": [
+      "Rome is famous for its ancient monuments.",
+      "She studies ancient Greek philosophy."
+    ]
+  },
+  "and": {
+    "definition": "conj. 和，与，又；并",
+    "phonetic": {
+      "uk": "/ænd/",
+      "us": "/ænd/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": [
+      "and so on",
+      "and so forth"
+    ],
+    "examples": [
+      "Tea and coffee are popular beverages.",
+      "She is smart and kind."
+    ]
+  },
+  "angel": {
+    "definition": "n. 天使，神差，安琪儿",
+    "phonetic": {
+      "uk": "/ˈeɪndʒl/",
+      "us": "/ˈeɪndʒl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "guardian angel",
+      "fallen angel"
+    ],
+    "examples": [
+      "The choir sounded like angels.",
+      "She behaves like an angel."
+    ]
+  },
+  "anger": {
+    "definition": "n. 怒，愤怒 vt. 使发怒",
+    "phonetic": {
+      "uk": "/ˈæŋɡər/",
+      "us": "/ˈæŋɡər/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "in anger",
+      "feel anger"
+    ],
+    "examples": [
+      "He spoke in anger and regretted it later.",
+      "The decision caused anger among the workers."
+    ]
+  },
+  "angle": {
+    "definition": "n. 角，角度",
+    "phonetic": {
+      "uk": "/ˈæŋɡl/",
+      "us": "/ˈæŋɡl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "right angle",
+      "wide angle"
+    ],
+    "examples": [
+      "A triangle has three angles.",
+      "Please adjust the angle of the camera."
+    ]
+  },
+  "angry": {
+    "definition": "adj. 愤怒的，生气的",
+    "phonetic": {
+      "uk": "/ˈæŋɡri/",
+      "us": "/ˈæŋɡri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be angry with",
+      "get angry"
+    ],
+    "examples": [
+      "He was angry about the delay.",
+      "Don't be angry with me; I did my best."
+    ]
+  },
+  "animal": {
+    "definition": "n. 动物，兽 a. 动物的",
+    "phonetic": {
+      "uk": "/ˈænɪml/",
+      "us": "/ˈænɪml/"
+    },
+    "partOfSpeech": "n./adj.",
+    "phrases": [
+      "wild animal",
+      "domestic animal"
+    ],
+    "examples": [
+      "Lions are wild animals.",
+      "Dogs are loyal animals."
+    ]
+  },
+  "ankle": {
+    "definition": "n. 踝，踝节部",
+    "phonetic": {
+      "uk": "/ˈæŋkl/",
+      "us": "/ˈæŋkl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "twisted ankle",
+      "ankle boots"
+    ],
+    "examples": [
+      "She sprained her ankle while running.",
+      "I bought new ankle boots for winter."
+    ]
+  },
+  "announce": {
+    "definition": "vt. 宣布，宣告，发表",
+    "phonetic": {
+      "uk": "/əˈnaʊns/",
+      "us": "/əˈnaʊns/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "announce a decision",
+      "officially announce"
+    ],
+    "examples": [
+      "The company announced profits increased by 20%.",
+      "They announced their engagement yesterday."
+    ]
+  },
+  "annoy": {
+    "definition": "vt. 使恼火；打搅",
+    "phonetic": {
+      "uk": "/əˈnɔɪ/",
+      "us": "/əˈnɔɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "annoy someone",
+      "get annoyed"
+    ],
+    "examples": [
+      "His constant humming annoys me.",
+      "Don't let small problems annoy you."
+    ]
+  },
+  "annual": {
+    "definition": "adj. 每年的 n. 年报",
+    "phonetic": {
+      "uk": "/ˈænjuəl/",
+      "us": "/ˈænjuəl/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "annual income",
+      "annual meeting"
+    ],
+    "examples": [
+      "The company publishes an annual report.",
+      "We have an annual holiday in December."
+    ]
+  },
+  "another": {
+    "definition": "adj. 再一个的；别的",
+    "phonetic": {
+      "uk": "/əˈnʌðər/",
+      "us": "/əˈnʌðər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "one another",
+      "each other"
+    ],
+    "examples": [
+      "Would you like another cup of coffee?",
+      "They support one another in difficult times."
+    ]
+  },
+  "answer": {
+    "definition": "n. 回答；响应 v. 回答",
+    "phonetic": {
+      "uk": "/ˈɑːnsər/",
+      "us": "/ˈænsər/"
+    },
+    "partOfSpeech": "n./v.",
+    "phrases": [
+      "answer the phone",
+      "give an answer"
+    ],
+    "examples": [
+      "I didn't know the answer to the question.",
+      "Please answer me truthfully."
+    ]
+  },
+  "anticipate": {
+    "definition": "vt. 预料，预期，期望",
+    "phonetic": {
+      "uk": "/ænˈtɪsɪpeɪt/",
+      "us": "/ænˈtɪsɪpeɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "anticipate problems",
+      "anticipate demand"
+    ],
+    "examples": [
+      "We anticipate a large attendance.",
+      "The company anticipates increased sales."
+    ]
+  },
+  "anxiety": {
+    "definition": "n. 焦虑，忧虑；渴望",
+    "phonetic": {
+      "uk": "/æŋˈzaɪəti/",
+      "us": "/æŋˈzaɪəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "feel anxiety",
+      "reduce anxiety"
+    ],
+    "examples": [
+      "She felt great anxiety before the exam.",
+      "Excessive anxiety can affect your health."
+    ]
+  },
+  "anxious": {
+    "definition": "adj. 忧虑的；渴望的",
+    "phonetic": {
+      "uk": "/ˈæŋkʃəs/",
+      "us": "/ˈæŋkʃəs/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be anxious about",
+      "anxious to"
+    ],
+    "examples": [
+      "Parents are naturally anxious about their children.",
+      "She is anxious to start her new job."
+    ]
+  },
+  "any": {
+    "definition": "adj. 什么，一些；任何的",
+    "phonetic": {
+      "uk": "/ˈeni/",
+      "us": "/ˈeni/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "any more",
+      "in any case"
+    ],
+    "examples": [
+      "Do you have any questions?",
+      "Any child could solve this puzzle."
+    ]
+  },
+  "anybody": {
+    "definition": "pron. 任何人",
+    "phonetic": {
+      "uk": "/ˈenibɒdi/",
+      "us": "/ˈenibɑːdi/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "ask anybody",
+      "help anybody"
+    ],
+    "examples": [
+      "Can anybody help me?",
+      "Anybody could make that mistake."
+    ]
+  },
+  "anyhow": {
+    "definition": "ad. 无论如何",
+    "phonetic": {
+      "uk": "/ˈenihaʊ/",
+      "us": "/ˈenihaʊ/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "anyhow do",
+      "anyhow say"
+    ],
+    "examples": [
+      "Anyhow, we finished the work.",
+      "It's too late to go now, anyhow."
+    ]
+  },
+  "anyone": {
+    "definition": "pron. 任何人",
+    "phonetic": {
+      "uk": "/ˈeniwʌn/",
+      "us": "/ˈeniwʌn/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "ask anyone",
+      "for anyone"
+    ],
+    "examples": [
+      "Is anyone here?",
+      "This gift is for anyone who wants it."
+    ]
+  },
+  "anything": {
+    "definition": "pron. 任何事物；任何东西",
+    "phonetic": {
+      "uk": "/ˈeniθɪŋ/",
+      "us": "/ˈeniθɪŋ/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "do anything",
+      "anything else"
+    ],
+    "examples": [
+      "I would do anything for you.",
+      "Is there anything I can help with?"
+    ]
+  },
+  "anyway": {
+    "definition": "ad. 无论如何",
+    "phonetic": {
+      "uk": "/ˈeniweɪ/",
+      "us": "/ˈeniweɪ/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "anyway about",
+      "anyway now"
+    ],
+    "examples": [
+      "Anyway, let's move on to the next topic.",
+      "It doesn't matter, anyway."
+    ]
+  },
+  "anywhere": {
+    "definition": "ad. 在什么地方",
+    "phonetic": {
+      "uk": "/ˈeniweər/",
+      "us": "/ˈeniwer/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "go anywhere",
+      "anywhere near"
+    ],
+    "examples": [
+      "I can't find my keys anywhere.",
+      "You can find good food anywhere in this city."
+    ]
+  },
+  "apart": {
+    "definition": "ad. 相隔；分开；除去",
+    "phonetic": {
+      "uk": "/əˈpɑːt/",
+      "us": "/əˈpɑːrt/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "apart from",
+      "tear apart"
+    ],
+    "examples": [
+      "The two houses are about 50 meters apart.",
+      "Apart from the cost, everything is fine."
+    ]
+  },
+  "apartment": {
+    "definition": "n. 一套公寓房间",
+    "phonetic": {
+      "uk": "/əˈpɑːtmənt/",
+      "us": "/əˈpɑːrtmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "rent an apartment",
+      "furnished apartment"
+    ],
+    "examples": [
+      "They moved into a new apartment last month.",
+      "The apartment has a beautiful view."
+    ]
+  },
+  "apologize": {
+    "definition": "vi. 道歉，谢罪，认错",
+    "phonetic": {
+      "uk": "/əˈpɒlədʒaɪz/",
+      "us": "/əˈpɑːlədʒaɪz/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "apologize for",
+      "apologize to"
+    ],
+    "examples": [
+      "Please accept my sincere apologies.",
+      "He apologized for being late."
+    ]
+  },
+  "apology": {
+    "definition": "n. 道歉，认错，谢罪",
+    "phonetic": {
+      "uk": "/əˈpɒlədʒi/",
+      "us": "/əˈpɑːlədʒi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "offer an apology",
+      "accept an apology"
+    ],
+    "examples": [
+      "She made a formal apology to the victim.",
+      "I owe you an apology for my mistake."
+    ]
+  },
+  "apparent": {
+    "definition": "adj. 表面上的；明显的",
+    "phonetic": {
+      "uk": "/əˈpærənt/",
+      "us": "/əˈpærənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "apparent reason",
+      "become apparent"
+    ],
+    "examples": [
+      "The apparent cause of the fire was electrical.",
+      "It became apparent that he was lying."
+    ]
+  },
+  "appeal": {
+    "definition": "vi. & n. 呼吁；申述",
+    "phonetic": {
+      "uk": "/əˈpiːl/",
+      "us": "/əˈpiːl/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "appeal to",
+      "court of appeal"
+    ],
+    "examples": [
+      "The organization made an appeal for donations.",
+      "This book appeals to readers of all ages."
+    ]
+  },
+  "appear": {
+    "definition": "vi. 出现；来到；似乎",
+    "phonetic": {
+      "uk": "/əˈpɪər/",
+      "us": "/əˈpɪr/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "appear to be",
+      "suddenly appear"
+    ],
+    "examples": [
+      "A rainbow appeared after the rain.",
+      "She appears to know what she's doing."
+    ]
+  },
+  "appearance": {
+    "definition": "n. 出现，来到；外观",
+    "phonetic": {
+      "uk": "/əˈpɪərəns/",
+      "us": "/əˈpɪrəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an appearance",
+      "physical appearance"
+    ],
+    "examples": [
+      "Her sudden appearance surprised everyone.",
+      "Don't judge by appearance alone."
+    ]
+  },
+  "appendix": {
+    "definition": "n. 附录，阑尾",
+    "phonetic": {
+      "uk": "/əˈpendɪks/",
+      "us": "/əˈpendɪks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "inflamed appendix",
+      "appendix operation"
+    ],
+    "examples": [
+      "The book has a detailed appendix.",
+      "He had surgery to remove his appendix."
+    ]
+  },
+  "appetite": {
+    "definition": "n. 食欲，胃口；欲望",
+    "phonetic": {
+      "uk": "/ˈæpɪtaɪt/",
+      "us": "/ˈæpɪtaɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "lose one's appetite",
+      "appetite for"
+    ],
+    "examples": [
+      "Exercise improves your appetite.",
+      "He has a healthy appetite for learning."
+    ]
+  },
+  "apple": {
+    "definition": "n. 苹果，苹果树",
+    "phonetic": {
+      "uk": "/ˈæpl/",
+      "us": "/ˈæpl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "apple pie",
+      "apple juice"
+    ],
+    "examples": [
+      "An apple a day keeps the doctor away.",
+      "She baked an apple pie for dessert."
+    ]
+  },
+  "appliance": {
+    "definition": "n. 用具，器具，器械",
+    "phonetic": {
+      "uk": "/əˈplaɪəns/",
+      "us": "/əˈplaɪəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "home appliance",
+      "electric appliance"
+    ],
+    "examples": [
+      "The store sells kitchen appliances.",
+      "We need to replace some old appliances."
+    ]
+  },
+  "applicable": {
+    "definition": "adj. 能应用的；适当的",
+    "phonetic": {
+      "uk": "/ˈæplɪkəbl/",
+      "us": "/ˈæplɪkəbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "applicable to",
+      "widely applicable"
+    ],
+    "examples": [
+      "This rule is applicable to all students.",
+      "The new technology is not yet applicable here."
+    ]
+  },
+  "application": {
+    "definition": "n. 请求，申请；施用",
+    "phonetic": {
+      "uk": "/ˌæplɪˈkeɪʃn/",
+      "us": "/ˌæplɪˈkeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "submit an application",
+      "job application"
+    ],
+    "examples": [
+      "Please submit your application by Friday.",
+      "The mobile application has many features."
+    ]
+  },
+  "apply": {
+    "definition": "vt. 应用，实施，使用",
+    "phonetic": {
+      "uk": "/əˈplaɪ/",
+      "us": "/əˈplaɪ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "apply for",
+      "apply to"
+    ],
+    "examples": [
+      "I want to apply for a scholarship.",
+      "This theory applies to many situations."
+    ]
+  },
+  "appoint": {
+    "definition": "vt. 任命，委任；约定",
+    "phonetic": {
+      "uk": "/əˈpɔɪnt/",
+      "us": "/əˈpɔɪnt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "appoint as",
+      "appoint to"
+    ],
+    "examples": [
+      "The president appointed a new minister.",
+      "They appointed a meeting for next Tuesday."
+    ]
+  },
+  "appointment": {
+    "definition": "n. 任命；约会，预约",
+    "phonetic": {
+      "uk": "/əˈpɔɪntmənt/",
+      "us": "/əˈpɔɪntmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make an appointment",
+      "keep an appointment"
+    ],
+    "examples": [
+      "I have an appointment with the dentist.",
+      "She received a permanent appointment."
+    ]
+  },
+  "appreciate": {
+    "definition": "vt. 感激；欣赏",
+    "phonetic": {
+      "uk": "/əˈpriːʃieɪt/",
+      "us": "/əˈpriːʃieɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "appreciate it",
+      "fully appreciate"
+    ],
+    "examples": [
+      "I really appreciate your help.",
+      "She appreciates art and music."
+    ]
+  },
+  "approach": {
+    "definition": "vt. 向…靠近 n. 靠近",
+    "phonetic": {
+      "uk": "/əˈprəʊtʃ/",
+      "us": "/əˈproʊtʃ/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "approach to",
+      "new approach"
+    ],
+    "examples": [
+      "We need to approach this problem differently.",
+      "An approaching storm is visible."
+    ]
+  },
+  "appropriate": {
+    "definition": "adj. 适当的，恰当的",
+    "phonetic": {
+      "uk": "/əˈprəʊpriət/",
+      "us": "/əˈproʊpriət/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "appropriate action",
+      "appropriate time"
+    ],
+    "examples": [
+      "Please wear appropriate clothing.",
+      "His comments were not appropriate."
+    ]
+  },
+  "approval": {
+    "definition": "n. 赞成，同意；批准",
+    "phonetic": {
+      "uk": "/əˈpruːvl/",
+      "us": "/əˈpruːvl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "seek approval",
+      "give approval"
+    ],
+    "examples": [
+      "The project requires official approval.",
+      "Her mother gave her approval."
+    ]
+  },
+  "approve": {
+    "definition": "vt. 赞成，称许；批准",
+    "phonetic": {
+      "uk": "/əˈpruːv/",
+      "us": "/əˈpruːv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "approve of",
+      "disapprove of"
+    ],
+    "examples": [
+      "The committee approved the proposal.",
+      "His parents approve of his choice."
+    ]
+  },
+  "approximately": {
+    "definition": "ad. 大约，大概",
+    "phonetic": {
+      "uk": "/əˈprɒksɪmətli/",
+      "us": "/əˈprɑːksɪmətli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "approximately equal",
+      "approximately how many"
+    ],
+    "examples": [
+      "The journey takes approximately three hours.",
+      "There were approximately 200 people at the event."
+    ]
+  },
+  "arbitrary": {
+    "definition": "adj. 随心所欲的；专断的",
+    "phonetic": {
+      "uk": "/ˈɑːbɪtrəri/",
+      "us": "/ˈɑːrbɪtreri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "arbitrary decision",
+      "arbitrary power"
+    ],
+    "examples": [
+      "The decision seemed arbitrary.",
+      "He made an arbitrary choice."
+    ]
+  },
+  "architect": {
+    "definition": "n. 建筑师",
+    "phonetic": {
+      "uk": "/ˈɑːkɪtekt/",
+      "us": "/ˈɑːrkɪtekt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "chief architect",
+      "landscape architect"
+    ],
+    "examples": [
+      "The architect designed a modern building.",
+      "He is a famous architect known for his creativity."
+    ]
+  },
+  "architecture": {
+    "definition": "n. 建筑学；建筑式样",
+    "phonetic": {
+      "uk": "/ˈɑːkɪtektʃər/",
+      "us": "/ˈɑːrkɪtektʃər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "modern architecture",
+      "Gothic architecture"
+    ],
+    "examples": [
+      "She studies architecture at university.",
+      "The city's architecture is impressive."
+    ]
+  },
+  "area": {
+    "definition": "n. 面积；地区；领域",
+    "phonetic": {
+      "uk": "/ˈeəriə/",
+      "us": "/ˈeriə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in the area of",
+      "remote area"
+    ],
+    "examples": [
+      "What is the area of this room?",
+      "We need to improve in the area of customer service."
+    ]
+  },
+  "argue": {
+    "definition": "vi. 争论，争辩，辩论",
+    "phonetic": {
+      "uk": "/ˈɑːɡjuː/",
+      "us": "/ˈɑːrɡjuː/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "argue about",
+      "argue with"
+    ],
+    "examples": [
+      "They often argue about politics.",
+      "Don't argue with your parents."
+    ]
+  },
+  "argument": {
+    "definition": "n. 争论，辩论；理由",
+    "phonetic": {
+      "uk": "/ˈɑːɡjumənt/",
+      "us": "/ˈɑːrɡjumənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "get into an argument",
+      "strong argument"
+    ],
+    "examples": [
+      "They had a heated argument.",
+      "Her argument was convincing."
+    ]
+  },
+  "arise": {
+    "definition": "vi. 出现；由…引起",
+    "phonetic": {
+      "uk": "/əˈraɪz/",
+      "us": "/əˈraɪz/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "arise from",
+      "problems arise"
+    ],
+    "examples": [
+      "Problems may arise from this decision.",
+      "A new opportunity has arisen."
+    ]
+  },
+  "arithmetic": {
+    "definition": "n. 算术，四则运算",
+    "phonetic": {
+      "uk": "/əˈrɪθmətɪk/",
+      "us": "/əˈrɪθmətɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "mental arithmetic",
+      "basic arithmetic"
+    ],
+    "examples": [
+      "Children learn arithmetic in primary school.",
+      "The math test covers basic arithmetic."
+    ]
+  },
+  "arm": {
+    "definition": "n. 手臂；武器，vt. 武装",
+    "phonetic": {
+      "uk": "/ɑːm/",
+      "us": "/ɑːrm/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "in arms",
+      "take up arms"
+    ],
+    "examples": [
+      "She held the baby in her arms.",
+      "The rebels decided to take up arms."
+    ]
+  },
+  "army": {
+    "definition": "n. 军队，陆军",
+    "phonetic": {
+      "uk": "/ˈɑːmi/",
+      "us": "/ˈɑːrmi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "join the army",
+      "army officer"
+    ],
+    "examples": [
+      "He served in the army for five years.",
+      "The army provides training and education."
+    ]
+  },
+  "around": {
+    "definition": "prep. 在…周围",
+    "phonetic": {
+      "uk": "/əˈraʊnd/",
+      "us": "/əˈraʊnd/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "around the world",
+      "get around"
+    ],
+    "examples": [
+      "We walked around the lake.",
+      "She has traveled around the world."
+    ]
+  },
+  "arouse": {
+    "definition": "vt. 引起，唤起；唤醒",
+    "phonetic": {
+      "uk": "/əˈraʊz/",
+      "us": "/əˈraʊz/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "arouse suspicion",
+      "arouse interest"
+    ],
+    "examples": [
+      "His behavior aroused suspicion.",
+      "The lecture aroused student interest."
+    ]
+  },
+  "arrange": {
+    "definition": "vt. 整理，分类，排列",
+    "phonetic": {
+      "uk": "/əˈreɪndʒ/",
+      "us": "/əˈreɪndʒ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "arrange for",
+      "arrange a meeting"
+    ],
+    "examples": [
+      "Please arrange the books on the shelf.",
+      "I will arrange a meeting for next week."
+    ]
+  },
+  "arrangement": {
+    "definition": "n. 整理，排列；安排",
+    "phonetic": {
+      "uk": "/əˈreɪndʒmənt/",
+      "us": "/əˈreɪndʒmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "make arrangements",
+      "special arrangement"
+    ],
+    "examples": [
+      "We made arrangements for the trip.",
+      "The seating arrangement is uncomfortable."
+    ]
+  },
+  "arrest": {
+    "definition": "vt. 逮捕，拘留",
+    "phonetic": {
+      "uk": "/əˈrest/",
+      "us": "/əˈrest/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "under arrest",
+      "arrest warrant"
+    ],
+    "examples": [
+      "The police arrested the suspect.",
+      "He was arrested for fraud."
+    ]
+  },
+  "arrival": {
+    "definition": "n. 到达；到来；到达者",
+    "phonetic": {
+      "uk": "/əˈraɪvl/",
+      "us": "/əˈraɪvl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on arrival",
+      "await arrival"
+    ],
+    "examples": [
+      "We await the king's arrival.",
+      "Please confirm your arrival time."
+    ]
+  },
+  "arrive": {
+    "definition": "vi. 到达；来临；达到",
+    "phonetic": {
+      "uk": "/əˈraɪv/",
+      "us": "/əˈraɪv/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "arrive at",
+      "arrive in"
+    ],
+    "examples": [
+      "When did you arrive in London?",
+      "We need to arrive at a conclusion."
+    ]
+  },
+  "arrow": {
+    "definition": "n. 箭；箭头",
+    "phonetic": {
+      "uk": "/ˈærəʊ/",
+      "us": "/ˈæroʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "shoot an arrow",
+      "arrow pointing"
+    ],
+    "examples": [
+      "An arrow pierced the target.",
+      "The sign shows an arrow pointing to the exit."
+    ]
+  },
+  "art": {
+    "definition": "n. 艺术，美术；技术",
+    "phonetic": {
+      "uk": "/ɑːt/",
+      "us": "/ɑːrt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "work of art",
+      "art gallery"
+    ],
+    "examples": [
+      "She has a great interest in art.",
+      "This painting is a true work of art."
+    ]
+  },
+  "article": {
+    "definition": "n. 文章；条款；物品",
+    "phonetic": {
+      "uk": "/ˈɑːtɪkl/",
+      "us": "/ˈɑːrtɪkl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "news article",
+      "write an article"
+    ],
+    "examples": [
+      "I read an interesting article about health.",
+      "The contract contains several important articles."
+    ]
+  },
+  "artificial": {
+    "definition": "adj. 人工的；娇揉造作的",
+    "phonetic": {
+      "uk": "/ˌɑːtɪˈfɪʃl/",
+      "us": "/ˌɑːrtɪˈfɪʃl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "artificial intelligence",
+      "artificial light"
+    ],
+    "examples": [
+      "The flowers are artificial.",
+      "Artificial intelligence is transforming society."
+    ]
+  },
+  "artist": {
+    "definition": "n. 艺术家，美术家",
+    "phonetic": {
+      "uk": "/ˈɑːtɪst/",
+      "us": "/ˈɑːrtɪst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "famous artist",
+      "graphic artist"
+    ],
+    "examples": [
+      "She is a talented artist.",
+      "The artist exhibited her works in Paris."
+    ]
+  },
+  "artistic": {
+    "definition": "adj. 艺术的；艺术家的",
+    "phonetic": {
+      "uk": "/ɑːˈtɪstɪk/",
+      "us": "/ɑːrˈtɪstɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "artistic ability",
+      "artistic value"
+    ],
+    "examples": [
+      "She has great artistic talent.",
+      "The film has high artistic value."
+    ]
+  }
+}

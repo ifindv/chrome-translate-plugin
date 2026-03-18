@@ -1,0 +1,4354 @@
+{
+  "ash": {
+    "definition": "n. 灰，灰末；骨灰",
+    "phonetic": {
+      "uk": "/æʃ/",
+      "us": "/æʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "volcanic ash",
+      "cigarette ash"
+    ],
+    "examples": [
+      "The volcano spewed ash into the sky.",
+      "After the fire, only ash remained."
+    ]
+  },
+  "ashamed": {
+    "definition": "adj. 惭愧的；羞耻的",
+    "phonetic": {
+      "uk": "/əˈʃeɪmd/",
+      "us": "/əˈʃeɪmd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be ashamed of",
+      "feel ashamed"
+    ],
+    "examples": [
+      "You should be ashamed of your behavior.",
+      "She felt ashamed for telling a lie."
+    ]
+  },
+  "asia": {
+    "definition": "n. 亚洲",
+    "phonetic": {
+      "uk": "/ˈeɪʒə/",
+      "us": "/ˈeɪʒə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Southeast Asia",
+      "East Asia"
+    ],
+    "examples": [
+      "Asia is the largest continent on Earth.",
+      "Many countries in Asia are developing rapidly."
+    ]
+  },
+  "asian": {
+    "definition": "adj. 亚洲的 n. 亚洲人",
+    "phonetic": {
+      "uk": "/ˈeɪʃn/",
+      "us": "/ˈeɪʃn/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "Asian countries",
+      "Asian culture"
+    ],
+    "examples": [
+      "She is studying Asian history.",
+      "The Asian economy is growing rapidly."
+    ]
+  },
+  "aside": {
+    "definition": "ad. 在旁边",
+    "phonetic": {
+      "uk": "/əˈsaɪd/",
+      "us": "/əˈsaɪd/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "set aside",
+      "put aside"
+    ],
+    "examples": [
+      "He set aside some money for emergencies.",
+      "Please move aside so I can pass."
+    ]
+  },
+  "ask": {
+    "definition": "vt. 问；请求；邀请",
+    "phonetic": {
+      "uk": "/ɑːsk/",
+      "us": "/æsk/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "ask for",
+      "ask the way"
+    ],
+    "examples": [
+      "Don't ask me impossible questions.",
+      "I will ask him for help."
+    ]
+  },
+  "assemble": {
+    "definition": "vt. 集合，召集；装配",
+    "phonetic": {
+      "uk": "/əˈsembl/",
+      "us": "/əˈsembl/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assemble a team",
+      "assemble furniture"
+    ],
+    "examples": [
+      "We assembled in the conference room.",
+      "It took hours to assemble the bike."
+    ]
+  },
+  "assembly": {
+    "definition": "n. 集合；集会；装配",
+    "phonetic": {
+      "uk": "/əˈsembli/",
+      "us": "/əˈsembli/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "general assembly",
+      "assembly line"
+    ],
+    "examples": [
+      "The assembly starts at 9 AM.",
+      "Cars are built on assembly lines."
+    ]
+  },
+  "assert": {
+    "definition": "vt. 断言，宣称；维护",
+    "phonetic": {
+      "uk": "/əˈsɜːt/",
+      "us": "/əˈsɜːrt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assert authority",
+      "assert oneself"
+    ],
+    "examples": [
+      "He asserted his innocence.",
+      "You need to assert your rights."
+    ]
+  },
+  "assess": {
+    "definition": "vt. 对财产进行估价",
+    "phonetic": {
+      "uk": "/əˈses/",
+      "us": "/əˈses/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assess the situation",
+      "assess damage"
+    ],
+    "examples": [
+      "We need to assess the risks.",
+      "The insurance company assessed the car damage."
+    ]
+  },
+  "asset": {
+    "definition": "n. 资产，财产",
+    "phonetic": {
+      "uk": "/ˈæset/",
+      "us": "/ˈæset/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fixed assets",
+      "valuable asset"
+    ],
+    "examples": [
+      "The company's assets include buildings and equipment.",
+      "Experience is a valuable asset."
+    ]
+  },
+  "assign": {
+    "definition": "vt. 指派；分配；指定",
+    "phonetic": {
+      "uk": "/əˈsaɪn/",
+      "us": "/əˈsaɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assign work",
+      "assign to"
+    ],
+    "examples": [
+      "The teacher assigned homework.",
+      "She was assigned a new project."
+    ]
+  },
+  "assignment": {
+    "definition": "n. 任务，指定的作业",
+    "phonetic": {
+      "uk": "/əˈsaɪnmənt/",
+      "us": "/əˈsaɪnmənt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "complete the assignment",
+      "writing assignment"
+    ],
+    "examples": [
+      "I have a math assignment due tomorrow.",
+      "She found the assignment challenging."
+    ]
+  },
+  "assist": {
+    "definition": "vt. 援助，帮助；搀扶",
+    "phonetic": {
+      "uk": "/əˈsɪst/",
+      "us": "/əˈsɪst/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assist someone",
+      "assist with"
+    ],
+    "examples": [
+      "I will assist you with your luggage.",
+      "The medicine assists in recovery."
+    ]
+  },
+  "assistance": {
+    "definition": "n. 协助，援助",
+    "phonetic": {
+      "uk": "/əˈsɪstəns/",
+      "us": "/əˈsɪstəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "financial assistance",
+      "ask for assistance"
+    ],
+    "examples": [
+      "We appreciate your assistance.",
+      "The organization provides assistance to the poor."
+    ]
+  },
+  "associate": {
+    "definition": "vi. 交往 n. 伙伴，同事",
+    "phonetic": {
+      "uk": "/əˈsəʊʃieɪt/",
+      "us": "/əˈsoʊʃieɪt/"
+    },
+    "partOfSpeech": "vi./n.",
+    "phrases": [
+      "associate with",
+      "business associate"
+    ],
+    "examples": [
+      "I don't associate with those people.",
+      "She is my business associate."
+    ]
+  },
+  "association": {
+    "definition": "n. 协会，团体；联合",
+    "phonetic": {
+      "uk": "/əˌsəʊʃiˈeɪʃn/",
+      "us": "/əˌsoʊʃiˈeɪʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "professional association",
+      "form an association"
+    ],
+    "examples": [
+      "He is a member of the medical association.",
+      "The association protects workers' rights."
+    ]
+  },
+  "assume": {
+    "definition": "vt. 假定；承担；呈现",
+    "phonetic": {
+      "uk": "/əˈsjuːm/",
+      "us": "/əˈsuːm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assume responsibility",
+      "assume that"
+    ],
+    "examples": [
+      "I assume you'll come to the party.",
+      "She assumed control of the project."
+    ]
+  },
+  "assure": {
+    "definition": "vt. 使确信；向…保证",
+    "phonetic": {
+      "uk": "/əˈʃɔːr/",
+      "us": "/əˈʃʊr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "assure of",
+      "rest assured"
+    ],
+    "examples": [
+      "I assure you everything will be fine.",
+      "Please assure him of our support."
+    ]
+  },
+  "astonish": {
+    "definition": "vt. 使惊讶，使吃惊",
+    "phonetic": {
+      "uk": "/əˈstɒnɪʃ/",
+      "us": "/əˈstɑːnɪʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "be astonished by",
+      "astonished at"
+    ],
+    "examples": [
+      "The news astonished everyone.",
+      "I was astonished by his behavior."
+    ]
+  },
+  "atmosphere": {
+    "definition": "n. 大气；气氛",
+    "phonetic": {
+      "uk": "/ˈætməsfɪər/",
+      "us": "/ˈætməsfɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "atmospheric pressure",
+      "create atmosphere"
+    ],
+    "examples": [
+      "Earth's atmosphere protects us from radiation.",
+      "The restaurant has a cozy atmosphere."
+    ]
+  },
+  "atom": {
+    "definition": "n. 原子",
+    "phonetic": {
+      "uk": "/ˈætəm/",
+      "us": "/ˈætəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "atomic energy",
+      "split the atom"
+    ],
+    "examples": [
+      "An atom is the smallest unit of matter.",
+      "Nuclear power involves splitting atoms."
+    ]
+  },
+  "attach": {
+    "definition": "vt. 缚，系，贴；附加",
+    "phonetic": {
+      "uk": "/əˈtætʃ/",
+      "us": "/əˈtætʃ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "attach to",
+      "attach importance to"
+    ],
+    "examples": [
+      "Please attach the file to your email.",
+      "We attach great importance to education."
+    ]
+  },
+  "attack": {
+    "definition": "vt. & vi. & n. 攻击，进攻",
+    "phonetic": {
+      "uk": "/əˈtæk/",
+      "us": "/əˈtæk/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "heart attack",
+      "launch an attack"
+    ],
+    "examples": [
+      "The dog attacked the stranger.",
+      "He had a heart attack yesterday."
+    ]
+  },
+  "attain": {
+    "definition": "vt. 达到，获得，完成",
+    "phonetic": {
+      "uk": "/əˈteɪn/",
+      "us": "/əˈteɪn/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "attain success",
+      "attain one's goal"
+    ],
+    "examples": [
+      "She attained great success in her career.",
+      "Hard work helped him attain his goals."
+    ]
+  },
+  "attempt": {
+    "definition": "vt. 尝试，试图 n. 企图",
+    "phonetic": {
+      "uk": "/əˈtempt/",
+      "us": "/əˈtempt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "make an attempt",
+      "attempt to do"
+    ],
+    "examples": [
+      "I attempted to call you.",
+      "The rescue attempt failed."
+    ]
+  },
+  "attend": {
+    "definition": "vt. 出席；照顾，护理",
+    "phonetic": {
+      "uk": "/əˈtend/",
+      "us": "/əˈtend/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "attend school",
+      "attend a meeting"
+    ],
+    "examples": [
+      "Please attend the meeting on time.",
+      "Doctors attend to patients."
+    ]
+  },
+  "attention": {
+    "definition": "n. 注意，留心；注意",
+    "phonetic": {
+      "uk": "/əˈtenʃn/",
+      "us": "/əˈtenʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pay attention",
+      "attract attention"
+    ],
+    "examples": [
+      "Please pay attention to the instructions.",
+      "Her bright clothes attracted attention."
+    ]
+  },
+  "attitude": {
+    "definition": "n. 态度，看法；姿势",
+    "phonetic": {
+      "uk": "/ˈætɪtjuːd/",
+      "us": "/ˈætɪtuːd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "positive attitude",
+      "attitude towards"
+    ],
+    "examples": [
+      "She has a positive attitude towards life.",
+      "His attitude changed after the incident."
+    ]
+  },
+  "attorney": {
+    "definition": "n. 代理人；辩护律师",
+    "phonetic": {
+      "uk": "/əˈtɜːni/",
+      "us": "/əˈtɜːrni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "defense attorney",
+      "power of attorney"
+    ],
+    "examples": [
+      "She hired an attorney to handle her case.",
+      "The attorney presented strong arguments."
+    ]
+  },
+  "attract": {
+    "definition": "vt. 吸引；引起，诱惑",
+    "phonetic": {
+      "uk": "/əˈtrækt/",
+      "us": "/əˈtrækt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "attract attention",
+      "attract tourists"
+    ],
+    "examples": [
+      "Flowers attract bees with their scent.",
+      "The new store attracted many customers."
+    ]
+  },
+  "attraction": {
+    "definition": "n. 吸引；吸引力；引力",
+    "phonetic": {
+      "uk": "/əˈtrækʃn/",
+      "us": "/əˈtrækʃn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tourist attraction",
+      "attraction between"
+    ],
+    "examples": [
+      "The Eiffel Tower is a major tourist attraction.",
+      "There's a strong attraction between them."
+    ]
+  },
+  "attractive": {
+    "definition": "adj. 有吸引力的",
+    "phonetic": {
+      "uk": "/əˈtræktɪv/",
+      "us": "/əˈtræktɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "attractive offer",
+      "attractive appearance"
+    ],
+    "examples": [
+      "The salary package is very attractive.",
+      "She has an attractive personality."
+    ]
+  },
+  "attribute": {
+    "definition": "vt. 把…归因于 n. 属性",
+    "phonetic": {
+      "uk": "/əˈtrɪbjuːt/",
+      "us": "/əˈtrɪbjuːt/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "attribute to",
+      "personal attribute"
+    ],
+    "examples": [
+      "He attributes his success to hard work.",
+      "Kindness is an admirable attribute."
+    ]
+  },
+  "audience": {
+    "definition": "n. 听众，观众，读者",
+    "phonetic": {
+      "uk": "/ˈɔːdiəns/",
+      "us": "/ˈɔːdiəns/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "target audience",
+      "audience applause"
+    ],
+    "examples": [
+      "The audience applauded loudly.",
+      "The film appeals to a wide audience."
+    ]
+  },
+  "author": {
+    "definition": "n. 作者，作家",
+    "phonetic": {
+      "uk": "/ˈɔːθər/",
+      "us": "/ˈɔːθər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "famous author",
+      "book author"
+    ],
+    "examples": [
+      "Shakespeare is a famous author.",
+      "The author signed books at the event."
+    ]
+  },
+  "authority": {
+    "definition": "n. 当局，官方；权力",
+    "phonetic": {
+      "uk": "/ɔːˈθɒrəti/",
+      "us": "/əˈθɔːrəti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "local authority",
+      "in authority"
+    ],
+    "examples": [
+      "The local authority approved the construction.",
+      "He has authority over the department."
+    ]
+  },
+  "automatic": {
+    "definition": "adj. 自动的；机械的",
+    "phonetic": {
+      "uk": "/ˌɔːtəˈmætɪk/",
+      "us": "/ˌɔːtəˈmætɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "automatic door",
+      "automatic transmission"
+    ],
+    "examples": [
+      "The house has an automatic lighting system.",
+      "It was almost automatic for him."
+    ]
+  },
+  "automobile": {
+    "definition": "n. 汽车，机动车",
+    "phonetic": {
+      "uk": "/ˈɔːtəməbiːl/",
+      "us": "/ˈɔːtəmoʊbiːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "automobile industry",
+      "automobile accident"
+    ],
+    "examples": [
+      "The automobile industry is changing.",
+      "He drives an expensive automobile."
+    ]
+  },
+  "auxiliary": {
+    "definition": "adj. 辅助的；附属的",
+    "phonetic": {
+      "uk": "/ɔːɡˈzɪliəri/",
+      "us": "/ɔːɡˈzɪliəri/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "auxiliary verb",
+      "auxiliary equipment"
+    ],
+    "examples": [
+      "' be' is an auxiliary verb.",
+      "The hospital has auxiliary equipment."
+    ]
+  },
+  "available": {
+    "definition": "adj. 可利用的；通用的",
+    "phonetic": {
+      "uk": "/əˈveɪləbl/",
+      "us": "/əˈveɪləbl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be available",
+      "make available"
+    ],
+    "examples": [
+      "Is this seat available?",
+      "The manager is not available right now."
+    ]
+  },
+  "avenue": {
+    "definition": "n. 大街；通途",
+    "phonetic": {
+      "uk": "/ˈævənjuː/",
+      "us": "/ˈævənuː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Fifth Avenue",
+      "tree-lined avenue"
+    ],
+    "examples": [
+      "They walked down the avenue.",
+      "The shop is located on Fifth Avenue."
+    ]
+  },
+  "average": {
+    "definition": "adj. 平均的；普通的 n. 平均",
+    "phonetic": {
+      "uk": "/ˈævərɪdʒ/",
+      "us": "/ˈævərɪdʒ/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "on average",
+      "above average"
+    ],
+    "examples": [
+      "The average temperature has risen.",
+      "On average, we sleep eight hours a day."
+    ]
+  },
+  "avoid": {
+    "definition": "vt. 避免，逃避；撒开",
+    "phonetic": {
+      "uk": "/əˈvɔɪd/",
+      "us": "/əˈvɔɪd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "avoid doing",
+      "try to avoid"
+    ],
+    "examples": [
+      "You should avoid unhealthy foods.",
+      "We managed to avoid the traffic."
+    ]
+  },
+  "await": {
+    "definition": "vt. 等候，期待",
+    "phonetic": {
+      "uk": "/əˈweɪt/",
+      "us": "/əˈweɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "await reply",
+      "await instructions"
+    ],
+    "examples": [
+      "We await your decision.",
+      "The package awaits your signature."
+    ]
+  },
+  "awake": {
+    "definition": "adj. 醒着的 vt. 唤醒",
+    "phonetic": {
+      "uk": "/əˈweɪk/",
+      "us": "/əˈweɪk/"
+    },
+    "partOfSpeech": "adj./vt.",
+    "phrases": [
+      "stay awake",
+      "awake to"
+    ],
+    "examples": [
+      "I was awake all night.",
+      "She is finally awake to the truth."
+    ]
+  },
+  "award": {
+    "definition": "n. 奖，奖品；判定",
+    "phonetic": {
+      "uk": "/əˈwɔːd/",
+      "us": "/əˈwɔːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "win an award",
+      "award ceremony"
+    ],
+    "examples": [
+      "She won an award for her performance.",
+      "The Nobel Prize is a prestigious award."
+    ]
+  },
+  "aware": {
+    "definition": "adj. 知道的，意识到的",
+    "phonetic": {
+      "uk": "/əˈweər/",
+      "us": "/əˈwer/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be aware of",
+      "become aware"
+    ],
+    "examples": [
+      "Are you aware of the rules?",
+      "I became aware of someone watching me."
+    ]
+  },
+  "away": {
+    "definition": "ad. 离开，远离；…去",
+    "phonetic": {
+      "uk": "/əˈweɪ/",
+      "us": "/əˈweɪ/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "far away",
+      "right away"
+    ],
+    "examples": [
+      "She is away on business.",
+      "Please take the trash away."
+    ]
+  },
+  "awesome": {
+    "definition": "adj. 令人敬畏的，可怕的",
+    "phonetic": {
+      "uk": "/ˈɔːsəm/",
+      "us": "/ˈɔːsəm/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "awesome power",
+      "totally awesome"
+    ],
+    "examples": [
+      "The view is awesome.",
+      "He demonstrated awesome skill."
+    ]
+  },
+  "awful": {
+    "definition": "adj. 令人不愉快的；极度的",
+    "phonetic": {
+      "uk": "/ˈɔːfl/",
+      "us": "/ˈɔːfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "awful weather",
+      "feel awful"
+    ],
+    "examples": [
+      "The movie was awful.",
+      "I feel awful about what happened."
+    ]
+  },
+  "awkward": {
+    "definition": "adj. 笨拙的；尴尬的",
+    "phonetic": {
+      "uk": "/ˈɔːkwəd/",
+      "us": "/ˈɔːkwərd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "awkward situation",
+      "awkward moment"
+    ],
+    "examples": [
+      "There was an awkward silence.",
+      "The question put him in an awkward position."
+    ]
+  },
+  "axe": {
+    "definition": "n. 斧",
+    "phonetic": {
+      "uk": "/æks/",
+      "us": "/æks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "an axe to grind",
+      "chopping axe"
+    ],
+    "examples": [
+      "He used an axe to chop wood.",
+      "The fireman carried an axe."
+    ]
+  },
+  "bachelor": {
+    "definition": "n. 单身汉；学士",
+    "phonetic": {
+      "uk": "/ˈbætʃələr/",
+      "us": "/ˈbætʃələr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bachelor's degree",
+      "eligible bachelor"
+    ],
+    "examples": [
+      "He earned his bachelor's degree last year.",
+      "She is a confirmed bachelor."
+    ]
+  },
+  "back": {
+    "definition": "n. 背；背面 ad. 在后面",
+    "phonetic": {
+      "uk": "/bæk/",
+      "us": "/bæk/"
+    },
+    "partOfSpeech": "n./adv.",
+    "phrases": [
+      "go back",
+      "turn back"
+    ],
+    "examples": [
+      "She sat with her back to the window.",
+      "Please go back to your seat."
+    ]
+  },
+  "background": {
+    "definition": "n. 背景，后景，经历",
+    "phonetic": {
+      "uk": "/ˈbækɡraʊnd/",
+      "us": "/ˈbækɡraʊnd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "family background",
+      "in the background"
+    ],
+    "examples": [
+      "She has a background in engineering.",
+      "The music played softly in the background."
+    ]
+  },
+  "backward": {
+    "definition": "adj. 向后的；倒的 ad. 向后",
+    "phonetic": {
+      "uk": "/ˈbækwəd/",
+      "us": "/ˈbækwərd/"
+    },
+    "partOfSpeech": "adj./adv.",
+    "phrases": [
+      "go backward",
+      "backward and forward"
+    ],
+    "examples": [
+      "He looked backward for a moment.",
+      "The country is moving backward."
+    ]
+  },
+  "bacteria": {
+    "definition": "n. 细菌",
+    "phonetic": {
+      "uk": "/bækˈtɪəriə/",
+      "us": "/bækˈtɪriə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "harmful bacteria",
+      "good bacteria"
+    ],
+    "examples": [
+      "Antibiotics kill bacteria.",
+      "Some bacteria are beneficial to our health."
+    ]
+  },
+  "bad": {
+    "definition": "adj. 坏的，恶的；严重的",
+    "phonetic": {
+      "uk": "/bæd/",
+      "us": "/bæd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bad habit",
+      "go bad"
+    ],
+    "examples": [
+      "He has a bad cold.",
+      "Don't develop bad habits."
+    ]
+  },
+  "badly": {
+    "definition": "ad. 坏，差；严重地",
+    "phonetic": {
+      "uk": "/ˈbædli/",
+      "us": "/ˈbædli/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "badly hurt",
+      "badly need"
+    ],
+    "examples": [
+      "He was badly injured in the accident.",
+      "We badly need your help."
+    ]
+  },
+  "bag": {
+    "definition": "n. 袋，包，钱包，背包",
+    "phonetic": {
+      "uk": "/bæɡ/",
+      "us": "/bæɡ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "shopping bag",
+      "pack a bag"
+    ],
+    "examples": [
+      "She carried a shopping bag.",
+      "Please pack your bags carefully."
+    ]
+  },
+  "baggage": {
+    "definition": "n. 行李",
+    "phonetic": {
+      "uk": "/ˈbæɡɪdʒ/",
+      "us": "/ˈbæɡɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "check in baggage",
+      "excess baggage"
+    ],
+    "examples": [
+      "Please wait for your baggage.",
+      "How much baggage are you allowed?"
+    ]
+  },
+  "bake": {
+    "definition": "vt. 烤，烘，焙；烧硬",
+    "phonetic": {
+      "uk": "/beɪk/",
+      "us": "/beɪk/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bake bread",
+      "bake a cake"
+    ],
+    "examples": [
+      "She bakes cookies every weekend.",
+      "The bread needs to bake for 30 minutes."
+    ]
+  },
+  "balance": {
+    "definition": "vt. 使平衡；称 n. 天平",
+    "phonetic": {
+      "uk": "/ˈbæləns/",
+      "us": "/ˈbæləns/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "lose balance",
+      "keep balance"
+    ],
+    "examples": [
+      "She lost her balance and fell.",
+      "You need to balance work and life."
+    ]
+  },
+  "balcony": {
+    "definition": "n. 阳台；楼厅，楼座",
+    "phonetic": {
+      "uk": "/ˈbælkəni/",
+      "us": "/ˈbælkəni/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sit on the balcony",
+      "balcony seat"
+    ],
+    "examples": [
+      "We had dinner on the balcony.",
+      "The balcony offers a beautiful view."
+    ]
+  },
+  "ball": {
+    "definition": "n. 球，球状物；舞会",
+    "phonetic": {
+      "uk": "/bɔːl/",
+      "us": "/bɔːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "play ball",
+      "attend a ball"
+    ],
+    "examples": [
+      "The children played ball in the park.",
+      "She attended a royal ball."
+    ]
+  },
+  "balloon": {
+    "definition": "n. 气球，玩具气球",
+    "phonetic": {
+      "uk": "/bəˈluːn/",
+      "us": "/bəˈluːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hot-air balloon",
+      "inflate a balloon"
+    ],
+    "examples": [
+      "Children love balloon animals.",
+      "We went on a hot-air balloon ride."
+    ]
+  },
+  "ballot": {
+    "definition": "n. 选票；投票权 vi. 投票",
+    "phonetic": {
+      "uk": "/ˈbælət/",
+      "us": "/ˈbælət/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "cast a ballot",
+      "secret ballot"
+    ],
+    "examples": [
+      "Citizens will cast their ballots tomorrow.",
+      "The election used a secret ballot."
+    ]
+  },
+  "banana": {
+    "definition": "n. 香蕉；芭蕉属",
+    "phonetic": {
+      "uk": "/bəˈnɑːnə/",
+      "us": "/bəˈnænə/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "banana split",
+      "eat a banana"
+    ],
+    "examples": [
+      "Monkeys love bananas.",
+      "I had a banana for breakfast."
+    ]
+  },
+  "band": {
+    "definition": "n. 乐队；带；波段",
+    "phonetic": {
+      "uk": "/bænd/",
+      "us": "/bænd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "rock band",
+      "rubber band"
+    ],
+    "examples": [
+      "The band played their last song.",
+      "She used a rubber band to hold the papers."
+    ]
+  },
+  "bang": {
+    "definition": "n. 巨响，枪声；猛击",
+    "phonetic": {
+      "uk": "/bæŋ/",
+      "us": "/bæŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "with a bang",
+      "big bang"
+    ],
+    "examples": [
+      "The door closed with a bang.",
+      "She banged her knee on the table."
+    ]
+  },
+  "bank": {
+    "definition": "n. 银行；库；岸，堤",
+    "phonetic": {
+      "uk": "/bæŋk/",
+      "us": "/bæŋk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bank account",
+      "river bank"
+    ],
+    "examples": [
+      "I need to go to the bank.",
+      "They walked along the river bank."
+    ]
+  },
+  "bankrupt": {
+    "definition": "adj. 破产的 vt. 使破产",
+    "phonetic": {
+      "uk": "/ˈbæŋkrʌpt/",
+      "us": "/ˈbæŋkrʌpt/"
+    },
+    "partOfSpeech": "adj./vt.",
+    "phrases": [
+      "go bankrupt",
+      "declare bankrupt"
+    ],
+    "examples": [
+      "The company went bankrupt last year.",
+      "The scandal bankrupted his reputation."
+    ]
+  },
+  "banner": {
+    "definition": "n. 旗帜，横幅",
+    "phonetic": {
+      "uk": "/ˈbænər/",
+      "us": "/ˈbænər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "under the banner of",
+      "banner headline"
+    ],
+    "examples": [
+      "They marched under the banner of peace.",
+      "The banner read: Welcome Home."
+    ]
+  },
+  "bar": {
+    "definition": "n. 酒吧间；条，杆；栅",
+    "phonetic": {
+      "uk": "/bɑːr/",
+      "us": "/bɑːr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at the bar",
+      "bar code"
+    ],
+    "examples": [
+      "We met at the local bar.",
+      "He ordered a chocolate bar."
+    ]
+  },
+  "barber": {
+    "definition": "n. 理发师",
+    "phonetic": {
+      "uk": "/ˈbɑːbər/",
+      "us": "/ˈbɑːrbər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to the barber",
+      "barber shop"
+    ],
+    "examples": [
+      "The barber cut his hair short.",
+      "He goes to the barber once a month."
+    ]
+  },
+  "bare": {
+    "definition": "adj. 赤裸的；仅仅的",
+    "phonetic": {
+      "uk": "/beər/",
+      "us": "/ber/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bare feet",
+      "bare minimum"
+    ],
+    "examples": [
+      "She walked on the grass with bare feet.",
+      "The room had bare walls."
+    ]
+  },
+  "bargain": {
+    "definition": "n. 交易 vi. 议价；成交",
+    "phonetic": {
+      "uk": "/ˈbɑːɡɪn/",
+      "us": "/ˈbɑːrɡɪn/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "make a bargain",
+      "good bargain"
+    ],
+    "examples": [
+      "I made a bargain with the seller.",
+      "This dress is a real bargain."
+    ]
+  },
+  "bark": {
+    "definition": "n. 吠声 vi. 吠；叫",
+    "phonetic": {
+      "uk": "/bɑːk/",
+      "us": "/bɑːrk/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "dog bark",
+      "bark up the wrong tree"
+    ],
+    "examples": [
+      "The dog barked at the stranger.",
+      "She heard the bark of a fox."
+    ]
+  },
+  "barn": {
+    "definition": "n. 谷仓；牲口棚",
+    "phonetic": {
+      "uk": "/bɑːn/",
+      "us": "/bɑːrn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "big barn",
+      "open barn door"
+    ],
+    "examples": [
+      "The farmer stored hay in the barn.",
+      "Old barns have thatched roofs."
+    ]
+  },
+  "barrel": {
+    "definition": "n. 桶；枪管，炮管",
+    "phonetic": {
+      "uk": "/ˈbærəl/",
+      "us": "/ˈbærəl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "oil barrel",
+      "barrel roll"
+    ],
+    "examples": [
+      "Wine is aged in oak barrels.",
+      "The plane performed a barrel roll."
+    ]
+  },
+  "barrier": {
+    "definition": "n. 障碍；障栅，屏障",
+    "phonetic": {
+      "uk": "/ˈbæriər/",
+      "us": "/ˈbæriər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "language barrier",
+      "break down barriers"
+    ],
+    "examples": [
+      "The language barrier made communication difficult.",
+      "They built a barrier against the flood."
+    ]
+  },
+  "base": {
+    "definition": "n. 基础；底层；基地",
+    "phonetic": {
+      "uk": "/beɪs/",
+      "us": "/beɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "base on",
+      "military base"
+    ],
+    "examples": [
+      "The monument has a stone base.",
+      "Argument should be based on facts."
+    ]
+  },
+  "basic": {
+    "definition": "adj. 基本的，基础的",
+    "phonetic": {
+      "uk": "/ˈbeɪsɪk/",
+      "us": "/ˈbeɪsɪk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "basic needs",
+      "basic knowledge"
+    ],
+    "examples": [
+      "Humans need basic food and shelter.",
+      "She has a good command of basic arithmetic."
+    ]
+  },
+  "basin": {
+    "definition": "n. 盆，洗脸盆；盆地",
+    "phonetic": {
+      "uk": "/ˈbeɪsn/",
+      "us": "/ˈbeɪsn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wash basin",
+      "river basin"
+    ],
+    "examples": [
+      "Fill the basin with warm water.",
+      "The Amazon Basin is vast."
+    ]
+  },
+  "basis": {
+    "definition": "n. 基础，根据；主要成分",
+    "phonetic": {
+      "uk": "/ˈbeɪsɪs/",
+      "us": "/ˈbeɪsɪs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on a regular basis",
+      "basis of"
+    ],
+    "examples": [
+      "We meet on a regular basis.",
+      "Trust is the basis of any relationship."
+    ]
+  },
+  "basket": {
+    "definition": "n. 篮，篓，筐",
+    "phonetic": {
+      "uk": "/ˈbɑːskɪt/",
+      "us": "/ˈbæskɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "shopping basket",
+      "basket of fruit"
+    ],
+    "examples": [
+      "She wove a beautiful basket.",
+      "I filled the basket with apples."
+    ]
+  },
+  "basketball": {
+    "definition": "n. 篮球；篮球运动",
+    "phonetic": {
+      "uk": "/ˈbɑːskɪtbɔːl/",
+      "us": "/ˈbæskɪtbɔːl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "play basketball",
+      "basketball court"
+    ],
+    "examples": [
+      "They played basketball after school.",
+      "He is a talented basketball player."
+    ]
+  },
+  "bat": {
+    "definition": "n. 蝙蝠；球拍；短棍",
+    "phonetic": {
+      "uk": "/bæt/",
+      "us": "/bæt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "baseball bat",
+      "as blind as a bat"
+    ],
+    "examples": [
+      "Bats fly at night.",
+      "He swung the baseball bat hard."
+    ]
+  },
+  "bath": {
+    "definition": "n. 沐浴；浴缸；浴盆",
+    "phonetic": {
+      "uk": "/bɑːθ/",
+      "us": "/bæθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take a bath",
+      "bath water"
+    ],
+    "examples": [
+      "She takes a relaxing bath every evening.",
+      "Please fill the bath with warm water."
+    ]
+  },
+  "bathe": {
+    "definition": "vt. 给…洗澡；弄湿",
+    "phonetic": {
+      "uk": "/beɪð/",
+      "us": "/beɪð/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bathe a wound",
+      "sunbathe"
+    ],
+    "examples": [
+      "Please bathe the cut with clean water.",
+      "They went to the beach to bathe."
+    ]
+  },
+  "bathroom": {
+    "definition": "n. 浴室；盥洗室",
+    "phonetic": {
+      "uk": "/ˈbɑːθruːm/",
+      "us": "/ˈbæθruːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "public bathroom",
+      "clean the bathroom"
+    ],
+    "examples": [
+      "The bathroom is on the left.",
+      "This hotel has a large bathroom."
+    ]
+  },
+  "battery": {
+    "definition": "n. 电池；一系列...",
+    "phonetic": {
+      "uk": "/ˈbætri/",
+      "us": "/ˈbætri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "rechargeable battery",
+      "car battery"
+    ],
+    "examples": [
+      "The battery is dead.",
+      "Replace the battery in your device."
+    ]
+  },
+  "battle": {
+    "definition": "n. 战役；斗争 vi. 作战",
+    "phonetic": {
+      "uk": "/ˈbætl/",
+      "us": "/ˈbætl/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "lose a battle",
+      "win the battle"
+    ],
+    "examples": [
+      "The battle lasted three days.",
+      "She battles against injustice."
+    ]
+  },
+  "bay": {
+    "definition": "n. 湾；山脉中的凹处",
+    "phonetic": {
+      "uk": "/beɪ/",
+      "us": "/beɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Hudson Bay",
+      "bay window"
+    ],
+    "examples": [
+      "The boats anchored in the bay.",
+      "San Francisco Bay is beautiful."
+    ]
+  },
+  "be": {
+    "definition": "vi. 是；存在，存活；有",
+    "phonetic": {
+      "uk": "/biː/",
+      "us": "/biː/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "be going to",
+      "be able to"
+    ],
+    "examples": [
+      "She is a doctor.",
+      "To be or not to be."
+    ]
+  },
+  "beach": {
+    "definition": "n. 海滩，湖滩，河滩",
+    "phonetic": {
+      "uk": "/biːtʃ/",
+      "us": "/biːtʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to the beach",
+      "sandy beach"
+    ],
+    "examples": [
+      "We spent the day at the beach.",
+      "The beach was crowded with tourists."
+    ]
+  },
+  "beam": {
+    "definition": "n. 梁；横梁；光束",
+    "phonetic": {
+      "uk": "/biːm/",
+      "us": "/biːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beam of light",
+      "wooden beam"
+    ],
+    "examples": [
+      "A beam of light entered the room.",
+      "The ceiling is supported by wooden beams."
+    ]
+  },
+  "bean": {
+    "definition": "n. 豆，蚕豆",
+    "phonetic": {
+      "uk": "/biːn/",
+      "us": "/biːn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "coffee bean",
+      "green bean"
+    ],
+    "examples": [
+      "Coffee comes from coffee beans.",
+      "She grows beans in her garden."
+    ]
+  },
+  "bear": {
+    "definition": "n. 熊；粗鲁的人 vt. 容忍",
+    "phonetic": {
+      "uk": "/beər/",
+      "us": "/ber/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "polar bear",
+      "bear fruit"
+    ],
+    "examples": [
+      "Bears hibernate in winter.",
+      "I can't bear his rudeness."
+    ]
+  },
+  "beard": {
+    "definition": "n. 胡须，络腮胡子",
+    "phonetic": {
+      "uk": "/bɪəd/",
+      "us": "/bɪrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "grow a beard",
+      "trim one's beard"
+    ],
+    "examples": [
+      "He grew a beard last year.",
+      "The old man has a gray beard."
+    ]
+  },
+  "beast": {
+    "definition": "n. 兽，牲畜；凶残的人",
+    "phonetic": {
+      "uk": "/biːst/",
+      "us": "/biːst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "wild beast",
+      "beast of burden"
+    ],
+    "examples": [
+      "The beast roared loudly.",
+      "Donkeys are beasts of burden."
+    ]
+  },
+  "beat": {
+    "definition": "vt. & vi. 打，敲；打败",
+    "phonetic": {
+      "uk": "/biːt/",
+      "us": "/biːt/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "heat beat",
+      "beat around the bush"
+    ],
+    "examples": [
+      "He beat the opponent in the final.",
+      "She could hear her heart beat."
+    ]
+  },
+  "beautiful": {
+    "definition": "adj. 美的，美丽的",
+    "phonetic": {
+      "uk": "/ˈbjuːtɪfl/",
+      "us": "/ˈbjuːtɪfl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "beautiful day",
+      "beautiful scenery"
+    ],
+    "examples": [
+      "The sunset is beautiful.",
+      "She is a beautiful person inside and out."
+    ]
+  },
+  "beauty": {
+    "definition": "n. 美，美丽；美人",
+    "phonetic": {
+      "uk": "/ˈbjuːti/",
+      "us": "/ˈbjuːti/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beauty salon",
+      "inner beauty"
+    ],
+    "examples": [
+      "The beauty of nature inspired her.",
+      "She is a beauty who captures hearts."
+    ]
+  },
+  "because": {
+    "definition": "conj. 因为，由于",
+    "phonetic": {
+      "uk": "/bɪˈkɒz/",
+      "us": "/bɪˈkɔːz/"
+    },
+    "partOfSpeech": "conj.",
+    "phrases": [
+      "because of",
+      "just because"
+    ],
+    "examples": [
+      "I couldn't attend because I was ill.",
+      "They cancelled because of the weather."
+    ]
+  },
+  "become": {
+    "definition": "vi. 变成；成为，变得",
+    "phonetic": {
+      "uk": "/bɪˈkʌm/",
+      "us": "/bɪˈkʌm/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "become of",
+      "become friends"
+    ],
+    "examples": [
+      "She wants to become a teacher.",
+      "What will become of him?"
+    ]
+  },
+  "bed": {
+    "definition": "n. 床，床位；圃",
+    "phonetic": {
+      "uk": "/bed/",
+      "us": "/bed/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go to bed",
+      "make the bed"
+    ],
+    "examples": [
+      "I usually go to bed at 11 PM.",
+      "The bed is comfortable."
+    ]
+  },
+  "bee": {
+    "definition": "n. 蜜蜂，蜂",
+    "phonetic": {
+      "uk": "/biː/",
+      "us": "/biː/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "busy bee",
+      "queen bee"
+    ],
+    "examples": [
+      "Bees produce honey.",
+      "The bee flew from flower to flower."
+    ]
+  },
+  "beef": {
+    "definition": "n. 牛肉；菜牛",
+    "phonetic": {
+      "uk": "/biːf/",
+      "us": "/biːf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "roast beef",
+      "beef steak"
+    ],
+    "examples": [
+      "She ordered beef for dinner.",
+      "The restaurant specializes in beef dishes."
+    ]
+  },
+  "beer": {
+    "definition": "n. 啤酒",
+    "phonetic": {
+      "uk": "/bɪər/",
+      "us": "/bɪr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "drink beer",
+      "dark beer"
+    ],
+    "examples": [
+      "He enjoys a cold beer after work.",
+      "The brewery produces high-quality beer."
+    ]
+  },
+  "beetle": {
+    "definition": "n. 甲虫；近视眼的人",
+    "phonetic": {
+      "uk": "/ˈbiːtl/",
+      "us": "/ˈbiːtl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beetle car",
+      "black beetle"
+    ],
+    "examples": [
+      "A small beetle crawled across the floor.",
+      "The beetle is a common garden insect."
+    ]
+  },
+  "before": {
+    "definition": "prep. 在…以前；向…",
+    "phonetic": {
+      "uk": "/bɪˈfɔːr/",
+      "us": "/bɪˈfɔːr/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "long before",
+      "the day before"
+    ],
+    "examples": [
+      "Please finish your work before 6 PM.",
+      "I had never seen that before."
+    ]
+  },
+  "beg": {
+    "definition": "vt. 乞求；请求，恳求",
+    "phonetic": {
+      "uk": "/beɡ/",
+      "us": "/beɡ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "beg for",
+      "beg for help"
+    ],
+    "examples": [
+      "He begged for forgiveness.",
+      "The dog begged for treats."
+    ]
+  },
+  "begin": {
+    "definition": "vi. 开始 vt. 开始",
+    "phonetic": {
+      "uk": "/bɪˈɡɪn/",
+      "us": "/bɪˈɡɪn/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "begin with",
+      "to begin with"
+    ],
+    "examples": [
+      "The movie begins at 8 PM.",
+      "Let's begin with a warm-up exercise."
+    ]
+  },
+  "beginning": {
+    "definition": "n. 开始，开端",
+    "phonetic": {
+      "uk": "/bɪˈɡɪnɪŋ/",
+      "us": "/bɪˈɡɪnɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at the beginning",
+      "from beginning to end"
+    ],
+    "examples": [
+      "The story begins with a murder.",
+      "We are at the beginning of a new era."
+    ]
+  },
+  "behalf": {
+    "definition": "n. 利益；维护，支持",
+    "phonetic": {
+      "uk": "/bɪˈhɑːf/",
+      "us": "/bɪˈhæf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "on behalf of",
+      "in behalf of"
+    ],
+    "examples": [
+      "I speak on behalf of my colleagues.",
+      "She accepted the award on his behalf."
+    ]
+  },
+  "behave": {
+    "definition": "vi. 举止，表现，运转",
+    "phonetic": {
+      "uk": "/bɪˈheɪv/",
+      "us": "/bɪˈheɪv/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "behave oneself",
+      "behave well"
+    ],
+    "examples": [
+      "Children must behave in school.",
+      "The machine is not behaving normally."
+    ]
+  },
+  "behavior": {
+    "definition": "n. 行为，举止，态度",
+    "phonetic": {
+      "uk": "/bɪˈheɪvjər/",
+      "us": "/bɪˈheɪvjər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "good behavior",
+      "human behavior"
+    ],
+    "examples": [
+      "His behavior was unacceptable.",
+      "We should model good behavior."
+    ]
+  },
+  "behind": {
+    "definition": "prep. 在…后面",
+    "phonetic": {
+      "uk": "/bɪˈhaɪnd/",
+      "us": "/bɪˈhaɪnd/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "fall behind",
+      "stay behind"
+    ],
+    "examples": [
+      "The garden is behind the house.",
+      "Please walk behind me."
+    ]
+  },
+  "being": {
+    "definition": "n. 存在；生物；生命",
+    "phonetic": {
+      "uk": "/ˈbiːɪŋ/",
+      "us": "/ˈbiːɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "human being",
+      "go into being"
+    ],
+    "examples": [
+      "Every human being deserves respect.",
+      "The building came into being in 1980."
+    ]
+  },
+  "belief": {
+    "definition": "n. 信任，相信；信念",
+    "phonetic": {
+      "uk": "/bɪˈliːf/",
+      "us": "/bɪˈliːf/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have belief in",
+      "religious belief"
+    ],
+    "examples": [
+      "I have strong belief in his ability.",
+      "Different cultures have different beliefs."
+    ]
+  },
+  "believe": {
+    "definition": "vt. 相信；认为",
+    "phonetic": {
+      "uk": "/bɪˈliːv/",
+      "us": "/bɪˈliːv/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "believe in",
+      "make believe"
+    ],
+    "examples": [
+      "I believe you are telling the truth.",
+      "Children make believe in imaginary worlds."
+    ]
+  },
+  "bell": {
+    "definition": "n. 门铃；钟；铃声",
+    "phonetic": {
+      "uk": "/bel/",
+      "us": "/bel/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ring the bell",
+      "doorbell"
+    ],
+    "examples": [
+      "The church bells rang every hour.",
+      "Someone is at the doorbell."
+    ]
+  },
+  "belong": {
+    "definition": "vi. 属于，附属",
+    "phonetic": {
+      "uk": "/bɪˈlɒŋ/",
+      "us": "/bɪˈlɔːŋ/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "belong to",
+      "belong with"
+    ],
+    "examples": [
+      "This phone belongs to me.",
+      "Where does this book belong?"
+    ]
+  },
+  "beloved": {
+    "definition": "adj. 为…的爱的 n. 爱人",
+    "phonetic": {
+      "uk": "/bɪˈlʌvd/",
+      "us": "/bɪˈlʌvd/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "beloved wife",
+      "deeply beloved"
+    ],
+    "examples": [
+      "He was deeply beloved by his students.",
+      "She is my beloved grandmother."
+    ]
+  },
+  "below": {
+    "definition": "prep. 在…下面(以下",
+    "phonetic": {
+      "uk": "/bɪˈləʊ/",
+      "us": "/bɪˈloʊ/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "below average",
+      "see below"
+    ],
+    "examples": [
+      "The temperature dropped below freezing.",
+      "Please see the information below."
+    ]
+  },
+  "belt": {
+    "definition": "n. 带，腰带；皮带；区",
+    "phonetic": {
+      "uk": "/belt/",
+      "us": "/belt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "seat belt",
+      "cotton belt"
+    ],
+    "examples": [
+      "Please fasten your seat belt.",
+      "He wore a leather belt."
+    ]
+  },
+  "bench": {
+    "definition": "n. 长凳，条凳；工作台",
+    "phonetic": {
+      "uk": "/bentʃ/",
+      "us": "/bentʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "park bench",
+      "bench press"
+    ],
+    "examples": [
+      "They sat on a bench in the park.",
+      "The judge sits on the bench."
+    ]
+  },
+  "bend": {
+    "definition": "vt. 使弯曲 vi. 弯曲",
+    "phonetic": {
+      "uk": "/bend/",
+      "us": "/bend/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "bend down",
+      "bend over"
+    ],
+    "examples": [
+      "Please bend your knees when lifting.",
+      "The road bends to the left."
+    ]
+  },
+  "beneath": {
+    "definition": "prep. 在…下方",
+    "phonetic": {
+      "uk": "/bɪˈniːθ/",
+      "us": "/bɪˈniːθ/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "beneath the surface",
+      "far beneath"
+    ],
+    "examples": [
+      "The treasure lies beneath the earth.",
+      "Your help is beneath notice."
+    ]
+  },
+  "beneficial": {
+    "definition": "adj. 有利的，有益的",
+    "phonetic": {
+      "uk": "/ˌbenɪˈfɪʃl/",
+      "us": "/ˌbenɪˈfɪʃl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "beneficial to",
+      "mutually beneficial"
+    ],
+    "examples": [
+      "Exercise is beneficial to health.",
+      "The agreement is mutually beneficial."
+    ]
+  },
+  "benefit": {
+    "definition": "n. 利益；津贴；恩惠",
+    "phonetic": {
+      "uk": "/ˈbenɪfɪt/",
+      "us": "/ˈbenɪfɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "benefit from",
+      "for the benefit of"
+    ],
+    "examples": [
+      "You will benefit from this experience.",
+      "The organization works for the benefit of society."
+    ]
+  },
+  "bent": {
+    "definition": "adj. 弯的；决心的",
+    "phonetic": {
+      "uk": "/bent/",
+      "us": "/bent/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bent on",
+      "bent double"
+    ],
+    "examples": [
+      "The tree branch was bent.",
+      "He was bent on revenge."
+    ]
+  },
+  "berry": {
+    "definition": "n. 浆果(如草莓等",
+    "phonetic": {
+      "uk": "/ˈberi/",
+      "us": "/ˈberi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "strawberry",
+      "pick berries"
+    ],
+    "examples": [
+      "We went berry picking in summer.",
+      "Blueberries are rich in antioxidants."
+    ]
+  },
+  "beside": {
+    "definition": "prep. 在…旁边",
+    "phonetic": {
+      "uk": "/bɪˈsaɪd/",
+      "us": "/bɪˈsaɪd/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "beside oneself",
+      "stand beside"
+    ],
+    "examples": [
+      "She sat beside me at the theater.",
+      "Please put it beside the computer."
+    ]
+  },
+  "besides": {
+    "definition": "ad. 此外 prep. 除…之外",
+    "phonetic": {
+      "uk": "/bɪˈsaɪdz/",
+      "us": "/bɪˈsaɪdz/"
+    },
+    "partOfSpeech": "adv./prep.",
+    "phrases": [
+      "besides that",
+      "nothing besides"
+    ],
+    "examples": [
+      "Besides, it's too expensive.",
+      "Besides English, we also study math."
+    ]
+  },
+  "best": {
+    "definition": "adj. 最好的；最大的",
+    "phonetic": {
+      "uk": "/best/",
+      "us": "/best/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "do one's best",
+      "at best"
+    ],
+    "examples": [
+      "This is the best restaurant in town.",
+      "I'll do my best to help you."
+    ]
+  },
+  "bet": {
+    "definition": "vt. & vi. & n. 打赌",
+    "phonetic": {
+      "uk": "/bet/",
+      "us": "/bet/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "make a bet",
+      "bet on"
+    ],
+    "examples": [
+      "I bet you can't solve this puzzle.",
+      "They made a bet on the race."
+    ]
+  },
+  "better": {
+    "definition": "adj. 较好的 ad. 更好地",
+    "phonetic": {
+      "uk": "/ˈbetər/",
+      "us": "/ˈbetər/"
+    },
+    "partOfSpeech": "adj./adv.",
+    "phrases": [
+      "had better",
+      "get better"
+    ],
+    "examples": [
+      "She feels better today.",
+      "You had better leave now."
+    ]
+  },
+  "between": {
+    "definition": "prep. 在…中间",
+    "phonetic": {
+      "uk": "/bɪˈtwiːn/",
+      "us": "/bɪˈtwiːn/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "between you and me",
+      "choose between"
+    ],
+    "examples": [
+      "There's a difference between knowing and understanding.",
+      "The road runs between the mountains."
+    ]
+  },
+  "beyond": {
+    "definition": "prep. 在…的那边",
+    "phonetic": {
+      "uk": "/bɪˈjɒnd/",
+      "us": "/bɪˈjɑːnd/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "beyond belief",
+      "go beyond"
+    ],
+    "examples": [
+      "The technology is beyond me.",
+      "We should not go beyond our budget."
+    ]
+  },
+  "bible": {
+    "definition": "n. 基督教《圣经》",
+    "phonetic": {
+      "uk": "/ˈbaɪbl/",
+      "us": "/ˈbaɪbl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Holy Bible",
+      "Gideon Bible"
+    ],
+    "examples": [
+      "The Bible has been translated into many languages.",
+      "She reads the Bible every day."
+    ]
+  },
+  "bicycle": {
+    "definition": "n. 自行车，脚踏车",
+    "phonetic": {
+      "uk": "/ˈbaɪsɪkl/",
+      "us": "/ˈbaɪsɪkl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "ride a bicycle",
+      "bicycle race"
+    ],
+    "examples": [
+      "I go to work by bicycle.",
+      "She races bicycles professionally."
+    ]
+  },
+  "bid": {
+    "definition": "vt. 命令，吩咐 vi. 报价",
+    "phonetic": {
+      "uk": "/bɪd/",
+      "us": "/bɪd/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "make a bid",
+      "bid for"
+    ],
+    "examples": [
+      "The company made a bid for the contract.",
+      "She bid $100 at the auction."
+    ]
+  },
+  "big": {
+    "definition": "adj. 大的；巨大的",
+    "phonetic": {
+      "uk": "/bɪɡ/",
+      "us": "/bɪɡ/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "big deal",
+      "so big"
+    ],
+    "examples": [
+      "This city is big and modern.",
+      "It's no big deal."
+    ]
+  },
+  "bike": {
+    "definition": "n. 自行车 vi. 骑自行车",
+    "phonetic": {
+      "uk": "/baɪk/",
+      "us": "/baɪk/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "ride a bike",
+      "mountain bike"
+    ],
+    "examples": [
+      "I bike to school every day.",
+      "This bike is fast and comfortable."
+    ]
+  },
+  "bill": {
+    "definition": "n. 账单；招贴；票据",
+    "phonetic": {
+      "uk": "/bɪl/",
+      "us": "/bɪl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "pay the bill",
+      "dollar bill"
+    ],
+    "examples": [
+      "Please bring the bill.",
+      "The bill was surprisingly high."
+    ]
+  },
+  "billion": {
+    "definition": "num. 十亿",
+    "phonetic": {
+      "uk": "/ˈbɪljən/",
+      "us": "/ˈbɪljən/"
+    },
+    "partOfSpeech": "num.",
+    "phrases": [
+      "several billion",
+      "billion dollars"
+    ],
+    "examples": [
+      "The company is worth billions.",
+      "There are over 7 billion people on Earth."
+    ]
+  },
+  "bind": {
+    "definition": "vt. 捆绑；包扎；装钉",
+    "phonetic": {
+      "uk": "/baɪnd/",
+      "us": "/baɪnd/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bind together",
+      "be bound to"
+    ],
+    "examples": [
+      "She bound the books with string.",
+      "We are bound by our promise."
+    ]
+  },
+  "biology": {
+    "definition": "n. 生物学；生态学",
+    "phonetic": {
+      "uk": "/baɪˈɒlədʒi/",
+      "us": "/baɪˈɑːlədʒi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "molecular biology",
+      "study biology"
+    ],
+    "examples": [
+      "She is studying biology at university.",
+      "Biology explores the science of life."
+    ]
+  },
+  "bird": {
+    "definition": "n. 鸟，禽",
+    "phonetic": {
+      "uk": "/bɜːd/",
+      "us": "/bɜːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "early bird",
+      "kill two birds with one stone"
+    ],
+    "examples": [
+      "The bird flew away.",
+      "A little bird told me."
+    ]
+  },
+  "birth": {
+    "definition": "n. 分娩，出生；出身",
+    "phonetic": {
+      "uk": "/bɜːθ/",
+      "us": "/bɜːrθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "give birth",
+      "by birth"
+    ],
+    "examples": [
+      "She gave birth to twins.",
+      "He is French by birth but lives in Canada."
+    ]
+  },
+  "birthday": {
+    "definition": "n. 生日，诞生的日期",
+    "phonetic": {
+      "uk": "/ˈbɜːθdeɪ/",
+      "us": "/ˈbɜːrθdeɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "happy birthday",
+      "birthday party"
+    ],
+    "examples": [
+      "We celebrated her birthday with a party.",
+      "My birthday is in December."
+    ]
+  },
+  "biscuit": {
+    "definition": "n. (英语饼干",
+    "phonetic": {
+      "uk": "/ˈbɪskɪt/",
+      "us": "/ˈbɪskɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hot biscuit",
+      "biscuit cutter"
+    ],
+    "examples": [
+      "She baked fresh biscuits this morning.",
+      "The baby enjoyed eating a biscuit."
+    ]
+  },
+  "bit": {
+    "definition": "n. 一点，一些",
+    "phonetic": {
+      "uk": "/bɪt/",
+      "us": "/bɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "a bit of",
+      "quite a bit"
+    ],
+    "examples": [
+      "I'm just a bit tired.",
+      "Can I have a bit of cake?"
+    ]
+  },
+  "bite": {
+    "definition": "vt. 咬，叮，螫；刺穿",
+    "phonetic": {
+      "uk": "/baɪt/",
+      "us": "/baɪt/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bite off",
+      "love bite"
+    ],
+    "examples": [
+      "The mosquito bit my arm.",
+      "Don't bite off more than you can chew."
+    ]
+  },
+  "bitter": {
+    "definition": "adj. 痛苦的；严寒的",
+    "phonetic": {
+      "uk": "/ˈbɪtər/",
+      "us": "/ˈbɪtər/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bitter taste",
+      "bitter cold"
+    ],
+    "examples": [
+      "The medicine has a bitter taste.",
+      "She has bitter memories of the war."
+    ]
+  },
+  "black": {
+    "definition": "adj. 黑色的；黑暗的",
+    "phonetic": {
+      "uk": "/blæk/",
+      "us": "/blæk/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "black and white",
+      "black coffee"
+    ],
+    "examples": [
+      "She wore a black dress.",
+      "The sky turned black before the storm."
+    ]
+  },
+  "blackboard": {
+    "definition": "n. 黑板",
+    "phonetic": {
+      "uk": "/ˈblækbɔːd/",
+      "us": "/ˈblækbɔːrd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "write on the blackboard",
+      "clean the blackboard"
+    ],
+    "examples": [
+      "The teacher wrote on the blackboard.",
+      "Students cleaned the blackboard after class."
+    ]
+  },
+  "blade": {
+    "definition": "n. 刀刃，刀片；叶片",
+    "phonetic": {
+      "uk": "/bleɪd/",
+      "us": "/bleɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sharp blade",
+      "razor blade"
+    ],
+    "examples": [
+      "The blade was incredibly sharp.",
+      "Fan blades rotate to circulate air."
+    ]
+  },
+  "blame": {
+    "definition": "vt. 责备，把…归咎于",
+    "phonetic": {
+      "uk": "/bleɪm/",
+      "us": "/bleɪm/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "blame for",
+      "take the blame"
+    ],
+    "examples": [
+      "Don't blame yourself for the accident.",
+      "It's not fair to blame him."
+    ]
+  },
+  "blank": {
+    "definition": "adj. 空白的 n. 空白",
+    "phonetic": {
+      "uk": "/blæŋk/",
+      "us": "/blæŋk/"
+    },
+    "partOfSpeech": "adj./n.",
+    "phrases": [
+      "blank page",
+      "fill in the blank"
+    ],
+    "examples": [
+      "The screen went blank.",
+      "Please leave the space blank."
+    ]
+  },
+  "blanket": {
+    "definition": "n. 毯子",
+    "phonetic": {
+      "uk": "/ˈblæŋkɪt/",
+      "us": "/ˈblæŋkɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "electric blanket",
+      "under a blanket"
+    ],
+    "examples": [
+      "The blanket kept him warm.",
+      "She covered her knees with a blanket."
+    ]
+  },
+  "blast": {
+    "definition": "n. 爆炸，冲击波 vt. 炸",
+    "phonetic": {
+      "uk": "/blɑːst/",
+      "us": "/blæst/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "explosive blast",
+      "blast off"
+    ],
+    "examples": [
+      "The blast shattered windows.",
+      "The rocket blasted off from Launchpad."
+    ]
+  },
+  "bleed": {
+    "definition": "vi. 出血，流血",
+    "phonetic": {
+      "uk": "/bliːd/",
+      "us": "/bliːd/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "bleed to death",
+      "nose bleed"
+    ],
+    "examples": [
+      "The wound started to bleed.",
+      "Apply pressure to stop it bleeding."
+    ]
+  },
+  "blend": {
+    "definition": "vt. & vi. & n. 混合",
+    "phonetic": {
+      "uk": "/blend/",
+      "us": "/blend/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "blend in",
+      "blend together"
+    ],
+    "examples": [
+      "Blend flour and sugar.",
+      "She likes to blend different music styles."
+    ]
+  },
+  "bless": {
+    "definition": "vt. 为…祝福",
+    "phonetic": {
+      "uk": "/bles/",
+      "us": "/bles/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "God bless",
+      "count your blessings"
+    ],
+    "examples": [
+      "God bless you and your family.",
+      "We should count our blessings."
+    ]
+  },
+  "blessed": {
+    "definition": "adj. 幸福的；神圣的",
+    "phonetic": {
+      "uk": "/ˈblesɪd/",
+      "us": "/ˈblesɪd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "blessed event",
+      "truly blessed"
+    ],
+    "examples": [
+      "She felt blessed to have such friends.",
+      "A blessed memory of childhood."
+    ]
+  },
+  "blind": {
+    "definition": "adj. 瞎的；盲目的",
+    "phonetic": {
+      "uk": "/blaɪnd/",
+      "us": "/blaɪnd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "blind person",
+      "go blind"
+    ],
+    "examples": [
+      "The blind man uses a cane.",
+      "Her love made her blind to his faults."
+    ]
+  },
+  "block": {
+    "definition": "n. 街区 VT. 堵塞，拦阻",
+    "phonetic": {
+      "uk": "/blɒk/",
+      "us": "/blɑːk/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "city block",
+      "block the road"
+    ],
+    "examples": [
+      "We walked around the city block.",
+      "A fallen tree blocked the road."
+    ]
+  },
+  "blood": {
+    "definition": "n. 血，血液；血统",
+    "phonetic": {
+      "uk": "/blʌd/",
+      "us": "/blʌd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "donate blood",
+      "blood type"
+    ],
+    "examples": [
+      "Blood flows through our veins.",
+      "Don't work until you bleed."
+    ]
+  },
+  "bloom": {
+    "definition": "n. 花；开花，花期",
+    "phonetic": {
+      "uk": "/bluːm/",
+      "us": "/bluːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in full bloom",
+      "bloom and blossom"
+    ],
+    "examples": [
+      "The roses are in full bloom.",
+      "Talent blooms early in some children."
+    ]
+  },
+  "blossom": {
+    "definition": "n. 花，开花 vi. 开花",
+    "phonetic": {
+      "uk": "/ˈblɒsəm/",
+      "us": "/ˈblɑːsəm/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "blossom into",
+      "in blossom"
+    ],
+    "examples": [
+      "Cherry trees blossom in spring.",
+      "Their friendship blossomed into love."
+    ]
+  },
+  "blouse": {
+    "definition": "n. 宽松的上衣",
+    "phonetic": {
+      "uk": "/blaʊz/",
+      "us": "/blaʊz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "silk blouse",
+      "white blouse"
+    ],
+    "examples": [
+      "She wore a silk blouse to work.",
+      "The blouse has intricate embroidery."
+    ]
+  },
+  "blow": {
+    "definition": "vi. 吹，吹动；吹响",
+    "phonetic": {
+      "uk": "/bləʊ/",
+      "us": "/bloʊ/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "blow up",
+      "blow away"
+    ],
+    "examples": [
+      "The wind blew fiercely.",
+      "Please blow out the candles."
+    ]
+  },
+  "blue": {
+    "definition": "adj. 蓝色的；忧郁的",
+    "phonetic": {
+      "uk": "/bluː/",
+      "us": "/bluː/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "deep blue",
+      "feel blue"
+    ],
+    "examples": [
+      "The sky is blue today.",
+      "She felt a bit blue after the news."
+    ]
+  },
+  "board": {
+    "definition": "n. 板 vt. 上(车、船等",
+    "phonetic": {
+      "uk": "/bɔːd/",
+      "us": "/bɔːrd/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "on board",
+      "chessboard"
+    ],
+    "examples": [
+      "Please board the plane.",
+      "We wrote on the blackboard."
+    ]
+  },
+  "boast": {
+    "definition": "vi. 自夸 vt. 吹嘘",
+    "phonetic": {
+      "uk": "/bəʊst/",
+      "us": "/boʊst/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "boast about",
+      "boast of"
+    ],
+    "examples": [
+      "He often boasts about his achievements.",
+      "The hotel boasts excellent views."
+    ]
+  },
+  "boat": {
+    "definition": "n. 小船，艇；渔船",
+    "phonetic": {
+      "uk": "/bəʊt/",
+      "us": "/boʊt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "row a boat",
+      "lifeboat"
+    ],
+    "examples": [
+      "We went fishing in a small boat.",
+      "The boat will set sail at dawn."
+    ]
+  },
+  "body": {
+    "definition": "n. 身体；主体；尸体",
+    "phonetic": {
+      "uk": "/ˈbɒdi/",
+      "us": "/ˈbɑːdi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "body language",
+      "healthy body"
+    ],
+    "examples": [
+      "Exercise keeps the body healthy.",
+      "He had a strong body and weak mind."
+    ]
+  },
+  "boil": {
+    "definition": "vi. 沸腾；汽化 vt. 煮沸",
+    "phonetic": {
+      "uk": "/bɔɪl/",
+      "us": "/bɔɪl/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "boiling point",
+      "boil water"
+    ],
+    "examples": [
+      "The water is boiling.",
+      "Please boil the eggs for ten minutes."
+    ]
+  },
+  "boiler": {
+    "definition": "n. 锅炉；热水贮罐",
+    "phonetic": {
+      "uk": "/ˈbɔɪlər/",
+      "us": "/ˈbɔɪlər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "steam boiler",
+      "pressure cooker"
+    ],
+    "examples": [
+      "The factory has an industrial boiler.",
+      "Old boilers need regular maintenance."
+    ]
+  },
+  "bold": {
+    "definition": "adj. 大胆的；冒失的",
+    "phonetic": {
+      "uk": "/bəʊld/",
+      "us": "/boʊld/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bold move",
+      "in bold"
+    ],
+    "examples": [
+      "The plan was bold and ambitious.",
+      "The title is written in bold letters."
+    ]
+  },
+  "bolt": {
+    "definition": "n. 闪电；插销 vt. 闩门",
+    "phonetic": {
+      "uk": "/bəʊlt/",
+      "us": "/boʊlt/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "a bolt of lightning",
+      "tighten the bolts"
+    ],
+    "examples": [
+      "A bolt of lightning struck the tree.",
+      "Secure the door with the bolt."
+    ]
+  },
+  "bomb": {
+    "definition": "n. 炸弹 vt. 轰炸",
+    "phonetic": {
+      "uk": "/bɒm/",
+      "us": "/bɑːm/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "drop a bomb",
+      "nuclear bomb"
+    ],
+    "examples": [
+      "The bomb exploded in the city square.",
+      "The war involved heavy bombing."
+    ]
+  },
+  "bond": {
+    "definition": "n. 联结，联系；公债",
+    "phonetic": {
+      "uk": "/bɒnd/",
+      "us": "/bɑːnd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "form a bond",
+      "government bond"
+    ],
+    "examples": [
+      "They shared a strong bond of friendship.",
+      "The company issued bonds to raise capital."
+    ]
+  },
+  "bone": {
+    "definition": "n. 骨，骨骼",
+    "phonetic": {
+      "uk": "/bəʊn/",
+      "us": "/boʊn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "break a bone",
+      "bone up on"
+    ],
+    "examples": [
+      "He broke a bone in his arm.",
+      "Fish have soft bones."
+    ]
+  },
+  "book": {
+    "definition": "n. 书，书籍 vt. 预定",
+    "phonetic": {
+      "uk": "/bʊk/",
+      "us": "/bʊk/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "read a book",
+      "book a room"
+    ],
+    "examples": [
+      "I bought a new book.",
+      "She booked a flight to Paris."
+    ]
+  },
+  "boom": {
+    "definition": "n. 繁荣；激增",
+    "phonetic": {
+      "uk": "/buːm/",
+      "us": "/buːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "baby boom",
+      "economic boom"
+    ],
+    "examples": [
+      "The housing market experienced a boom.",
+      "A loud boom startled everyone."
+    ]
+  },
+  "boot": {
+    "definition": "n. 靴子，长筒靴",
+    "phonetic": {
+      "uk": "/buːt/",
+      "us": "/buːt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take off one's boots",
+      "work boots"
+    ],
+    "examples": [
+      "She wore leather boots in winter.",
+      "The soldier polished his boots."
+    ]
+  },
+  "border": {
+    "definition": "n. 边，边缘；边界",
+    "phonetic": {
+      "uk": "/ˈbɔːdər/",
+      "us": "/ˈbɔːrdər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cross the border",
+      "border town"
+    ],
+    "examples": [
+      "They crossed the border at midnight.",
+      "The flower beds border the garden."
+    ]
+  },
+  "bore": {
+    "definition": "vt. 使厌烦；钻，挖",
+    "phonetic": {
+      "uk": "/bɔːr/",
+      "us": "/bɔːr/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bore someone",
+      "bore a hole"
+    ],
+    "examples": [
+      "His long story bored everyone.",
+      "The workers bore a tunnel through the rock."
+    ]
+  },
+  "born": {
+    "definition": "adj. 天生的；出生的",
+    "phonetic": {
+      "uk": "/bɔːn/",
+      "us": "/bɔːrn/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "born with",
+      "newborn"
+    ],
+    "examples": [
+      "She was born with a gift for music.",
+      "The baby was born last week."
+    ]
+  },
+  "borrow": {
+    "definition": "vt. 借，借用，从…借",
+    "phonetic": {
+      "uk": "/ˈbɒrəʊ/",
+      "us": "/ˈbɑːroʊ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "borrow from",
+      "borrow money"
+    ],
+    "examples": [
+      "Can I borrow your pen?",
+      "She borrowed a book from the library."
+    ]
+  },
+  "bosom": {
+    "definition": "n. 胸，胸部；内心",
+    "phonetic": {
+      "uk": "/ˈbʊzəm/",
+      "us": "/ˈbʊzəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "heave a sigh into one's bosom",
+      "bosom friend"
+    ],
+    "examples": [
+      "She covered her bosom with a shawl.",
+      "He is a bosom friend from childhood."
+    ]
+  },
+  "boss": {
+    "definition": "n. 老板，上司 vt. 指挥",
+    "phonetic": {
+      "uk": "/bɒs/",
+      "us": "/bɑːs/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "strict boss",
+      "boss around"
+    ],
+    "examples": [
+      "My boss gave me a promotion.",
+      "Don't boss me around."
+    ]
+  },
+  "both": {
+    "definition": "pron. 两者(都",
+    "phonetic": {
+      "uk": "/bəʊθ/",
+      "us": "/boʊθ/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "both of",
+      "both...and..."
+    ],
+    "examples": [
+      "Both of us are doctors.",
+      "He speaks both English and French."
+    ]
+  },
+  "bother": {
+    "definition": "vt. 烦扰，迷惑 n. 麻烦",
+    "phonetic": {
+      "uk": "/ˈbɒðər/",
+      "us": "/ˈbɑːðər/"
+    },
+    "partOfSpeech": "vt./n.",
+    "phrases": [
+      "don't bother",
+      "bother with"
+    ],
+    "examples": [
+      "Please don't bother yourself.",
+      "It's too much bother to drive there."
+    ]
+  },
+  "bottle": {
+    "definition": "n. 瓶，酒瓶；一瓶",
+    "phonetic": {
+      "uk": "/ˈbɒtl/",
+      "us": "/ˈbɑːtl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "water bottle",
+      "bottle of wine"
+    ],
+    "examples": [
+      "She carried a water bottle.",
+      "He finished the entire bottle of wine."
+    ]
+  },
+  "bottom": {
+    "definition": "n. 底，底部，根基",
+    "phonetic": {
+      "uk": "/ˈbɒtəm/",
+      "us": "/ˈbɑːtəm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "at the bottom",
+      "from bottom to top"
+    ],
+    "examples": [
+      "The treasure is at the bottom of the sea.",
+      "She signed at the bottom of the document."
+    ]
+  },
+  "bough": {
+    "definition": "n. 大树枝，主枝",
+    "phonetic": {
+      "uk": "/baʊ/",
+      "us": "/baʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tree bough",
+      "heavy bough"
+    ],
+    "examples": [
+      "Boughs filled with red berries decorated the tree.",
+      "The bird sang from the high bough."
+    ]
+  },
+  "bounce": {
+    "definition": "vi. 反跳，弹起；跳起",
+    "phonetic": {
+      "uk": "/baʊns/",
+      "us": "/baʊns/"
+    },
+    "partOfSpeech": "vi.",
+    "phrases": [
+      "bounce back",
+      "high bounce"
+    ],
+    "examples": [
+      "The ball bounced high.",
+      "She will bounce back soon."
+    ]
+  },
+  "bound": {
+    "definition": "adj. 一定的；有义务的",
+    "phonetic": {
+      "uk": "/baʊnd/",
+      "us": "/baʊnd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "be bound to",
+      "out of bounds"
+    ],
+    "examples": [
+      "We are bound to succeed this time.",
+      "The area is out of bounds to civilians."
+    ]
+  },
+  "boundary": {
+    "definition": "n. 分界线，办界",
+    "phonetic": {
+      "uk": "/ˈbaʊndri/",
+      "us": "/ˈbaʊndri/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "boundary line",
+      "cross the boundary"
+    ],
+    "examples": [
+      "The river forms the natural boundary.",
+      "Boundaries between countries are important."
+    ]
+  },
+  "bow": {
+    "definition": "n. 弓；蝴蝶结；vi. 鞠躬，点头",
+    "phonetic": {
+      "uk": "/bəʊ/",
+      "us": "/boʊ/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "take a bow",
+      "bow and arrow"
+    ],
+    "examples": [
+      "She tied a pink bow in her hair.",
+      "The performers took a bow at the end."
+    ]
+  },
+  "bowl": {
+    "definition": "n. 碗，钵；一碗",
+    "phonetic": {
+      "uk": "/bəʊl/",
+      "us": "/boʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bowl of soup",
+      "mixing bowl"
+    ],
+    "examples": [
+      "She ate a bowl of cereal for breakfast.",
+      "Place ingredients in a mixing bowl."
+    ]
+  },
+  "bowling": {
+    "definition": "n. 保龄球",
+    "phonetic": {
+      "uk": "/ˈbəʊlɪŋ/",
+      "us": "/ˈboʊlɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "go bowling",
+      "bowling alley"
+    ],
+    "examples": [
+      "Let's go bowling tonight.",
+      "He is excellent at bowling."
+    ]
+  },
+  "box": {
+    "definition": "n. 箱，盒；包箱",
+    "phonetic": {
+      "uk": "/bɒks/",
+      "us": "/bɑːks/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cardboard box",
+      "in a box"
+    ],
+    "examples": [
+      "The gift came in a beautiful box.",
+      "She packed her books in boxes."
+    ]
+  },
+  "boy": {
+    "definition": "n. 男孩，男青年；家伙",
+    "phonetic": {
+      "uk": "/bɔɪ/",
+      "us": "/bɔɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "little boy",
+      "good boy"
+    ],
+    "examples": [
+      "The boy had a smile on his face.",
+      "Boys love playing soccer."
+    ]
+  },
+  "brain": {
+    "definition": "n. 脑(子；脑力，智能",
+    "phonetic": {
+      "uk": "/breɪn/",
+      "us": "/breɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brain drain",
+      "use your brain"
+    ],
+    "examples": [
+      "She has an amazing brain.",
+      "The brain is complex and mysterious."
+    ]
+  },
+  "brake": {
+    "definition": "n. 闸，刹车 vi. 制动",
+    "phonetic": {
+      "uk": "/breɪk/",
+      "us": "/breɪk/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "apply the brake",
+      "emergency brake"
+    ],
+    "examples": [
+      "The car needs new brakes.",
+      "Brake gently when approaching the stop sign."
+    ]
+  },
+  "branch": {
+    "definition": "n. 树枝；分部；分科",
+    "phonetic": {
+      "uk": "/brɑːntʃ/",
+      "us": "/bræntʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tree branch",
+      "branch office"
+    ],
+    "examples": [
+      "The branch broke under the weight of snow.",
+      "The bank has branches in all major cities."
+    ]
+  },
+  "brand": {
+    "definition": "n. 商标，标记",
+    "phonetic": {
+      "uk": "/brænd/",
+      "us": "/brænd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brand name",
+      "famous brand"
+    ],
+    "examples": [
+      "This brand of coffee is excellent.",
+      "She prefers luxury brand clothing."
+    ]
+  },
+  "brandy": {
+    "definition": "n. 白兰地酒",
+    "phonetic": {
+      "uk": "/ˈbrændi/",
+      "us": "/ˈbrændi/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "glass of brandy",
+      "brandy snifter"
+    ],
+    "examples": [
+      "He enjoys a glass of brandy after dinner.",
+      "Brandy is made from distilled wine."
+    ]
+  },
+  "brass": {
+    "definition": "n. 黄铜；黄铜器",
+    "phonetic": {
+      "uk": "/brɑːs/",
+      "us": "/bræs/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brass instrument",
+      "polished brass"
+    ],
+    "examples": [
+      "The trumpet is a brass instrument.",
+      "The brass handles gleamed in the sunlight."
+    ]
+  },
+  "brave": {
+    "definition": "adj. 勇敢的，华丽的",
+    "phonetic": {
+      "uk": "/breɪv/",
+      "us": "/breɪv/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "brave soldier",
+      "be brave"
+    ],
+    "examples": [
+      "The brave lion defended its territory.",
+      "It was a brave decision."
+    ]
+  },
+  "bread": {
+    "definition": "n. 面包；食物，生计",
+    "phonetic": {
+      "uk": "/bred/",
+      "us": "/bred/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "slice of bread",
+      "bread and butter"
+    ],
+    "examples": [
+      "We need more bread for the mice.",
+      "Bread is a staff of life."
+    ]
+  },
+  "breadth": {
+    "definition": "n. 宽度，幅度；幅面",
+    "phonetic": {
+      "uk": "/bredθ/",
+      "us": "/bredθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "breadth of view",
+      "measure the breadth"
+    ],
+    "examples": [
+      "The river has a breadth of about 300 meters.",
+      "His knowledge has impressive breadth."
+    ]
+  },
+  "break": {
+    "definition": "vt. 打破；损坏；破坏",
+    "phonetic": {
+      "uk": "/breɪk/",
+      "us": "/breɪk/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "break down",
+      "take a break"
+    ],
+    "examples": [
+      "Please don't break the vase.",
+      "The machine will break down soon."
+    ]
+  },
+  "breakfast": {
+    "definition": "n. 早饭，早餐",
+    "phonetic": {
+      "uk": "/ˈbrekfəst/",
+      "us": "/ˈbrekfəst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "have breakfast",
+      "breakfast in bed"
+    ],
+    "examples": [
+      "I always have coffee with breakfast.",
+      "The hotel provides a complimentary breakfast."
+    ]
+  },
+  "breast": {
+    "definition": "n. 乳房；胸脯，胸膛",
+    "phonetic": {
+      "uk": "/brest/",
+      "us": "/brest/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "breast cancer",
+      "breast pocket"
+    ],
+    "examples": [
+      "Breast cancer awareness month is in October.",
+      "He kept his notebook in his breast pocket."
+    ]
+  },
+  "breath": {
+    "definition": "n. 气息，呼吸；口气",
+    "phonetic": {
+      "uk": "/breθ/",
+      "us": "/breθ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "take a breath",
+      "bad breath"
+    ],
+    "examples": [
+      "Take a deep breath and relax.",
+      "The man lost his breath after the run."
+    ]
+  },
+  "breathe": {
+    "definition": "vi. 呼吸 vt. 呼吸",
+    "phonetic": {
+      "uk": "/briːð/",
+      "us": "/briːð/"
+    },
+    "partOfSpeech": "vi./vt.",
+    "phrases": [
+      "breathe in",
+      "breathe out"
+    ],
+    "examples": [
+      "We cannot breathe without oxygen.",
+      "Please breathe slowly and deeply."
+    ]
+  },
+  "breed": {
+    "definition": "n. 品种 vt. 饲养",
+    "phonetic": {
+      "uk": "/briːd/",
+      "us": "/briːd/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "dog breed",
+      "breed horses"
+    ],
+    "examples": [
+      "What breed is this cat?",
+      "They breed cattle for meat."
+    ]
+  },
+  "brick": {
+    "definition": "n. 砖，砖块；砖状物",
+    "phonetic": {
+      "uk": "/brɪk/",
+      "us": "/brɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brick wall",
+      "red brick"
+    ],
+    "examples": [
+      "The house is built of red brick.",
+      "We need more bricks for the project."
+    ]
+  },
+  "bride": {
+    "definition": "n. 新娘",
+    "phonetic": {
+      "uk": "/braɪd/",
+      "us": "/braɪd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "beautiful bride",
+      "bride and groom"
+    ],
+    "examples": [
+      "The bride wore a white dress.",
+      "The bride walked down the aisle."
+    ]
+  },
+  "bridge": {
+    "definition": "n. 桥，桥梁；桥牌",
+    "phonetic": {
+      "uk": "/brɪdʒ/",
+      "us": "/brɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "cross the bridge",
+      "bridge the gap"
+    ],
+    "examples": [
+      "The bridge connects the two sides of the river.",
+      "We need to bridge the gap between rich and poor."
+    ]
+  },
+  "brief": {
+    "definition": "adj. 简短的；短暂的",
+    "phonetic": {
+      "uk": "/briːf/",
+      "us": "/briːf/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "brief introduction",
+      "in brief"
+    ],
+    "examples": [
+      "Please keep the meeting brief.",
+      "She gave a brief speech."
+    ]
+  },
+  "bright": {
+    "definition": "adj. 明亮的；聪明的",
+    "phonetic": {
+      "uk": "/braɪt/",
+      "us": "/braɪt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "bright future",
+      "bright idea"
+    ],
+    "examples": [
+      "The sun is bright today.",
+      "She has a bright mind."
+    ]
+  },
+  "brilliant": {
+    "definition": "adj. 光辉的；卓越的",
+    "phonetic": {
+      "uk": "/ˈbrɪliənt/",
+      "us": "/ˈbrɪliənt/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "brilliant idea",
+      "brilliant performance"
+    ],
+    "examples": [
+      "She gave a brilliant performance.",
+      "The diamond is absolutely brilliant."
+    ]
+  },
+  "bring": {
+    "definition": "vt. 带来；引出；促使",
+    "phonetic": {
+      "uk": "/brɪŋ/",
+      "us": "/brɪŋ/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "bring up",
+      "bring about"
+    ],
+    "examples": [
+      "Please bring the umbrella.",
+      "Can we bring guests to the party?"
+    ]
+  },
+  "broad": {
+    "definition": "adj. 宽的，阔的；广泛的",
+    "phonetic": {
+      "uk": "/brɔːd/",
+      "us": "/brɔːd/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "broad shoulders",
+      "broad knowledge"
+    ],
+    "examples": [
+      "He has broad shoulders.",
+      "Her interests are broad and varied."
+    ]
+  },
+  "broadcast": {
+    "definition": "n. 广播，播音",
+    "phonetic": {
+      "uk": "/ˈbrɔːdkɑːst/",
+      "us": "/ˈbrɔːdkæst/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "news broadcast",
+      "live broadcast"
+    ],
+    "examples": [
+      "The news broadcast begins at 7 PM.",
+      "The event was broadcast live."
+    ]
+  },
+  "brochure": {
+    "definition": "n. 小册子，宣传册",
+    "phonetic": {
+      "uk": "/ˈbrəʊʃr/",
+      "us": "/ˈbroʊʃr/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "travel brochure",
+      "company brochure"
+    ],
+    "examples": [
+      "The travel brochure shows beautiful beaches.",
+      "Pick up a brochure at the reception desk."
+    ]
+  },
+  "broken": {
+    "definition": "adj. 被打碎的，骨折的",
+    "phonetic": {
+      "uk": "/ˈbrəʊkən/",
+      "us": "/ˈbroʊkən/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "broken heart",
+      "broken promise"
+    ],
+    "examples": [
+      "The vase is broken.",
+      "She left with a broken heart."
+    ]
+  },
+  "bronze": {
+    "definition": "n. 青铜；青铜制品",
+    "phonetic": {
+      "uk": "/brɒnz/",
+      "us": "/brɑːnz/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bronze medal",
+      "bronze statue"
+    ],
+    "examples": [
+      "She won the bronze medal.",
+      "The bronze sculpture depicts a horse."
+    ]
+  },
+  "brook": {
+    "definition": "n. 小河，溪",
+    "phonetic": {
+      "uk": "/brʊk/",
+      "us": "/brʊk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "brook trout",
+      "wooden brook"
+    ],
+    "examples": [
+      "The brook flows through the forest.",
+      "Children played along the babbling brook."
+    ]
+  },
+  "broom": {
+    "definition": "n. 扫帚",
+    "phonetic": {
+      "uk": "/bruːm/",
+      "us": "/bruːm/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "sweep with a broom",
+      "new broom"
+    ],
+    "examples": [
+      "She swept the floor with a broom.",
+      "The witch flew on a broomstick."
+    ]
+  },
+  "brother": {
+    "definition": "n. 兄弟；同事，同胞",
+    "phonetic": {
+      "uk": "/ˈbrʌðər/",
+      "us": "/ˈbrʌðər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "older brother",
+      "younger brother"
+    ],
+    "examples": [
+      "My brother is taller than me.",
+      "We are brothers in arms."
+    ]
+  },
+  "brow": {
+    "definition": "n. 额；眉，眉毛",
+    "phonetic": {
+      "uk": "/braʊ/",
+      "us": "/braʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "furrowed brow",
+      "raise eyebrows"
+    ],
+    "examples": [
+      "She brushed her hair from brow.",
+      "His brow wrinkled in concern."
+    ]
+  },
+  "brown": {
+    "definition": "adj. 褐色的，棕色的",
+    "phonetic": {
+      "uk": "/braʊn/",
+      "us": "/braʊn/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "brown hair",
+      "dark brown"
+    ],
+    "examples": [
+      "He has brown eyes.",
+      "The leaves turned brown in autumn."
+    ]
+  },
+  "brush": {
+    "definition": "n. 刷子，毛刷；画笔",
+    "phonetic": {
+      "uk": "/brʌʃ/",
+      "us": "/brʌʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "hairbrush",
+      "toothbrush"
+    ],
+    "examples": [
+      "Please brush your hair.",
+      "The artist used a small brush."
+    ]
+  },
+  "brutal": {
+    "definition": "adj. 残忍的，野蛮的",
+    "phonetic": {
+      "uk": "/ˈbruːtl/",
+      "us": "/ˈbruːtl/"
+    },
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "brutal attack",
+      "brutal truth"
+    ],
+    "examples": [
+      "The brutal war lasted ten years.",
+      "She told him the brutal truth."
+    ]
+  },
+  "bubble": {
+    "definition": "n. 泡 vi. 冒泡，沸腾",
+    "phonetic": {
+      "uk": "/ˈbʌbl/",
+      "us": "/ˈbʌbl/"
+    },
+    "partOfSpeech": "n./vi.",
+    "phrases": [
+      "blow bubbles",
+      "economic bubble"
+    ],
+    "examples": [
+      "Children love to blow soap bubbles.",
+      "The champagne bubbles with excitement."
+    ]
+  },
+  "bucket": {
+    "definition": "n. 水桶；吊桶",
+    "phonetic": {
+      "uk": "/ˈbʌkɪt/",
+      "us": "/ˈbʌkɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "kick the bucket",
+      "water bucket"
+    ],
+    "examples": [
+      "Fetch a bucket of water.",
+      "The bucket is leaky."
+    ]
+  },
+  "bud": {
+    "definition": "n. 芽，萌芽；蓓蕾",
+    "phonetic": {
+      "uk": "/bʌd/",
+      "us": "/bʌd/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "rose bud",
+      "nip in the bud"
+    ],
+    "examples": [
+      "The tree is covered in blossom buds.",
+      "The rose buds will open tomorrow."
+    ]
+  },
+  "budget": {
+    "definition": "n. 预算",
+    "phonetic": {
+      "uk": "/ˈbʌdʒɪt/",
+      "us": "/ˈbʌdʒɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "annual budget",
+      "stick to a budget"
+    ],
+    "examples": [
+      "We have a tight budget.",
+      "The government announced its budget."
+    ]
+  },
+  "build": {
+    "definition": "vt. 建筑；建立；创立",
+    "phonetic": {
+      "uk": "/bɪld/",
+      "us": "/bɪld/"
+    },
+    "partOfSpeech": "vt.",
+    "phrases": [
+      "build up",
+      "build a house"
+    ],
+    "examples": [
+      "They plan to build a new library.",
+      "His speech built momentum."
+    ]
+  },
+  "building": {
+    "definition": "n. 建筑物，大楼；建筑",
+    "phonetic": {
+      "uk": "/ˈbɪldɪŋ/",
+      "us": "/ˈbɪldɪŋ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "tall building",
+      "building materials"
+    ],
+    "examples": [
+      "The building is 50 stories tall.",
+      "Construction crews are building here."
+    ]
+  },
+  "bulb": {
+    "definition": "n. 电灯泡；球状物",
+    "phonetic": {
+      "uk": "/bʌlb/",
+      "us": "/bʌlb/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "light bulb",
+      "flower bulb"
+    ],
+    "examples": [
+      "The bulb burned out.",
+      "She planted tulip bulbs in autumn."
+    ]
+  },
+  "bulge": {
+    "definition": "n. 膨胀；肿胀",
+    "phonetic": {
+      "uk": "/bʌldʒ/",
+      "us": "/bʌldʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bulge in population",
+      "couch potato bulge"
+    ],
+    "examples": [
+      "There was a noticeable bulge in my pocket.",
+      "The balloon developed a bulge as it inflated."
+    ]
+  },
+  "bulk": {
+    "definition": "n. 物体，容积，大批",
+    "phonetic": {
+      "uk": "/bʌlk/",
+      "us": "/bʌlk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "in bulk",
+      "the bulk of"
+    ],
+    "examples": [
+      "Buying in bulk saves money.",
+      "The bulk of work is done."
+    ]
+  },
+  "bull": {
+    "definition": "n. 公牛；雄性动物",
+    "phonetic": {
+      "uk": "/bʊl/",
+      "us": "/bʊl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bull market",
+      "bull in china shop"
+    ],
+    "examples": [
+      "The farmer has a large bull in the pasture.",
+      "Stock investors watch the bull market."
+    ]
+  },
+  "bullet": {
+    "definition": "n. 子弹",
+    "phonetic": {
+      "uk": "/ˈbʊlɪt/",
+      "us": "/ˈbʊlɪt/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "silver bullet",
+      "bullet hole"
+    ],
+    "examples": [
+      "The bullet hit the target.",
+      "He was shot with a bullet."
+    ]
+  },
+  "bump": {
+    "definition": "vt. 撞击 vi. 撞 n. 肿块",
+    "phonetic": {
+      "uk": "/bʌmp/",
+      "us": "/bʌmp/"
+    },
+    "partOfSpeech": "vt./vi./n.",
+    "phrases": [
+      "bump into",
+      "speed bump"
+    ],
+    "examples": [
+      "I bumped my head.",
+      "She bumped into an old friend"
+    ]
+  },
+  "bunch": {
+    "definition": "n. 束，球，串；一群",
+    "phonetic": {
+      "uk": "/bʌntʃ/",
+      "us": "/bʌnʃ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bunch of flowers",
+      "bunch of keys"
+    ],
+    "examples": [
+      "He held a bunch of keys.",
+      "The teacher gave each student a bunch of flowers."
+    ]
+  },
+  "bundle": {
+    "definition": "n. 捆，包，束；包袱",
+    "phonetic": {
+      "uk": "/ˈbʌndl/",
+      "us": "/ˈbʌndl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "a bundle of joy",
+      "bundle up"
+    ],
+    "examples": [
+      "She carried a bundle of laundry.",
+      "The baby was a bundle of joy."
+    ]
+  },
+  "burden": {
+    "definition": "n. 担子，重担；装载量",
+    "phonetic": {
+      "uk": "/ˈbɜːdn/",
+      "us": "/ˈbɜːrdn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "burden of responsibility",
+      "share the burden"
+    ],
+    "examples": [
+      "The debt became a burden on him.",
+      "Shouldering the burden of caring for the elderly."
+    ]
+  },
+  "bureau": {
+    "definition": "n. 局，司，处；社，所",
+    "phonetic": {
+      "uk": "/ˈbjʊərəʊ/",
+      "us": "/ˈbjʊroʊ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "travel bureau",
+      "information bureau"
+    ],
+    "examples": [
+      "The weather bureau forecasts heavy rain.",
+      "She works at the statistics bureau."
+    ]
+  },
+  "butter": {
+    "definition": "n. 黄油；奶油",
+    "phonetic": {
+      "uk": "/ˈbʌtər/",
+      "us": "/ˈbʌtər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "peanut butter",
+      "butter knife"
+    ],
+    "examples": [
+      "He spread butter on his toast.",
+      "Butter is made from milk."
+    ]
+  },
+  "butterfly": {
+    "definition": "n. 蝴蝶",
+    "phonetic": {
+      "uk": "/ˈbʌtəflaɪ/",
+      "us": "/ˈbʌtərflaɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "butterfly effect",
+      "social butterfly"
+    ],
+    "examples": [
+      "A butterfly sat on the flower.",
+      "She is a social butterfly with many friends."
+    ]
+  },
+  "button": {
+    "definition": "n. 扣子；按钮 vt. 扣紧",
+    "phonetic": {
+      "uk": "/ˈbʌtn/",
+      "us": "/ˈbʌtn/"
+    },
+    "partOfSpeech": "n./vt.",
+    "phrases": [
+      "press the button",
+      "pop a button"
+    ],
+    "examples": [
+      "Please press the button.",
+      "She buttoned her shirt"
+    ]
+  },
+  "buy": {
+    "definition": "vt. 买，购买 vi. 买",
+    "phonetic": {
+      "uk": "/baɪ/",
+      "us": "/baɪ/"
+    },
+    "partOfSpeech": "vt./vi.",
+    "phrases": [
+      "buy and sell",
+      "buy in bulk"
+    ],
+    "examples": [
+      "I need to buy groceries.",
+      "Can you buy it for me?"
+    ]
+  },
+  "by": {
+    "definition": "prep. 在…旁；被；通过",
+    "phonetic": {
+      "uk": "/baɪ/",
+      "us": "/baɪ/"
+    },
+    "partOfSpeech": "prep.",
+    "phrases": [
+      "by bus",
+      "by the way"
+    ],
+    "examples": [
+      "We traveled by train.",
+      "Send it by email."
+    ]
+  },
+  "cabbage": {
+    "definition": "n. 洋白菜，卷心菜",
+    "phonetic": {
+      "uk": "/ˈkæbɪdʒ/",
+      "us": "/ˈkæbɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "Chinese cabbage",
+      "cabbage soup"
+    ],
+    "examples": [
+      "For dinner, we have fried cabbage.",
+      "The salad is a mixture of lettuce and cabbage."
+    ]
+  },
+  "cabin": {
+    "definition": "n. 小屋；船舱，机舱",
+    "phonetic": {
+      "uk": "/ˈkæbɪn/",
+      "us": "/ˈkæbɪn/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "log cabin",
+      "cabin crew"
+    ],
+    "examples": [
+      "They built a log cabin in the forest.",
+      "The cabin is cozy and warm."
+    ]
+  },
+  "cabinet": {
+    "definition": "n. 橱，柜；内阁",
+    "phonetic": {
+      "uk": "/ˈkæbɪnət/",
+      "us": "/ˈkæbɪnət/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "kitchen cabinet",
+      "prime minister's cabinet"
+    ],
+    "examples": [
+      "Store files in the cabinet.",
+      "The cabinet makes important decisions."
+    ]
+  },
+  "cable": {
+    "definition": "n. 电缆，海底电线",
+    "phonetic": {
+      "uk": "/ˈkeɪbl/",
+      "us": "/ˈkeɪbl/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "fiber optic cable",
+      "cable car"
+    ],
+    "examples": [
+      "The cable was damaged.",
+      "The cable TV provides many channels."
+    ]
+  },
+  "cafe": {
+    "definition": "n. 咖啡馆，小餐厅",
+    "phonetic": {
+      "uk": "/ˈkæfeɪ/",
+      "us": "/ˈkæfeɪ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "internet cafe",
+      "visit a cafe"
+    ],
+    "examples": [
+      "We met at the local cafe.",
+      "The cafe serves excellent coffee and pastries."
+    ]
+  },
+  "cage": {
+    "definition": "n. 笼；鸟笼，囚笼",
+    "phonetic": {
+      "uk": "/keɪdʒ/",
+      "us": "/keɪdʒ/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "bird cage",
+      "cage fighter"
+    ],
+    "examples": [
+      "The bird flew out of its cage.",
+      "Animals in cages behave differently."
+    ]
+  },
+  "cake": {
+    "definition": "n. 蛋糕，饼，糕",
+    "phonetic": {
+      "uk": "/keɪk/",
+      "us": "/keɪk/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "birthday cake",
+      "piece of cake"
+    ],
+    "examples": [
+      "She baked a chocolate cake.",
+      "This test is a piece of cake for her."
+    ]
+  }
+}
