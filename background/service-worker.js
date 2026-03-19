@@ -164,6 +164,183 @@ const DICT_FILES = [
 ];
 
 /**
+ * 英语变形规则（按优先级排序，优先匹配长后缀）
+ */
+const INFLECTION_RULES = [
+  // 不规则动词过去式（先检查这些长度变化）
+  { suffix: 'ied', remove: 'ied', add: 'y' },
+  { suffix: 'ied', remove: 'ied', add: 'ie' },
+  // 过去式/过去分词
+  { suffix: 'ied', remove: 'ied', add: 'y' },
+  { suffix: 'ied', remove: 'ied', add: 'ie' },
+  // 复数和不规则变化
+  { suffix: 'ives', remove: 'ives', add: 'ife' },
+  { suffix: 'ves', remove: 'ves', add: 'f' },
+  { suffix: 'ves', remove: 'ves', add: 'fe' },
+  { suffix: 'ies', remove: 'ies', add: 'y' },
+  { suffix: 'es', remove: 'es', add: '' },
+  { suffix: 'es', remove: 'es', add: 'e' },
+  // 过去式
+  { suffix: 'ied', remove: 'ied', add: 'y' },
+  // 进行时
+  { suffix: 'ying', remove: 'ying', add: 'ie' },
+  { suffix: 'ing', remove: 'ing', add: 'e' },
+  { suffix: 'ing', remove: 'ping', add: 'pe' },
+  // 比较级/最高级
+  { suffix: 'iest', remove: 'iest', add: 'y' },
+  { suffix: 'est', remove: 'est', add: '' },
+  { suffix: 'est', remove: 'est', add: 'e' },
+  // 第三人称单数
+  { suffix: 'ies', remove: 'ies', add: 'y' },
+  { suffix: 'es', remove: 'es', add: '' },
+  { suffix: 's', remove: 's', add: '' },
+  { suffix: 's', remove: 's', add: 'e' }
+];
+
+/**
+ * 常见不规则变形映射表
+ */
+const IRREGULAR_INFLECTIONS = {
+  // 不规则动词过去式
+  'went': 'go', 'gone': 'go',
+  'was': 'be', 'were': 'be',
+  'did': 'do', 'done': 'do',
+  'had': 'have', 'has': 'have',
+  'said': 'say', 'says': 'say',
+  'made': 'make', 'makes': 'make',
+  'found': 'find', 'finds': 'find',
+  'took': 'take', 'taken': 'take',
+  'came': 'come', 'comes': 'come',
+  'saw': 'see', 'seen': 'see',
+  'knew': 'know', 'known': 'know',
+  'thought': 'think', 'thinks': 'think',
+  'bought': 'buy', 'buys': 'buy',
+  'gave': 'give', 'gives': 'give',
+  'got': 'get', 'gotten': 'get', 'gets': 'get',
+  'wrote': 'write', 'written': 'write', 'writes': 'write',
+  'told': 'tell', 'tells': 'tell',
+  'spoke': 'speak', 'spoken': 'speak', 'speaks': 'speak',
+  'read': 'read', 'reads': 'read',
+  'became': 'become', 'becomes': 'become',
+  'began': 'begin', 'begun': 'begin', 'begins': 'begin',
+  'broke': 'break', 'broken': 'break', 'breaks': 'break',
+  'brought': 'bring', 'brings': 'bring',
+  'chose': 'choose', 'chosen': 'choose', 'chooses': 'choose',
+  'ate': 'eat', 'eaten': 'eat', 'eats': 'eat',
+  'forgot': 'forget', 'forgotten': 'forget', 'forgets': 'forget',
+  'kept': 'keep', 'keeps': 'keep',
+  'knew': 'know', 'known': 'know', 'knows': 'know',
+  'left': 'leave', 'leaves': 'leave',
+  'met': 'meet', 'meets': 'meet',
+  'paid': 'pay', 'pays': 'pay',
+  'put': 'put', 'puts': 'put',
+  'ran': 'run', 'runs': 'run',
+  'sat': 'sit', 'sits': 'sit',
+  'sold': 'sell', 'sells': 'sell',
+  'sent': 'send', 'sends': 'send',
+  'slept': 'sleep', 'sleeps': 'sleep',
+  'spent': 'spend', 'spends': 'spend',
+  'stood': 'stand', 'stands': 'stand',
+  'taught': 'teach', 'teaches': 'teach',
+  'told': 'tell', 'tells': 'tell',
+  'understood': 'understand', 'understands': 'understand',
+  'wore': 'wear', 'worn': 'wear', 'wears': 'wear',
+  'won': 'win', 'wins': 'win',
+  'caught': 'catch', 'catches': 'catch',
+  'cut': 'cut', 'cuts': 'cut',
+  'hit': 'hit', 'hits': 'hit',
+  'let': 'let', 'lets': 'let',
+  'put': 'put', 'puts': 'put',
+  'set': 'set', 'sets': 'set',
+  'beat': 'beat', 'beaten': 'beat', 'beats': 'beat',
+  'became': 'become', 'becomes': 'become',
+  'blew': 'blow', 'blown': 'blow', 'blows': 'blow',
+  'built': 'build', 'builds': 'build',
+  'burned': 'burn', 'burnt': 'burn', 'burns': 'burn',
+  'cost': 'cost', 'costs': 'cost',
+  'crept': 'creep', 'creeps': 'creep',
+  'dealt': 'deal', 'deals': 'deal',
+  'drew': 'draw', 'drawn': 'draw', 'draws': 'draw',
+  'drank': 'drink', 'drunk': 'drink', 'drinks': 'drink',
+  'drove': 'drive', 'driven': 'drive', 'drives': 'drive',
+  'fell': 'fall', 'fallen': 'fall', 'falls': 'fall',
+  'fed': 'feed', 'feeds': 'feed',
+  'felt': 'feel', 'feels': 'feel',
+  'flew': 'fly', 'flown': 'fly', 'flies': 'fly',
+  'froze': 'freeze', 'frozen': 'freeze', 'freezes': 'freeze',
+  'grew': 'grow', 'grown': 'grow', 'grows': 'grow',
+  'hung': 'hang', 'hangs': 'hang',
+  'hid': 'hide', 'hidden': 'hide', 'hides': 'hide',
+  'held': 'hold', 'holds': 'hold',
+  'laid': 'lay', 'lays': 'lay',
+  'led': 'lead', 'leads': 'lead',
+  'lent': 'lend', 'lends': 'lend',
+  'lay': 'lie', 'lain': 'lie', 'lies': 'lie',
+  'lit': 'light', 'lights': 'light',
+  'lost': 'lose', 'loses': 'lose',
+  'meant': 'mean', 'means': 'mean',
+  'mistook': 'mistake', 'mistaken': 'mistake', 'mistakes': 'mistake',
+  'paid': 'pay', 'pays': 'pay',
+  'quit': 'quit', 'quits': 'quit',
+  'rode': 'ride', 'ridden': 'ride', 'rides': 'ride',
+  'rang': 'ring', 'rung': 'ring', 'rings': 'ring',
+  'rose': 'rise', 'risen': 'rise', 'rises': 'rise',
+  'sank': 'sink', 'sunk': 'sink', 'sinks': 'sink',
+  'sang': 'sing', 'sung': 'sing', 'sings': 'sing',
+  'sat': 'sit', 'sits': 'sit',
+  'slid': 'slide', 'slides': 'slide',
+  'smelt': 'smell', 'smelled': 'smell', 'smells': 'smell',
+  'spelt': 'spell', 'spelled': 'spell', 'spells': 'spell',
+  'spent': 'spend', 'spends': 'spend',
+  'spoke': 'speak', 'spoken': 'speak', 'speaks': 'speak',
+  'stole': 'steal', 'stolen': 'steal', 'steals': 'steal',
+  'swam': 'swim', 'swum': 'swim', 'swims': 'swim',
+  'took': 'take', 'taken': 'take', 'takes': 'take',
+  'taught': 'teach', 'teaches': 'teach',
+  'tore': 'tear', 'torn': 'tear', 'tears': 'tear',
+  'threw': 'throw', 'thrown': 'throw', 'throws': 'throw',
+  'told': 'tell', 'tells': 'tell',
+  'woke': 'wake', 'waken': 'wake', 'wakes': 'wake',
+  'wore': 'wear', 'worn': 'wear', 'wears': 'wear',
+  'wound': 'wind', 'winds': 'wind',
+  'won': 'win', 'wins': 'win',
+  'wrote': 'write', 'written': 'write', 'writes': 'write',
+  // 不规则形容词比较级
+  'better': 'good', 'best': 'good',
+  'worse': 'bad', 'worst': 'bad',
+  'more': 'much', 'most': 'much',
+  'more': 'many', 'most': 'many',
+  'less': 'little', 'least': 'little',
+  'further': 'far', 'farther': 'far', 'furthest': 'far', 'farthest': 'far',
+  // 其他不规则变化
+  'teeth': 'tooth',
+  'feet': 'foot',
+  'geese': 'goose',
+  'mice': 'mouse',
+  'men': 'man',
+  'women': 'woman',
+  'children': 'child',
+  'people': 'person',
+  'oxen': 'ox',
+  'sheep': 'sheep',
+  'deer': 'deer',
+  'fish': 'fish',
+  'series': 'series',
+  'species': 'species',
+  'analysis': 'analysis',
+  'crisis': 'crisis',
+  'thesis': 'thesis',
+  'bases': 'basis',
+  'axes': 'axis',
+  'phenomena': 'phenomenon',
+  'criteria': 'criterion',
+  'data': 'datum',
+  'media': 'medium',
+  'formulas': 'formula',
+  'alumni': 'alumnus'
+};
+
+/**
  * 离线词典服务类
  */
 class OfflineDictionary {
@@ -172,6 +349,7 @@ class OfflineDictionary {
       en_zh: {},
       zh_en: {}
     };
+    this.inflectionMap = {}; // 变形映射表
   }
 
   /**
@@ -192,6 +370,9 @@ class OfflineDictionary {
       console.log('正在从本地文件加载词典...');
       await this.loadFromLocalFiles();
     }
+
+    // 构建变形映射表
+    this.buildInflectionMap();
 
     console.log('离线词典已加载:',
       '英汉:', Object.keys(this.dictionary.en_zh).length, '词',
@@ -248,6 +429,142 @@ class OfflineDictionary {
   }
 
   /**
+   * 构建变形映射表
+   */
+  buildInflectionMap() {
+    for (const word of Object.keys(this.dictionary.en_zh)) {
+      // 为每个词生成可能的变形形式
+      const forms = this.generateInflectedForms(word);
+      for (const form of forms) {
+        // 保存到词根的映射
+        if (!this.inflectionMap[form]) {
+          this.inflectionMap[form] = word;
+        }
+      }
+    }
+    console.log('变形映射表已构建:', Object.keys(this.inflectionMap).length, '条');
+  }
+
+  /**
+   * 生成单词的各种变形形式
+   * @param {string} word - 原始单词
+   * @returns {Array} 变形形式数组
+   */
+  generateInflectedForms(word) {
+    const forms = new Set();
+
+    // 最后一个字母是 'y' 的情况
+    if (word.endsWith('y')) {
+      const base = word.slice(0, -1);
+      forms.add(base + 'ies'); // 复数
+      forms.add(base + 'ied'); // 过去式
+    }
+
+    // 最后一个字母是 'f' 或 'fe' 的情况
+    if (word.endsWith('f')) {
+      forms.add(word.slice(0, -1) + 'ves');
+    }
+    if (word.endsWith('fe')) {
+      forms.add(word.slice(0, -2) + 'ves');
+    }
+
+    // 最后一个字母是 's', 'x', 'z', 'ch', 'sh' 的情况
+    if (word.endsWith('s') || word.endsWith('x') || word.endsWith('z') ||
+        word.endsWith('ch') || word.endsWith('sh')) {
+      forms.add(word + 'es');
+      forms.add(word + 'ed');
+      forms.add(word + 'ing');
+    }
+
+    // 最后一个字母是 'e' 的情况
+    if (word.endsWith('e')) {
+      forms.add(word + 's'); // 复数/第三人称
+      forms.add(word + 'd'); // 过去式
+      forms.add(word.slice(0, -1) + 'ing'); // 进行时
+      forms.add(word + 'r'); // 比较级
+      forms.add(word + 'st'); // 最高级
+    } else {
+      forms.add(word + 's'); // 复数
+      forms.add(word + 'ed'); // 过去式
+      forms.add(word + 'ing'); // 进行时
+
+      // 双写最后一个辅音字母的情况
+      if (this.shouldDoubleLastLetter(word)) {
+        const doubled = word + word.slice(-1);
+        forms.add(doubled + 'ed');
+        forms.add(doubled + 'ing');
+      }
+
+      // 比较级/最高级
+      forms.add(word + 'er');
+      forms.add(word + 'est');
+    }
+
+    // 单词以 'y' 结尾的比较级/最高级
+    if (word.endsWith('y')) {
+      forms.add(word.slice(0, -1) + 'ier');
+      forms.add(word.slice(0, -1) + 'iest');
+    }
+
+    return Array.from(forms);
+  }
+
+  /**
+   * 判断是否需要双写最后一个字母
+   * @param {string} word - 单词
+   * @returns {boolean}
+   */
+  shouldDoubleLastLetter(word) {
+    if (word.length < 2) return false;
+    const last = word.slice(-1).toLowerCase();
+    const secondLast = word.slice(-2, -1).toLowerCase();
+
+    // 最后一个字母是辅音
+    const isConsonant = !'aeiou'.includes(last);
+
+    // 倒数第二个字母是元音
+    const isVowelBefore = 'aeiou'.includes(secondLast);
+
+    return isConsonant && isVowelBefore;
+  }
+
+  /**
+   * 查找词根形式（处理变形）
+   * @param {string} word - 查询词
+   * @returns {string|null} 词根
+   */
+  findStemWord(word) {
+    const key = word.toLowerCase().trim();
+
+    // 1. 先查不规则变形表
+    if (IRREGULAR_INFLECTIONS[key]) {
+      return IRREGULAR_INFLECTIONS[key];
+    }
+
+    // 2. 查预构建的变形映射表
+    if (this.inflectionMap[key]) {
+      return this.inflectionMap[key];
+    }
+
+    // 3. 用规则尝试还原
+    for (const rule of INFLECTION_RULES) {
+      if (key.endsWith(rule.suffix)) {
+        // 只处理足够长的单词（避免过度还原短词）
+        if (key.length > rule.suffix.length + 1) {
+          let base = key.slice(0, -rule.suffix.length) + rule.add;
+
+          // 确保基础词存在
+          if (this.dictionary.en_zh[base]) {
+            return base;
+          }
+        }
+      }
+    }
+
+    return null;
+  }
+
+  /**
    * 查询单词
    * @param {string} word - 查询词
    * @param {string} from - 源语言
@@ -298,6 +615,28 @@ class OfflineDictionary {
         phrases: exactEntry.phrases || [],
         source: 'offline'
       };
+    }
+
+    // 对于英汉翻译，尝试查找词根（处理复数、时态等变形）
+    if (from === 'en' && to === 'zh') {
+      const stemWord = this.findStemWord(word);
+      if (stemWord && stemWord !== key) {
+        const stemEntry = dict[stemWord] || dict[stemWord.toLowerCase()];
+        if (stemEntry) {
+          return {
+            success: true,
+            original: word,
+            translated: stemEntry.definition || stemEntry.translation || '',
+            uk: stemEntry.phonetic?.uk || '',
+            us: stemEntry.phonetic?.us || '',
+            partOfSpeech: stemEntry.partOfSpeech || '',
+            examples: stemEntry.examples || [],
+            phrases: stemEntry.phrases || [],
+            stemWord: stemWord,  // 标记词根
+            source: 'offline'
+          };
+        }
+      }
     }
 
     return null;
