@@ -18,8 +18,8 @@
  * 气泡配置
  */
 const BUBBLE_CONFIG = {
-  MAX_WIDTH: 400,        // 最大宽度
-  MIN_WIDTH: 200,        // 最小宽度
+  MAX_WIDTH: 450,        // 最大宽度
+  MIN_WIDTH: 250,        // 最小宽度
   MAX_HEIGHT: 300,       // 最大高度
   ANIMATION_DURATION: 200,  // 动画时长
   CLOSE_DELAY: 2000       // 自动关闭延迟（毫秒）
@@ -500,7 +500,9 @@ function getBubbleStyles(theme) {
       color: #888;
       margin: 8px 0;
       display: flex;
+      align-items: center;
       gap: 16px;
+      flex-wrap: wrap;
     }
 
     .qt-phonetic-item {
@@ -513,6 +515,28 @@ function getBubbleStyles(theme) {
       font-weight: 600;
     }
 
+    .qt-speak-btn {
+      margin-left: auto;
+      padding: 4px 8px;
+      border: 1px solid ${config.borderColor};
+      border-radius: 4px;
+      background: transparent;
+      color: ${config.textColor};
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .qt-speak-btn:hover {
+      background: ${config.borderColor};
+    }
+
+    .qt-speak-btn svg {
+      color: ${config.textColor};
+    }
+
     .qt-source-badge {
       font-size: 10px;
       color: #666;
@@ -522,6 +546,39 @@ function getBubbleStyles(theme) {
       padding: 16px;
       color: #e74c3c;
       text-align: center;
+    }
+
+    .qt-section-title {
+      font-weight: 600;
+      font-size: 12px;
+      color: #4A90E2;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+
+    .qt-phrases-section,
+    .qt-examples-section {
+      margin-top: 12px;
+    }
+
+    .qt-phrases-list,
+    .qt-examples-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .qt-phrase-item,
+    .qt-example-item {
+      padding: 8px 10px;
+      background: ${config.backgroundColor === '#ffffff' ? '#f5f5f5' : 'rgba(255, 255, 255, 0.05)'};
+      border-radius: 4px;
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .qt-example-item {
+      font-style: italic;
     }
   `;
 }
@@ -609,6 +666,11 @@ function showTranslationResult(result) {
       <div class="qt-phonetic">
         ${currentPhonetic.uk ? `<span class="qt-phonetic-item"><span class="qt-phonetic-label">UK:</span> [${escapeHtml(currentPhonetic.uk)}]</span>` : ''}
         ${currentPhonetic.us ? `<span class="qt-phonetic-item"><span class="qt-phonetic-label">US:</span> [${escapeHtml(currentPhonetic.us)}]</span>` : ''}
+        <button class="qt-speak-btn" data-action="speak-original" title="朗读单词">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+          </svg>
+        </button>
       </div>
     `;
   }
@@ -616,10 +678,37 @@ function showTranslationResult(result) {
   html += `
       <div class="qt-divider"></div>
       <div class="qt-translated">${escapeHtml(result.translated)}</div>
+  `;
+
+  // 显示常用短语（如果有）
+  if (result.phrases && result.phrases.length > 0) {
+    html += `
+      <div class="qt-divider"></div>
+      <div class="qt-phrases-section">
+        <div class="qt-section-title">常用短语</div>
+        <div class="qt-phrases-list">
+          ${result.phrases.map(phrase => `<div class="qt-phrase-item">${escapeHtml(phrase)}</div>`).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 显示例句（如果有）
+  if (result.examples && result.examples.length > 0) {
+    html += `
+      <div class="qt-divider"></div>
+      <div class="qt-examples-section">
+        <div class="qt-section-title">例句</div>
+        <div class="qt-examples-list">
+          ${result.examples.map(example => `<div class="qt-example-item">${escapeHtml(example)}</div>`).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  html += `
     </div>
     <div class="qt-buttons">
-      <button class="qt-btn" data-action="speak-original">朗读原文</button>
-      <button class="qt-btn" data-action="speak-translated">朗读译文</button>
       <button class="qt-btn" data-action="copy-text">复制</button>
     </div>
   `;
@@ -664,29 +753,26 @@ function bindBubbleEvents() {
     });
   }
 
-  // 朗读原文按钮
+  // 朗读原文按钮（先读美式，再读英式）
   const speakOriginalBtn = bubble.querySelector('[data-action="speak-original"]');
   if (speakOriginalBtn) {
     speakOriginalBtn.addEventListener('click', () => {
       const lang = currentTranslation?.detectedLang || detectLanguage(selectedText);
-      sendMessage({
-        action: 'speak',
-        text: selectedText,
-        lang: lang === 'zh' ? 'zh-CN' : 'en-US'
-      });
-    });
-  }
 
-  // 朗读译文按钮
-  const speakTranslatedBtn = bubble.querySelector('[data-action="speak-translated"]');
-  if (speakTranslatedBtn) {
-    speakTranslatedBtn.addEventListener('click', () => {
-      const lang = detectLanguage(currentTranslation?.translated || '');
-      sendMessage({
-        action: 'speak',
-        text: currentTranslation?.translated || '',
-        lang: lang === 'zh' ? 'zh-CN' : 'en-US'
-      });
+      if (lang === 'en') {
+        // 英语：先读美式，再读英式
+        speakWithSequence([
+            { text: selectedText, lang: 'en-US' },
+            { text: selectedText, lang: 'en-GB' }
+        ]);
+      } else {
+        // 中文：只读一次
+        sendMessage({
+          action: 'speak',
+          text: selectedText,
+          lang: 'zh-CN'
+        });
+      }
     });
   }
 
@@ -726,6 +812,24 @@ function bindBubbleEvents() {
       hideBubble();
     }, BUBBLE_CONFIG.CLOSE_DELAY);
   });
+}
+
+/**
+ * 按顺序朗读多个语音
+ * @param {Array} sequence - 语音序列 [{ text, lang }, ...]
+ */
+async function speakWithSequence(sequence) {
+  for (const item of sequence) {
+    await new Promise((resolve) => {
+      sendMessage({
+        action: 'speak',
+        text: item.text,
+        lang: item.lang
+      });
+      // 等待语音结束（大约估算时间）
+      setTimeout(resolve, item.text.length * 80 + 500);
+    });
+  }
 }
 
 /**

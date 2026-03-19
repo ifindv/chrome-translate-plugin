@@ -279,6 +279,7 @@ class OfflineDictionary {
         us: entry.phonetic?.us || '',
         partOfSpeech: entry.partOfSpeech || '',
         examples: entry.examples || [],
+        phrases: entry.phrases || [],
         source: 'offline'
       };
     }
@@ -294,6 +295,7 @@ class OfflineDictionary {
         us: exactEntry.phonetic?.us || '',
         partOfSpeech: exactEntry.partOfSpeech || '',
         examples: exactEntry.examples || [],
+        phrases: exactEntry.phrases || [],
         source: 'offline'
       };
     }
@@ -473,8 +475,10 @@ class TranslationService {
     }
 
     // 自动检测语言
+    let detectedLang = from;
     if (from === 'auto') {
       from = this.detectLanguage(text);
+      detectedLang = from;
       // 如果检测到是中文且目标是中文，则目标改为英文
       if (from === 'zh' && to === 'zh') {
         to = 'en';
@@ -488,13 +492,15 @@ class TranslationService {
     if (cached) {
       return {
         ...cached,
-        fromCache: true
+        fromCache: true,
+        detectedLang: cached.detectedLang || detectedLang
       };
     }
 
     // 尝试完整文本匹配
     const exactMatch = this.dictionary.lookup(text, from, to);
     if (exactMatch && exactMatch.success) {
+      exactMatch.detectedLang = detectedLang;
       await this.cache.set(text, from, to, exactMatch);
       return exactMatch;
     }
@@ -502,12 +508,14 @@ class TranslationService {
     // 尝试短语匹配
     const phraseMatch = this.dictionary.translatePhrase(text, from, to);
     if (phraseMatch && phraseMatch.success) {
+      phraseMatch.detectedLang = detectedLang;
       await this.cache.set(text, from, to, phraseMatch);
       return phraseMatch;
     }
 
     // 逐词翻译
     const wordByWordResult = this.dictionary.translateWordByWord(text, from, to);
+    wordByWordResult.detectedLang = detectedLang;
 
     if (text.trim().split(/\s+/).length <= 10) {
       // 短文本，直接返回逐词翻译结果
@@ -520,7 +528,8 @@ class TranslationService {
         error: '文本过长，请尝试选择单词或短语',
         original: text,
         suggestion: '离线词典支持单词和短语翻译',
-        wordByWord: wordByWordResult
+        wordByWord: wordByWordResult,
+        detectedLang: detectedLang
       };
     }
   }
