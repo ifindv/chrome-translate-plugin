@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(grep -c '\"\"partOfSpeech\"\".*\"\", \"\".*\"\",.*\"\"' \"E:\\\\code\\\\SOFTAI\\\\chrome-translate-plugin\\\\dict\\\\CET4-18.json\")",
+      "Bash(python -c \"import json; f=open\\(''CET4-13.json''\\); d=json.load\\(f\\); print\\(f''Page 13: {len\\(d\\)} words''\\)\")",
+      "Bash(node:*)",
+      "Bash(mv CET4-22.fixed.json CET4-22.json)",
+      "Bash(mv CET4-23.fixed.json CET4-23.json)",
+      "Bash(mv CET4-24.fixed.json CET4-24.json)",
+      "Bash(python -m json.tool /e/code/SOFTAI/chrome-translate-plugin/dict/CET4-19.json)",
+      "Bash(python -m json.tool \"E:/code/SOFTAI/chrome-translate-plugin/dict/CET4-19.json\")",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(dir \"C:\\\\Users\\\\DELL\\\\.claude\\\\projects\\\\E--code-SOFTAI-chrome-translate-plugin\\\\memory\")",
+      "Bash(done)"
+    ]
+  }
+}
