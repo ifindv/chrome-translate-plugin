@@ -1,63 +1,36 @@
 {
-  "x-ray": {
-    "definition": "n. X射线，X光",
-    "phonetic": {
-      "uk": "/ˈeksreɪ/",
-      "us": "/ˈeksreɪ/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["chest x-ray", "x-ray machine"],
-    "examples": ["The doctor ordered an x-ray of my chest.", "X-rays can reveal broken bones."]
-  },
-  "xenon": {
-    "definition": "n. 氙（化学元素）",
-    "phonetic": {
-      "uk": "/ˈzenɒn/",
-      "us": "/ˈziːnɑn/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["xenon gas", "xenon light"],
-    "examples": ["Xenon is used in some types of lamps.", "The headlights use xenon gas."]
-  },
   "yacht": {
-    "definition": "n. 快艇，游艇",
+    "definition": "n. 游艇，快艇",
     "phonetic": {
       "uk": "/jɒt/",
       "us": "/jɑːt/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["luxury yacht", "yacht club"],
-    "examples": ["They sailed around on a yacht.", "The yacht race was exciting."]
+    "phrases": [
+      "yacht club 游艇俱乐部",
+      "private yacht 私人游艇"
+    ],
+    "examples": [
+      "They own a luxury yacht.",
+      "The yacht sailed across the ocean."
+    ]
   },
   "yard": {
-    "definition": "n. 院子，码（长度单位）",
+    "definition": "n. 院子，庭院；码",
     "phonetic": {
       "uk": "/jɑːd/",
       "us": "/jɑːrd/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["front yard", "back yard"],
-    "examples": ["They played in the yard all afternoon.", "The yard is about 50 feet long."]
-  },
-  "yardstick": {
-    "definition": "n. 码尺，衡量标准",
-    "phonetic": {
-      "uk": "/ˈjɑːdstɪk/",
-      "us": "/ˈjɑːrdstɪk/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["yardstick for", "yardstick measurement"],
-    "examples": ["Economic growth is not always the best yardstick for progress.", "Use a yardstick to measure the length."]
-  },
-  "yarn": {
-    "definition": "n. 纱，毛线；故事",
-    "phonetic": {
-      "uk": "/jɑːn/",
-      "us": "/jɑːrn/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["ball of yarn", "spin a yarn"],
-    "examples": ["She knitted a sweater from the yarn.", "He told us a fascinating yarn about his travels."]
+    "phrases": [
+      "front yard 前院",
+      "back yard 后院",
+      "shipyard 船厂"
+    ],
+    "examples": [
+      "The children are playing in the yard.",
+      "The yard is 50 feet long."
+    ]
   },
   "yawn": {
     "definition": "v. 打哈欠 n. 哈欠",
@@ -65,9 +38,30 @@
       "uk": "/jɔːn/",
       "us": "/jɔːn/"
     },
-    "partOfSpeech": "v., n.",
-    "phrases": ["yawn and stretch", "suppress a yawn"],
-    "examples": ["I always yawn when I'm tired.", "She couldn't suppress a yawn during the meeting."]
+    "partOfSpeech": "v. / n.",
+    "phrases": [
+      "yawn at 对...打哈欠",
+      "stifle a yawn 忍住哈欠"
+    ],
+    "examples": [
+      "I couldn't help yawning during the lecture.",
+      "He gave a big yawn."
+    ]
+  },
+  "yeah": {
+    "definition": "adv. 是的",
+    "phonetic": {
+      "uk": "/jeə/",
+      "us": "/jeə/"
+    },
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "oh yeah 噢，是的"
+    ],
+    "examples": [
+      "Yeah, I'd love to go.",
+      "Yeah, that's right."
+    ]
   },
   "year": {
     "definition": "n. 年，年份",
@@ -76,28 +70,33 @@
       "us": "/jɪr/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["last year", "next year"],
-    "examples": ["This has been a wonderful year.", "She was born in the year 2000."]
-  },
-  "yearbook": {
-    "definition": "n. 年鉴，年鉴刊物",
-    "phonetic": {
-      "uk": "/ˈjɪəbʊk/",
-      "us": "/ˈjɪrbʊk/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["high school yearbook", "yearbook photo"],
-    "examples": ["The graduation photos are in the yearbook.", "She contributed articles to the university yearbook."]
+    "phrases": [
+      "all year round 一年到头",
+      "last year 去年",
+      "this year 今年",
+      "next year 明年",
+      "year after year 年复一年"
+    ],
+    "examples": [
+      "This year is 2026.",
+      "She is 20 years old."
+    ]
   },
   "yearly": {
-    "definition": "adj. 每年的 ad. 每年",
+    "definition": "adj. 每年的 adv. 每年",
     "phonetic": {
       "uk": "/ˈjɪəli/",
       "us": "/ˈjɪrli/"
     },
-    "partOfSpeech": "adj., ad.",
-    "phrases": ["yearly income", "yearly report"],
-    "examples": ["The company holds a yearly meeting.", "His yearly income has increased significantly."]
+    "partOfSpeech": "adj. / adv.",
+    "phrases": [
+      "yearly report 年报",
+      "yearly income 年收入"
+    ],
+    "examples": [
+      "They hold a yearly meeting.",
+      "I check my car yearly."
+    ]
   },
   "yearn": {
     "definition": "v. 渴望，向往",
@@ -106,38 +105,14 @@
       "us": "/jɜːrn/"
     },
     "partOfSpeech": "v.",
-    "phrases": ["yearn for", "yearn to do"],
-    "examples": ["She yearns for peace and quiet.", "He yearns to see his family again."]
-  },
-  "yeast": {
-    "definition": "n. 酵母",
-    "phonetic": {
-      "uk": "/jiːst/",
-      "us": "/jiːst/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["baker's yeast", "yeast infection"],
-    "examples": ["Bread rises because of yeast.", "Yeast is essential for making beer and wine."]
-  },
-  "yeast extract": {
-    "definition": "n. 酵母提取物",
-    "phonetic": {
-      "uk": "/jiːst ˈɪkstrækt/",
-      "us": "/jiːst ˈɪkstrækt/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["yeast extract spread", "nutritional yeast extract"],
-    "examples": ["Marmite is a type of yeast extract.", "Yeast extract is rich in vitamins."]
-  },
-  "yell": {
-    "definition": "v. 喊叫 n. 喊叫",
-    "phonetic": {
-      "uk": "/jel/",
-      "us": "/jel/"
-    },
-    "partOfSpeech": "v., n.",
-    "phrases": ["yell at", "scream and yell"],
-    "examples": ["Don't yell at the children.", "She let out a yell of pain."]
+    "phrases": [
+      "yearn for 渴望",
+      "yearn to do sth. 渴望做某事"
+    ],
+    "examples": [
+      "She yearned for her children.",
+      "He yearns to return home."
+    ]
   },
   "yellow": {
     "definition": "adj. 黄色的 n. 黄色",
@@ -145,99 +120,96 @@
       "uk": "/ˈjeləʊ/",
       "us": "/ˈjeloʊ/"
     },
-    "partOfSpeech": "adj., n.",
-    "phrases": ["yellow pages", "yellow light"],
-    "examples": ["The sun turned the sky yellow.", "She wore a bright yellow dress."]
-  },
-  "yellow fever": {
-    "definition": "n. 黄热病",
-    "phonetic": {
-      "uk": "/ˈjeləʊ ˈfiːvə(r)/",
-      "us": "/ˈjeloʊ ˈfiːvər/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["yellow fever vaccine", "yellow fever outbreak"],
-    "examples": ["Yellow fever is transmitted by mosquitoes.", "Vaccination can prevent yellow fever."]
+    "partOfSpeech": "adj. / n.",
+    "phrases": [
+      "yellow light 黄灯",
+      "yellow pages 黄页"
+    ],
+    "examples": [
+      "The sun is yellow.",
+      "She wore a yellow dress."
+    ]
   },
   "yes": {
-    "definition": "ad. 是，是的",
+    "definition": "adv. 是的 n. 同意",
     "phonetic": {
       "uk": "/jes/",
       "us": "/jes/"
     },
-    "partOfSpeech": "ad.",
-    "phrases": ["say yes", "yes or no"],
-    "examples": ["Yes, I would like some tea.", "Her answer was yes."]
+    "partOfSpeech": "adv. / n.",
+    "phrases": [
+      "say yes 同意",
+      "yes or no 是或否"
+    ],
+    "examples": [
+      "Yes, I understand.",
+      "He answered with a yes."
+    ]
   },
   "yesterday": {
-    "definition": "n. 昨天 ad. 在昨天",
+    "definition": "n. 昨天 adv. 在昨天",
     "phonetic": {
       "uk": "/ˈjestədeɪ/",
       "us": "/ˈjestərdeɪ/"
     },
-    "partOfSpeech": "n., ad.",
-    "phrases": ["the day before yesterday", "yesterday morning"],
-    "examples": ["I finished the work yesterday.", "Yesterday was a beautiful day."]
+    "partOfSpeech": "n. / adv.",
+    "phrases": [
+      "the day before yesterday 前天",
+      "yesterday morning 昨天早上"
+    ],
+    "examples": [
+      "I saw him yesterday.",
+      "Yesterday was a sunny day."
+    ]
   },
   "yet": {
-    "definition": "ad. 还，尚 conj. 然而",
+    "definition": "adv. 还，尚；已经",
     "phonetic": {
       "uk": "/jet/",
       "us": "/jet/"
     },
-    "partOfSpeech": "ad., conj.",
-    "phrases": ["not yet", "as yet"],
-    "examples": ["I haven't finished yet.", "It's cheap yet good quality."]
+    "partOfSpeech": "adv.",
+    "phrases": [
+      "as yet 到目前为止",
+      "not yet 还没有"
+    ],
+    "examples": [
+      "I haven't finished yet.",
+      "Have you eaten yet?"
+    ]
   },
   "yield": {
-    "definition": "v. 生产，屈服 n. 产量",
+    "definition": "v. 产生，出产；屈服，放弃 n. 产量",
     "phonetic": {
       "uk": "/jiːld/",
       "us": "/jiːld/"
     },
-    "partOfSpeech": "v., n.",
-    "phrases": ["high yield", "yield to"],
-    "examples": ["The investment yielded good returns.", "The tree yields fruit every year."]
-  },
-  "yielding": {
-    "definition": "adj. 顺从的，易弯曲的",
-    "phonetic": {
-      "uk": "/ˈjiːldɪŋ/",
-      "us": "/ˈjiːldɪŋ/"
-    },
-    "partOfSpeech": "adj.",
-    "phrases": ["yielding material", "yielding to pressure"],
-    "examples": ["The material is very yielding.", "She has a yielding personality."]
-  },
-  "yoga": {
-    "definition": "n. 瑜伽",
-    "phonetic": {
-      "uk": "/ˈjəʊɡə/",
-      "us": "/ˈjoʊɡə/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["yoga class", "practice yoga"],
-    "examples": ["She does yoga every morning.", "Yoga helps relieve stress."]
-  },
-  "yogurt": {
-    "definition": "n. 酸奶",
-    "phonetic": {
-      "uk": "/ˈjɒɡət/",
-      "us": "/ˈjoʊɡərt/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["fruit yogurt", "greek yogurt"],
-    "examples": ["I eat yogurt for breakfast.", "This yogurt is very tasty."]
+    "partOfSpeech": "v. / n.",
+    "phrases": [
+      "yield up 屈服",
+      "high yield 高产",
+      "crop yield 农作物产量"
+    ],
+    "examples": [
+      "The tree yields fruit.",
+      "The investment yielded good returns."
+    ]
   },
   "yoke": {
-    "definition": "n. 枷锁，牛轭 v. 结合",
+    "definition": "n. 轭，枷锁；束缚 v. 结合",
     "phonetic": {
       "uk": "/jəʊk/",
       "us": "/joʊk/"
     },
-    "partOfSpeech": "n., v.",
-    "phrases": ["throw off the yoke", "yoke together"],
-    "examples": ["They threw off the yoke of oppression.", "The two countries joined under the yoke of alliance."]
+    "partOfSpeech": "n. / v.",
+    "phrases": [
+      "yoke of marriage 婚姻的枷锁",
+      "yoke together 结合在一起"
+    ],
+    "examples": [
+      "The oxen wore a yoke.",
+      "He threw off the yoke of oppression."
+    ]
   },
   "yolk": {
     "definition": "n. 蛋黄",
@@ -246,38 +218,78 @@
       "us": "/joʊk/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["egg yolk", "yolk sac"],
-    "examples": ["The egg yolk is rich in nutrients.", "He likes his eggs with runny yolks."]
+    "phrases": [
+      "egg yolk 蛋黄",
+      "yolk sac 卵黄囊"
+    ],
+    "examples": [
+      "He likes eggs with runny yolks.",
+      "Separate the yolk from the white."
+    ]
   },
   "young": {
-    "definition": "adj. 年轻的 n. 青年",
+    "definition": "adj. 年轻的，幼小的",
     "phonetic": {
       "uk": "/jʌŋ/",
       "us": "/jʌŋ/"
     },
-    "partOfSpeech": "adj., n.",
-    "phrases": ["young people", "young and old"],
-    "examples": ["She is still young and energetic.", "The young need opportunities."]
+    "partOfSpeech": "adj.",
+    "phrases": [
+      "young people 年轻人",
+      "young man 年轻男子",
+      "young woman 年轻女子"
+    ],
+    "examples": [
+      "She is young and beautiful.",
+      "Young trees need protection."
+    ]
+  },
+  "youngster": {
+    "definition": "n. 年轻人，少年",
+    "phonetic": {
+      "uk": "/ˈjʌŋstə(r)/",
+      "us": "/ˈjʌŋstər/"
+    },
+    "partOfSpeech": "n.",
+    "phrases": [
+      "youngster club 少年俱乐部"
+    ],
+    "examples": [
+      "The youngster is full of energy.",
+      "Youngsters love video games."
+    ]
+  },
+  "your": {
+    "definition": "pron. 你的，你们的",
+    "phonetic": {
+      "uk": "/jɔː(r)/",
+      "us": "/jɔːr/"
+    },
+    "partOfSpeech": "pron.",
+    "phrases": [
+      "your life 你的生活",
+      "your turn 轮到你了"
+    ],
+    "examples": [
+      "This is your book.",
+      "What's your name?"
+    ]
   },
   "yours": {
-    "definition": "pron. 你的（东西）",
+    "definition": "pron. 你的东西",
     "phonetic": {
       "uk": "/jɔːz/",
       "us": "/jɔːrz/"
     },
     "partOfSpeech": "pron.",
-    "phrases": ["yours truly", "faithfully yours"],
-    "examples": ["This pen is yours.", "Yours sincerely, John."]
-  },
-  "yours truly": {
-    "definition": "n. 本人，我（书信结尾自称）",
-    "phonetic": {
-      "uk": "/jɔːz ˈtruːli/",
-      "us": "/jɔːrz ˈtruːli/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["yours truly, John", "yours truly signature"],
-    "examples": ["The letter was signed 'yours truly'.", "Yours truly arrived early at the party."]
+    "phrases": [
+      "yours sincerely 您的挚友（信件落款）",
+      "a friend of yours 你的一个朋友"
+    ],
+    "examples": [
+      "This pen is yours.",
+      "Which one is mine and which is yours?"
+    ]
   },
   "yourself": {
     "definition": "pron. 你自己",
@@ -286,28 +298,48 @@
       "us": "/jɔːˈself/"
     },
     "partOfSpeech": "pron.",
-    "phrases": ["by yourself", "for yourself"],
-    "examples": ["Take care of yourself.", "Can you do it yourself?"]
+    "phrases": [
+      "by yourself 独自",
+      "help yourself 随便用",
+      "enjoy yourself 玩得愉快"
+    ],
+    "examples": [
+      "Do it yourself.",
+      "Believe in yourself."
+    ]
   },
   "youth": {
-    "definition": "n. 青春，青年时期，青年",
+    "definition": "n. 青春，青年时期；青年人",
     "phonetic": {
       "uk": "/juːθ/",
       "us": "/juːθ/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["in my youth", "youth club"],
-    "examples": ["She had a happy youth.", "The youth of today face many challenges."]
+    "phrases": [
+      "youth center 青年中心",
+      "youth club 青年俱乐部",
+      "in youth 在年轻时"
+    ],
+    "examples": [
+      "Youth is the best time of life.",
+      "The youth of today will lead tomorrow."
+    ]
   },
-  "youthful": {
-    "definition": "adj. 年轻的，有青春活力的",
+  "zeal": {
+    "definition": "n. 热情，热忱，激情",
     "phonetic": {
-      "uk": "/ˈjuːθfl/",
-      "us": "/ˈjuːθfl/"
+      "uk": "/ziːl/",
+      "us": "/ziːl/"
     },
-    "partOfSpeech": "adj.",
-    "phrases": ["youthful appearance", "youthful enthusiasm"],
-    "examples": ["She maintains a youthful appearance.", "He admired her youthful spirit."]
+    "partOfSpeech": "n.",
+    "phrases": [
+      "zeal for 对...的热情",
+      "with zeal 充满热情地"
+    ],
+    "examples": [
+      "He showed great zeal for his work.",
+      "She pursued her studies with zeal."
+    ]
   },
   "zebra": {
     "definition": "n. 斑马",
@@ -316,68 +348,45 @@
       "us": "/ˈziːbrə/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["zebra crossing", "wild zebra"],
-    "examples": ["Zebras have black and white stripes.", "Use the zebra crossing to cross the street."]
-  },
-  "zebra crossing": {
-    "definition": "n. 斑马线",
-    "phonetic": {
-      "uk": "/ˈzebrə ˈkrɒsɪŋ/",
-      "us": "/ˈziːbrə ˈkrɔːsɪŋ/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["cross at zebra crossing", "zebra crossing sign"],
-    "examples": ["Always use the zebra crossing to cross the road.", "The zebra crossing is marked with black and white stripes."]
-  },
-  "zealous": {
-    "definition": "adj. 热心的，热情的",
-    "phonetic": {
-      "uk": "/ˈzeləs/",
-      "us": "/ˈzeləs/"
-    },
-    "partOfSpeech": "adj.",
-    "phrases": ["zealous supporter", "zealous advocate"],
-    "examples": ["She is a zealous supporter of the cause.", "He was zealous in his pursuit of knowledge."]
-  },
-  "zenith": {
-    "definition": "n. 顶点，极盛时期",
-    "phonetic": {
-      "uk": "/ˈzenɪθ/",
-      "us": "/ˈziːnɪθ/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["at zenith", "reach zenith"],
-    "examples": ["The sun is at its zenith at noon.", "The empire reached its zenith in the 19th century."]
+    "phrases": [
+      "zebra crossing 斑马线"
+    ],
+    "examples": [
+      "The zebra has black and white stripes.",
+      "Cross at the zebra crossing."
+    ]
   },
   "zero": {
-    "definition": "n. 零，零点，零度",
+    "definition": "num. 零 n. 零点",
     "phonetic": {
       "uk": "/ˈzɪərəʊ/",
       "us": "/ˈzɪroʊ/"
     },
-    "partOfSpeech": "n.",
-    "phrases": ["zero tolerance", "zero hour"],
-    "examples": ["The temperature dropped below zero.", "My score is zero."]
-  },
-  "zero gravity": {
-    "definition": "n. 零重力，失重",
-    "phonetic": {
-      "uk": "/ˈzɪərəʊ ˈɡrævəti/",
-      "us": "/ˈziːroʊ ˈɡrævəti/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["zero gravity experiment", "experience zero gravity"],
-    "examples": ["Astronauts experience zero gravity in space.", "The roller coaster creates a feeling of zero gravity."]
+    "partOfSpeech": "num. / n.",
+    "phrases": [
+      "absolute zero 绝对零度",
+      "point zero 零点"
+    ],
+    "examples": [
+      "The temperature dropped to zero.",
+      "Five minus five equals zero."
+    ]
   },
   "zigzag": {
-    "definition": "n. 之字形 v. 曲折前进",
+    "definition": "v. 之字形移动，曲折前进 n. 曲折",
     "phonetic": {
       "uk": "/ˈzɪɡzæɡ/",
       "us": "/ˈzɪɡzæɡ/"
     },
-    "partOfSpeech": "n., v.",
-    "phrases": ["zigzag pattern", "zigzag road"],
-    "examples": ["The path followed a zigzag pattern.", "The road zigzags up the mountain."]
+    "partOfSpeech": "v. / n.",
+    "phrases": [
+      "zigzag pattern 之字形图案",
+      "zigzag road 之字形道路"
+    ],
+    "examples": [
+      "The path zigzagged up the mountain.",
+      "He followed a zigzag route."
+    ]
   },
   "zinc": {
     "definition": "n. 锌",
@@ -386,38 +395,47 @@
       "us": "/zɪŋk/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["zinc oxide", "galvanized zinc"],
-    "examples": ["Zinc is an important metal.", "This supplement contains zinc."]
-  },
-  "zip": {
-    "definition": "v. 拉拉链 n. 拉链，邮政编码",
-    "phonetic": {
-      "uk": "/zɪp/",
-      "us": "/zɪp/"
-    },
-    "partOfSpeech": "v., n.",
-    "phrases": ["zip code", "zip up"],
-    "examples": ["Please zip up your jacket.", "What's your zip code?"]
-  },
-  "zip line": {
-    "definition": "n. 滑索，滑索道",
-    "phonetic": {
-      "uk": "/zɪp laɪn/",
-      "us": "/zɪp laɪn/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["zip line tour", "zip line adventure"],
-    "examples": ["They went on a zip line through the jungle.", "The zip line offers a thrilling view of the canyon."]
+    "phrases": [
+      "zinc oxide 氧化锌",
+      "zinc coating 镀锌"
+    ],
+    "examples": [
+      "Zinc is a metal.",
+      "The roof is covered with zinc."
+    ]
   },
   "zone": {
-    "definition": "n. 区域，地带 v. 分区",
+    "definition": "n. 地区，区域，地带",
     "phonetic": {
       "uk": "/zəʊn/",
       "us": "/zoʊn/"
     },
-    "partOfSpeech": "n., v.",
-    "phrases": ["time zone", "no parking zone"],
-    "examples": ["This is a no parking zone.", "We live in the same time zone."]
+    "partOfSpeech": "n.",
+    "phrases": [
+     "time zone 时区",
+      "no-parking zone 禁停区",
+      "comfort zone 舒适区"
+    ],
+    "examples": [
+      "This is a no-smoking zone.",
+      "The city has several shopping zones."
+    ]
+  },
+  "zoom": {
+    "definition": "v. 快速移动，急速上升 n. 嗡嗡声",
+    "phonetic": {
+      "uk": "/zuːm/",
+      "us": "/zuːm/"
+    },
+    "partOfSpeech": "v. / n.",
+    "phrases": [
+      "zoom in 放大",
+      "zoom out 缩小"
+    ],
+    "examples": [
+      "The plane zoomed across the sky.",
+      "Zoom in on the image."
+    ]
   },
   "zoo": {
     "definition": "n. 动物园",
@@ -426,8 +444,14 @@
       "us": "/zuː/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["visit the zoo", "zoo animal"],
-    "examples": ["We visited the zoo last weekend.", "The zoo has many rare animals."]
+    "phrases": [
+      "zoo keeper 动物园管理员",
+      "pet zoo 宠物动物园"
+    ],
+    "examples": [
+      "We visited the zoo yesterday.",
+      "The zoo has many animals."
+    ]
   },
   "zoology": {
     "definition": "n. 动物学",
@@ -436,177 +460,12 @@
       "us": "/zoʊˈɑːlədʒi/"
     },
     "partOfSpeech": "n.",
-    "phrases": ["study zoology", "zoology major"],
-    "examples": ["She majors in zoology at university.", "Zoology is the scientific study of animals."]
-  },
-  "zoom": {
-    "definition": "v. 快速移动，放大 n. 嗡嗡声",
-    "phonetic": {
-      "uk": "/zuːm/",
-      "us": "/zuːm/"
-    },
-    "partOfSpeech": "v., n.",
-    "phrases": ["zoom in", "zoom past"],
-    "examples": ["The car zoomed past us.", "Please zoom in to see the details."]
-  },
-  "zoomorphic": {
-    "definition": "adj. 动物形态的，兽形的",
-    "phonetic": {
-      "uk": "/ˌzuːəˈmɔːfɪk/",
-      "us": "/ˌzuːəˈmɔːrfɪk/"
-    },
-    "partOfSpeech": "adj.",
-    "phrases": ["zoomorphic design", "zoomorphic art"],
-    "examples": ["The ancient sculpture features zoomorphic designs.", "Zoomorphic motifs are common in tribal art."]
-  },
-  "abide": {
-    "definition": "v. 遵守，容忍",
-    "phonetic": {
-      "uk": "/əˈbaɪd/",
-      "us": "/əˈbaɪd/"
-    },
-    "partOfSpeech": "v.",
-    "phrases": ["abide by", "can't abide"],
-    "examples": ["You must abide by the rules.", "I can't abide such rudeness."]
-  },
-  "abolish": {
-    "definition": "vt. 废除，取消",
-    "phonetic": {
-      "uk": "/əˈbɒlɪʃ/",
-      "us": "/əˈbɑːlɪʃ/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["abolish slavery", "abolish the law"],
-    "examples": ["The government abolished the old law.", "They decided to abolish the practice."]
-  },
-  "abound": {
-    "definition": "vi. 大量存在",
-    "phonetic": {
-      "uk": "/əˈbaʊnd/",
-      "us": "/əˈbaʊnd/"
-    },
-    "partOfSpeech": "vi.",
-    "phrases": ["abound in", "abound with"],
-    "examples": ["The forest abounds with wildlife."]
-  },
-  "abolitionist": {
-    "definition": "n. 废奴主义者",
-    "phonetic": {
-      "uk": "/ˌæbəˈlɪʃənɪst/",
-      "us": "/ˌæbəˈlɪʃənɪst/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["abolitionist movement", "freedom abolitionist"],
-    "examples": ["He was a prominent abolitionist in the 1800s."]
-  },
-  "abort": {
-    "definition": "vt. 流产，中止",
-    "phonetic": {
-      "uk": "/əˈbɔːt/",
-      "us": "/əˈbɔːrt/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["abort mission", "abort operation"],
-    "examples": ["The mission had to be aborted due to bad weather."]
-  },
-  "abroad": {
-    "definition": "ad. 在国外",
-    "phonetic": {
-      "uk": "/əˈbrɔːd/",
-      "us": "/əˈbrɔːd/"
-    },
-    "partOfSpeech": "ad.",
-    "phrases": ["go abroad", "study abroad"],
-    "examples": ["She went abroad for vacation.", "Many students study abroad."]
-  },
-  "absorb": {
-    "definition": "vt. 吸收",
-    "phonetic": {
-      "uk": "/əbˈzɔːb/",
-      "us": "/əbˈzɔːrb/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["absorb into", "absorb knowledge"],
-    "examples": ["Plants absorb sunlight for energy.", "Sponges absorb water quickly."]
-  },
-  "absorbing": {
-    "definition": "adj. 引人入胜的",
-    "phonetic": {
-      "uk": "/əbˈzɔːbɪŋ/",
-      "us": "/əbˈzɔːrbɪŋ/"
-    },
-    "partOfSpeech": "adj.",
-    "phrases": ["absorbing story", "absorbing book"],
-    "examples": ["It was an absorbing novel."]
-  },
-  "accent": {
-    "definition": "n. 口音，重音",
-    "phonetic": {
-      "uk": "/ˈæksent/",
-      "us": "/ˈæksent/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["foreign accent", "stress accent"],
-    "examples": ["She has a strong French accent."]
-  },
-  "accept": {
-    "definition": "vt. 接受",
-    "phonetic": {
-      "uk": "/əkˈsept/",
-      "us": "/əkˈsept/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["accept an offer", "accept responsibility"],
-    "examples": ["I cannot accept your apology.", "She accepted the job offer."]
-  },
-  "accessible": {
-    "definition": "adj. 可接近的",
-    "phonetic": {
-      "uk": "/əkˈsesəbl/",
-      "us": "/əkˈsesəbl/"
-    },
-    "partOfSpeech": "adj.",
-    "phrases": ["accessible to", "easily accessible"],
-    "examples": ["The museum is accessible to wheelchairs."]
-  },
-  "accident": {
-    "definition": "n. 事故",
-    "phonetic": {
-      "uk": "/ˈæksɪdənt/",
-      "us": "/ˈæksɪdənt/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["car accident", "by accident"],
-    "examples": ["He was injured in a car accident."]
-  },
-  "accompany": {
-    "definition": "vt. 陪伴",
-    "phonetic": {
-      "uk": "/əˈkʌmpəni/",
-      "us": "/əˈkʌmpəni/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["accompany someone", "be accompanied by"],
-    "examples": ["Will you accompany me to the party?"]
-  },
-  "accomplish": {
-    "definition": "vt. 完成",
-    "phonetic": {
-      "uk": "/əˈkʌmplɪʃ/",
-      "us": "/əˈkɑːmplɪʃ/"
-    },
-    "partOfSpeech": "vt.",
-    "phrases": ["accomplish goals", "accomplish a task"],
-    "examples": ["She accomplished a lot this year."]
-  },
-  "accordance": {
-    "definition": "n. 一致",
-    "phonetic": {
-      "uk": "/əˈkɔːdəns/",
-      "us": "/əˈkɔːrdəns/"
-    },
-    "partOfSpeech": "n.",
-    "phrases": ["in accordance with"],
-    "examples": ["Act in accordance with the rules."]
+    "phrases": [
+      "zoology department 动物学系"
+    ],
+    "examples": [
+      "She studies zoology at university.",
+      "Zoology is the study of animals."
+    ]
   }
 }

@@ -160,7 +160,12 @@ const DICT_FILES = [
   'dict/CET4-24.json',
   'dict/CET4-25.json',
   'dict/CET4-26.json',
-  'dict/CET4-27.json'
+  'dict/CET4-27.json',
+  'dict/CET4-28.json',
+  'dict/CET4-29.json',
+  'dict/CET4-O.json',
+  'dict/CET4-QR.json',
+  'dict/CET4-X.json',
 ];
 
 /**
