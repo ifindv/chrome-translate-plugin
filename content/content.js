@@ -463,7 +463,7 @@ function getBubbleStyles(theme) {
     .qt-word-list {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 8px;
     }
 
     .qt-word-list::-webkit-scrollbar {
@@ -485,12 +485,16 @@ function getBubbleStyles(theme) {
     }
 
     .qt-word-entry {
-      padding-bottom: 16px;
+      padding: 12px;
+      border-radius: 6px;
     }
 
-    .qt-word-entry:not(:last-child) {
-      border-bottom: 1px solid ${config.borderColor};
-      padding-bottom: 16px;
+    .qt-word-entry:nth-child(odd) {
+      background: ${config.backgroundColor === '#ffffff' ? '#f8f9fa' : 'rgba(255, 255, 255, 0.03)'};
+    }
+
+    .qt-word-list > .qt-word-entry:not(:last-child) {
+      margin-bottom: 8px;
     }
 
     .qt-word-entry-original {
