@@ -678,6 +678,16 @@ class OfflineDictionary {
   }
 
   /**
+   * 清理单词：移除标点符号
+   * @param {string} word - 单词
+   * @returns {string} 清理后的单词
+   */
+  cleanWord(word) {
+    // 移除常见的英文标点符号
+    return word.replace(/^[.,;:!?'"()<>[\]{}\/\\|*@#$%^&~`]+|[.,;:!?'"()<>[\]{}\/\\|*@#$%^&~`]+$/g, '').trim();
+  }
+
+  /**
    * 逐词翻译
    * @param {string} text - 文本
    * @param {string} from - 源语言
@@ -694,41 +704,86 @@ class OfflineDictionary {
       };
     }
 
-    // 按单词分割，保留标点符号
-    const words = text.trim().split(/(\s+)/).filter(w => w.length > 0);
+    // 按空格分割
+    const words = text.trim().split(/(\s+)/).filter(w => w && !/^\s+$/.test(w));
 
     const wordResults = [];
     let foundCount = 0;
 
     for (const word of words) {
-      // 跳过纯空格的词
-      if (/^\s+$/.test(word)) {
+      // 清理标点符号
+      const cleaned = this.cleanWord(word);
+
+      if (!cleaned) {
+        // 如果清理后为空（全是标点），跳过
         continue;
       }
 
-      const result = this.lookup(word.trim(), from, to);
-      wordResults.push({
-        original: word,
-        translated: (result && result.success) ? result.translated : word, // 未知单词保留原文
-        found: result && result.success,
-        tags: (result && result.success) ? result.tags : [],
-        stemWord: result?.stemWord || null
-      });
+      // 检查是否包含连字符
+      if (cleaned.includes('-')) {
+        // 拆分连字符连接的单词
+        const hyphenatedParts = cleaned.split('-');
+        const subResults = [];
 
-      if (result && result.success) {
-        foundCount++;
+        for (const part of hyphenatedParts) {
+          if (part) {
+            const partCleaned = this.cleanWord(part);
+            if (partCleaned) {
+              const result = this.lookup(partCleaned, from, to);
+              subResults.push({
+                original: part,
+                translated: (result && result.success) ? result.translated : part,
+                found: result && result.success,
+                tags: (result && result.success) ? result.tags : [],
+                stemWord: result?.stemWord || null
+              });
+
+              if (result && result.success) {
+                foundCount++;
+              }
+            }
+          }
+        }
+
+        // 将连字符单词的所有部分合并为一个结果
+        if (subResults.length > 0) {
+          const anyFound = subResults.some(r => r.found);
+          wordResults.push({
+            original: cleaned,
+            translated: subResults.map(r => r.translated).join('-'),
+            found: anyFound,
+            tags: anyFound ? [...new Set(subResults.flatMap(r => r.tags))] : [],
+            stemWord: anyFound ? subResults.find(r => r.stemWord)?.stemWord : null,
+            isHyphenated: true,
+            subResults: subResults
+          });
+        }
+      } else {
+        // 普通单词
+        const result = this.lookup(cleaned, from, to);
+        wordResults.push({
+          original: cleaned,
+          translated: (result && result.success) ? result.translated : cleaned,
+          found: result && result.success,
+          tags: (result && result.success) ? result.tags : [],
+          stemWord: result?.stemWord || null
+        });
+
+        if (result && result.success) {
+          foundCount++;
+        }
       }
     }
 
     return {
       success: true,
       original: text,
-      translated: wordResults.map(w => w.translated).join(' '), // 保留原格式用于其他场景
+      translated: wordResults.map(w => w.translated).join(' '),
       source: 'offline',
       type: 'word-by-word',
       wordCount: wordResults.length,
       foundCount: foundCount,
-      wordResults: wordResults // 新增：每个单词的独立翻译结果
+      wordResults: wordResults
     };
   }
 

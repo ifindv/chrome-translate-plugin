@@ -651,6 +651,47 @@ function getBubbleStyles(theme) {
     .qt-example-item {
       font-style: italic;
     }
+
+    .qt-hyphenated-parts {
+      margin-top: 8px;
+      padding: 8px 10px;
+      background: ${config.backgroundColor === '#ffffff' ? '#f0f7ff' : 'rgba(74, 144, 226, 0.1)'};
+      border-radius: 4px;
+      border: 1px solid rgba(74, 144, 226, 0.2);
+    }
+
+    .qt-hyphenated-part {
+      font-size: 11px;
+      line-height: 1.4;
+      padding: 2px 0;
+    }
+
+    .qt-part-original {
+      font-weight: 500;
+      color: ${config.textColor};
+    }
+
+    .qt-hyphen {
+      color: #4A90E2;
+      margin: 0 2px;
+    }
+
+    .qt-part-arrow {
+      color: #888;
+      margin: 0 4px;
+    }
+
+    .qt-part-translated {
+      color: #4A90E2;
+      font-weight: 500;
+    }
+
+    .qt-part-stem {
+      font-size: 10px;
+      color: #999;
+      font-style: italic;
+      margin-left: 4px;
+    }
   `;
 }
 
@@ -762,6 +803,20 @@ function renderWordByWordResult(result) {
         ` : ''}
         ${wordResult.stemWord ? `
           <div class="qt-stem-info">原形: ${escapeHtml(wordResult.stemWord)}</div>
+        ` : ''}
+        ${wordResult.isHyphenated && wordResult.subResults ? `
+          <div class="qt-hyphenated-parts">
+            <div class="qt-section-title">连字符拆分翻译:</div>
+            ${wordResult.subResults.map((sub, idx) => `
+              <div class="qt-hyphenated-part">
+                <span class="qt-part-original">${escapeHtml(sub.original)}</span>
+                ${idx < wordResult.subResults.length - 1 ? '<span class="qt-hyphen">-</span>' : ''}
+                <span class="qt-part-arrow"> → </span>
+                <span class="qt-part-translated">${escapeHtml(sub.translated)}</span>
+                ${sub.stemWord ? `<span class="qt-part-stem"> (${escapeHtml(sub.stemWord)})</span>` : ''}
+              </div>
+            `).join('')}
+          </div>
         ` : ''}
         <div class="qt-divider"></div>
         <div class="qt-translated">${escapeHtml(wordResult.translated)}</div>
