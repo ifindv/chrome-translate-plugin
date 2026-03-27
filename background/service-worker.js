@@ -694,30 +694,41 @@ class OfflineDictionary {
       };
     }
 
-    // 按单词分割
-    const words = text.split(/\s+/).filter(w => w.length > 0);
+    // 按单词分割，保留标点符号
+    const words = text.trim().split(/(\s+)/).filter(w => w.length > 0);
 
-    const translations = [];
-    const notFoundWords = [];
+    const wordResults = [];
+    let foundCount = 0;
 
     for (const word of words) {
-      const result = this.lookup(word, from, to);
+      // 跳过纯空格的词
+      if (/^\s+$/.test(word)) {
+        continue;
+      }
+
+      const result = this.lookup(word.trim(), from, to);
+      wordResults.push({
+        original: word,
+        translated: (result && result.success) ? result.translated : word, // 未知单词保留原文
+        found: result && result.success,
+        tags: (result && result.success) ? result.tags : [],
+        stemWord: result?.stemWord || null
+      });
+
       if (result && result.success) {
-        translations.push(result.translated);
-      } else {
-        translations.push(word); // 未知单词保留原文
-        notFoundWords.push(word);
+        foundCount++;
       }
     }
 
     return {
       success: true,
       original: text,
-      translated: translations.join(' '),
+      translated: wordResults.map(w => w.translated).join(' '), // 保留原格式用于其他场景
       source: 'offline',
       type: 'word-by-word',
-      wordCount: words.length,
-      foundCount: words.length - notFoundWords.length
+      wordCount: wordResults.length,
+      foundCount: foundCount,
+      wordResults: wordResults // 新增：每个单词的独立翻译结果
     };
   }
 

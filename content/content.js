@@ -20,7 +20,7 @@
 const BUBBLE_CONFIG = {
   MAX_WIDTH: 450,        // 最大宽度
   MIN_WIDTH: 250,        // 最小宽度
-  MAX_HEIGHT: 300,       // 最大高度
+  MAX_HEIGHT: 400,       // 最大高度（增加以支持更多单词显示）
   ANIMATION_DURATION: 200,  // 动画时长
   CLOSE_DELAY: 2000       // 自动关闭延迟（毫秒）
 };
@@ -345,7 +345,8 @@ function createBubbleContainer(x, y) {
   bubble.className = 'qt-bubble';
   bubble.style.cssText = `
     pointer-events: auto;
-    display: none;
+    display: flex;
+    flex-direction: column;
   `;
   shadow.appendChild(bubble);
 
@@ -375,7 +376,9 @@ function getBubbleStyles(theme) {
       max-width: ${BUBBLE_CONFIG.MAX_WIDTH}px;
       min-width: ${BUBBLE_CONFIG.MIN_WIDTH}px;
       max-height: ${BUBBLE_CONFIG.MAX_HEIGHT}px;
-      overflow-y: auto;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
       background: ${config.backgroundColor};
       border: 1px solid ${config.borderColor};
       border-radius: 8px;
@@ -388,7 +391,6 @@ function getBubbleStyles(theme) {
     }
 
     .qt-bubble.show {
-      display: block;
       opacity: 1;
     }
 
@@ -448,12 +450,60 @@ function getBubbleStyles(theme) {
 
     .qt-content {
       padding: 16px;
+      overflow-y: auto;
+      flex: 1;
     }
 
     .qt-original {
       font-weight: 500;
       margin-bottom: 12px;
       line-height: 1.5;
+    }
+
+    .qt-word-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .qt-word-list::-webkit-scrollbar {
+      width: 4px;
+    }
+
+    .qt-word-list::-webkit-scrollbar-track {
+      background: ${config.backgroundColor === '#ffffff' ? '#f0f0f0' : 'rgba(255, 255, 255, 0.05)'};
+      border-radius: 2px;
+    }
+
+    .qt-word-list::-webkit-scrollbar-thumb {
+      background: #888;
+      border-radius: 2px;
+    }
+
+    .qt-word-list::-webkit-scrollbar-thumb:hover {
+      background: #666;
+    }
+
+    .qt-word-entry {
+      padding-bottom: 16px;
+    }
+
+    .qt-word-entry:not(:last-child) {
+      border-bottom: 1px solid ${config.borderColor};
+      padding-bottom: 16px;
+    }
+
+    .qt-word-entry-original {
+      font-weight: 500;
+      margin-bottom: 12px;
+      line-height: 1.5;
+    }
+
+    .qt-stem-info {
+      font-size: 11px;
+      color: #888;
+      margin-bottom: 8px;
+      font-style: italic;
     }
 
     .qt-tags {
@@ -630,6 +680,9 @@ function showBubble(x, y, result = null, isLoading = false) {
   if (isLoading) {
     // 显示加载动画
     bubble.innerHTML = `
+      <div class="qt-header">
+        <span class="qt-title">QuickTranslate</span>
+      </div>
       <div class="qt-loading">
         <div class="qt-spinner"></div>
       </div>
@@ -644,7 +697,6 @@ function showBubble(x, y, result = null, isLoading = false) {
 
   // 显示气泡
   bubble.classList.add('show');
-  bubble.style.display = 'block';
 
   // 设置自动关闭定时器
   if (bubbleTimer) {
@@ -674,21 +726,7 @@ function showTranslationResult(result) {
       <button class="qt-close-btn" data-action="close">&times;</button>
     </div>
     <div class="qt-content">
-      <div class="qt-original">${escapeHtml(result.original)}</div>
-  `;
-
-  // 显示标签（如果有）
-  if (result.tags && result.tags.length > 0) {
-    html += `
-      <div class="qt-tags">
-        ${result.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
-      </div>
-    `;
-  }
-
-  html += `
-      <div class="qt-divider"></div>
-      <div class="qt-translated">${escapeHtml(result.translated)}</div>
+      ${result.type === 'word-by-word' && result.wordResults ? renderWordByWordResult(result) : renderSingleWordResult(result)}
     </div>
     <div class="qt-buttons">
       <button class="qt-btn" data-action="speak-original" title="朗读">朗读</button>
@@ -700,6 +738,69 @@ function showTranslationResult(result) {
 
   // 绑定按钮事件
   bindBubbleEvents();
+}
+
+/**
+ * 渲染单词列表结果（多个单词）
+ * @param {Object} result - 翻译结果
+ * @returns {string} HTML字符串
+ */
+function renderWordByWordResult(result) {
+  let html = `<div class="qt-word-list">`;
+  for (const wordResult of result.wordResults) {
+    html += `
+      <div class="qt-word-entry">
+        <div class="qt-word-entry-original">${escapeHtml(wordResult.original)}</div>
+        ${wordResult.tags && wordResult.tags.length > 0 ? `
+          <div class="qt-tags">
+            ${wordResult.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
+          </div>
+        ` : ''}
+        ${wordResult.stemWord ? `
+          <div class="qt-stem-info">原形: ${escapeHtml(wordResult.stemWord)}</div>
+        ` : ''}
+        <div class="qt-divider"></div>
+        <div class="qt-translated">${escapeHtml(wordResult.translated)}</div>
+      </div>
+    `;
+  }
+  html += `</div>`;
+
+  return html;
+}
+
+/**
+ * 渲染单个单词结果
+ * @param {Object} result - 翻译结果
+ * @returns {string} HTML字符串
+ */
+function renderSingleWordResult(result) {
+  let html = `
+    <div class="qt-original">${escapeHtml(result.original)}</div>
+  `;
+
+  // 显示标签（如果有）
+  if (result.tags && result.tags.length > 0) {
+    html += `
+      <div class="qt-tags">
+        ${result.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
+      </div>
+    `;
+  }
+
+  // 显示词根（如果有）
+  if (result.stemWord) {
+    html += `
+      <div class="qt-stem-info">原形: ${escapeHtml(result.stemWord)}</div>
+    `;
+  }
+
+  html += `
+      <div class="qt-divider"></div>
+      <div class="qt-translated">${escapeHtml(result.translated)}</div>
+  `;
+
+  return html;
 }
 
 /**
@@ -763,7 +864,19 @@ function bindBubbleEvents() {
   const copyBtn = bubble.querySelector('[data-action="copy-text"]');
   if (copyBtn) {
     copyBtn.addEventListener('click', async () => {
-      const textToCopy = `${selectedText}\n${currentTranslation?.translated || ''}`;
+      let textToCopy = '';
+
+      if (currentTranslation?.type === 'word-by-word' && currentTranslation.wordResults) {
+        // 多个单词：格式化为每个单词独立一行
+        const lines = currentTranslation.wordResults.map(w => {
+          return `${w.original}\n${w.translated}${w.tags && w.tags.length > 0 ? ` [${w.tags.join(', ')}]` : ''}`;
+        });
+        textToCopy = lines.join('\n\n');
+      } else {
+        // 单个单词：原格式
+        textToCopy = `${selectedText}\n${currentTranslation?.translated || ''}`;
+      }
+
       try {
         await navigator.clipboard.writeText(textToCopy);
         copyBtn.textContent = '已复制';
