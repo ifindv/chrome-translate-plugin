@@ -20,8 +20,7 @@
 const STORAGE_KEYS = {
   CONFIG: 'qt_config',
   TRANSLATION_CACHE: 'qt_translation_cache',
-  DICTIONARY_EN_ZH: 'qt_dictionary_en_zh',
-  DICTIONARY_ZH_EN: 'qt_dictionary_zh_en'
+  DICTIONARY_EN_ZH: 'qt_dictionary_en_zh'
 };
 
 /**
@@ -36,7 +35,6 @@ const DEFAULT_CONFIG = {
   autoDetect: true,
 
   // 显示选项
-  showPhonetic: true,
   bubbleCloseDelay: 2000,
 
   // 外观设置
@@ -74,14 +72,12 @@ const elements = {
   saveShortcutBtn: null,
   autoTranslateSwitch: null,
   autoDetectSwitch: null,
-  showPhoneticSwitch: null,
   bubbleCloseDelayInput: null,
 
   // 翻译设置
-  translateEngineSelect: null,
-  baiduAppIdInput: null,
-  baiduSecretInput: null,
-  enableBaiduSwitch: null,
+  statsEnZh: null,
+  refreshStatsBtn: null,
+  reloadDictBtn: null,
   clearCacheBtn: null,
 
   // 外观设置
@@ -148,73 +144,23 @@ async function clearCache() {
 /**
  * 清空词典
  */
-async function clearDictionary(dictType) {
+async function reloadDictionary() {
   try {
-    if (dictType === 'en_zh' || dictType === 'all') {
-      await chrome.storage.local.set({ [STORAGE_KEYS.DICTIONARY_EN_ZH]: {} });
-    }
-    if (dictType === 'zh_en' || dictType === 'all') {
-      await chrome.storage.local.set({ [STORAGE_KEYS.DICTIONARY_ZH_EN]: {} });
-    }
+    // 清空存储中的词典
+    await chrome.storage.local.set({ [STORAGE_KEYS.DICTIONARY_EN_ZH]: {} });
 
     // 通知 background 重新加载词典
-    await sendMessage({ action: 'reloadDictionary' });
-    await updateDictionaryStats();
-    showSaveStatus('词典已清空');
-  } catch (error) {
-    console.error('清空词典失败:', error);
-    showSaveStatus('清空词典失败', 'error');
-  }
-}
-
-/**
- * 导入词典
- */
-async function importDictionary(dictType) {
-  const input = dictType === 'en_zh' ? elements.importEnZhInput : elements.importZhEnInput;
-
-  if (!input.files || input.files.length === 0) {
-    showSaveStatus('请先选择文件', 'error');
-    return;
-  }
-
-  const file = input.files[0];
-  const reader = new FileReader();
-
-  reader.onload = async (e) => {
-    try {
-      const data = JSON.parse(e.target.result);
-
-      // 验证数据格式
-      if (typeof data !== 'object') {
-        throw new Error('词典数据格式不正确');
-      }
-
-      // 发送到后台服务
-      const result = await sendMessage({
-        action: 'importDictionary',
-        data: data,
-        dictType: dictType
-      });
-
-      if (result.success) {
-        showSaveStatus('词典导入成功');
-        input.value = ''; // 清空文件选择
-        await updateDictionaryStats();
-      } else {
-        showSaveStatus('词典导入失败: ' + result.error, 'error');
-      }
-    } catch (error) {
-      console.error('导入词典失败:', error);
-      showSaveStatus('导入失败: ' + error.message, 'error');
+    const result = await sendMessage({ action: 'reloadDictionary' });
+    if (result.success) {
+      await updateDictionaryStats();
+      showSaveStatus('词典已重新加载');
+    } else {
+      showSaveStatus('重新加载词典失败', 'error');
     }
-  };
-
-  reader.onerror = () => {
-    showSaveStatus('文件读取失败', 'error');
-  };
-
-  reader.readAsText(file);
+  } catch (error) {
+    console.error('重新加载词典失败:', error);
+    showSaveStatus('重新加载词典失败', 'error');
+  }
 }
 
 /**
@@ -227,9 +173,6 @@ async function updateDictionaryStats() {
     if (result.success) {
       if (elements.statsEnZh) {
         elements.statsEnZh.textContent = `英汉: ${result.stats?.en_zh_count || 0} 词`;
-      }
-      if (elements.statsZhEn) {
-        elements.statsZhEn.textContent = `汉英: ${result.stats?.zh_en_count || 0} 词`;
       }
     }
   } catch (error) {
@@ -247,14 +190,7 @@ function loadConfigToUI() {
   elements.shortcutSelect.value = config.shortcut || DEFAULT_CONFIG.shortcut;
   elements.autoTranslateSwitch.checked = config.autoTranslate !== false;
   elements.autoDetectSwitch.checked = config.autoDetect !== false;
-  elements.showPhoneticSwitch.checked = config.showPhonetic !== false;
   elements.bubbleCloseDelayInput.value = config.bubbleCloseDelay || DEFAULT_CONFIG.bubbleCloseDelay;
-
-  // 翻译设置
-  elements.translateEngineSelect.value = config.translateEngine || DEFAULT_CONFIG.translateEngine;
-  elements.baiduAppIdInput.value = config.baiduAppId || '';
-  elements.baiduSecretInput.value = config.baiduSecretKey || '';
-  elements.enableBaiduSwitch.checked = config.enableBaidu || false;
 
   // 外观设置
   applyTheme(config.theme || DEFAULT_CONFIG.theme);
@@ -271,12 +207,7 @@ function getConfigFromUI() {
     shortcut: elements.shortcutSelect.value,
     autoTranslate: elements.autoTranslateSwitch.checked,
     autoDetect: elements.autoDetectSwitch.checked,
-    showPhonetic: elements.showPhoneticSwitch.checked,
     bubbleCloseDelay: parseInt(elements.bubbleCloseDelayInput.value) || DEFAULT_CONFIG.bubbleCloseDelay,
-    translateEngine: elements.translateEngineSelect.value,
-    baiduAppId: elements.baiduAppIdInput.value,
-    baiduSecretKey: elements.baiduSecretInput.value,
-    enableBaidu: elements.enableBaiduSwitch.checked,
     theme: config.theme,
     fontSize: elements.fontSizeSelect.value,
     fontFamily: elements.fontFamilySelect.value
@@ -405,9 +336,8 @@ function initEventListeners() {
 
   // 输入框变化监听（标记未保存状态）
   const inputs = [
-    'autoTranslateSwitch', 'autoDetectSwitch', 'showPhoneticSwitch',
-    'bubbleCloseDelayInput', 'translateEngineSelect',
-    'baiduAppIdInput', 'baiduSecretInput', 'enableBaiduSwitch',
+    'autoTranslateSwitch', 'autoDetectSwitch',
+    'bubbleCloseDelayInput',
     'fontSizeSelect', 'fontFamilySelect'
   ];
 
@@ -431,6 +361,24 @@ function initEventListeners() {
         applyTheme(theme);
         hasUnsavedChanges = true;
       });
+    });
+  }
+
+  // 刷新词典统计
+  if (elements.refreshStatsBtn) {
+    elements.refreshStatsBtn.addEventListener('click', async () => {
+      await updateDictionaryStats();
+      showSaveStatus('词典统计已更新');
+    });
+  }
+
+  // 重新加载词典
+  if (elements.reloadDictBtn) {
+    elements.reloadDictBtn.addEventListener('click', async () => {
+      const confirmed = confirm('确定要重新加载词典吗？这将清空当前缓存并从SQL文件重新加载所有词库。');
+      if (confirmed) {
+        await reloadDictionary();
+      }
     });
   }
 
@@ -503,19 +451,12 @@ async function init() {
   elements.saveShortcutBtn = document.getElementById('qt-save-shortcut');
   elements.autoTranslateSwitch = document.getElementById('qt-auto-translate');
   elements.autoDetectSwitch = document.getElementById('qt-auto-detect');
-  elements.showPhoneticSwitch = document.getElementById('qt-show-phonetic');
   elements.bubbleCloseDelayInput = document.getElementById('qt-bubble-close-delay');
 
   // 翻译设置元素
   elements.statsEnZh = document.getElementById('qt-stats-en-zh');
-  elements.statsZhEn = document.getElementById('qt-stats-zh-en');
   elements.refreshStatsBtn = document.getElementById('qt-refresh-stats');
-  elements.importEnZhInput = document.getElementById('qt-import-en-zh');
-  elements.importEnZhBtn = document.getElementById('qt-import-en-zh-btn');
-  elements.importZhEnInput = document.getElementById('qt-import-zh-en');
-  elements.importZhEnBtn = document.getElementById('qt-import-zh-en-btn');
-  elements.clearDictSelect = document.getElementById('qt-clear-dict-select');
-  elements.clearDictBtn = document.getElementById('qt-clear-dict-btn');
+  elements.reloadDictBtn = document.getElementById('qt-reload-dict');
   elements.clearCacheBtn = document.getElementById('qt-clear-cache');
 
   // 外观设置元素

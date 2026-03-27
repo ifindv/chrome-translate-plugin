@@ -52,7 +52,7 @@
   },
   "web_accessible_resources": [
     {
-      "resources": ["assets/icons/*", "dict/*"],
+      "resources": ["assets/icons/*", "sql/*"],
       "matches": ["<all_urls>"]
     }
   ]

@@ -20,8 +20,7 @@ const STORAGE_KEYS = {
   TRANSLATION_CACHE: 'qt_translation_cache',
   CONFIG: 'qt_config',
   TRANSLATION_HISTORY: 'qt_history',
-  DICTIONARY_EN_ZH: 'qt_dictionary_en_zh',  // 英汉词典
-  DICTIONARY_ZH_EN: 'qt_dictionary_zh_en'   // 汉英词典
+  DICTIONARY_EN_ZH: 'qt_dictionary_en_zh'  // 英汉词典
 };
 
 /**
@@ -133,40 +132,28 @@ class TranslationCache {
 /**
  * 词典文件列表
  */
-const DICT_FILES = [
-  'dict/CET4-1.json',
-  'dict/CET4-2.json',
-  'dict/CET4-3.json',
-  'dict/CET4-4.json',
-  'dict/CET4-5.json',
-  'dict/CET4-6.json',
-  'dict/CET4-7.json',
-  'dict/CET4-8.json',
-  'dict/CET4-9.json',
-  'dict/CET4-10.json',
-  'dict/CET4-11.json',
-  'dict/CET4-12.json',
-  'dict/CET4-13.json',
-  'dict/CET4-14.json',
-  'dict/CET4-15.json',
-  'dict/CET4-16.json',
-  'dict/CET4-17.json',
-  'dict/CET4-18.json',
-  'dict/CET4-19.json',
-  'dict/CET4-20.json',
-  'dict/CET4-21.json',
-  'dict/CET4-22.json',
-  'dict/CET4-23.json',
-  'dict/CET4-24.json',
-  'dict/CET4-25.json',
-  'dict/CET4-26.json',
-  'dict/CET4-27.json',
-  'dict/CET4-28.json',
-  'dict/CET4-29.json',
-  'dict/CET4-O.json',
-  'dict/CET4-QR.json',
-  'dict/CET4-X.json',
+const SQL_DICT_FILES = [
+  { path: 'sql/1 初中-乱序_sql.sql', level: 'junior', priority: 1 },
+  { path: 'sql/2 高中-乱序_sql.sql', level: 'high-school', priority: 2 },
+  { path: 'sql/3 四级-乱序_sql.sql', level: 'cet4', priority: 3 },
+  { path: 'sql/4 六级-乱序_sql.sql', level: 'cet6', priority: 4 },
+  { path: 'sql/5 考研-乱序_sql.sql', level: 'graduate', priority: 5 },
+  { path: 'sql/6 托福-乱序_sql.sql', level: 'toefl', priority: 6 },
+  { path: 'sql/7 SAT-乱序_sql.sql', level: 'sat', priority: 7 }
 ];
+
+/**
+ * 词典标签显示名称
+ */
+const DICT_LABELS = {
+  'junior': '初中',
+  'high-school': '高中',
+  'cet4': 'CET4',
+  'cet6': 'CET6',
+  'graduate': '考研',
+  'toefl': '托福',
+  'sat': 'SAT'
+};
 
 /**
  * 英语变形规则（按优先级排序，优先匹配长后缀）
@@ -351,86 +338,117 @@ const IRREGULAR_INFLECTIONS = {
 class OfflineDictionary {
   constructor() {
     this.dictionary = {
-      en_zh: {},
-      zh_en: {}
+      en_zh: {}  // 格式：{ word: { translate: string, level: string, priority: number } }
     };
     this.inflectionMap = {}; // 变形映射表
   }
 
   /**
-   * 加载词典数据 (从本地文件加载)
+   * 加载词典数据 (从 SQL 文件加载)
    */
   async load() {
     // 先从 Chrome Storage 获取已有的词典数据
     const data = await chrome.storage.local.get([
-      STORAGE_KEYS.DICTIONARY_EN_ZH,
-      STORAGE_KEYS.DICTIONARY_ZH_EN
+      STORAGE_KEYS.DICTIONARY_EN_ZH
     ]);
 
     this.dictionary.en_zh = data[STORAGE_KEYS.DICTIONARY_EN_ZH] || {};
-    this.dictionary.zh_en = data[STORAGE_KEYS.DICTIONARY_ZH_EN] || {};
 
-    // 如果 Chrome Storage 中的词典为空，则从本地文件加载
+    // 如果 Chrome Storage 中的词典为空，则从本地 SQL 文件加载
     if (Object.keys(this.dictionary.en_zh).length === 0) {
-      console.log('正在从本地文件加载词典...');
-      await this.loadFromLocalFiles();
+      console.log('正在从本地 SQL 文件加载词典...');
+      await this.loadFromSQLFiles();
     }
 
     // 构建变形映射表
     this.buildInflectionMap();
 
     console.log('离线词典已加载:',
-      '英汉:', Object.keys(this.dictionary.en_zh).length, '词',
-      '汉英:', Object.keys(this.dictionary.zh_en).length, '词');
+      '英汉:', Object.keys(this.dictionary.en_zh).length, '词');
   }
 
   /**
-   * 从本地文件加载词典
+   * 从本地 SQL 文件加载词典
    */
-  async loadFromLocalFiles() {
-    let dictData = {};
+  async loadFromSQLFiles() {
+    const dictData = {};
 
-    try {
-      // 并发加载所有词典文件
-      const promises = DICT_FILES.map(file => this.fetchDictFile(file));
-      const results = await Promise.all(promises);
+    // 按优先级顺序加载（从小到大），这样后加载的优先级高的会覆盖前面的
+    // 但我们只记录最早出现的优先级
+    const sortedFiles = [...SQL_DICT_FILES].sort((a, b) => a.priority - b.priority);
 
-      // 合并所有词典数据
-      for (const result of results) {
-        Object.assign(dictData, result);
+    for (const fileInfo of sortedFiles) {
+      try {
+        await this.loadSQLFile(fileInfo, dictData);
+      } catch (error) {
+        console.error(`加载词典文件 ${fileInfo.path} 失败:`, error);
       }
-
-      this.dictionary.en_zh = dictData;
-
-      // 保存到 Chrome Storage
-      await chrome.storage.local.set({
-        [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh,
-        [STORAGE_KEYS.DICTIONARY_ZH_EN]: this.dictionary.zh_en
-      });
-
-      console.log('词典已加载并保存到存储:', Object.keys(this.dictionary.en_zh).length, '词');
-    } catch (error) {
-      console.error('加载词典文件失败:', error);
     }
+
+    this.dictionary.en_zh = dictData;
+
+    // 保存到 Chrome Storage
+    await chrome.storage.local.set({
+      [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
+    });
+
+    console.log('词典已加载并保存到存储:', Object.keys(this.dictionary.en_zh).length, '词');
   }
 
   /**
-   * 获取单个词典文件
-   * @param {string} filePath - 文件路径
-   * @returns {Promise<Object>} 词典数据
+   * 加载单个 SQL 文件
+   * @param {Object} fileInfo - 文件信息 { path, level, priority }
+   * @param {Object} dictData - 词典数据对象
    */
-  async fetchDictFile(filePath) {
+  async loadSQLFile(fileInfo, dictData) {
     try {
-      const response = await fetch(chrome.runtime.getURL(filePath));
+      const response = await fetch(chrome.runtime.getURL(fileInfo.path));
       if (!response.ok) {
-        console.warn(`无法加载词典文件: ${filePath}`);
-        return {};
+        console.warn(`无法加载词典文件: ${fileInfo.path}`);
+        return;
       }
-      return await response.json();
+
+      const sqlText = await response.text();
+      const entries = this.parseSQLInsert(sqlText, fileInfo.level, fileInfo.priority);
+
+      // 合并词库数据（只保留最早出现的优先级）
+      for (const [word, data] of Object.entries(entries)) {
+        const key = word.toLowerCase();
+        // 如果单词已存在，保留优先级更低的（更早出现的）
+        if (!dictData[key] || data.priority < dictData[key].priority) {
+          dictData[key] = data;
+        }
+      }
+
+      console.log(`已加载 ${fileInfo.path}:`, Object.keys(entries).length, '词');
     } catch (error) {
-      console.error(`加载词典文件 ${filePath} 失败:`, error);
-      return {};
+      console.error(`加载词典文件 ${fileInfo.path} 失败:`, error);
     }
+  }
+
+  /**
+   * 解析 SQL INSERT 语句
+   * @param {string} sqlText - SQL 文本内容
+   * @param {string} level - 词库等级
+   * @param {number} priority - 优先级
+   * @returns {Object} 解析后的词典数据
+   */
+  parseSQLInsert(sqlText, level, priority) {
+    const result = {};
+    const insertRegex = /INSERT INTO \w+ \([^)]+\) VALUES \('([^']+)',\s*'([^']+)'\);/g;
+
+    let match;
+    while ((match = insertRegex.exec(sqlText)) !== null) {
+      const [, word, translate] = match;
+      const key = word.toLowerCase();
+      result[key] = {
+        translate: translate,
+        level: level,
+        priority: priority
+      };
+    }
+
+    return result;
   }
 
   /**
@@ -579,45 +597,30 @@ class OfflineDictionary {
   lookup(word, from, to) {
     const key = word.toLowerCase().trim();
 
-    // 确定使用哪个词典
-    let dict = null;
-    if (from === 'en' && to === 'zh') {
-      dict = this.dictionary.en_zh;
-    } else if (from === 'zh' && to === 'en') {
-      dict = this.dictionary.zh_en;
-    }
-
-    if (!dict) {
+    // 暂时只支持英汉翻译
+    if (from !== 'en' || to !== 'zh') {
       return null;
     }
 
-    const entry = dict[key];
+    const entry = this.dictionary.en_zh[key];
     if (entry) {
       return {
         success: true,
         original: word,
-        translated: entry.definition || entry.translation || '',
-        uk: entry.phonetic?.uk || '',
-        us: entry.phonetic?.us || '',
-        partOfSpeech: entry.partOfSpeech || '',
-        examples: entry.examples || [],
-        phrases: entry.phrases || [],
+        translated: entry.translate,
+        tags: [DICT_LABELS[entry.level] || entry.level],
         source: 'offline'
       };
     }
 
     // 尝试精确匹配（不转小写）
-    const exactEntry = dict[word];
+    const exactEntry = this.dictionary.en_zh[word];
     if (exactEntry) {
       return {
         success: true,
         original: word,
-        translated: exactEntry.definition || exactEntry.translation || '',
-        uk: exactEntry.phonetic?.uk || '',
-        us: exactEntry.phonetic?.us || '',
-        partOfSpeech: exactEntry.partOfSpeech || '',
-        examples: exactEntry.examples || [],
-        phrases: exactEntry.phrases || [],
+        translated: exactEntry.translate,
+        tags: [DICT_LABELS[exactEntry.level] || exactEntry.level],
         source: 'offline'
       };
     }
@@ -626,18 +629,14 @@ class OfflineDictionary {
     if (from === 'en' && to === 'zh') {
       const stemWord = this.findStemWord(word);
       if (stemWord && stemWord !== key) {
-        const stemEntry = dict[stemWord] || dict[stemWord.toLowerCase()];
+        const stemEntry = this.dictionary.en_zh[stemWord] || this.dictionary.en_zh[stemWord.toLowerCase()];
         if (stemEntry) {
           return {
             success: true,
             original: word,
-            translated: stemEntry.definition || stemEntry.translation || '',
-            uk: stemEntry.phonetic?.uk || '',
-            us: stemEntry.phonetic?.us || '',
-            partOfSpeech: stemEntry.partOfSpeech || '',
-            examples: stemEntry.examples || [],
-            phrases: stemEntry.phrases || [],
-            stemWord: stemWord,  // 标记词根
+            translated: stemEntry.translate,
+            tags: [DICT_LABELS[stemEntry.level] || stemEntry.level],
+            stemWord: stemWord,
             source: 'offline'
           };
         }
@@ -657,24 +656,19 @@ class OfflineDictionary {
   translatePhrase(phrase, from, to) {
     const key = phrase.toLowerCase().trim();
 
-    let dict = null;
-    if (from === 'en' && to === 'zh') {
-      dict = this.dictionary.en_zh;
-    } else if (from === 'zh' && to === 'en') {
-      dict = this.dictionary.zh_en;
-    }
-
-    if (!dict) {
+    // 暂时只支持英汉翻译
+    if (from !== 'en' || to !== 'zh') {
       return null;
     }
 
     // 尝试直接匹配短语
-    if (dict[key]) {
-      const entry = dict[key];
+    const entry = this.dictionary.en_zh[key];
+    if (entry) {
       return {
         success: true,
         original: phrase,
-        translated: entry.definition || entry.translation || entry.toString(),
+        translated: entry.translate,
+        tags: [DICT_LABELS[entry.level] || entry.level],
         source: 'offline',
         type: 'phrase'
       };
@@ -691,14 +685,17 @@ class OfflineDictionary {
    * @returns {Object} 翻译结果
    */
   translateWordByWord(text, from, to) {
-    // 按单词分割（支持中英文混合）
-    let words = [];
-    if (from === 'en') {
-      words = text.split(/\s+/).filter(w => w.length > 0);
-    } else {
-      // 中文按字符分割
-      words = text.split('');
+    // 暂时只支持英汉翻译
+    if (from !== 'en' || to !== 'zh') {
+      return {
+        success: false,
+        original: text,
+        error: '暂不支持中文到英文的逐词翻译'
+      };
     }
+
+    // 按单词分割
+    const words = text.split(/\s+/).filter(w => w.length > 0);
 
     const translations = [];
     const notFoundWords = [];
@@ -716,7 +713,7 @@ class OfflineDictionary {
     return {
       success: true,
       original: text,
-      translated: translations.join(from === 'en' ? ' ' : ''),
+      translated: translations.join(' '),
       source: 'offline',
       type: 'word-by-word',
       wordCount: words.length,
@@ -728,41 +725,24 @@ class OfflineDictionary {
    * 添加词典条目
    * @param {string} word - 单词
    * @param {Object} entry - 词典条目
-   * @param {string} dictType - 词典类型 (en_zh 或 zh_en)
    */
-  async addEntry(word, entry, dictType = 'en_zh') {
+  async addEntry(word, entry) {
     const key = word.toLowerCase().trim();
-
-    if (dictType === 'en_zh') {
-      this.dictionary.en_zh[key] = entry;
-      await chrome.storage.local.set({
-        [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
-      });
-    } else if (dictType === 'zh_en') {
-      this.dictionary.zh_en[key] = entry;
-      await chrome.storage.local.set({
-        [STORAGE_KEYS.DICTIONARY_ZH_EN]: this.dictionary.zh_en
-      });
-    }
+    this.dictionary.en_zh[key] = entry;
+    await chrome.storage.local.set({
+      [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
+    });
   }
 
   /**
    * 批量导入词典
    * @param {Object} data - 词典数据
-   * @param {string} dictType - 词典类型
    */
-  async importDictionary(data, dictType = 'en_zh') {
-    if (dictType === 'en_zh') {
-      Object.assign(this.dictionary.en_zh, data);
-      await chrome.storage.local.set({
-        [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
-      });
-    } else if (dictType === 'zh_en') {
-      Object.assign(this.dictionary.zh_en, data);
-      await chrome.storage.local.set({
-        [STORAGE_KEYS.DICTIONARY_ZH_EN]: this.dictionary.zh_en
-      });
-    }
+  async importDictionary(data) {
+    Object.assign(this.dictionary.en_zh, data);
+    await chrome.storage.local.set({
+      [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
+    });
   }
 
   /**
@@ -770,8 +750,7 @@ class OfflineDictionary {
    */
   getStats() {
     return {
-      en_zh_count: Object.keys(this.dictionary.en_zh).length,
-      zh_en_count: Object.keys(this.dictionary.zh_en).length
+      en_zh_count: Object.keys(this.dictionary.en_zh).length
     };
   }
 }
@@ -882,24 +861,11 @@ class TranslationService {
    * 获取音标
    */
   async getPhonetic(word) {
-    // 从英汉词典获取音标
-    const result = this.dictionary.lookup(word, 'en', 'zh');
-
-    if (result && result.success) {
-      return {
-        success: true,
-        word: word,
-        uk: result.uk || '',
-        us: result.us || '',
-        partOfSpeech: result.partOfSpeech || '',
-        examples: result.examples || []
-      };
-    }
-
+    // 当前 SQL 词库没有音标数据，返回空结果
     return {
       success: false,
       word: word,
-      error: '未找到音标信息'
+      error: '当前词库版本暂不支持音标查询'
     };
   }
 
@@ -929,15 +895,15 @@ class TranslationService {
   /**
    * 导入词典
    */
-  async importDictionary(data, dictType = 'en_zh') {
-    await this.dictionary.importDictionary(data, dictType);
+  async importDictionary(data) {
+    await this.dictionary.importDictionary(data);
   }
 
   /**
    * 添加词典条目
    */
-  async addDictionaryEntry(word, entry, dictType = 'en_zh') {
-    await this.dictionary.addEntry(word, entry, dictType);
+  async addDictionaryEntry(word, entry) {
+    await this.dictionary.addEntry(word, entry);
   }
 
   /**
@@ -980,7 +946,6 @@ chrome.runtime.onInstalled.addListener(async (details) => {
       },
       [STORAGE_KEYS.TRANSLATION_CACHE]: {},
       [STORAGE_KEYS.DICTIONARY_EN_ZH]: {},
-      [STORAGE_KEYS.DICTIONARY_ZH_EN]: {},
       [STORAGE_KEYS.TRANSLATION_HISTORY]: []
     });
 

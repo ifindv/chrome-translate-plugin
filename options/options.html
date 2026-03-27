@@ -118,18 +118,6 @@
             <h3 class="qt-setting-group-title">显示选项</h3>
             <div class="qt-setting-item">
               <label class="qt-setting-label">
-                <span class="qt-setting-name">显示音标</span>
-                <span class="qt-setting-desc">查询单词时显示音标</span>
-              </label>
-              <div class="qt-setting-value">
-                <label class="qt-switch">
-                  <input type="checkbox" id="qt-show-phonetic" checked>
-                  <span class="qt-switch-slider"></span>
-                </label>
-              </div>
-            </div>
-            <div class="qt-setting-item">
-              <label class="qt-setting-label">
                 <span class="qt-setting-name">气泡自动关闭</span>
                 <span class="qt-setting-desc">翻译结果气泡自动关闭延迟</span>
               </label>
@@ -146,53 +134,27 @@
           <h2 class="qt-section-title">翻译设置</h2>
 
           <div class="qt-setting-group">
-            <h3 class="qt-setting-group-title">离线词典</h3>
+            <h3 class="qt-setting-group-title">词典</h3>
             <p class="qt-setting-note">
-              支持导入 JSON 格式的词典数据。请使用标准格式：{"word": {"definition": "释义", "phonetic": {"uk": "/音标/", "us": "/音标/"}}}
+              词库包含：初中、高中、CET4、CET6、考研、托福、SAT
             </p>
             <div class="qt-setting-item">
               <label class="qt-setting-label">
                 <span class="qt-setting-name">词典统计</span>
-                <span class="qt-setting-desc">当前已导入的词典条目数量</span>
+                <span class="qt-setting-desc">当前已加载的词典条目数量</span>
               </label>
               <div class="qt-setting-value">
                 <span id="qt-stats-en-zh" class="qt-stats">英汉: 0</span>
-                <span id="qt-stats-zh-en" class="qt-stats">汉英: 0</span>
                 <button id="qt-refresh-stats" class="qt-btn qt-btn--small">刷新</button>
               </div>
             </div>
             <div class="qt-setting-item">
               <label class="qt-setting-label">
-                <span class="qt-setting-name">导入英汉词典</span>
-                <span class="qt-setting-desc">导入英语到中文的词典数据</span>
+                <span class="qt-setting-name">重新加载词典</span>
+                <span class="qt-setting-desc">从 SQL 文件重新加载词典数据</span>
               </label>
               <div class="qt-setting-value">
-                <input type="file" id="qt-import-en-zh" accept=".json" class="qt-file-input">
-                <button id="qt-import-en-zh-btn" class="qt-btn">导入</button>
-              </div>
-            </div>
-            <div class="qt-setting-item">
-              <label class="qt-setting-label">
-                <span class="qt-setting-name">导入汉英词典</span>
-                <span class="qt-setting-desc">导入中文到英语的词典数据</span>
-              </label>
-              <div class="qt-setting-value">
-                <input type="file" id="qt-import-zh-en" accept=".json" class="qt-file-input">
-                <button id="qt-import-zh-en-btn" class="qt-btn">导入</button>
-              </div>
-            </div>
-            <div class="qt-setting-item">
-              <label class="qt-setting-label">
-                <span class="qt-setting-name">清空词典</span>
-                <span class="qt-setting-desc">删除所有已导入的词典数据</span>
-              </label>
-              <div class="qt-setting-value">
-                <select id="qt-clear-dict-select" class="qt-select">
-                  <option value="en_zh">英汉词典</option>
-                  <option value="zh_en">汉英词典</option>
-                  <option value="all">全部词典</option>
-                </select>
-                <button id="qt-clear-dict-btn" class="qt-btn qt-btn--danger">清空</button>
+                <button id="qt-reload-dict" class="qt-btn qt-btn--primary">重新加载</button>
               </div>
             </div>
           </div>

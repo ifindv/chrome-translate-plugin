@@ -456,6 +456,23 @@ function getBubbleStyles(theme) {
       line-height: 1.5;
     }
 
+    .qt-tags {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .qt-tag {
+      font-size: 10px;
+      padding: 2px 8px;
+      background: #4A90E2;
+      color: white;
+      border-radius: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+
     .qt-divider {
       height: 1px;
       background: ${config.borderColor};
@@ -660,17 +677,11 @@ function showTranslationResult(result) {
       <div class="qt-original">${escapeHtml(result.original)}</div>
   `;
 
-  // 显示音标（如果有）
-  if (currentPhonetic && currentPhonetic.success) {
+  // 显示标签（如果有）
+  if (result.tags && result.tags.length > 0) {
     html += `
-      <div class="qt-phonetic">
-        ${currentPhonetic.uk ? `<span class="qt-phonetic-item"><span class="qt-phonetic-label">UK:</span> [${escapeHtml(currentPhonetic.uk)}]</span>` : ''}
-        ${currentPhonetic.us ? `<span class="qt-phonetic-item"><span class="qt-phonetic-label">US:</span> [${escapeHtml(currentPhonetic.us)}]</span>` : ''}
-        <button class="qt-speak-btn" data-action="speak-original" title="朗读单词">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
-          </svg>
-        </button>
+      <div class="qt-tags">
+        ${result.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
       </div>
     `;
   }
@@ -678,37 +689,9 @@ function showTranslationResult(result) {
   html += `
       <div class="qt-divider"></div>
       <div class="qt-translated">${escapeHtml(result.translated)}</div>
-  `;
-
-  // 显示常用短语（如果有）
-  if (result.phrases && result.phrases.length > 0) {
-    html += `
-      <div class="qt-divider"></div>
-      <div class="qt-phrases-section">
-        <div class="qt-section-title">常用短语</div>
-        <div class="qt-phrases-list">
-          ${result.phrases.map(phrase => `<div class="qt-phrase-item">${escapeHtml(phrase)}</div>`).join('')}
-        </div>
-      </div>
-    `;
-  }
-
-  // 显示例句（如果有）
-  if (result.examples && result.examples.length > 0) {
-    html += `
-      <div class="qt-divider"></div>
-      <div class="qt-examples-section">
-        <div class="qt-section-title">例句</div>
-        <div class="qt-examples-list">
-          ${result.examples.map(example => `<div class="qt-example-item">${escapeHtml(example)}</div>`).join('')}
-        </div>
-      </div>
-    `;
-  }
-
-  html += `
     </div>
     <div class="qt-buttons">
+      <button class="qt-btn" data-action="speak-original" title="朗读">朗读</button>
       <button class="qt-btn" data-action="copy-text">复制</button>
     </div>
   `;
