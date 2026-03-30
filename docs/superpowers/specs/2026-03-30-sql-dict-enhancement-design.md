@@ -10,6 +10,29 @@ Generate SQL dictionary files with enhanced fields (phonetic, part of speech, ex
 
 **Scope:** Process incremental by level, starting from high-school (level 2). Junior (level 1) already exists in `sql-new/`.
 
+## Prerequisites
+
+This script requires Node.js environment. If `package.json` doesn't exist:
+
+```bash
+npm init -y
+npm install
+```
+
+Add this npm script to `package.json`:
+```json
+{
+  "scripts": {
+    "enhance-dict": "node scripts/generate-enhanced-dict.js"
+  }
+}
+```
+
+Alternatively, run directly with Node.js:
+```bash
+node scripts/generate-enhanced-dict.js --level high-school
+```
+
 ## Architecture
 
 A standalone Node.js script `scripts/generate-enhanced-dict.js` invoked via npm.
@@ -43,43 +66,44 @@ CLI Parse → Load SQL File → Extract Words → Fetch API Data → Enrich → 
 
 | Field | Source | Output |
 |-------|--------|--------|
-| word | `[^\']+` in VALUES clause | Preserved as-is |
+| word | First VALUES clause | Preserved as-is |
 | translate | Second VALUES clause | Preserved as-is |
 
 ### Enhanced Fields (from Free Dictionary API)
 
 | Field | API Source | Fallback |
 |-------|------------|----------|
-| phonetic_uk | `phonetics[].text` where sourceUrl contains "uk" | Empty string |
-| phonetic_us | `phonetics[].text` where sourceUrl contains "us" or last entry | Empty string |
+| phonetic_uk | `phonetics[].text` where `sourceUrl` contains "uk" OR `audio` contains "uk" | Empty string |
+| phonetic_us | `phonetics[].text` where `sourceUrl` contains "us" OR `audio` contains "us" OR last entry with text | Empty string |
 | part_of_speech | First `partOfSpeech` from meanings | Empty string |
 | examples | Up to 3 `definitions[].example` as JSON array | `[]` |
 
 ### Fallback Logic
 
-- API fails → empty phonetic fields, `[]` for examples
-- No phonetic available → empty string
-- No examples found → `[]`
+- API fails (4xx/5xx): empty phonetic fields, `[]` for examples, continue
+- No phonetic available: empty string
+- No examples found: `[]`
+- Phonetics entry exists but lacks `sourceUrl`: check `audio` property for locale codes (e.g., "uk-uk", "uk-us")
 
 ## File Handling
 
 ### Input Files
 
-Read from `sql/` directory:
+Read from `sql/` directory. **Table names are preserved exactly from input files.**
 
-| Level | File | Table Name | Status |
-|-------|------|------------|--------|
+| Level | File | Actual Table Name | Status |
+|-------|------|-------------------|--------|
 | 1 | `1 初中-乱序_sql.sql` | `junior` | **SKIP** (exists) |
-| 2 | `2 高中-乱序_sql.sql` | `high_school` | Process |
-| 3 | `3 四级-乱序_sql.sql` | `cet4` | Process |
-| 4 | `4 六级-乱序_sql.sql` | `cet6` | Process |
+| 2 | `2 高中-乱序_sql.sql` | `senior` | Process |
+| 3 | `3 四级-乱序_sql.sql` | `CET4` | Process |
+| 4 | `4 六级-乱序_sql.sql` | `CET6` | Process |
 | 5 | `5 考研-乱序_sql.sql` | `graduate` | Process |
-| 6 | `6 托福-乱序_sql.sql` | `toefl` | Process |
-| 7 | `7 SAT-乱序_sql.sql` | `sat` | Process |
+| 6 | `6 托福-乱序_sql.sql` | `TOEFL` | Process |
+| 7 | `7 SAT-乱序_sql.sql` | `SAT` | Process |
 
 ### Output Files
 
-Write to `sql-new/` directory with same naming convention.
+Write to `sql-new/` directory with same naming convention. **Table names preserved from input.**
 
 **Never overwrites existing files** - prompts for confirmation if output exists.
 
@@ -101,6 +125,8 @@ INSERT INTO <table_name> (word,translate,phonetic_uk,phonetic_us,part_of_speech,
 ...
 ```
 
+**Note:** Existing files include `AUTO_INCREMENT = <number>` in CREATE TABLE. This is not added to new output as word serves as the primary identifier, not auto-increment ID.
+
 ## String Escaping
 
 **Use double single quotes (`''`) for SQL escaping, NOT backslash.**
@@ -115,25 +141,16 @@ escapeString(str) {
 - Input: `"It's a test"` → Output: `"It''s a test"`
 - Input: `["Bob's car"]` → Output: `["Bob''s car"]`
 
-## Error Handling
+**Important:** For the `examples` JSON array field, escape single quotes BEFORE passing to `JSON.stringify()`:
 
-### API Errors
+```javascript
+// Correct order:
+const example = "It's a test";
+const escaped = escapeString(example);  // "It''s a test"
+const jsonValue = JSON.stringify([escaped]);  // "[\"It''s a test\"]"
+```
 
-| Error Type | Action |
-|------------|--------|
-| 4xx/5xx status | Log, use fallback values, continue |
-| Network timeout | Retry up to 3 times, 2s delay |
-| Rate limit exceeded | Exponential backoff |
-
-### Parse Errors
-
-- Invalid SQL INSERT → Skip, log warning, continue
-- Empty word/translate → Skip entry
-
-### Resume Capability
-
-- `--resume` flag skips words already in output file
-- Parses existing output, finds last processed word, continues
+Do NOT escape after JSON serialization or you'll have double-escaped quotes.
 
 ## Error Handling & Recovery
 
@@ -141,18 +158,24 @@ escapeString(str) {
 
 | Error | Handling |
 |-------|----------|
-| 4xx/5xx | Log error, use fallback values (empty phonetics/examples), continue |
-| Network timeout | Retry up to 3 times with 2s delay |
-| Rate limit | Exponential backoff |
+| 4xx/5xx status | Log error, use fallback values (empty phonetics/examples), continue to next word |
+| Network timeout | Retry up to 3 times with 2s delay between attempts |
+| Rate limit exceeded | Exponential backoff: start at 1s, double each retry (1s → 2s → 4s → 8s), max 5 retries, cap at 60s delay |
 
 ### Parse Errors
 
-- Invalid SQL INSERT → Skip, log warning
-- Empty word/translate → Skip entry
+| Error | Handling |
+|-------|----------|
+| Invalid SQL INSERT statement | Skip entry, log warning, continue |
+| Empty word or translate fields | Skip entry, log warning |
+| Malformed SQL syntax | Parse entire file, report all issues, ask for user confirmation |
 
 ### Resume Capability
 
-- `--resume` flag parses existing output and continues from last word
+- `--resume` flag enables continuation from interrupted run
+- Parses existing output file to find last **successfully completed** INSERT statement
+- **Note:** If process crashed mid-INSERT, output file will have incomplete SQL. Resume may fail with parse error; user should manually delete/clean the partial file before resuming
+- Resume identifies last completed word and continues from next entry
 
 ## Progress Reporting
 
@@ -170,6 +193,7 @@ Completed: high-school
 - Success: 2497
 - Failed: 3
 - Time: 41m23s
+- Output: sql-new/2 高中-乱序_sql.sql
 ```
 
 ## CLI Interface
@@ -178,38 +202,42 @@ Completed: high-school
 
 | Option | Description |
 |--------|-------------|
-| `--level <name>` | Process specific level (high-school, cet4, cet6, graduate, toefl, sat) |
-| `--all` | Process all remaining levels |
+| `--level <name>` | Process specific level (senior, CET4, CET6, graduate, TOEFL, SAT) |
+| `--all` | Process all remaining levels (2-7) |
 | `--resume` | Skip already processed words |
 | `--delay <ms>` | Override rate limit (default: 1000ms) |
 | `--dry-run` | Parse and show stats without fetching API |
 
 ### Level Mapping
 
-| Command | SQL File |
-|---------|----------|
-| `--level high-school` | `2 高中-乱序_sql.sql` |
-| `--level cet4` | `3 四级-乱序_sql.sql` |
-| `--level cet6` | `4 六级-乱序_sql.sql` |
-| `--level graduate` | `5 考研-乱序_sql.sql` |
-| `--level toefl` | `6 托福-乱序_sql.sql` |
-| `--level sat` | `7 SAT-乱序_sql.sql` |
+| Command | SQL File | Table Name |
+|---------|----------|------------|
+| `--level senior` | `2 高中-乱序_sql.sql` | `senior` |
+| `--level CET4` | `3 四级-乱序_sql.sql` | `CET4` |
+| `--level CET6` | `4 六级-乱序_sql.sql` | `CET6` |
+| `--level graduate` | `5 考研-乱序_sql.sql` | `graduate` |
+| `--level TOEFL` | `6 托福-乱序_sql.sql` | `TOEFL` |
+| `--level SAT` | `7 SAT-乱序_sql.sql` | `SAT` |
+
+**Note:** CLI level arguments use actual table names for consistency and direct mapping.
 
 ## Rate Limiting
 
-- Default: 1 request per second
-- Configurable via `--delay` option
-- Simple setTimeout queue implementation
+- Default: 1 request per second (1000ms delay)
+- Configurable via `--delay <ms>` option
+- Simple sequential processing with setTimeout between requests
+- No concurrent requests - controlled pacing
 
 ## Dependencies
 
-- Node.js (native fetch or axios)
-- No external database required
+- Node.js 18+ (for native fetch API)
+- No external dependencies required for basic functionality
 
 ## Success Criteria
 
 - All 6 levels (2-7) generated successfully in `sql-new/`
-- UTF-8 preserved correctly
-- SQL syntax valid for import
-- Original translations unchanged
+- UTF-8 encoding preserved correctly
+- SQL syntax valid for database import
+- Original Chinese translations unchanged
 - Enhanced fields populated where API provides data
+- Proper single-quote escaping (double single quotes)

@@ -1,7 +1,20 @@
 {
   "permissions": {
     "allow": [
-      "Bash(s ls:*)"
+      "Bash(s ls:*)",
+      "Bash(git diff:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(rtk curl:*)",
+      "Bash(curl -s https://api.dictionaryapi.dev/api/v2/entries/en/hello)",
+      "Bash(rtk git:*)",
+      "Bash(rtk git commit -m \"docs: add SQL dictionary enhancement design spec:*)",
+      "Bash(for f:*)",
+      "Bash(do rtk:*)",
+      "Bash(done)",
+      "Bash(rtk cat:*)",
+      "Bash(do echo:*)",
+      "Read(//e/code/SOFTAI/chrome-translate-plugin/**)"
     ]
   }
 }
