@@ -6,9 +6,9 @@
 
 ## Overview
 
-Generate SQL dictionary files with enhanced fields (phonetic, part of speech, examples) for vocabulary levels 2-7 (high-school through SAT). Uses Free Dictionary API to fetch metadata while preserving original Chinese translations.
+Generate SQL dictionary files with enhanced fields (phonetic, part of speech, examples) for vocabulary levels 2-7 (senior, CET4, CET6, graduate, TOEFL, SAT). Uses Free Dictionary API to fetch metadata while preserving original Chinese translations.
 
-**Scope:** Process incremental by level, starting from high-school (level 2). Junior (level 1) already exists in `sql-new/`.
+**Scope:** Process incremental by level, starting from senior (level 2). Junior (level 1) already exists in `sql-new/`.
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ Add this npm script to `package.json`:
 
 Alternatively, run directly with Node.js:
 ```bash
-node scripts/generate-enhanced-dict.js --level high-school
+node scripts/generate-enhanced-dict.js --level senior
 ```
 
 ## Architecture
@@ -40,9 +40,9 @@ A standalone Node.js script `scripts/generate-enhanced-dict.js` invoked via npm.
 ### Entry Point
 
 ```bash
-npm run enhance-dict -- --level high-school
+npm run enhance-dict -- --level senior
 npm run enhance-dict -- --all
-npm run enhance-dict -- --level cet4 --resume
+npm run enhance-dict -- --level CET4 --resume
 ```
 
 ### Flow
@@ -66,8 +66,8 @@ CLI Parse → Load SQL File → Extract Words → Fetch API Data → Enrich → 
 
 | Field | Source | Output |
 |-------|--------|--------|
-| word | First VALUES clause | Preserved as-is |
-| translate | Second VALUES clause | Preserved as-is |
+| word | First string in VALUES clause | Preserved as-is |
+| translate | Second string in VALUES clause | Preserved as-is |
 
 ### Enhanced Fields (from Free Dictionary API)
 
@@ -181,14 +181,14 @@ Do NOT escape after JSON serialization or you'll have double-escaped quotes.
 
 **Console Output:**
 ```
-Processing: high-school (2 高中-乱序_sql.sql)
+Processing: senior (2 高中-乱序_sql.sql)
 ✓ hello (1/1000) | ✗ failed: timeout (3) | ⏳ 590ms avg
 ✓ world (2/1000) | ...
 ```
 
 **Final Summary:**
 ```
-Completed: high-school
+Completed: senior
 - Total: 2500 words
 - Success: 2497
 - Failed: 3
