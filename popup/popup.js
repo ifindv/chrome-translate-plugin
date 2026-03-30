@@ -17,7 +17,7 @@
  * 配置项
  */
 const CONFIG = {
-  MAX_TEXT_LENGTH: 5000,
+  MAX_TEXT_LENGTH: 10000,
   DEBOUNCE_DELAY: 300
 };
 

@@ -146,8 +146,8 @@ async function handleSelection() {
   }
 
   // 过滤无效文本
-  if (selectionInfo.text.length > 5000) {
-    console.warn('选中文本过长，超过5000字符');
+  if (selectionInfo.text.length > 10000) {
+    console.warn('选中文本过长，超过10000字符');
     return;
   }
 

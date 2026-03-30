@@ -906,7 +906,7 @@ class TranslationService {
     const wordByWordResult = this.dictionary.translateWordByWord(text, from, to);
     wordByWordResult.detectedLang = detectedLang;
 
-    if (text.trim().split(/\s+/).length <= 10) {
+    if (text.trim().split(/\s+/).length <= 50) {
       // 短文本，直接返回逐词翻译结果
       await this.cache.set(text, from, to, wordByWordResult);
       return wordByWordResult;
