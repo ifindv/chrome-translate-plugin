@@ -1,0 +1,8 @@
+{
+  "name": "chrome-translate-plugin",
+  "version": "1.0.0",
+  "description": "QuickTranslate Chrome Extension - Enhanced Dictionary Generator",
+  "scripts": {
+    "enhance-dict": "node scripts/generate-enhanced-dict.js"
+  }
+}
