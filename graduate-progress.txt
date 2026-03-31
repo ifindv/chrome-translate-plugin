@@ -1,0 +1,62 @@
+╔════════════════════════════════════════╗
+║  SQL Dictionary Enhancement Tool v1.0  ║
+╚════════════════════════════════════════╝
+
+Configuration:
+- Rate limit: 1000ms per request
+- Resume mode: OFF
+- Dry run: NO
+
+Processing: graduate (sql/5 考研-乱序_sql.sql)
+✓ Parsed sql/5 考研-乱序_sql.sql: found 9602 entries, table: graduate
+Total entries: 9602
+✗ meditation: HTTP 429
+✗ persist: HTTP 429
+✗ avoid: HTTP 429
+✗ yellow: HTTP 429
+✗ consult: HTTP 429
+✗ assume: HTTP 429
+✗ doctorate: HTTP 429
+✓ doctorate (10/9602) | ✗ failed: 7 | ⏳ 938ms avg✗ resultant: HTTP 429
+✗ fuse: HTTP 429
+✗ very: HTTP 429
+✗ critic: HTTP 429
+✓ preparation (20/9602) | ✗ failed: 11 | ⏳ 970ms avg✗ precedent: HTTP 429
+✗ capacity: HTTP 429
+✗ party: HTTP 429
+✗ equation: HTTP 429
+✗ commence: HTTP 429
+✗ neglect: HTTP 429
+✗ contemporary: HTTP 429
+✗ continuous: HTTP 429
+✓ continuous (30/9602) | ✗ failed: 20 | ⏳ 980ms avg✗ solution: HTTP 429
+✗ decision: HTTP 429
+✗ care: HTTP 429
+✗ millimeter: HTTP 429
+✓ millimeter (40/9602) | ✗ failed: 24 | ⏳ 985ms avg✗ shiver: HTTP 429
+✗ escalate: HTTP 429
+✗ graduate: HTTP 429
+✗ spirit: HTTP 429
+✗ contradiction: HTTP 429
+✗ value: HTTP 429
+✗ bathe: HTTP 429
+✗ success: HTTP 429
+✗ genuine: HTTP 429
+✗ port: HTTP 429
+✓ port (50/9602) | ✗ failed: 34 | ⏳ 988ms avg✗ exceptional: HTTP 429
+✗ satisfaction: HTTP 429
+✗ mood: HTTP 429
+✗ enterprise: HTTP 429
+✗ consequently: HTTP 429
+✓ consequently (60/9602) | ✗ failed: 39 | ⏳ 990ms avg✗ invade: HTTP 429
+✗ correct: HTTP 429
+✗ symmetry: HTTP 429
+✗ helmet: HTTP 429
+✗ time: HTTP 429
+✗ view: HTTP 429
+✓ conductor (70/9602) | ✗ failed: 45 | ⏳ 991ms avg✗ counterpart: HTTP 429
+✗ persecute: HTTP 429
+✗ marital: HTTP 429
+✗ spiral: HTTP 429
+✗ designate: HTTP 429
+✗ provide: HTTP 429

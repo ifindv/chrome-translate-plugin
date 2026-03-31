@@ -1,0 +1,58 @@
+╔════════════════════════════════════════╗
+║  SQL Dictionary Enhancement Tool v1.0  ║
+╚════════════════════════════════════════╝
+
+Configuration:
+- Rate limit: 1000ms per request
+- Resume mode: OFF
+- Dry run: NO
+
+Processing: CET6 (sql/4 六级-乱序_sql.sql)
+✓ Parsed sql/4 六级-乱序_sql.sql: found 5636 entries, table: CET6
+Total entries: 5636
+✓ absolutely (10/5636) | ✗ failed: 2 | ⏳ 940ms avg✓ chronic (20/5636) | ✗ failed: 2 | ⏳ 970ms avg✗ aid: HTTP 429
+✗ solution: HTTP 429
+✓ solution (30/5636) | ✗ failed: 6 | ⏳ 980ms avg✗ tuition: HTTP 429
+✗ esteem: HTTP 429
+✗ purchase: HTTP 429
+✗ incorporate: HTTP 429
+✗ prevail: HTTP 429
+✗ irrational: HTTP 429
+✗ inherent: HTTP 429
+✗ overexcited: HTTP 429
+✓ evolution (40/5636) | ✗ failed: 14 | ⏳ 985ms avg✗ supervisor: HTTP 429
+✗ fluctuate: HTTP 429
+✗ substance: HTTP 429
+✓ substance (50/5636) | ✗ failed: 19 | ⏳ 988ms avg✗ profitable: HTTP 429
+✗ markedly: HTTP 429
+✗ ineffective: HTTP 429
+✗ bleak: HTTP 429
+✗ optimistic: HTTP 429
+✗ ultimate: HTTP 429
+✗ consumption: HTTP 429
+✓ harsh (60/5636) | ✗ failed: 26 | ⏳ 990ms avg✗ lag: HTTP 429
+✗ controversy: HTTP 429
+✗ cornerstone: HTTP 429
+✗ erect: HTTP 429
+✗ prematurely: HTTP 429
+✗ initiative: HTTP 429
+✓ initiative (70/5636) | ✗ failed: 33 | ⏳ 992ms avg✗ dilute: HTTP 429
+✗ viewpoint: HTTP 429
+✗ typical: HTTP 429
+✗ stray: HTTP 429
+✓ outlive (80/5636) | ✗ failed: 37 | ⏳ 996ms avg✗ reservation: HTTP 429
+✗ circumstance: HTTP 429
+✗ revolutionize: HTTP 429
+✗ outweigh: HTTP 429
+✗ cast: HTTP 429
+✗ uncertain: HTTP 429
+✗ threat: HTTP 429
+✗ conservative: HTTP 429
+✗ overestimate: HTTP 429
+✗ documentary: HTTP 429
+✓ documentary (90/5636) | ✗ failed: 47 | ⏳ 994ms avg✗ opposition: HTTP 429
+✗ polar: HTTP 429
+✓ polar (100/5636) | ✗ failed: 50 | ⏳ 995ms avg✗ integral: HTTP 429
+✗ guard: HTTP 429
+✗ branch: HTTP 429
+✗ affiliate: HTTP 429
