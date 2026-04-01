@@ -203,12 +203,16 @@ function loadConfigToUI() {
  * @returns {Object} 配置对象
  */
 function getConfigFromUI() {
+  // 获取当前激活的主题
+  const activeThemeBtn = document.querySelector('.qt-theme-btn.qt-theme-btn--active');
+  const currentTheme = activeThemeBtn ? activeThemeBtn.dataset.theme : config.theme || DEFAULT_CONFIG.theme;
+
   return {
     shortcut: elements.shortcutSelect.value,
     autoTranslate: elements.autoTranslateSwitch.checked,
     autoDetect: elements.autoDetectSwitch.checked,
     bubbleCloseDelay: parseInt(elements.bubbleCloseDelayInput.value) || DEFAULT_CONFIG.bubbleCloseDelay,
-    theme: config.theme,
+    theme: currentTheme,
     fontSize: elements.fontSizeSelect.value,
     fontFamily: elements.fontFamilySelect.value
   };

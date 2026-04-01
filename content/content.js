@@ -29,13 +29,13 @@ const BUBBLE_CONFIG = {
  * 样式配置
  */
 const STYLE_CONFIG = {
-  LIGHT: {
+  light: {
     backgroundColor: '#ffffff',
     textColor: '#333333',
     borderColor: '#e0e0e0',
     shadowColor: 'rgba(0, 0, 0, 0.15)'
   },
-  DARK: {
+  dark: {
     backgroundColor: '#2d2d2d',
     textColor: '#ffffff',
     borderColor: '#444444',
@@ -1277,7 +1277,17 @@ if (document.readyState === 'loading') {
 // 监听配置更新
 chrome.storage.onChanged.addListener(async (changes, namespace) => {
   if (namespace === 'local' && changes.qt_config) {
-    userConfig = changes.qt_config.newValue;
+    const oldConfig = changes.qt_config.oldValue;
+    const newConfig = changes.qt_config.newValue;
+    userConfig = newConfig;
     console.log('配置已更新:', userConfig);
+
+    // 如果主题发生变化且气泡存在，更新气泡主题
+    if (newConfig.theme !== oldConfig.theme && currentBubble && currentBubble.shadowRoot) {
+      const styleElement = currentBubble.shadowRoot.querySelector('style');
+      if (styleElement) {
+        styleElement.textContent = getBubbleStyles(newConfig.theme);
+      }
+    }
   }
 });
