@@ -1,13 +1,0 @@
-╔════════════════════════════════════════╗
-║  SQL Dictionary Enhancement Tool v1.0  ║
-╚════════════════════════════════════════╝
-
-Configuration:
-- Rate limit: 1000ms per request
-- Resume mode: OFF
-- Dry run: NO
-
-Processing: TOEFL (sql/6 托福-乱序_sql.sql)
-✓ Parsed sql/6 托福-乱序_sql.sql: found 13476 entries, table: TOEFL
-Total entries: 13476
-✓ demand (10/13476) | ✗ failed: 0 | ⏳ 999ms avg✓ late (20/13476) | ✗ failed: 0 | ⏳ 982ms avg✓ member (30/13476) | ✗ failed: 1 | ⏳ 991ms avg✓ recent (40/13476) | ✗ failed: 1 | ⏳ 994ms avg✓ though (50/13476) | ✗ failed: 2 | ⏳ 996ms avg✓ melt (60/13476) | ✗ failed: 2 | ⏳ 997ms avg✓ deep (70/13476) | ✗ failed: 2 | ⏳ 1000ms avg

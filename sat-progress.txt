@@ -1,50 +1,0 @@
-╔════════════════════════════════════════╗
-║  SQL Dictionary Enhancement Tool v1.0  ║
-╚════════════════════════════════════════╝
-
-Configuration:
-- Rate limit: 1000ms per request
-- Resume mode: OFF
-- Dry run: NO
-
-Processing: SAT (sql/7 SAT-乱序_sql.sql)
-✓ Parsed sql/7 SAT-乱序_sql.sql: found 8887 entries, table: SAT
-Total entries: 8887
-✗ clutter: HTTP 429
-✗ profession: HTTP 429
-✗ parsimonious: HTTP 429
-✗ Phosphorus: HTTP 429
-✗ bravo: HTTP 429
-✓ bravo (10/8887) | ✗ failed: 5 | ⏳ 926ms avg✗ alkali: HTTP 429
-✗ augment: HTTP 429
-✗ quarrelsome: HTTP 429
-✗ upheave: HTTP 429
-✗ unaccountable: HTTP 429
-✗ surmise: HTTP 429
-✓ volant (20/8887) | ✗ failed: 11 | ⏳ 976ms avg✗ scathe: HTTP 429
-✗ generation: HTTP 429
-✗ brigade: HTTP 429
-✗ alternate: HTTP 429
-✗ triennial: HTTP 429
-✗ impugn: HTTP 429
-✗ altimeter: HTTP 429
-✓ altimeter (30/8887) | ✗ failed: 18 | ⏳ 975ms avg✗ orthodoxy: HTTP 429
-✗ gasoline: HTTP 429
-✗ hindrance: HTTP 429
-✗ salient: HTTP 429
-✗ constructive: HTTP 429
-✓ constructive (40/8887) | ✗ failed: 23 | ⏳ 982ms avg✗ anathema: HTTP 429
-✗ retrograde: HTTP 429
-✗ wherever: HTTP 429
-✗ effeminate: HTTP 429
-✗ torrid: HTTP 429
-✗ dynamic: HTTP 429
-✗ resignation: HTTP 429
-✗ literacy: HTTP 429
-✗ dissipate: HTTP 429
-✓ imaginary (50/8887) | ✗ failed: 32 | ⏳ 985ms avg✗ helix: HTTP 429
-✗ advantageous: HTTP 429
-✗ lucrative: HTTP 429
-✗ canonical: HTTP 429
-✓ canonical (60/8887) | ✗ failed: 37 | ⏳ 988ms avg✗ guise: HTTP 429
-✗ censorship: HTTP 429

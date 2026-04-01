@@ -1,59 +1,0 @@
-╔════════════════════════════════════════╗
-║  SQL Dictionary Enhancement Tool v1.0  ║
-╚════════════════════════════════════════╝
-
-Configuration:
-- Rate limit: 1000ms per request
-- Resume mode: OFF
-- Dry run: NO
-
-Processing: CET4 (sql/3 四级-乱序_sql.sql)
-✓ Parsed sql/3 四级-乱序_sql.sql: found 7508 entries, table: CET4
-Total entries: 7508
-✓ strategy (10/7508) | ✗ failed: 0 | ⏳ 924ms avg✓ passionate (20/7508) | ✗ failed: 0 | ⏳ 962ms avg✓ plague (30/7508) | ✗ failed: 0 | ⏳ 975ms avg✓ specialize (40/7508) | ✗ failed: 0 | ⏳ 981ms avg✓ contract (50/7508) | ✗ failed: 0 | ⏳ 985ms avg✓ dust (60/7508) | ✗ failed: 2 | ⏳ 988ms avg✓ exhaust (70/7508) | ✗ failed: 4 | ⏳ 989ms avg✓ incidence (80/7508) | ✗ failed: 5 | ⏳ 991ms avg✓ commencement (90/7508) | ✗ failed: 6 | ⏳ 995ms avg✓ detection (100/7508) | ✗ failed: 6 | ⏳ 993ms avg✗ cozy: HTTP 429
-✗ gallery: HTTP 429
-✗ enormous: HTTP 429
-✗ obtain: HTTP 429
-✗ desert: HTTP 429
-✗ aviate: HTTP 429
-✗ determine: HTTP 429
-✗ disappear: HTTP 429
-✗ entitle: HTTP 429
-✗ relieve: HTTP 429
-✓ relieve (110/7508) | ✗ failed: 16 | ⏳ 993ms avg✗ inquire: HTTP 429
-✗ groundlessly: HTTP 429
-✓ groundlessly (120/7508) | ✗ failed: 18 | ⏳ 994ms avg✗ independently: HTTP 429
-✗ approach: HTTP 429
-✗ administration: HTTP 429
-✗ adversity: HTTP 429
-✗ technician: HTTP 429
-✗ regular: HTTP 429
-✗ miscalculation: HTTP 429
-✗ hinder: HTTP 429
-✗ selection: HTTP 429
-✓ tide (130/7508) | ✗ failed: 27 | ⏳ 995ms avg✗ institute: HTTP 429
-✗ dormitory: HTTP 429
-✗ awful: HTTP 429
-✗ emergency: HTTP 429
-✓ emergency (140/7508) | ✗ failed: 32 | ⏳ 995ms avg✗ stress: HTTP 429
-✗ launch: HTTP 429
-✗ suppose: HTTP 429
-✗ remove: HTTP 429
-✗ exposure: HTTP 429
-✗ promote: HTTP 429
-✓ slave (150/7508) | ✗ failed: 38 | ⏳ 995ms avg✗ clinic: HTTP 429
-✗ award: HTTP 429
-✗ worthwhile: HTTP 429
-✗ cruelty: HTTP 429
-✗ threaten: HTTP 429
-✗ chemical: HTTP 429
-✗ consistent: HTTP 429
-✗ renew: HTTP 429
-✓ renew (160/7508) | ✗ failed: 46 | ⏳ 996ms avg✗ takeoff: HTTP 429
-✗ innocent: HTTP 429
-✗ personality: HTTP 429
-✓ personality (170/7508) | ✗ failed: 49 | ⏳ 996ms avg✗ headquarter: HTTP 429
-✗ ingredient: HTTP 429
-✗ revenue: HTTP 429
-✗ sensitive: HTTP 429
-✗ particular: HTTP 429

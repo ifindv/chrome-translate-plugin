@@ -14,7 +14,10 @@
       "Bash(done)",
       "Bash(rtk cat:*)",
       "Bash(do echo:*)",
-      "Read(//e/code/SOFTAI/chrome-translate-plugin/**)"
+      "Read(//e/code/SOFTAI/chrome-translate-plugin/**)",
+      "Bash(package.json:*)",
+      "Bash(node:*)",
+      "Bash(ls -lh sql-new/3*)"
     ]
   }
 }
