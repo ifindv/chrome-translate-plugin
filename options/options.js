@@ -35,7 +35,7 @@ const DEFAULT_CONFIG = {
   autoDetect: true,
 
   // 显示选项
-  bubbleCloseDelay: 2000,
+  bubbleCloseDelay: 10000,
 
   // 外观设置
   theme: 'light',

@@ -1044,7 +1044,7 @@ chrome.runtime.onInstalled.addListener(async (details) => {
         showPinyin: false,
         autoDetect: true,
         autoTranslate: true,
-        bubbleCloseDelay: 2000,
+        bubbleCloseDelay: 10000,
         shortcut: 'Ctrl+Shift+T'
       },
       [STORAGE_KEYS.TRANSLATION_CACHE]: {},

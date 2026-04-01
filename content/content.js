@@ -22,7 +22,7 @@ const BUBBLE_CONFIG = {
   MIN_WIDTH: 250,        // 最小宽度
   MAX_HEIGHT: 400,       // 最大高度（增加以支持更多单词显示）
   ANIMATION_DURATION: 200,  // 动画时长
-  CLOSE_DELAY: 2000       // 自动关闭延迟（毫秒）
+  CLOSE_DELAY: 10000       // 自动关闭延迟（毫秒）
 };
 
 /**
@@ -798,13 +798,14 @@ function showBubble(x, y, result = null, isLoading = false) {
   // 显示气泡
   bubble.classList.add('show');
 
-  // 设置自动关闭定时器
+  // 设置自动关闭定时器（使用用户配置的关闭延迟）
+  const closeDelay = userConfig?.bubbleCloseDelay || BUBBLE_CONFIG.CLOSE_DELAY;
   if (bubbleTimer) {
     clearTimeout(bubbleTimer);
   }
   bubbleTimer = setTimeout(() => {
     hideBubble();
-  }, BUBBLE_CONFIG.CLOSE_DELAY);
+  }, closeDelay);
 }
 
 /**
@@ -1160,10 +1161,11 @@ function bindBubbleEvents() {
   });
 
   // 鼠标离开气泡重新设置定时器
+  const closeDelay = userConfig?.bubbleCloseDelay || BUBBLE_CONFIG.CLOSE_DELAY;
   bubble.addEventListener('mouseleave', () => {
     bubbleTimer = setTimeout(() => {
       hideBubble();
-    }, BUBBLE_CONFIG.CLOSE_DELAY);
+    }, closeDelay);
   });
 }
 
