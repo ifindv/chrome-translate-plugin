@@ -56,6 +56,8 @@ let currentBubble = null;
 let bubbleTimer = null;
 let currentTranslation = null;
 let currentPhonetic = null;
+let currentWordIndex = 0; // 当前显示的单词索引（用于翻页）
+let wordResults = []; // 当前翻译的所有单词结果
 
 /**
  * 用户配置
@@ -249,11 +251,20 @@ document.addEventListener('click', (event) => {
 });
 
 /**
- * 监听键盘事件（ESC关闭气泡，Ctrl/Cmd+A不阻止）
+ * 监听键盘事件（ESC关闭气泡，左右方向键翻页，Ctrl/Cmd+A不阻止）
  */
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape') {
     hideBubble();
+  } else if (currentBubble && wordResults.length > 1) {
+    // 左右方向键翻页
+    if (event.key === 'ArrowLeft') {
+      event.preventDefault();
+      goToPrevPage();
+    } else if (event.key === 'ArrowRight') {
+      event.preventDefault();
+      goToNextPage();
+    }
   }
 });
 
@@ -692,6 +703,50 @@ function getBubbleStyles(theme) {
       font-style: italic;
       margin-left: 4px;
     }
+
+    .qt-pagination {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 16px 16px;
+      gap: 12px;
+    }
+
+    .qt-pagination-info {
+      font-size: 12px;
+      color: #888;
+      flex: 1;
+      text-align: center;
+    }
+
+    .qt-pagination-btn {
+      padding: 10px;
+      border: 1px solid ${config.borderColor};
+      border-radius: 4px;
+      background: transparent;
+      color: ${config.textColor};
+      cursor: pointer;
+      font-size: 12px;
+      transition: all 0.15s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+    }
+
+    .qt-pagination-btn:hover:not(:disabled) {
+      background: ${config.borderColor};
+    }
+
+    .qt-pagination-btn:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    .qt-pagination-btn svg {
+      width: 18px;
+      height: 18px;
+    }
   `;
 }
 
@@ -764,6 +819,16 @@ function showBubble(x, y, result = null, isLoading = false) {
 function showTranslationResult(result) {
   const bubble = currentBubble.bubble;
 
+  // 如果是多个单词，初始化翻页状态
+  if (result.type === 'word-by-word' && result.wordResults) {
+    wordResults = result.wordResults;
+    currentWordIndex = 0;
+  } else {
+    wordResults = [];
+    currentWordIndex = 0;
+  }
+  currentTranslation = result;
+
   // 构建HTML内容
   let html = `
     <div class="qt-header">
@@ -771,8 +836,23 @@ function showTranslationResult(result) {
       <button class="qt-close-btn" data-action="close">&times;</button>
     </div>
     <div class="qt-content">
-      ${result.type === 'word-by-word' && result.wordResults ? renderWordByWordResult(result) : renderSingleWordResult(result)}
+      ${renderCurrentWordPage()}
     </div>
+    ${wordResults.length > 1 ? `
+      <div class="qt-pagination">
+        <button class="qt-pagination-btn" data-action="prev-word" ${currentWordIndex === 0 ? 'disabled' : ''} title="上一个">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M15 18l-6-6 6-6"/>
+          </svg>
+        </button>
+        <span class="qt-pagination-info">${currentWordIndex + 1} / ${wordResults.length}</span>
+        <button class="qt-pagination-btn" data-action="next-word" ${currentWordIndex === wordResults.length - 1 ? 'disabled' : ''} title="下一个">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
+        </button>
+      </div>
+    ` : ''}
     <div class="qt-buttons">
       <button class="qt-btn" data-action="speak-original" title="朗读">朗读</button>
       <button class="qt-btn" data-action="copy-text">复制</button>
@@ -786,11 +866,113 @@ function showTranslationResult(result) {
 }
 
 /**
+ * 渲染当前单词页面（翻页模式）
+ * @returns {string} HTML字符串
+ */
+function renderCurrentWordPage() {
+  if (wordResults.length > 0) {
+    // 翻页模式：显示单个单词
+    const wordResult = wordResults[currentWordIndex];
+    let html = `
+      <div class="qt-original">${escapeHtml(wordResult.original)}</div>
+    `;
+
+    if (wordResult.tags && wordResult.tags.length > 0) {
+      html += `
+        <div class="qt-tags">
+          ${wordResult.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
+        </div>
+      `;
+    }
+
+    if (wordResult.stemWord) {
+      html += `
+        <div class="qt-stem-info">原形: ${escapeHtml(wordResult.stemWord)}</div>
+      `;
+    }
+
+    if (wordResult.isHyphenated && wordResult.subResults) {
+      html += `
+        <div class="qt-hyphenated-parts">
+          <div class="qt-section-title">连字符拆分翻译:</div>
+          ${wordResult.subResults.map((sub, idx) => `
+            <div class="qt-hyphenated-part">
+              <span class="qt-part-original">${escapeHtml(sub.original)}</span>
+              ${idx < wordResult.subResults.length - 1 ? '<span class="qt-hyphen">-</span>' : ''}
+              <span class="qt-part-arrow"> → </span>
+              <span class="qt-part-translated">${escapeHtml(sub.translated)}</span>
+              ${sub.stemWord ? `<span class="qt-part-stem"> (${escapeHtml(sub.stemWord)})</span>` : ''}
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    html += `
+      <div class="qt-divider"></div>
+      <div class="qt-translated">${escapeHtml(wordResult.translated)}</div>
+    `;
+    return html;
+  } else if (currentTranslation) {
+    // 单个单词模式
+    return renderSingleWordResult(currentTranslation);
+  }
+  return '';
+}
+
+/**
+ * 翻页到上一页
+ */
+function goToPrevPage() {
+  if (currentWordIndex > 0) {
+    currentWordIndex--;
+    updateBubbleContent();
+  }
+}
+
+/**
+ * 翻页到下一页
+ */
+function goToNextPage() {
+  if (currentWordIndex < wordResults.length - 1) {
+    currentWordIndex++;
+    updateBubbleContent();
+  }
+}
+
+/**
+ * 更新气泡内容（更新当前单词和翻页状态）
+ */
+function updateBubbleContent() {
+  const bubble = currentBubble.bubble;
+
+  // 更新内容区域
+  const contentArea = bubble.querySelector('.qt-content');
+  if (contentArea) {
+    contentArea.innerHTML = renderCurrentWordPage();
+  }
+
+  // 更新翻页区域
+  if (wordResults.length > 1) {
+    const paginationArea = bubble.querySelector('.qt-pagination');
+    const prevBtn = paginationArea?.querySelector('[data-action="prev-word"]');
+    const nextBtn = paginationArea?.querySelector('[data-action="next-word"]');
+    const paginationInfo = paginationArea?.querySelector('.qt-pagination-info');
+
+    if (prevBtn) prevBtn.disabled = currentWordIndex === 0;
+    if (nextBtn) nextBtn.disabled = currentWordIndex === wordResults.length - 1;
+    if (paginationInfo) paginationInfo.textContent = `${currentWordIndex + 1} / ${wordResults.length}`;
+  }
+}
+
+/**
  * 渲染单词列表结果（多个单词）
  * @param {Object} result - 翻译结果
  * @returns {string} HTML字符串
  */
 function renderWordByWordResult(result) {
+  // 此函数已不再使用，改用翻页模式
+  // 保留用于兼容性
   let html = `<div class="qt-word-list">`;
   for (const wordResult of result.wordResults) {
     html += `
@@ -893,6 +1075,22 @@ function bindBubbleEvents() {
   if (closeBtn) {
     closeBtn.addEventListener('click', () => {
       hideBubble();
+    });
+  }
+
+  // 上一个单词按钮
+  const prevBtn = bubble.querySelector('[data-action="prev-word"]');
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      goToPrevPage();
+    });
+  }
+
+  // 下一个单词按钮
+  const nextBtn = bubble.querySelector('[data-action="next-word"]');
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      goToNextPage();
     });
   }
 
