@@ -411,12 +411,30 @@ class OfflineDictionary {
       const sqlText = await response.text();
       const entries = this.parseSQLInsert(sqlText, fileInfo.level, fileInfo.priority);
 
-      // 合并词库数据（只保留最早出现的优先级）
+      // 合并词库数据，收集所有词库等级
       for (const [word, data] of Object.entries(entries)) {
         const key = word.toLowerCase();
-        // 如果单词已存在，保留优先级更低的（更早出现的）
-        if (!dictData[key] || data.priority < dictData[key].priority) {
+        if (!dictData[key]) {
+          // 单词不存在，直接添加
           dictData[key] = data;
+        } else {
+          // 单词已存在，收集额外的词库等级
+          const existingLevels = dictData[key].levels || dictData[key].level ? [dictData[key].level] : [];
+          if (!existingLevels.includes(data.level)) {
+            existingLevels.push(data.level);
+            // 按优先级排序
+            existingLevels.sort((a, b) => {
+              const aPriority = SQL_DICT_FILES.find(f => f.level === a)?.priority || 999;
+              const bPriority = SQL_DICT_FILES.find(f => f.level === b)?.priority || 999;
+              return aPriority - bPriority;
+            });
+            dictData[key].levels = existingLevels;
+          }
+          // 使用最优先的翻译（优先级最低的）
+          if (data.priority < (dictData[key].priority || 999)) {
+            dictData[key].translate = data.translate;
+            dictData[key].priority = data.priority;
+          }
         }
       }
 
@@ -588,6 +606,25 @@ class OfflineDictionary {
   }
 
   /**
+   * 生成词库标签数组
+   * @param {Object|string} entry - 词典条目或level字符串
+   * @returns {Array} 标签数组
+   */
+  generateTags(entry) {
+    if (typeof entry === 'string') {
+      return [DICT_LABELS[entry] || entry];
+    }
+
+    // 如果有levels数组，生成所有标签
+    if (entry.levels && Array.isArray(entry.levels)) {
+      return entry.levels.map(level => DICT_LABELS[level] || level);
+    }
+
+    // 否则返回单个标签
+    return [DICT_LABELS[entry.level] || entry.level];
+  }
+
+  /**
    * 查询单词
    * @param {string} word - 查询词
    * @param {string} from - 源语言
@@ -608,7 +645,7 @@ class OfflineDictionary {
         success: true,
         original: word,
         translated: entry.translate,
-        tags: [DICT_LABELS[entry.level] || entry.level],
+        tags: this.generateTags(entry),
         source: 'offline'
       };
     }
@@ -620,7 +657,7 @@ class OfflineDictionary {
         success: true,
         original: word,
         translated: exactEntry.translate,
-        tags: [DICT_LABELS[exactEntry.level] || exactEntry.level],
+        tags: this.generateTags(exactEntry),
         source: 'offline'
       };
     }
@@ -635,7 +672,7 @@ class OfflineDictionary {
             success: true,
             original: word,
             translated: stemEntry.translate,
-            tags: [DICT_LABELS[stemEntry.level] || stemEntry.level],
+            tags: this.generateTags(stemEntry),
             stemWord: stemWord,
             source: 'offline'
           };
@@ -668,7 +705,7 @@ class OfflineDictionary {
         success: true,
         original: phrase,
         translated: entry.translate,
-        tags: [DICT_LABELS[entry.level] || entry.level],
+        tags: this.generateTags(entry),
         source: 'offline',
         type: 'phrase'
       };
