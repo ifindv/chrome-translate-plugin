@@ -40,7 +40,10 @@ const DEFAULT_CONFIG = {
   // 外观设置
   theme: 'light',
   fontSize: 'medium',
-  fontFamily: 'system'
+  fontFamily: 'system',
+
+  // 词库设置
+  dictVersion: 'basic'
 };
 
 // ==================== 状态管理 ====================
@@ -79,6 +82,7 @@ const elements = {
   refreshStatsBtn: null,
   reloadDictBtn: null,
   clearCacheBtn: null,
+  dictVersionSelect: null,
 
   // 外观设置
   themeBtns: null,
@@ -192,6 +196,9 @@ function loadConfigToUI() {
   elements.autoDetectSwitch.checked = config.autoDetect !== false;
   elements.bubbleCloseDelayInput.value = config.bubbleCloseDelay || DEFAULT_CONFIG.bubbleCloseDelay;
 
+  // 翻译设置
+  elements.dictVersionSelect.value = config.dictVersion || DEFAULT_CONFIG.dictVersion;
+
   // 外观设置
   applyTheme(config.theme || DEFAULT_CONFIG.theme);
   elements.fontSizeSelect.value = config.fontSize || DEFAULT_CONFIG.fontSize;
@@ -212,6 +219,7 @@ function getConfigFromUI() {
     autoTranslate: elements.autoTranslateSwitch.checked,
     autoDetect: elements.autoDetectSwitch.checked,
     bubbleCloseDelay: parseInt(elements.bubbleCloseDelayInput.value) || DEFAULT_CONFIG.bubbleCloseDelay,
+    dictVersion: elements.dictVersionSelect.value,
     theme: currentTheme,
     fontSize: elements.fontSizeSelect.value,
     fontFamily: elements.fontFamilySelect.value
@@ -341,7 +349,7 @@ function initEventListeners() {
   // 输入框变化监听（标记未保存状态）
   const inputs = [
     'autoTranslateSwitch', 'autoDetectSwitch',
-    'bubbleCloseDelayInput',
+    'bubbleCloseDelayInput', 'dictVersionSelect',
     'fontSizeSelect', 'fontFamilySelect'
   ];
 
@@ -462,6 +470,7 @@ async function init() {
   elements.refreshStatsBtn = document.getElementById('qt-refresh-stats');
   elements.reloadDictBtn = document.getElementById('qt-reload-dict');
   elements.clearCacheBtn = document.getElementById('qt-clear-cache');
+  elements.dictVersionSelect = document.getElementById('qt-dict-version');
 
   // 外观设置元素
   elements.themeBtns = document.querySelectorAll('.qt-theme-btn');

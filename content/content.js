@@ -747,6 +747,40 @@ function getBubbleStyles(theme) {
       width: 18px;
       height: 18px;
     }
+
+    .qt-part-of-speech {
+      display: inline-block;
+      font-size: 11px;
+      color: #4A90E2;
+      background: ${config.backgroundColor === '#ffffff' ? 'rgba(74, 144, 226, 0.1)' : 'rgba(74, 144, 226, 0.2)'};
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-right: 8px;
+      font-weight: 500;
+    }
+
+    .qt-examples-section {
+      margin-top: 12px;
+    }
+
+    .qt-example-item {
+      padding: 8px 10px;
+      background: ${config.backgroundColor === '#ffffff' ? '#f5f5f5' : 'rgba(255, 255, 255, 0.05)'};
+      border-radius: 4px;
+      font-size: 12px;
+      line-height: 1.5;
+      border-left: 3px solid rgba(74, 144, 226, 0.3);
+    }
+
+    .qt-example-text {
+      color: ${config.textColor};
+      margin-bottom: 4px;
+    }
+
+    .qt-example-translation {
+      color: #4A90E2;
+      font-style: italic;
+    }
   `;
 }
 
@@ -878,6 +912,30 @@ function renderCurrentWordPage() {
       <div class="qt-original">${escapeHtml(wordResult.original)}</div>
     `;
 
+    // 显示音标（完整版词库）
+    if (wordResult.phonetic_uk || wordResult.phonetic_us) {
+      html += `
+        <div class="qt-phonetic">
+          ${wordResult.phonetic_uk ? `
+            <div class="qt-phonetic-item">
+              <span class="qt-phonetic-label">英:</span>
+              <span>${escapeHtml(wordResult.phonetic_uk)}</span>
+            </div>
+          ` : ''}
+          ${wordResult.phonetic_us ? `
+            <div class="qt-phonetic-item">
+              <span class="qt-phonetic-label">美:</span>
+              <span>${escapeHtml(wordResult.phonetic_us)}</span>
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }
+
+    if (wordResult.part_of_speech) {
+      html += `<span class="qt-part-of-speech">${escapeHtml(wordResult.part_of_speech)}</span>`;
+    }
+
     if (wordResult.tags && wordResult.tags.length > 0) {
       html += `
         <div class="qt-tags">
@@ -913,6 +971,21 @@ function renderCurrentWordPage() {
       <div class="qt-divider"></div>
       <div class="qt-translated">${escapeHtml(wordResult.translated)}</div>
     `;
+
+    // 显示例句（完整版词库）
+    if (wordResult.examples && wordResult.examples.length > 0) {
+      html += `
+        <div class="qt-examples-section">
+          <div class="qt-section-title">例句:</div>
+          ${wordResult.examples.map(ex => `
+            <div class="qt-example-item">
+              <div class="qt-example-text">${escapeHtml(ex)}</div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
     return html;
   } else if (currentTranslation) {
     // 单个单词模式
@@ -1021,7 +1094,32 @@ function renderSingleWordResult(result) {
     <div class="qt-original">${escapeHtml(result.original)}</div>
   `;
 
-  // 显示标签（如果有）
+  // 显示音标（完整版词库）
+  if (result.phonetic_uk || result.phonetic_us) {
+    html += `
+      <div class="qt-phonetic">
+        ${result.phonetic_uk ? `
+          <div class="qt-phonetic-item">
+            <span class="qt-phonetic-label">英:</span>
+            <span>${escapeHtml(result.phonetic_uk)}</span>
+          </div>
+        ` : ''}
+        ${result.phonetic_us ? `
+          <div class="qt-phonetic-item">
+            <span class="qt-phonetic-label">美:</span>
+            <span>${escapeHtml(result.phonetic_us)}</span>
+          </div>
+        ` : ''}
+      </div>
+    `;
+  }
+
+  // 显示词性（完整版词库）
+  if (result.part_of_speech) {
+    html += `<span class="qt-part-of-speech">${escapeHtml(result.part_of_speech)}</span>`;
+  }
+
+  // 显示标签（词库来源）
   if (result.tags && result.tags.length > 0) {
     html += `
       <div class="qt-tags">
@@ -1041,6 +1139,20 @@ function renderSingleWordResult(result) {
       <div class="qt-divider"></div>
       <div class="qt-translated">${escapeHtml(result.translated)}</div>
   `;
+
+  // 显示例句（完整版词库）
+  if (result.examples && result.examples.length > 0) {
+    html += `
+      <div class="qt-examples-section">
+        <div class="qt-section-title">例句:</div>
+        ${result.examples.map(ex => `
+          <div class="qt-example-item">
+            <div class="qt-example-text">${escapeHtml(ex)}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
 
   return html;
 }

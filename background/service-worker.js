@@ -130,9 +130,9 @@ class TranslationCache {
 // ==================== 离线词典服务 ====================
 
 /**
- * 词典文件列表
+ * 基础版词典文件列表 (sql/)
  */
-const SQL_DICT_FILES = [
+const SQL_DICT_FILES_BASIC = [
   { path: 'sql/1 初中-乱序_sql.sql', level: 'junior', priority: 1 },
   { path: 'sql/2 高中-乱序_sql.sql', level: 'high-school', priority: 2 },
   { path: 'sql/3 四级-乱序_sql.sql', level: 'cet4', priority: 3 },
@@ -140,6 +140,19 @@ const SQL_DICT_FILES = [
   { path: 'sql/5 考研-乱序_sql.sql', level: 'graduate', priority: 5 },
   { path: 'sql/6 托福-乱序_sql.sql', level: 'toefl', priority: 6 },
   { path: 'sql/7 SAT-乱序_sql.sql', level: 'sat', priority: 7 }
+];
+
+/**
+ * 完整版词典文件列表 (sql-new/)
+ */
+const SQL_DICT_FILES_FULL = [
+  { path: 'sql-new/1 初中-乱序_sql.sql', level: 'junior', priority: 1 },
+  { path: 'sql-new/2 高中-乱序_sql.sql', level: 'high-school', priority: 2 },
+  { path: 'sql-new/3 四级-乱序_sql.sql', level: 'cet4', priority: 3 },
+  { path: 'sql-new/4 六级-乱序_sql.sql', level: 'cet6', priority: 4 },
+  { path: 'sql-new/5 考研-乱序_sql.sql', level: 'graduate', priority: 5 },
+  { path: 'sql-new/6 托福-乱序_sql.sql', level: 'toefl', priority: 6 },
+  { path: 'sql-new/7 SAT-乱序_sql.sql', level: 'sat', priority: 7 }
 ];
 
 /**
@@ -338,15 +351,22 @@ const IRREGULAR_INFLECTIONS = {
 class OfflineDictionary {
   constructor() {
     this.dictionary = {
-      en_zh: {}  // 格式：{ word: { translate: string, level: string, priority: number } }
+      en_zh: {}  // 格式：根据版本不同而不同
+      // 基础版：{ word: { translate: string, level: string, priority: number } }
+      // 完整版：{ word: { translate: string, phonetic_uk: string, phonetic_us: string, part_of_speech: string, examples: array, level: string, priority: number } }
     };
     this.inflectionMap = {}; // 变形映射表
+    this.config = null;      // 用户配置
   }
 
   /**
    * 加载词典数据 (从 SQL 文件加载)
    */
   async load() {
+    // 获取用户配置，确定使用哪个版本的词库
+    const configData = await chrome.storage.local.get(STORAGE_KEYS.CONFIG);
+    this.config = configData[STORAGE_KEYS.CONFIG] || { dictVersion: 'basic' };
+
     // 先从 Chrome Storage 获取已有的词典数据
     const data = await chrome.storage.local.get([
       STORAGE_KEYS.DICTIONARY_EN_ZH
@@ -358,13 +378,22 @@ class OfflineDictionary {
     if (Object.keys(this.dictionary.en_zh).length === 0) {
       console.log('正在从本地 SQL 文件加载词典...');
       await this.loadFromSQLFiles();
+    } else {
+      // 检查版本是否变化，如果变化则重新加载
+      const storedVersion = this.dictionary.en_zh._dictVersion || 'basic';
+      if (storedVersion !== this.config.dictVersion) {
+        console.log(`词库版本已从 ${storedVersion} 变更为 ${this.config.dictVersion}，重新加载...`);
+        this.dictionary.en_zh = {};
+        await this.loadFromSQLFiles();
+      }
     }
 
     // 构建变形映射表
     this.buildInflectionMap();
 
     console.log('离线词典已加载:',
-      '英汉:', Object.keys(this.dictionary.en_zh).length, '词');
+      '英汉:', Object.keys(this.dictionary.en_zh).length - 1, '词', // -1 排除 _dictVersion 字段
+      '版本:', this.config.dictVersion);
   }
 
   /**
@@ -373,9 +402,12 @@ class OfflineDictionary {
   async loadFromSQLFiles() {
     const dictData = {};
 
+    // 根据配置选择词库文件
+    const dictFiles = this.config.dictVersion === 'full' ? SQL_DICT_FILES_FULL : SQL_DICT_FILES_BASIC;
+
     // 按优先级顺序加载（从小到大），这样后加载的优先级高的会覆盖前面的
     // 但我们只记录最早出现的优先级
-    const sortedFiles = [...SQL_DICT_FILES].sort((a, b) => a.priority - b.priority);
+    const sortedFiles = [...dictFiles].sort((a, b) => a.priority - b.priority);
 
     for (const fileInfo of sortedFiles) {
       try {
@@ -387,12 +419,15 @@ class OfflineDictionary {
 
     this.dictionary.en_zh = dictData;
 
+    // 保存版本信息到字典中
+    this.dictionary.en_zh._dictVersion = this.config.dictVersion;
+
     // 保存到 Chrome Storage
     await chrome.storage.local.set({
       [STORAGE_KEYS.DICTIONARY_EN_ZH]: this.dictionary.en_zh
     });
 
-    console.log('词典已加载并保存到存储:', Object.keys(this.dictionary.en_zh).length, '词');
+    console.log('词典已加载并保存到存储:', Object.keys(dictData).length, '词');
   }
 
   /**
@@ -409,7 +444,7 @@ class OfflineDictionary {
       }
 
       const sqlText = await response.text();
-      const entries = this.parseSQLInsert(sqlText, fileInfo.level, fileInfo.priority);
+      const entries = this.parseSQLInsert(sqlText, fileInfo.level, fileInfo.priority, this.config.dictVersion);
 
       // 合并词库数据，收集所有词库等级
       for (const [word, data] of Object.entries(entries)) {
@@ -424,8 +459,8 @@ class OfflineDictionary {
             existingLevels.push(data.level);
             // 按优先级排序
             existingLevels.sort((a, b) => {
-              const aPriority = SQL_DICT_FILES.find(f => f.level === a)?.priority || 999;
-              const bPriority = SQL_DICT_FILES.find(f => f.level === b)?.priority || 999;
+              const aPriority = (this.config.dictVersion === 'full' ? SQL_DICT_FILES_FULL : SQL_DICT_FILES_BASIC).find(f => f.level === a)?.priority || 999;
+              const bPriority = (this.config.dictVersion === 'full' ? SQL_DICT_FILES_FULL : SQL_DICT_FILES_BASIC).find(f => f.level === b)?.priority || 999;
               return aPriority - bPriority;
             });
             dictData[key].levels = existingLevels;
@@ -445,28 +480,153 @@ class OfflineDictionary {
   }
 
   /**
-   * 解析 SQL INSERT 语句
+   * 解析 SQL INSERT 语句（严格解析，不使用正则）
    * @param {string} sqlText - SQL 文本内容
    * @param {string} level - 词库等级
    * @param {number} priority - 优先级
+   * @param {string} dictVersion - 词库版本 (basic/full)
    * @returns {Object} 解析后的词典数据
    */
-  parseSQLInsert(sqlText, level, priority) {
+  parseSQLInsert(sqlText, level, priority, dictVersion) {
     const result = {};
-    const insertRegex = /INSERT INTO \w+ \([^)]+\) VALUES \('([^']+)',\s*'([^']+)'\);/g;
+    const lines = sqlText.split('\n');
 
-    let match;
-    while ((match = insertRegex.exec(sqlText)) !== null) {
-      const [, word, translate] = match;
-      const key = word.toLowerCase();
-      result[key] = {
-        translate: translate,
-        level: level,
-        priority: priority
-      };
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+
+      // 跳过非 INSERT 语句
+      if (!line.startsWith('INSERT INTO ') || !line.includes(' VALUES ')) {
+        continue;
+      }
+
+      // 提取 VALUES 部分
+      const valuesStart = line.indexOf('VALUES ') + 'VALUES '.length;
+
+      // 跳过末尾的分号
+      let valuesPart = line;
+      if (valuesPart.endsWith(';')) {
+        valuesPart = valuesPart.slice(0, -1);
+      }
+      valuesPart = valuesPart.slice(valuesStart).trim();
+
+      // 去掉括号
+      if (valuesPart.startsWith('(') && valuesPart.endsWith(')')) {
+        valuesPart = valuesPart.slice(1, -1);
+      }
+
+      // 解析值（不使用正则，手动分割）
+      const values = this.parseSQLValues(valuesPart);
+
+      // 根据版本决定需要哪些字段
+      if (dictVersion === 'full' && values.length >= 6) {
+        // 完整版：word, translate, phonetic_uk, phonetic_us, part_of_speech, examples
+        const word = values[0];
+        // 处理examples数组：如果包含 '[' 则需要进行JSON解析
+        let examples = [];
+        if (values[5] && (values[5].includes('[') || values[5] === '[]')) {
+          try {
+            // 移除可能的前后空格和引号
+            let examplesStr = values[5].trim();
+            if (examplesStr.startsWith("'") && examplesStr.endsWith("'")) {
+              examplesStr = examplesStr.slice(1, -1);
+            }
+            if (examplesStr !== '[]') {
+              examples = JSON.parse(examplesStr);
+            }
+          } catch (e) {
+            examples = [];
+          }
+        }
+
+        const key = word.toLowerCase();
+        result[key] = {
+          translate: values[1],
+          phonetic_uk: values[2],
+          phonetic_us: values[3],
+          part_of_speech: values[4],
+          examples: examples,
+          level: level,
+          priority: priority
+        };
+      } else if (dictVersion === 'basic' && values.length >= 2) {
+        // 基础版：word, translate
+        const word = values[0];
+        const key = word.toLowerCase();
+        result[key] = {
+          translate: values[1],
+          level: level,
+          priority: priority
+        };
+      }
     }
 
     return result;
+  }
+
+  /**
+   * 解析 SQL VALUES 字符串（手动分割，不使用正则）
+   * @param {string} valuesStr - VALUES 字符串
+   * @returns {Array} 值数组
+   */
+  parseSQLValues(valuesStr) {
+    const values = [];
+    let current = '';
+    let inSingleQuotes = false;
+    let inDoubleQuotes = false;
+    let escapeNext = false;
+
+    for (let i = 0; i < valuesStr.length; i++) {
+      const char = valuesStr[i];
+
+      // 处理转义字符
+      if (escapeNext) {
+        current += char;
+        escapeNext = false;
+        continue;
+      }
+
+      // 处理反斜杠转义
+      if (char === '\\') {
+        escapeNext = true;
+        current += char;
+        continue;
+      }
+
+      // 进入/退出引号
+      if (char === "'" && !inDoubleQuotes) {
+        if (inSingleQuotes && !escapeNext) {
+          // 检查是否是连续的两个单引号（SQL的转义方式）
+          if (i + 1 < valuesStr.length && valuesStr[i + 1] === "'") {
+            current += "'";
+            i++; // 跳过下一个单引号
+            continue;
+          }
+          inSingleQuotes = false;
+        } else {
+          inSingleQuotes = true;
+        }
+        continue;
+      }
+
+      if (char === '"' && !inSingleQuotes) {
+        inDoubleQuotes = !inDoubleQuotes;
+        continue;
+      }
+
+      // 分隔符（只有不在引号内时才分隔）
+      if (char === ',' && !inSingleQuotes && !inDoubleQuotes) {
+        values.push(current.trim());
+        current = '';
+        continue;
+      }
+
+      current += char;
+    }
+
+    // 添加最后一个值
+    values.push(current.trim());
+
+    return values;
   }
 
   /**
@@ -641,25 +801,45 @@ class OfflineDictionary {
 
     const entry = this.dictionary.en_zh[key];
     if (entry) {
-      return {
+      const result = {
         success: true,
         original: word,
         translated: entry.translate,
         tags: this.generateTags(entry),
         source: 'offline'
       };
+
+      // 如果是完整版词库，添加音标、词性、例句信息
+      if (this.config.dictVersion === 'full') {
+        if (entry.phonetic_uk) result.phonetic_uk = entry.phonetic_uk;
+        if (entry.phonetic_us) result.phonetic_us = entry.phonetic_us;
+        if (entry.part_of_speech) result.part_of_speech = entry.part_of_speech;
+        if (entry.examples && entry.examples.length > 0) result.examples = entry.examples;
+      }
+
+      return result;
     }
 
     // 尝试精确匹配（不转小写）
     const exactEntry = this.dictionary.en_zh[word];
     if (exactEntry) {
-      return {
+      const result = {
         success: true,
         original: word,
         translated: exactEntry.translate,
         tags: this.generateTags(exactEntry),
         source: 'offline'
       };
+
+      // 如果是完整版词库，添加音标、词性、例句信息
+      if (this.config.dictVersion === 'full') {
+        if (exactEntry.phonetic_uk) result.phonetic_uk = exactEntry.phonetic_uk;
+        if (exactEntry.phonetic_us) result.phonetic_us = exactEntry.phonetic_us;
+        if (exactEntry.part_of_speech) result.part_of_speech = exactEntry.part_of_speech;
+        if (exactEntry.examples && exactEntry.examples.length > 0) result.examples = exactEntry.examples;
+      }
+
+      return result;
     }
 
     // 对于英汉翻译，尝试查找词根（处理复数、时态等变形）
@@ -668,7 +848,7 @@ class OfflineDictionary {
       if (stemWord && stemWord !== key) {
         const stemEntry = this.dictionary.en_zh[stemWord] || this.dictionary.en_zh[stemWord.toLowerCase()];
         if (stemEntry) {
-          return {
+          const result = {
             success: true,
             original: word,
             translated: stemEntry.translate,
@@ -676,6 +856,16 @@ class OfflineDictionary {
             stemWord: stemWord,
             source: 'offline'
           };
+
+          // 如果是完整版词库，添加音标、词性、例句信息
+          if (this.config.dictVersion === 'full') {
+            if (stemEntry.phonetic_uk) result.phonetic_uk = stemEntry.phonetic_uk;
+            if (stemEntry.phonetic_us) result.phonetic_us = stemEntry.phonetic_us;
+            if (stemEntry.part_of_speech) result.part_of_speech = stemEntry.part_of_speech;
+            if (stemEntry.examples && stemEntry.examples.length > 0) result.examples = stemEntry.examples;
+          }
+
+          return result;
         }
       }
     }
@@ -772,7 +962,11 @@ class OfflineDictionary {
                 translated: (result && result.success) ? result.translated : part,
                 found: result && result.success,
                 tags: (result && result.success) ? result.tags : [],
-                stemWord: result?.stemWord || null
+                stemWord: result?.stemWord || null,
+                phonetic_uk: result?.phonetic_uk || null,
+                phonetic_us: result?.phonetic_us || null,
+                part_of_speech: result?.part_of_speech || null,
+                examples: result?.examples || null
               });
 
               if (result && result.success) {
@@ -803,7 +997,11 @@ class OfflineDictionary {
           translated: (result && result.success) ? result.translated : cleaned,
           found: result && result.success,
           tags: (result && result.success) ? result.tags : [],
-          stemWord: result?.stemWord || null
+          stemWord: result?.stemWord || null,
+          phonetic_uk: result?.phonetic_uk || null,
+          phonetic_us: result?.phonetic_us || null,
+          part_of_speech: result?.part_of_speech || null,
+          examples: result?.examples || null
         });
 
         if (result && result.success) {
@@ -964,11 +1162,50 @@ class TranslationService {
    * 获取音标
    */
   async getPhonetic(word) {
-    // 当前 SQL 词库没有音标数据，返回空结果
+    // 检查词库版本是否支持音标
+    const configData = await chrome.storage.local.get(STORAGE_KEYS.CONFIG);
+    const config = configData[STORAGE_KEYS.CONFIG] || {};
+
+    if (config.dictVersion !== 'full') {
+      return {
+        success: false,
+        word: word,
+        error: '基础版词库暂不支持音标查询，请切换到完整版'
+      };
+    }
+
+    // 尝试从词典获取音标
+    const key = word.toLowerCase().trim();
+    const entry = this.dictionary.en_zh[key] || this.dictionary.en_zh[word];
+
+    if (entry && entry.success) {
+      return {
+        success: true,
+        word: word,
+        phonetic_uk: entry.phonetic_uk || null,
+        phonetic_us: entry.phonetic_us || null
+      };
+    }
+
+    // 尝试查找词根的音标（处理变形词）
+    const stemWord = this.dictionary.findStemWord(word);
+    if (stemWord && stemWord !== key) {
+      const stemEntry = this.dictionary.en_zh[stemWord] || this.dictionary.en_zh[stemWord.toLowerCase()];
+      if (stemEntry) {
+        return {
+          success: true,
+          word: word,
+          originalWord: stemWord,
+          phonetic_uk: stemEntry.phonetic_uk || null,
+          phonetic_us: stemEntry.phonetic_us || null
+        };
+      }
+    }
+
     return {
       success: false,
       word: word,
-      error: '当前词库版本暂不支持音标查询'
+      error: '未找到该单词'
     };
   }
 
@@ -982,7 +1219,8 @@ class TranslationService {
       fontSize: 'medium',
       showPhonetic: true,
       showPinyin: false,
-      autoDetect: true
+      autoDetect: true,
+      dictVersion: 'basic'
     };
   }
 
@@ -1045,7 +1283,8 @@ chrome.runtime.onInstalled.addListener(async (details) => {
         autoDetect: true,
         autoTranslate: true,
         bubbleCloseDelay: 10000,
-        shortcut: 'Ctrl+Shift+T'
+        shortcut: 'Ctrl+Shift+T',
+        dictVersion: 'basic'
       },
       [STORAGE_KEYS.TRANSLATION_CACHE]: {},
       [STORAGE_KEYS.DICTIONARY_EN_ZH]: {},
@@ -1187,5 +1426,21 @@ chrome.commands.onCommand.addListener(async (command, tab) => {
         });
       }
     });
+  }
+});
+
+// 监听配置变化
+chrome.storage.onChanged.addListener(async (changes, namespace) => {
+  if (namespace === 'local' && changes.qt_config) {
+    const newConfig = changes.qt_config.newValue;
+    const oldConfig = changes.qt_config.oldValue || {};
+
+    // 检查词库版本是否变化
+    if (newConfig && oldConfig && newConfig.dictVersion !== oldConfig.dictVersion) {
+      console.log(`词库版本已从 ${oldConfig.dictVersion} 切换到 ${newConfig.dictVersion}，重新加载词典...`);
+      if (translationService && translationService.dictionary) {
+        await translationService.dictionary.load();
+      }
+    }
   }
 });
