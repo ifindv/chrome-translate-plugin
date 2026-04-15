@@ -546,6 +546,7 @@ function getBubbleStyles(theme) {
 
     .qt-translated {
       line-height: 1.5;
+      white-space: pre-wrap;
     }
 
     .qt-buttons {

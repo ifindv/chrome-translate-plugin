@@ -524,7 +524,7 @@ class OfflineDictionary {
     const result = {
       success: true,
       original: original,
-      translated: entry.translation,
+      translated: entry.translation.replace(/\\n/g, '\n'),
       tags: this.generateTags(entry),
       source: 'offline'
     };
