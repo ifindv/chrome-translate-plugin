@@ -57,19 +57,30 @@ Popup/Options UI
 
 ### Dictionary Format
 
-The project is transitioning from JSON to SQL dictionary format:
+The project uses ECDICT CSV dictionary format:
 
-- **Current (Active)**: `sql/*.sql` files containing 7 vocabulary levels:
-  - Junior (初级)
-  - High School (高中)
-  - CET4/6 (大学英语四六级)
-  - Graduate (考研)
-  - TOEFL (托福)
-  - SAT
-- **Future (Not Yet Enabled)**: `sql-new/` - Enhanced SQL format with additional fields
-- **Deprecated**: JSON format (`dict/CET4-*.json`) - no longer maintained
+- **Current (Active)**: `ecdict/ecdict.mini.csv` - ECDICT format dictionary containing:
+  - Word, phonetic, translation, part of speech (pos)
+  - Collins star rating, Oxford 3000 keyword indicator
+  - Exam tags (zk/gk/cet4/cet6/ky/toefl/ielts/gre)
+  - BNC corpus frequency, modern corpus frequency
+  - Word inflection forms (exchange field for past/present/etc.)
 
-**Note**: `service-worker.js` still references the old JSON DICT_FILES array. Updating to use SQL format is part of the next development phase.
+**ECDICT Field Format**:
+| Field        | Description                           |
+|--------------|----------------------------------------|
+| word         | Word name                            |
+| phonetic     | Phonetic notation (UK/US)            |
+| translation  | Chinese translation                   |
+| pos          | Part of speech with frequency ratio   |
+| collins      | Collins star rating (1-5)             |
+| oxford       | Oxford 3000 keyword indicator         |
+| tag          | Exam tags (space-separated)           |
+| bnc          | BNC corpus frequency ranking         |
+| frq          | Modern corpus frequency ranking       |
+| exchange     | Word inflection forms                 |
+
+The dictionary is loaded and cached in Chrome Storage, with exchange field parsed for word inflection recognition.
 
 ### Word Inflection Recognition
 
@@ -127,17 +138,16 @@ const shadow = container.attachShadow({ mode: 'open' });
 - `content/` - Scripts/styles injected into web pages
 - `popup/` - Extension popup UI
 - `options/` - Settings page
-- `sql/` - Original SQL dictionary files (7 levels: Junior, High School, CET4/6, Graduate, TOEFL, SAT)
-- `sql-new/` - Updated SQL format with enhanced fields (current working format)
-- `prompt/AGD.md` - Contains dictionary generation prompts for CET4 vocabulary creation
+- `ecdict/ecdict.mini.csv` - ECDICT CSV format dictionary (main dictionary source)
 
-## Importing New Dictionary Data
+## Dictionary Implementation
 
-To add new dictionary data from SQL format:
+The `OfflineDictionary` class loads ECDICT CSV files on first use and caches them in Chrome Storage. Key features:
 
-1. Generate SQL file with proper format (word, translate, phonetic_uk, phonetic_us, part_of_speech, examples)
-2. Place in `sql/` directory (current active location)
-3. **Note**: Service Worker integration pending - `service-worker.js` still references deprecated JSON format. SQL-to-JSON converter and DICT_FILES array update are planned for next development phase
+1. **CSV Parser with Quote Support** - Handles CSV fields with embedded commas and quotes
+2. **Exchange Field Parsing** - Parses ECDICT exchange format (`p:past/d:done`) for word inflections
+3. **Inflection Map Building** - Creates bidirectional mapping between word forms and lemmas
+4. **Tag Extraction** - Converts ECDICT tags (cet4, cet6, etc.) to readable labels
 
 <!-- rtk-instructions v2 -->
 # RTK (Rust Token Killer) - Token-Optimized Commands
