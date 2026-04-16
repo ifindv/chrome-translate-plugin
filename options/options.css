@@ -83,8 +83,8 @@ html, body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  min-height: 600px;
-  min-width: 900px;
+  min-height: 650px;
+  min-width: 1100px;
 }
 
 /* ==================== 头部样式 ==================== */
@@ -188,8 +188,9 @@ html, body {
 
 .qt-content {
   flex: 1;
-  padding: 32px;
+  padding: 10px 32px 12px;
   overflow-y: auto;
+  background: var(--qt-bg-primary);
 }
 
 .qt-section {
@@ -225,8 +226,8 @@ html, body {
   background: var(--qt-bg-secondary);
   border: 1px solid var(--qt-border-color);
   border-radius: var(--qt-radius-lg);
-  padding: 20px;
-  margin-bottom: 24px;
+  padding: 14px;
+  margin-bottom: 14px;
 }
 
 .qt-setting-group-title {
@@ -260,7 +261,7 @@ html, body {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 12px 0;
+  padding: 6px 0;
   border-bottom: 1px solid var(--qt-border-color);
 }
 
@@ -606,7 +607,7 @@ html, body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 16px 24px;
+  padding: 12px 24px;
   border-top: 1px solid var(--qt-border-color);
   background: var(--qt-bg-secondary);
 }

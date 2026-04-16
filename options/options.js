@@ -38,7 +38,7 @@ const DEFAULT_CONFIG = {
   bubbleCloseDelay: 10000,
 
   // 外观设置
-  theme: 'light',
+  theme: 'dark',
   fontSize: 'medium',
   fontFamily: 'system'
 };

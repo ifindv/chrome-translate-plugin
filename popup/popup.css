@@ -118,6 +118,27 @@ body {
   align-items: center;
   justify-content: center;
   transition: var(--qt-transition);
+  padding: 0;
+}
+
+.qt-icon-btn img {
+  width: 20px;
+  height: 20px;
+  display: none;
+}
+
+/* 默认显示浅色主题图标 */
+.qt-icon-btn .qt-icon-light {
+  display: block;
+}
+
+/* 深色主题下显示深色图标 */
+[data-theme="dark"] .qt-icon-btn .qt-icon-light {
+  display: none;
+}
+
+[data-theme="dark"] .qt-icon-btn .qt-icon-dark {
+  display: block;
 }
 
 .qt-icon-btn:hover {
@@ -267,6 +288,26 @@ body {
   justify-content: center;
   gap: 8px;
   transition: var(--qt-transition);
+}
+
+.qt-translate-btn img {
+  width: 18px;
+  height: 18px;
+  display: none;
+}
+
+/* 默认显示浅色主题图标 */
+.qt-translate-btn .qt-translate-icon-light {
+  display: block;
+}
+
+/* 深色主题下显示深色图标 */
+[data-theme="dark"] .qt-translate-btn .qt-translate-icon-light {
+  display: none;
+}
+
+[data-theme="dark"] .qt-translate-btn .qt-translate-icon-dark {
+  display: block;
 }
 
 .qt-translate-btn:hover {
