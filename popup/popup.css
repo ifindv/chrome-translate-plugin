@@ -95,6 +95,26 @@ body {
   gap: 8px;
 }
 
+.qt-logo img {
+  width: 32px;
+  height: 32px;
+  display: none;
+}
+
+/* 默认显示浅色主题图标 */
+.qt-logo .qt-logo-icon-light {
+  display: block;
+}
+
+/* 深色主题下显示深色图标 */
+[data-theme="dark"] .qt-logo .qt-logo-icon-light {
+  display: none;
+}
+
+[data-theme="dark"] .qt-logo .qt-logo-icon-dark {
+  display: block;
+}
+
 .qt-app-name {
   font-size: 16px;
   font-weight: 600;
@@ -436,6 +456,26 @@ body {
 .qt-tip-item svg {
   flex-shrink: 0;
   color: var(--qt-accent-color);
+}
+
+.qt-tip-item img {
+  width: 14px;
+  height: 14px;
+  display: none;
+}
+
+/* 默认显示浅色主题图标 */
+.qt-tip-item .qt-icon-light {
+  display: block;
+}
+
+/* 深色主题下显示深色图标 */
+[data-theme="dark"] .qt-tip-item .qt-icon-light {
+  display: none;
+}
+
+[data-theme="dark"] .qt-tip-item .qt-icon-dark {
+  display: block;
 }
 
 /* ==================== 底部信息 ==================== */
