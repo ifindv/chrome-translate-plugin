@@ -83,8 +83,8 @@ html, body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  min-height: 650px;
-  min-width: 1100px;
+  min-height: 600px;
+  min-width: 900px;
 }
 
 /* ==================== 头部样式 ==================== */
@@ -188,9 +188,10 @@ html, body {
 
 .qt-content {
   flex: 1;
-  padding: 10px 32px 12px;
+  padding: 16px 24px;
   overflow-y: auto;
   background: var(--qt-bg-primary);
+  padding-bottom: 80px;
 }
 
 .qt-section {
@@ -610,6 +611,9 @@ html, body {
   padding: 12px 24px;
   border-top: 1px solid var(--qt-border-color);
   background: var(--qt-bg-secondary);
+  position: sticky;
+  bottom: 0;
+  z-index: 10;
 }
 
 .qt-footer-actions {
