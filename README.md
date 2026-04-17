@@ -167,8 +167,8 @@ MIT License
 
 ## 联系方式
 
-- 项目主页: [GitHub](https://github.com/your-username/QuickTranslate)
-- 问题反馈: [Issues](https://github.com/your-username/QuickTranslate/issues)
+- 项目主页: [GitHub](https://github.com/ifindv/chrome-translate-plugin)
+- 问题反馈: [Issues](https://github.com/ifindv/chrome-translate-plugin/issues)
 
 ---
 

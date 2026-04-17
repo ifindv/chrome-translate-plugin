@@ -338,7 +338,7 @@ function initEventListeners() {
     elements.helpLink.addEventListener('click', (e) => {
       e.preventDefault();
       chrome.tabs.create({
-        url: 'https://github.com/your-username/QuickTranslate'
+        url: 'https://github.com/ifindv/chrome-translate-plugin'
       });
     });
   }
