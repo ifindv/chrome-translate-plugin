@@ -1,8 +1,41 @@
 {
   "name": "chrome-translate-plugin",
   "version": "1.0.0",
-  "description": "QuickTranslate Chrome Extension - Enhanced Dictionary Generator",
+  "description": "QuickTranslate Chrome Extension - A powerful translation tool with enhanced dictionary support",
+  "author": "QuickTranslate Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/chrome-translate-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/chrome-translate-plugin/issues"
+  },
+  "homepage": "https://github.com/yourusername/chrome-translate-plugin#readme",
+  "keywords": [
+    "chrome-extension",
+    "translation",
+    "dictionary",
+    "language",
+    "browser-extension",
+    "translator"
+  ],
   "scripts": {
-    "enhance-dict": "node scripts/generate-enhanced-dict.js"
-  }
+    "enhance-dict": "node scripts/generate-enhanced-dict.js",
+    "lint": "eslint .",
+    "format": "prettier --write "**/*.{js,css,html,json,md}""
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "contributors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ]
 }
