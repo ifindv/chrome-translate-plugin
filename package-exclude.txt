@@ -1,0 +1,33 @@
+# Chrome扩展打包排除文件列表
+
+# 文档和说明文件
+README.md
+CHANGELOG.md
+CLAUDE.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+SECURITY.md
+LICENSE
+
+# 开发相关
+package.json
+package-lock.json
+.git
+.gitignore
+node_modules
+
+# 文档目录
+docs/
+
+# ECDICT完整源数据
+ecdict/ECDICT/
+
+# 构建脚本
+scripts/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
