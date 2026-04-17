@@ -64,6 +64,11 @@ let wordResults = []; // 当前翻译的所有单词结果
  */
 let userConfig = null;
 
+/**
+ * 插件启用状态（默认启用）
+ */
+let isPluginEnabled = true;
+
 // ==================== 消息通信函数 ====================
 
 /**
@@ -137,6 +142,11 @@ function detectLanguage(text) {
  * 处理选中文本
  */
 async function handleSelection() {
+  // 检查插件是否启用
+  if (!isPluginEnabled) {
+    return;
+  }
+
   // 清除之前的气泡
   hideBubble(false); // 不清除选区
 
@@ -1342,6 +1352,43 @@ function isClickInBubble(event) {
 }
 
 /**
+ * 显示状态通知
+ * @param {string} message - 通知消息
+ */
+function showStatusNotification(message) {
+  // 创建通知元素
+  const notification = document.createElement('div');
+  notification.style.cssText = `
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: ${userConfig?.theme === 'dark' ? '#2d2d2d' : '#ffffff'};
+    color: ${userConfig?.theme === 'dark' ? '#ffffff' : '#333333'};
+    border: 1px solid ${userConfig?.theme === 'dark' ? '#444444' : '#e0e0e0'};
+    border-radius: 8px;
+    padding: 12px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    z-index: 2147483647;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-size: 14px;
+    transition: opacity 0.3s ease;
+  `;
+  notification.textContent = message;
+
+  document.body.appendChild(notification);
+
+  // 2秒后淡出并移除
+  setTimeout(() => {
+    notification.style.opacity = '0';
+    setTimeout(() => {
+      if (document.body.contains(notification)) {
+        document.body.removeChild(notification);
+      }
+    }, 300);
+  }, 2000);
+}
+
+/**
  * HTML转义，防止XSS
  * @param {string} text - 待转义文本
  * @returns {string} 转义后的文本
@@ -1364,6 +1411,22 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       showBubble(window.innerWidth / 2, 100, message.result);
     }
     sendResponse({ success: true });
+  } else if (message.action === 'togglePlugin') {
+    // 切换插件启用/禁用状态
+    isPluginEnabled = !isPluginEnabled;
+
+    // 保存状态到storage
+    const url = window.location.href;
+    chrome.storage.local.get('qt_plugin_states', (data) => {
+      const states = data.qt_plugin_states || {};
+      states[url] = isPluginEnabled;
+      chrome.storage.local.set({ qt_plugin_states: states });
+
+      // 显示状态提示
+      showStatusNotification(isPluginEnabled ? '翻译插件已启用' : '翻译插件已禁用');
+    });
+
+    sendResponse({ success: true, enabled: isPluginEnabled });
   }
   return true;
 });
@@ -1377,7 +1440,17 @@ async function init() {
   // 获取用户配置
   userConfig = await getConfig();
 
-  console.log('QuickTranslate Content Script 已加载');
+  // 获取当前页面的插件状态
+  const url = window.location.href;
+  const data = await new Promise((resolve) => {
+    chrome.storage.local.get('qt_plugin_states', resolve);
+  });
+
+  const states = data.qt_plugin_states || {};
+  // 默认启用，除非该页面被明确禁用
+  isPluginEnabled = states[url] !== false;
+
+  console.log('QuickTranslate Content Script 已加载，插件状态:', isPluginEnabled ? '启用' : '禁用');
 }
 
 // 页面加载完成后初始化

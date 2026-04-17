@@ -1075,5 +1075,10 @@ chrome.commands.onCommand.addListener(async (command, tab) => {
         });
       }
     });
+  } else if (command === 'toggle-plugin') {
+    // 切换插件启用/禁用状态
+    chrome.tabs.sendMessage(tab.id, {
+      action: 'togglePlugin'
+    });
   }
 });
