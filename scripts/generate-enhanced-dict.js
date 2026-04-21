@@ -62,31 +62,32 @@ function parseArgs(args) {
     const arg = args[i];
 
     switch (arg) {
-      case '--level':
-        options.level = args[++i];
-        break;
-      case '--all':
-        options.all = true;
-        break;
-      case '--resume':
-        options.resume = true;
-        break;
-      case '--delay':
-        options.delay = parseInt(args[++i], 10) || 1000;
-        break;
-      case '--dry-run':
-        options.dryRun = true;
-        break;
-      case '--help':
-      case '-h':
+    case '--level':
+      options.level = args[++i];
+      break;
+    case '--all':
+      options.all = true;
+      break;
+    case '--resume':
+      options.resume = true;
+      break;
+    case '--delay':
+      options.delay = parseInt(args[++i], 10) || 1000;
+      break;
+    case '--dry-run':
+      options.dryRun = true;
+      break;
+    case '--help':
+    case '-h':
+      showHelp();
+      process.exit(0);
+      break;
+    default:
+      if (arg.startsWith('-')) {
+        console.error(`Unknown option: ${arg}`);
         showHelp();
-        process.exit(0);
-      default:
-        if (arg.startsWith('-')) {
-          console.error(`Unknown option: ${arg}`);
-          showHelp();
-          process.exit(1);
-        }
+        process.exit(1);
+      }
     }
   }
 
@@ -141,7 +142,7 @@ async function main() {
     });
 
     // 显示配置
-    console.log(`\nConfiguration:`);
+    console.log('\nConfiguration:');
     console.log(`- Rate limit: ${options.delay}ms per request`);
     console.log(`- Resume mode: ${options.resume ? 'ON' : 'OFF'}`);
     console.log(`- Dry run: ${options.dryRun ? 'YES' : 'NO'}`);

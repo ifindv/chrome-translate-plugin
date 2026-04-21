@@ -505,3 +505,93 @@ chrome.storage.onChanged.addListener(async (changes, namespace) => {
     }
   }
 });
+
+/**
+ * 导入词典
+ * @param {string} dictType - 词典类型 ('en_zh' 或 'zh_en')
+ */
+async function importDictionary(dictType) {
+  try {
+    const inputId = dictType === 'en_zh' ? 'importEnZhInput' : 'importZhEnInput';
+    const input = document.getElementById(inputId);
+
+    if (!input || !input.files.length) {
+      alert('请选择要导入的文件');
+      return;
+    }
+
+    const file = input.files[0];
+    const reader = new FileReader();
+
+    reader.onload = async (e) => {
+      try {
+        const content = e.target.result;
+        const entries = parseDictionaryFile(content, dictType);
+
+        // 保存到 chrome.storage
+        const storageKey = dictType === 'en_zh' ? STORAGE_KEYS.DICTIONARY_EN_ZH : 'qt_dictionary_zh_en';
+        await chrome.storage.local.set({ [storageKey]: entries });
+
+        alert(`成功导入 ${entries.length} 个词条`);
+        await updateDictionaryStats();
+      } catch (err) {
+        console.error('导入词典失败:', err);
+        alert('导入词典失败: ' + err.message);
+      }
+    };
+
+    reader.readAsText(file);
+  } catch (err) {
+    console.error('导入词典失败:', err);
+    alert('导入词典失败: ' + err.message);
+  }
+}
+
+/**
+ * 清空词典
+ * @param {string} dictType - 词典类型 ('en_zh', 'zh_en' 或 'all')
+ */
+async function clearDictionary(dictType) {
+  try {
+    const keysToRemove = [];
+
+    if (dictType === 'en_zh' || dictType === 'all') {
+      keysToRemove.push(STORAGE_KEYS.DICTIONARY_EN_ZH);
+    }
+    if (dictType === 'zh_en' || dictType === 'all') {
+      keysToRemove.push('qt_dictionary_zh_en');
+    }
+
+    await chrome.storage.local.remove(keysToRemove);
+    alert('词典已清空');
+    await updateDictionaryStats();
+  } catch (err) {
+    console.error('清空词典失败:', err);
+    alert('清空词典失败: ' + err.message);
+  }
+}
+
+/**
+ * 解析词典文件
+ * @param {string} content - 文件内容
+ * @returns {Array} 词典条目数组
+ */
+function parseDictionaryFile(content) {
+  const entries = [];
+  const lines = content.split('\n');
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('#')) continue;
+
+    const parts = trimmed.split(/[\t,|]/);
+    if (parts.length >= 2) {
+      entries.push({
+        word: parts[0].trim(),
+        translation: parts[1].trim()
+      });
+    }
+  }
+
+  return entries;
+}

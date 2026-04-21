@@ -55,7 +55,6 @@ let selectionStart = { x: 0, y: 0 };
 let currentBubble = null;
 let bubbleTimer = null;
 let currentTranslation = null;
-let currentPhonetic = null;
 let currentWordIndex = 0; // 当前显示的单词索引（用于翻页）
 let wordResults = []; // 当前翻译的所有单词结果
 
@@ -198,7 +197,10 @@ async function handleSelection() {
         action: 'getPhonetic',
         word: selectedText.trim()
       });
-      currentPhonetic = phoneticResult.success ? phoneticResult : null;
+      if (phoneticResult.success) {
+        translationResult.phonetic_uk = phoneticResult.phonetic_uk || '';
+        translationResult.phonetic_us = phoneticResult.phonetic_us || '';
+      }
     }
 
     // 显示翻译结果
@@ -216,13 +218,6 @@ async function handleSelection() {
  * 监听鼠标抬起事件（划词结束）
  */
 document.addEventListener('mouseup', (event) => {
-  // 保存必要的事件数据
-  const eventData = {
-    clientX: event.clientX,
-    clientY: event.clientY,
-    target: event.target
-  };
-
   // 检查是否在气泡内点击，如果是则不处理
   if (isClickInBubble(event)) {
     return;
@@ -235,7 +230,7 @@ document.addEventListener('mouseup', (event) => {
     // 只有当选中文本且不是简单点击时才处理
     if (selectionInfo.text && selectionInfo.text.length > 0) {
       // 检查是否需要翻译（可以根据配置判断）
-    await handleSelection();
+      await handleSelection();
     }
   }, 100);
 });
@@ -243,7 +238,7 @@ document.addEventListener('mouseup', (event) => {
 /**
  * 监听右键菜单事件
  */
-document.addEventListener('contextmenu', async (event) => {
+document.addEventListener('contextmenu', async () => {
   // 取消自动关闭定时器
   if (bubbleTimer) {
     clearTimeout(bubbleTimer);
@@ -281,7 +276,7 @@ document.addEventListener('keydown', (event) => {
 /**
  * 阻止气泡容器上的默认选择行为
  */
-document.addEventListener('selectionchange', (event) => {
+document.addEventListener('selectionchange', () => {
   // 如果气泡存在，且选区改变了（用户在页面上做了选择操作）
   // 不要自动关闭气泡
   if (currentBubble && getSelectedText().text && getSelectedText().text !== selectedText) {
@@ -1050,50 +1045,7 @@ function updateBubbleContent() {
   }
 }
 
-/**
- * 渲染单词列表结果（多个单词）
- * @param {Object} result - 翻译结果
- * @returns {string} HTML字符串
- */
-function renderWordByWordResult(result) {
-  // 此函数已不再使用，改用翻页模式
-  // 保留用于兼容性
-  let html = `<div class="qt-word-list">`;
-  for (const wordResult of result.wordResults) {
-    html += `
-      <div class="qt-word-entry">
-        <div class="qt-word-entry-original">${escapeHtml(wordResult.original)}</div>
-        ${wordResult.tags && wordResult.tags.length > 0 ? `
-          <div class="qt-tags">
-            ${wordResult.tags.map(tag => `<span class="qt-tag">${escapeHtml(tag)}</span>`).join('')}
-          </div>
-        ` : ''}
-        ${wordResult.stemWord ? `
-          <div class="qt-stem-info">原形: ${escapeHtml(wordResult.stemWord)}</div>
-        ` : ''}
-        ${wordResult.isHyphenated && wordResult.subResults ? `
-          <div class="qt-hyphenated-parts">
-            <div class="qt-section-title">连字符拆分翻译:</div>
-            ${wordResult.subResults.map((sub, idx) => `
-              <div class="qt-hyphenated-part">
-                <span class="qt-part-original">${escapeHtml(sub.original)}</span>
-                ${idx < wordResult.subResults.length - 1 ? '<span class="qt-hyphen">-</span>' : ''}
-                <span class="qt-part-arrow"> → </span>
-                <span class="qt-part-translated">${escapeHtml(sub.translated)}</span>
-                ${sub.stemWord ? `<span class="qt-part-stem"> (${escapeHtml(sub.stemWord)})</span>` : ''}
-              </div>
-            `).join('')}
-          </div>
-        ` : ''}
-        <div class="qt-divider"></div>
-        <div class="qt-translated">${escapeHtml(wordResult.translated)}</div>
-      </div>
-    `;
-  }
-  html += `</div>`;
 
-  return html;
-}
 
 /**
  * 渲染单个单词结果
@@ -1227,8 +1179,8 @@ function bindBubbleEvents() {
       if (lang === 'en') {
         // 英语：先读美式，再读英式
         speakWithSequence([
-            { text: selectedText, lang: 'en-US' },
-            { text: selectedText, lang: 'en-GB' }
+          { text: selectedText, lang: 'en-US' },
+          { text: selectedText, lang: 'en-GB' }
         ]);
       } else {
         // 中文：只读一次
@@ -1326,7 +1278,6 @@ function hideBubble(clearSelection = true) {
       }
       currentBubble = null;
       currentTranslation = null;
-      currentPhonetic = null;
     }, BUBBLE_CONFIG.ANIMATION_DURATION);
   }
 

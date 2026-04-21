@@ -1,5 +1,4 @@
 const fs = require('fs').promises;
-const path = require('path');
 
 /**
  * SQL解析器 - 解析现有SQL文件提取字典数据
@@ -58,8 +57,8 @@ class SQLParser {
       const [, rawWord, rawTranslate] = match;
 
       // 修复双单引号: 将 '' 转换回 '
-      const word = rawReplaceAll(rawWord, "''", "'");
-      const translate = rawReplaceAll(rawTranslate, "''", "'");
+      const word = rawReplaceAll(rawWord, '\'\'', '\'');
+      const translate = rawReplaceAll(rawTranslate, '\'\'', '\'');
 
       entries.push({ word, translate });
     }

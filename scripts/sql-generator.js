@@ -52,7 +52,7 @@ CREATE TABLE ${tableName} (
       return '';
     }
     // 将单引号替换为双单引号
-    return String(str).replace(/'/g, "''");
+    return String(str).replace(/'/g, '\'\'');
   }
 
   /**

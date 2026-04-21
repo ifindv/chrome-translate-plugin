@@ -86,7 +86,7 @@ class APIClient {
     return error.code === 'ECONNRESET' ||
            error.code === 'ETIMEDOUT' ||
            error.code === 'ENOTFOUND' ||
-           error.name === 'TypeError' // fetch network error
+           error.name === 'TypeError'; // fetch network error
   }
 
   /**
@@ -101,7 +101,6 @@ class APIClient {
     for (const phonetic of entry.phonetics) {
       if (phonetic.text) {
         const lowerAudio = (phonetic.audio || phonetic.sourceUrl || '').toLowerCase();
-        const lowerText = (phonetic.text || '').toLowerCase();
 
         // 检查sourceUrl或audio中是否包含locale
         if (lowerAudio.includes(locale)) {

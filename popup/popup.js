@@ -104,14 +104,7 @@ async function getConfig() {
   return response.success ? response.config : null;
 }
 
-/**
- * 保存用户配置
- * @param {Object} config - 配置对象
- * @returns {Promise<Object>} 保存结果
- */
-async function saveConfig(config) {
-  return sendMessage({ action: 'saveConfig', config });
-}
+
 
 // ==================== 翻译功能 ====================
 
@@ -172,8 +165,8 @@ function showResult(text, success, detail = null) {
     // 显示来源信息
     if (detail) {
       const sourceText = detail.source === 'offline' ? '离线词典' :
-                        detail.source === 'mymemory' ? 'MyMemory' :
-                        detail.source === 'baidu' ? '百度翻译' : '未知';
+        detail.source === 'mymemory' ? 'MyMemory' :
+          detail.source === 'baidu' ? '百度翻译' : '未知';
       elements.resultSource.textContent = `来源: ${sourceText}${detail.fromCache ? ' (缓存)' : ''}`;
     } else {
       elements.resultSource.textContent = '';
@@ -249,7 +242,6 @@ function initEventListeners() {
       elements.targetLangSelect.value = state.targetLang;
 
       // 交换文本内容
-      const sourceText = elements.sourceText.value;
       const resultText = elements.resultText.textContent;
       if (resultText && !elements.resultText.querySelector('.qt-placeholder')) {
         elements.sourceText.value = resultText;

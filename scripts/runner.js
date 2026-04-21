@@ -49,7 +49,7 @@ class Runner {
 
     // 如果是dryRun模式，只显示统计信息
     if (options.dryRun) {
-      console.log(`\nDry run mode - no output will be generated`);
+      console.log('\nDry run mode - no output will be generated');
       console.log(`Estimated time: ${this.estimateTime(this.stats.total)}`);
       return;
     }

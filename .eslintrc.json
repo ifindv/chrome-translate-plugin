@@ -2,12 +2,19 @@
   "env": {
     "browser": true,
     "es2021": true,
-    "webextensions": true
+    "webextensions": true,
+    "node": true
   },
   "extends": "eslint:recommended",
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
+  },
+  "globals": {
+    "chrome": "readonly",
+    "process": "readonly",
+    "module": "readonly",
+    "require": "readonly"
   },
   "rules": {
     "indent": ["error", 2],
@@ -15,7 +22,9 @@
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
     "no-unused-vars": "warn",
-    "no-console": "off"
+    "no-console": "off",
+    "no-case-declarations": "error",
+    "no-fallthrough": "error"
   },
   "ignorePatterns": [
     "node_modules/",

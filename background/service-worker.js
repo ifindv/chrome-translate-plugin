@@ -39,6 +39,7 @@ const DB_CONFIG = {
 /**
  * 语言代码映射
  */
+// eslint-disable-next-line no-unused-vars
 const LANG_CODES = {
   'auto': 'auto',
   'zh': 'zh',
@@ -81,6 +82,7 @@ class DatabaseManager {
 
         // 创建变形映射存储
         if (!db.objectStoreNames.contains(DB_CONFIG.stores.inflection)) {
+          // eslint-disable-next-line no-unused-vars
           const inflectionStore = db.createObjectStore(DB_CONFIG.stores.inflection, { keyPath: 'form' });
         }
       };
@@ -679,7 +681,7 @@ class OfflineDictionary {
    * 清理单词
    */
   cleanWord(word) {
-    return word.replace(/^[.,;:!?'"()<>[\]{}\/\\|*@#$%^&~`]+|[.,;:!?'"()<>[\]{}\/\\|*@#$%^&~`]+$/g, '').trim();
+    return word.replace(/^[.,;:!?'"()<>[\]{}\\|*@#$%^&~`]+|[.,;:!?'"()<>[\]{}\\|*@#$%^&~`]+$/g, '').trim();
   }
 
   /**
@@ -987,63 +989,67 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
       }
 
       switch (message.action) {
-        case 'translate':
-          const translationResult = await translationService.translate(
-            message.text,
-            message.from || 'auto',
-            message.to
-          );
-          sendResponse(translationResult);
-          break;
+      case 'translate': {
+        const translationResult = await translationService.translate(
+          message.text,
+          message.from || 'auto',
+          message.to
+        );
+        sendResponse(translationResult);
+        break;
+      }
 
-        case 'getPhonetic':
-          const phoneticResult = await translationService.getPhonetic(message.word);
-          sendResponse(phoneticResult);
-          break;
+      case 'getPhonetic': {
+        const phoneticResult = await translationService.getPhonetic(message.word);
+        sendResponse(phoneticResult);
+        break;
+      }
 
-        case 'getConfig':
-          const config = await translationService.getConfig();
-          sendResponse({ success: true, config: config });
-          break;
+      case 'getConfig': {
+        const config = await translationService.getConfig();
+        sendResponse({ success: true, config: config });
+        break;
+      }
 
-        case 'saveConfig':
-          await translationService.saveConfig(message.config);
-          sendResponse({ success: true });
-          break;
+      case 'saveConfig':
+        await translationService.saveConfig(message.config);
+        sendResponse({ success: true });
+        break;
 
-        case 'clearCache':
-          await translationService.clearCache();
-          sendResponse({ success: true });
-          break;
+      case 'clearCache':
+        await translationService.clearCache();
+        sendResponse({ success: true });
+        break;
 
-        case 'getDictionaryStats':
-          const stats = await translationService.getDictionaryStats();
-          sendResponse({ success: true, stats: stats });
-          break;
+      case 'getDictionaryStats': {
+        const stats = await translationService.getDictionaryStats();
+        sendResponse({ success: true, stats: stats });
+        break;
+      }
 
-        case 'reloadDictionary':
-          await translationService.reloadDictionary();
-          sendResponse({ success: true });
-          break;
+      case 'reloadDictionary':
+        await translationService.reloadDictionary();
+        sendResponse({ success: true });
+        break;
 
-        case 'speak':
-          if (message.text) {
-            chrome.tts.speak(message.text, {
-              lang: message.lang || 'zh-CN',
-              rate: message.rate || 1.0,
-              pitch: message.pitch || 1.0
-            });
-          }
-          sendResponse({ success: true });
-          break;
+      case 'speak':
+        if (message.text) {
+          chrome.tts.speak(message.text, {
+            lang: message.lang || 'zh-CN',
+            rate: message.rate || 1.0,
+            pitch: message.pitch || 1.0
+          });
+        }
+        sendResponse({ success: true });
+        break;
 
-        case 'stopSpeaking':
-          chrome.tts.stop();
-          sendResponse({ success: true });
-          break;
+      case 'stopSpeaking':
+        chrome.tts.stop();
+        sendResponse({ success: true });
+        break;
 
-        default:
-          sendResponse({ success: false, error: '未知操作' });
+      default:
+        sendResponse({ success: false, error: '未知操作' });
       }
     } catch (error) {
       console.error('消息处理错误:', error);
