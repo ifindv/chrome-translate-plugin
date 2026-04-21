@@ -23,7 +23,7 @@
   "scripts": {
     "enhance-dict": "node scripts/generate-enhanced-dict.js",
     "lint": "eslint .",
-    "format": "prettier --write "**/*.{js,css,html,json,md}""
+    "format": "prettier --write \"**/*.{js,css,html,json,md}\""
   },
   "devDependencies": {
     "eslint": "^8.0.0",
@@ -34,8 +34,8 @@
   },
   "contributors": [
     {
-      "name": "Your Name",
-      "email": "your.email@example.com"
+      "name": "ifindv",
+      "email": "ifindv@google.com"
     }
   ]
 }
