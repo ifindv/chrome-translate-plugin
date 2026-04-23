@@ -1197,18 +1197,8 @@ function bindBubbleEvents() {
   const copyBtn = bubble.querySelector('[data-action="copy-text"]');
   if (copyBtn) {
     copyBtn.addEventListener('click', async () => {
-      let textToCopy = '';
-
-      if (currentTranslation?.type === 'word-by-word' && currentTranslation.wordResults) {
-        // 多个单词：格式化为每个单词独立一行
-        const lines = currentTranslation.wordResults.map(w => {
-          return `${w.original}\n${w.translated}${w.tags && w.tags.length > 0 ? ` [${w.tags.join(', ')}]` : ''}`;
-        });
-        textToCopy = lines.join('\n\n');
-      } else {
-        // 单个单词：原格式
-        textToCopy = `${selectedText}\n${currentTranslation?.translated || ''}`;
-      }
+      // 只复制划词内容，不复制翻译结果
+      const textToCopy = selectedText;
 
       try {
         await navigator.clipboard.writeText(textToCopy);
