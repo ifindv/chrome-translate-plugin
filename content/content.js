@@ -66,7 +66,7 @@ let userConfig = null;
 /**
  * 插件启用状态（默认启用）
  */
-let isPluginEnabled = true;
+let isPluginEnabled = false;
 
 // ==================== 消息通信函数 ====================
 
@@ -1388,8 +1388,8 @@ async function init() {
   });
 
   const states = data.qt_plugin_states || {};
-  // 默认启用，除非该页面被明确禁用
-  isPluginEnabled = states[url] !== false;
+  // 默认禁用，除非该页面被明确启用
+  isPluginEnabled = states[url] === true;
 
   console.log('QuickTranslate Content Script 已加载，插件状态:', isPluginEnabled ? '启用' : '禁用');
 }
